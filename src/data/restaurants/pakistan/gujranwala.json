@@ -1,0 +1,481 @@
+[
+  {
+    "id": "gujranwala-shahbaz-tikka",
+    "name": "Shahbaz Tikka",
+    "description": "Spacious BBQ institution with open grill flavor",
+    "cuisine": [
+      "Pakistani BBQ"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 6900,
+    "address": {
+      "street": "GT Road, Chan Da Qila",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "tikka"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Shahbaz Tikka Gujranwala",
+      "best restaurants Gujranwala",
+      "Pakistani BBQ restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-manhattan-bites",
+    "name": "Manhattan Bites",
+    "description": "Casual café offering quick snacks and innovative desi touches",
+    "cuisine": [
+      "Fast food",
+      "Fusion desi"
+    ],
+    "priceLevel": "$",
+    "rating": 4.2,
+    "reviewCount": 2000,
+    "address": {
+      "street": "Service Road, GT Road",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Manhattan Bites Gujranwala",
+      "best restaurants Gujranwala",
+      "Fast food restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-asal-cherry-family-restaurant",
+    "name": "Asal Cherry Family Restaurant",
+    "description": "Large family dining with Pakistani and Chinese menu",
+    "cuisine": [
+      "Pakistani",
+      "Chinese"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 2200,
+    "address": {
+      "street": "Model Town, Trust Plaza",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Family Friendly"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Asal Cherry Family Restaurant Gujranwala",
+      "best restaurants Gujranwala",
+      "Pakistani restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-pind-restaurant",
+    "name": "Pind Restaurant",
+    "description": "Traditional setup offering Punjabi flavors",
+    "cuisine": [
+      "Punjabi",
+      "Pakistani",
+      "BBQ"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 1700,
+    "address": {
+      "street": "GT Road, Kangani Wala",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Pind Restaurant Gujranwala",
+      "best restaurants Gujranwala",
+      "Punjabi restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-chahaar-baagh-restaurant",
+    "name": "Chahaar Baagh Restaurant",
+    "description": "Fusion of local and international flavors in fine-dining space",
+    "cuisine": [
+      "Continental",
+      "Pakistani"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.1,
+    "reviewCount": 2500,
+    "address": {
+      "street": "Service Road, Green Town",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Chahaar Baagh Restaurant Gujranwala",
+      "best restaurants Gujranwala",
+      "Continental restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-bait-al-mandi",
+    "name": "Bait Al Mandi",
+    "description": "Middle Eastern mandi-style restaurant",
+    "cuisine": [
+      "Yemeni / Middle Eastern"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 1400,
+    "address": {
+      "street": "GT Road, Attawah Stop",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "mandi"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Bait Al Mandi Gujranwala",
+      "best restaurants Gujranwala",
+      "Yemeni / Middle Eastern restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-real-taste-restaurant",
+    "name": "Real Taste Restaurant",
+    "description": "Neighborhood spot for value desi meals",
+    "cuisine": [
+      "Pakistani",
+      "Fast Food"
+    ],
+    "priceLevel": "$",
+    "rating": 4,
+    "reviewCount": 870,
+    "address": {
+      "street": "Jalil Town, GT Road",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Real Taste Restaurant Gujranwala",
+      "best restaurants Gujranwala",
+      "Pakistani restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-malee-s-cafe-bakers",
+    "name": "Malee’s Cafe & Bakers",
+    "description": "Pastries, cakes and snacks with coffee",
+    "cuisine": [
+      "Café",
+      "Bakery"
+    ],
+    "priceLevel": "$",
+    "rating": 4.1,
+    "reviewCount": 795,
+    "address": {
+      "street": "Wapda Town",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "☕",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Malee’s Cafe & Bakers Gujranwala",
+      "best restaurants Gujranwala",
+      "Café restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-la-spezia-restaurant",
+    "name": "La Spezia Restaurant",
+    "description": "Italian fine-dining in a mall setting",
+    "cuisine": [
+      "Italian",
+      "Continental"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.2,
+    "reviewCount": 96,
+    "address": {
+      "street": "Mall of Qazi Town",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "La Spezia Restaurant Gujranwala",
+      "best restaurants Gujranwala",
+      "Italian restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  },
+  {
+    "id": "gujranwala-jade-express-china-town",
+    "name": "Jade Express & China Town",
+    "description": "Chinese/Pak fusion at good prices",
+    "cuisine": [
+      "Chinese",
+      "Fusion"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 363,
+    "address": {
+      "street": "Industrial Estate, Jinnah Rd",
+      "city": "Gujranwala",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 32.1877,
+      "lng": 74.1945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Jade Express & China Town Gujranwala",
+      "best restaurants Gujranwala",
+      "Chinese restaurant Gujranwala",
+      "restaurants near me Gujranwala"
+    ]
+  }
+]

@@ -1,0 +1,485 @@
+[
+  {
+    "id": "faisalabad-marhaba-mahal",
+    "name": "Marhaba Mahal",
+    "description": "Grand family restaurant with elegant decor",
+    "cuisine": [
+      "Pakistani",
+      "Mughlai",
+      "BBQ"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Canal Road, Jahan E Andalus",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Family Friendly"
+    ],
+    "specialties": [
+      "karahi",
+      "biryani"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Marhaba Mahal Faisalabad",
+      "best restaurants Faisalabad",
+      "Pakistani restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-portobello",
+    "name": "Portobello",
+    "description": "Stylish Italian spot in mall setting",
+    "cuisine": [
+      "Italian",
+      "Continental"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Kohinoor City, Do Burj Plaza",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Portobello Faisalabad",
+      "best restaurants Faisalabad",
+      "Italian restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-salt-n-pepper-faisalabad",
+    "name": "Salt’n Pepper Faisalabad",
+    "description": "Modern grill & Chinese family restaurant",
+    "cuisine": [
+      "Chinese",
+      "Continental"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Kohinoor City",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Family Friendly"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Salt’n Pepper Faisalabad Faisalabad",
+      "best restaurants Faisalabad",
+      "Chinese restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-silver-spoon-continental",
+    "name": "Silver Spoon Continental",
+    "description": "Continental food in modern interiors",
+    "cuisine": [
+      "Continental",
+      "BBQ"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Kohinoor City",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "steaks"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Silver Spoon Continental Faisalabad",
+      "best restaurants Faisalabad",
+      "Continental restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-the-dynasty",
+    "name": "The Dynasty",
+    "description": "High-capacity family restaurant for events",
+    "cuisine": [
+      "Pakistani",
+      "Chinese"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Peoples Colony, Jaranwala Rd",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Family Friendly"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "The Dynasty Faisalabad",
+      "best restaurants Faisalabad",
+      "Pakistani restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-cafe-cilantro",
+    "name": "Cafe Cilantro",
+    "description": "Urban café inside shopping plaza",
+    "cuisine": [
+      "Café",
+      "Beverages"
+    ],
+    "priceLevel": "$",
+    "rating": 4,
+    "reviewCount": 100,
+    "address": {
+      "street": "Kohinoor City",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "☕",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Cafe Cilantro Faisalabad",
+      "best restaurants Faisalabad",
+      "Café restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-tandoori-restaurant",
+    "name": "Tandoori Restaurant",
+    "description": "Punjabi grill house",
+    "cuisine": [
+      "Pakistani",
+      "Tandoori"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Kohinoor City",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Tandoori Restaurant Faisalabad",
+      "best restaurants Faisalabad",
+      "Pakistani restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-de-grill-house",
+    "name": "De Grill House",
+    "description": "Mall-based BBQ and fast casual",
+    "cuisine": [
+      "BBQ",
+      "Continental"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Kohinoor City",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "De Grill House Faisalabad",
+      "best restaurants Faisalabad",
+      "BBQ restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-finest-dine",
+    "name": "Finest Dine",
+    "description": "Decent for daily meals",
+    "cuisine": [
+      "Continental",
+      "Pakistani"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 4,
+    "address": {
+      "street": "Faisalabad Central",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Finest Dine Faisalabad",
+      "best restaurants Faisalabad",
+      "Continental restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  },
+  {
+    "id": "faisalabad-rooftop-royal-cuisine",
+    "name": "Rooftop Royal Cuisine",
+    "description": "Rooftop with Chinese, local & continental fare",
+    "cuisine": [
+      "Chinese",
+      "Local",
+      "Continental"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 4,
+    "address": {
+      "street": "Mall 2, Kohinoor City",
+      "city": "Faisalabad",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4504,
+      "lng": 73.135
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Scenic Views"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Rooftop Royal Cuisine Faisalabad",
+      "best restaurants Faisalabad",
+      "Chinese restaurant Faisalabad",
+      "restaurants near me Faisalabad"
+    ]
+  }
+]

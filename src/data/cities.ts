@@ -200,6 +200,81 @@ export const cities: City[] = [
     ],
     featuredRestaurants: [],
     totalRestaurants: 20
+  },
+  {
+    id: "faisalabad-pakistan",
+    name: "Faisalabad",
+    country: "Pakistan",
+    description: "Pakistan's textile capital offers a growing food scene with traditional Punjabi cuisine, modern restaurants, and family-friendly dining spots. Experience authentic Pakistani flavors in this industrial hub.",
+    heroImage: "/images/cities/faisalabad-hero.jpg",
+    coordinates: {
+      lat: 31.4504,
+      lng: 73.1350
+    },
+    seoTitle: "Best Restaurants in Faisalabad | Top Pakistani Food Places",
+    seoDescription: "Discover Faisalabad's best restaurants and traditional Pakistani cuisine. Find top-rated dining spots in Pakistan's textile capital.",
+    seoKeywords: [
+      "restaurants Faisalabad",
+      "best restaurants Faisalabad",
+      "Pakistani food Faisalabad",
+      "Faisalabad dining",
+      "restaurants near me Faisalabad",
+      "Punjabi cuisine Faisalabad",
+      "BBQ Faisalabad",
+      "family restaurants Faisalabad"
+    ],
+    featuredRestaurants: ["faisalabad-marhaba-mahal", "faisalabad-portobello", "faisalabad-salt-n-pepper-faisalabad"],
+    totalRestaurants: 10
+  },
+  {
+    id: "peshawar-pakistan",
+    name: "Peshawar",
+    country: "Pakistan",
+    description: "The historic city of Peshawar offers authentic Pashtun cuisine, famous chappal kebabs, and traditional Afghan-influenced dishes. Experience the rich culinary heritage of Pakistan's ancient city.",
+    heroImage: "/images/cities/peshawar-hero.jpg",
+    coordinates: {
+      lat: 34.0151,
+      lng: 71.5249
+    },
+    seoTitle: "Best Restaurants in Peshawar | Top Pashtun Food Places",
+    seoDescription: "Discover Peshawar's best restaurants and authentic Pashtun cuisine. Find top-rated chappal kebab and traditional Afghan-influenced dishes.",
+    seoKeywords: [
+      "restaurants Peshawar",
+      "best restaurants Peshawar",
+      "Pashtun food Peshawar",
+      "chappal kebab Peshawar",
+      "Peshawar dining",
+      "Afghan cuisine Peshawar",
+      "traditional food Peshawar",
+      "Namak Mandi restaurants"
+    ],
+    featuredRestaurants: ["peshawar-habibi-restaurant", "peshawar-nisar-charsi-tikka", "peshawar-chief-burger"],
+    totalRestaurants: 10
+  },
+  {
+    id: "gujranwala-pakistan",
+    name: "Gujranwala",
+    country: "Pakistan",
+    description: "Known as the city of wrestlers, Gujranwala offers hearty Punjabi cuisine, traditional BBQ, and family-style dining. Experience authentic Pakistani flavors in this historic Punjabi city.",
+    heroImage: "/images/cities/gujranwala-hero.jpg",
+    coordinates: {
+      lat: 32.1877,
+      lng: 74.1945
+    },
+    seoTitle: "Best Restaurants in Gujranwala | Top Punjabi Food Places",
+    seoDescription: "Discover Gujranwala's best restaurants and traditional Punjabi cuisine. Find top-rated BBQ and family dining spots in the city of wrestlers.",
+    seoKeywords: [
+      "restaurants Gujranwala",
+      "best restaurants Gujranwala",
+      "Punjabi food Gujranwala",
+      "BBQ Gujranwala",
+      "Gujranwala dining",
+      "family restaurants Gujranwala",
+      "traditional food Gujranwala",
+      "GT Road restaurants"
+    ],
+    featuredRestaurants: ["gujranwala-shahbaz-tikka", "gujranwala-manhattan-bites", "gujranwala-asal-cherry-family-restaurant"],
+    totalRestaurants: 10
   }
 ];
 

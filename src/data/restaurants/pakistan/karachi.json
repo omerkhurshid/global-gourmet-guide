@@ -1,264 +1,25 @@
 [
   {
-    "id": "lahore-haveli-restaurant",
-    "name": "Haveli Restaurant",
-    "description": "Housed in a heritage haveli with rooftop seating and classic Lahori food.",
+    "id": "karachi-kolachi-restaurant",
+    "name": "Kolachi Restaurant",
+    "description": "Seaside dining with candlelit ambiance and live music; famous for grills and lobster.",
     "cuisine": [
       "Pakistani",
-      "Mughlai"
-    ],
-    "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 100,
-    "address": {
-      "street": "Food Street, Fort Road",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Scenic Views"
-    ],
-    "specialties": [
-      "karahi"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Haveli Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-pak-tea-house",
-    "name": "Pak Tea House",
-    "description": "Historic café frequented by writers and poets; modest but nostalgic.",
-    "cuisine": [
-      "Tea Café",
-      "Snacks"
-    ],
-    "priceLevel": "$",
-    "rating": 4,
-    "reviewCount": 100,
-    "address": {
-      "street": "Central Lahore",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "☕",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Pak Tea House Lahore",
-      "best restaurants Lahore",
-      "Tea Café restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-caspian-sea",
-    "name": "Caspian Sea",
-    "description": "Elegant, cozy setting for fusion dining.",
-    "cuisine": [
-      "Middle Eastern",
-      "Pakistani"
-    ],
-    "priceLevel": "$$$",
-    "rating": 4.8,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore city center",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Caspian Sea Lahore",
-      "best restaurants Lahore",
-      "Middle Eastern restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-pakasia-restaurant",
-    "name": "Pakasia Restaurant",
-    "description": "Family-friendly fusion restaurant with attentive service.",
-    "cuisine": [
-      "Pakistani",
-      "Fusion"
-    ],
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Family Friendly"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Pakasia Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-mystique-restaurant",
-    "name": "Mystique Restaurant",
-    "description": "Modern steakhouse with Asian fusion flair.",
-    "cuisine": [
-      "Chinese",
-      "Steakhouse"
-    ],
-    "priceLevel": "$$",
-    "rating": 5,
-    "reviewCount": 100,
-    "address": {
-      "street": "DHA",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🥡",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "steaks"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Mystique Restaurant Lahore",
-      "best restaurants Lahore",
-      "Chinese restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-fuchsia-kitchen",
-    "name": "Fuchsia Kitchen",
-    "description": "Contemporary restaurant serving Thai and Pan-Asian favorites.",
-    "cuisine": [
-      "Thai",
-      "Pan-Asian"
+      "Fusion",
+      "Seafood"
     ],
     "priceLevel": "$$",
     "rating": 4.5,
     "reviewCount": 100,
     "address": {
-      "street": "Gulberg",
-      "city": "Lahore",
+      "street": "DHA Phase 8 (Do Darya)",
+      "city": "Karachi",
       "country": "Pakistan",
       "postalCode": ""
     },
     "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
+      "lat": 24.8607,
+      "lng": 67.0011
     },
     "contact": {
       "phone": "",
@@ -266,14 +27,14 @@
       "email": ""
     },
     "images": {
-      "hero": "🥡",
+      "hero": "🦐",
       "gallery": []
     },
     "features": [
-      "Dine In"
+      "Live Entertainment"
     ],
     "specialties": [
-      "House Specials"
+      "Prawns"
     ],
     "lastUpdated": "2024-12-25",
     "sources": [
@@ -281,176 +42,31 @@
       "Local Research"
     ],
     "seoKeywords": [
-      "Fuchsia Kitchen Lahore",
-      "best restaurants Lahore",
-      "Thai restaurant Lahore",
-      "restaurants near me Lahore"
+      "Kolachi Restaurant Karachi",
+      "best restaurants Karachi",
+      "Pakistani restaurant Karachi",
+      "restaurants near me Karachi"
     ]
   },
   {
-    "id": "lahore-village-restaurant",
-    "name": "Village Restaurant",
-    "description": "Pakistani dining with live cooking and ethnic performances.",
+    "id": "karachi-barbq-tonight",
+    "name": "BarBQ Tonight",
+    "description": "Established in 1988; offers classic BBQs and karahis in a comfortable setting.",
     "cuisine": [
-      "Pakistani",
-      "Middle Eastern Buffet"
+      "Pakistani BBQ"
     ],
     "priceLevel": "$$",
-    "rating": 4.1,
+    "rating": 4.3,
     "reviewCount": 100,
     "address": {
-      "street": "Pearl Continental Hotel",
-      "city": "Lahore",
+      "street": "Clifton",
+      "city": "Karachi",
       "country": "Pakistan",
       "postalCode": ""
     },
     "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Village Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-bukhara",
-    "name": "Bukhara",
-    "description": "North Indian/Pakistani fine dining in a luxury hotel setting.",
-    "cuisine": [
-      "Pakistani",
-      "North Indian"
-    ],
-    "priceLevel": "$$$",
-    "rating": 4.1,
-    "reviewCount": 100,
-    "address": {
-      "street": "Pearl Continental Hotel",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Bukhara Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-rollers-pizza",
-    "name": "Rollers Pizza",
-    "description": "Casual pizza outlet with modern décor and consistent taste.",
-    "cuisine": [
-      "Pizza",
-      "Fast Food"
-    ],
-    "priceLevel": "$",
-    "rating": 4.9,
-    "reviewCount": 100,
-    "address": {
-      "street": "Multiple branches",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍝",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "pizza"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Rollers Pizza Lahore",
-      "best restaurants Lahore",
-      "Pizza restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-koyla-the-bbq",
-    "name": "Koyla The BBQ",
-    "description": "Open-air barbecue restaurant with Qawwali music and live grill stations.",
-    "cuisine": [
-      "BBQ",
-      "Pakistani"
-    ],
-    "priceLevel": "$$",
-    "rating": 5,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore (outskirts)",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
+      "lat": 24.8607,
+      "lng": 67.0011
     },
     "contact": {
       "phone": "",
@@ -473,10 +89,397 @@
       "Local Research"
     ],
     "seoKeywords": [
-      "Koyla The BBQ Lahore",
-      "best restaurants Lahore",
-      "BBQ restaurant Lahore",
-      "restaurants near me Lahore"
+      "BarBQ Tonight Karachi",
+      "best restaurants Karachi",
+      "Pakistani BBQ restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-the-east-end",
+    "name": "The East End",
+    "description": "Multi-cuisine indoor/outdoor venue with biryani, Thai, Chinese, and Italian dishes.",
+    "cuisine": [
+      "Pakistani",
+      "Chinese",
+      "Italian"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 100,
+    "address": {
+      "street": "Clifton",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Outdoor Seating"
+    ],
+    "specialties": [
+      "biryani"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "The East End Karachi",
+      "best restaurants Karachi",
+      "Pakistani restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-okra",
+    "name": "Okra",
+    "description": "Upscale Mediterranean restaurant blending local and Euro styles.",
+    "cuisine": [
+      "Mediterranean",
+      "Fusion"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 100,
+    "address": {
+      "street": "Zamzama",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥙",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "mezze",
+      "lamb chops"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Okra Karachi",
+      "best restaurants Karachi",
+      "Mediterranean restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-caf-aylanto",
+    "name": "Café Aylanto",
+    "description": "Fine-dining cafe with Mediterranean fare and refined ambiance.",
+    "cuisine": [
+      "Mediterranean",
+      "Italian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.3,
+    "reviewCount": 100,
+    "address": {
+      "street": "Clifton",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "Prawns"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Café Aylanto Karachi",
+      "best restaurants Karachi",
+      "Mediterranean restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-caf-flo",
+    "name": "Café Flo",
+    "description": "Chic French-European restaurant with candlelit dining.",
+    "cuisine": [
+      "French",
+      "European"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 100,
+    "address": {
+      "street": "Block 4 Clifton",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Café Flo Karachi",
+      "best restaurants Karachi",
+      "French restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-mirchili",
+    "name": "Mirchili",
+    "description": "Specializes in traditional Pakistani and Indian snacks.",
+    "cuisine": [
+      "Pakistani",
+      "Indian"
+    ],
+    "priceLevel": "$",
+    "rating": 9.3,
+    "reviewCount": 100,
+    "address": {
+      "street": "Clifton",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Mirchili Karachi",
+      "best restaurants Karachi",
+      "Pakistani restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-xander-s-caf-",
+    "name": "Xander’s Café",
+    "description": "Contemporary café serving continental and vegan dishes.",
+    "cuisine": [
+      "Continental",
+      "Vegan",
+      "Breakfast Café"
+    ],
+    "priceLevel": "$",
+    "rating": 4.2,
+    "reviewCount": 100,
+    "address": {
+      "street": "PECHS",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Xander’s Café Karachi",
+      "best restaurants Karachi",
+      "Continental restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-lal-qila-restaurant",
+    "name": "Lal Qila Restaurant",
+    "description": "Themed restaurant with tandoori, Mughlai, and Indo-Chinese dishes.",
+    "cuisine": [
+      "Pakistani",
+      "Mughlai Buffet"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 100,
+    "address": {
+      "street": "Shahrah-e-Faisal",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Lal Qila Restaurant Karachi",
+      "best restaurants Karachi",
+      "Pakistani restaurant Karachi",
+      "restaurants near me Karachi"
+    ]
+  },
+  {
+    "id": "karachi-zeytin",
+    "name": "Zeytin",
+    "description": "Turkish/Levantine inspired dining experience.",
+    "cuisine": [
+      "Turkish",
+      "Mediterranean"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 100,
+    "address": {
+      "street": "Clifton",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥙",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Zeytin Karachi",
+      "best restaurants Karachi",
+      "Turkish restaurant Karachi",
+      "restaurants near me Karachi"
     ]
   }
 ]

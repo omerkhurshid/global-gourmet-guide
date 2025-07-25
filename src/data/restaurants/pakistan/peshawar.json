@@ -1,24 +1,119 @@
 [
   {
-    "id": "lahore-haveli-restaurant",
-    "name": "Haveli Restaurant",
-    "description": "Housed in a heritage haveli with rooftop seating and classic Lahori food.",
+    "id": "peshawar-habibi-restaurant",
+    "name": "Habibi Restaurant",
+    "description": "Popular BBQ destination with flavorful meats and local ambiance",
     "cuisine": [
-      "Pakistani",
-      "Mughlai"
+      "Pakistani BBQ",
+      "Pashtun dishes"
     ],
     "priceLevel": "$$",
-    "rating": 4.3,
-    "reviewCount": 100,
+    "rating": 4.1,
+    "reviewCount": 2100,
     "address": {
-      "street": "Food Street, Fort Road",
-      "city": "Lahore",
+      "street": "Bashirabad, Garrison Rd",
+      "city": "Peshawar",
       "country": "Pakistan",
       "postalCode": ""
     },
     "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
+      "lat": 34.0151,
+      "lng": 71.5249
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "pulao"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Habibi Restaurant Peshawar",
+      "best restaurants Peshawar",
+      "Pakistani BBQ restaurant Peshawar",
+      "restaurants near me Peshawar"
+    ]
+  },
+  {
+    "id": "peshawar-nisar-charsi-tikka",
+    "name": "Nisar Charsi Tikka",
+    "description": "No-frills traditional spot in historic food district",
+    "cuisine": [
+      "Pakistani / Kebab house"
+    ],
+    "priceLevel": "$$",
+    "rating": 10,
+    "reviewCount": 100,
+    "address": {
+      "street": "Namak Mandi",
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.0151,
+      "lng": 71.5249
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "karahi",
+      "kebab"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Nisar Charsi Tikka Peshawar",
+      "best restaurants Peshawar",
+      "Pakistani / Kebab house restaurant Peshawar",
+      "restaurants near me Peshawar"
+    ]
+  },
+  {
+    "id": "peshawar-chief-burger",
+    "name": "Chief Burger",
+    "description": "Modern fast-food eatery known for friendly service",
+    "cuisine": [
+      "Pakistani fast food"
+    ],
+    "priceLevel": "$",
+    "rating": 4,
+    "reviewCount": 100,
+    "address": {
+      "street": "University Rd, Fawad Plaza",
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.0151,
+      "lng": 71.5249
     },
     "contact": {
       "phone": "",
@@ -30,10 +125,10 @@
       "gallery": []
     },
     "features": [
-      "Scenic Views"
+      "Dine In"
     ],
     "specialties": [
-      "karahi"
+      "steaks"
     ],
     "lastUpdated": "2024-12-25",
     "sources": [
@@ -41,32 +136,223 @@
       "Local Research"
     ],
     "seoKeywords": [
-      "Haveli Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
+      "Chief Burger Peshawar",
+      "best restaurants Peshawar",
+      "Pakistani fast food restaurant Peshawar",
+      "restaurants near me Peshawar"
     ]
   },
   {
-    "id": "lahore-pak-tea-house",
-    "name": "Pak Tea House",
-    "description": "Historic café frequented by writers and poets; modest but nostalgic.",
+    "id": "peshawar-usmania-restaurant",
+    "name": "Usmania Restaurant",
+    "description": "Buffet and à la carte menu in large venue",
     "cuisine": [
-      "Tea Café",
-      "Snacks"
+      "Pakistani",
+      "Continental"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 100,
+    "address": {
+      "street": "Tahkal",
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.0151,
+      "lng": 71.5249
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Buffet"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Usmania Restaurant Peshawar",
+      "best restaurants Peshawar",
+      "Pakistani restaurant Peshawar",
+      "restaurants near me Peshawar"
+    ]
+  },
+  {
+    "id": "peshawar-jalil-kabab-house",
+    "name": "Jalil Kabab House",
+    "description": "Specialized kebab spot in local food zone",
+    "cuisine": [
+      "Pashtun / Afghan kebabs"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 100,
+    "address": {
+      "street": "University Rd, Regi Lalma",
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.0151,
+      "lng": 71.5249
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "kebab"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Jalil Kabab House Peshawar",
+      "best restaurants Peshawar",
+      "Pashtun / Afghan kebabs restaurant Peshawar",
+      "restaurants near me Peshawar"
+    ]
+  },
+  {
+    "id": "peshawar-haleem-ghar",
+    "name": "Haleem Ghar",
+    "description": "One of the oldest spots serving hearty Punjabi breakfasts",
+    "cuisine": [
+      "Pakistani breakfast cuisine"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 100,
+    "address": {
+      "street": "Mall Road, Cantonment",
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.0151,
+      "lng": 71.5249
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "haleem",
+      "nihari"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Haleem Ghar Peshawar",
+      "best restaurants Peshawar",
+      "Pakistani breakfast cuisine restaurant Peshawar",
+      "restaurants near me Peshawar"
+    ]
+  },
+  {
+    "id": "peshawar-monal-peshawar",
+    "name": "Monal Peshawar",
+    "description": "Branch of Monal chain with elevated décor",
+    "cuisine": [
+      "Pakistani",
+      "International"
+    ],
+    "priceLevel": "$$",
+    "rating": 10,
+    "reviewCount": 100,
+    "address": {
+      "street": "Valley-view rooftop",
+      "city": "Peshawar",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.0151,
+      "lng": 71.5249
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Monal Peshawar Peshawar",
+      "best restaurants Peshawar",
+      "Pakistani restaurant Peshawar",
+      "restaurants near me Peshawar"
+    ]
+  },
+  {
+    "id": "peshawar-cafe-crunch-traskoon",
+    "name": "Cafe Crunch / Traskoon",
+    "description": "Contemporary café serving sandwiches and fast meals",
+    "cuisine": [
+      "Café",
+      "Fast Food"
     ],
     "priceLevel": "$",
     "rating": 4,
     "reviewCount": 100,
     "address": {
-      "street": "Central Lahore",
-      "city": "Lahore",
+      "street": "University Town area",
+      "city": "Peshawar",
       "country": "Pakistan",
       "postalCode": ""
     },
     "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
+      "lat": 34.0151,
+      "lng": 71.5249
     },
     "contact": {
       "phone": "",
@@ -89,176 +375,32 @@
       "Local Research"
     ],
     "seoKeywords": [
-      "Pak Tea House Lahore",
-      "best restaurants Lahore",
-      "Tea Café restaurant Lahore",
-      "restaurants near me Lahore"
+      "Cafe Crunch / Traskoon Peshawar",
+      "best restaurants Peshawar",
+      "Café restaurant Peshawar",
+      "restaurants near me Peshawar"
     ]
   },
   {
-    "id": "lahore-caspian-sea",
-    "name": "Caspian Sea",
-    "description": "Elegant, cozy setting for fusion dining.",
+    "id": "peshawar-ginyaki-peshawar",
+    "name": "Ginyaki Peshawar",
+    "description": "Urban fusion restaurant with Japanese/Asian items",
     "cuisine": [
-      "Middle Eastern",
-      "Pakistani"
-    ],
-    "priceLevel": "$$$",
-    "rating": 4.8,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore city center",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Caspian Sea Lahore",
-      "best restaurants Lahore",
-      "Middle Eastern restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-pakasia-restaurant",
-    "name": "Pakasia Restaurant",
-    "description": "Family-friendly fusion restaurant with attentive service.",
-    "cuisine": [
-      "Pakistani",
-      "Fusion"
-    ],
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Family Friendly"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Pakasia Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-mystique-restaurant",
-    "name": "Mystique Restaurant",
-    "description": "Modern steakhouse with Asian fusion flair.",
-    "cuisine": [
-      "Chinese",
-      "Steakhouse"
-    ],
-    "priceLevel": "$$",
-    "rating": 5,
-    "reviewCount": 100,
-    "address": {
-      "street": "DHA",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🥡",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "steaks"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Mystique Restaurant Lahore",
-      "best restaurants Lahore",
-      "Chinese restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-fuchsia-kitchen",
-    "name": "Fuchsia Kitchen",
-    "description": "Contemporary restaurant serving Thai and Pan-Asian favorites.",
-    "cuisine": [
-      "Thai",
+      "Japanese",
       "Pan-Asian"
     ],
     "priceLevel": "$$",
-    "rating": 4.5,
+    "rating": 4,
     "reviewCount": 100,
     "address": {
-      "street": "Gulberg",
-      "city": "Lahore",
+      "street": "Peshawar central",
+      "city": "Peshawar",
       "country": "Pakistan",
       "postalCode": ""
     },
     "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
+      "lat": 34.0151,
+      "lng": 71.5249
     },
     "contact": {
       "phone": "",
@@ -281,32 +423,32 @@
       "Local Research"
     ],
     "seoKeywords": [
-      "Fuchsia Kitchen Lahore",
-      "best restaurants Lahore",
-      "Thai restaurant Lahore",
-      "restaurants near me Lahore"
+      "Ginyaki Peshawar Peshawar",
+      "best restaurants Peshawar",
+      "Japanese restaurant Peshawar",
+      "restaurants near me Peshawar"
     ]
   },
   {
-    "id": "lahore-village-restaurant",
-    "name": "Village Restaurant",
-    "description": "Pakistani dining with live cooking and ethnic performances.",
+    "id": "peshawar-shiraz-ronaq",
+    "name": "Shiraz Ronaq",
+    "description": "Rustic décor and classic Peshawari flavors",
     "cuisine": [
       "Pakistani",
-      "Middle Eastern Buffet"
+      "Afghan cuisine"
     ],
     "priceLevel": "$$",
-    "rating": 4.1,
+    "rating": 4,
     "reviewCount": 100,
     "address": {
-      "street": "Pearl Continental Hotel",
-      "city": "Lahore",
+      "street": "Namak Mandi",
+      "city": "Peshawar",
       "country": "Pakistan",
       "postalCode": ""
     },
     "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
+      "lat": 34.0151,
+      "lng": 71.5249
     },
     "contact": {
       "phone": "",
@@ -321,7 +463,7 @@
       "Dine In"
     ],
     "specialties": [
-      "House Specials"
+      "karahi"
     ],
     "lastUpdated": "2024-12-25",
     "sources": [
@@ -329,154 +471,10 @@
       "Local Research"
     ],
     "seoKeywords": [
-      "Village Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-bukhara",
-    "name": "Bukhara",
-    "description": "North Indian/Pakistani fine dining in a luxury hotel setting.",
-    "cuisine": [
-      "Pakistani",
-      "North Indian"
-    ],
-    "priceLevel": "$$$",
-    "rating": 4.1,
-    "reviewCount": 100,
-    "address": {
-      "street": "Pearl Continental Hotel",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Bukhara Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-rollers-pizza",
-    "name": "Rollers Pizza",
-    "description": "Casual pizza outlet with modern décor and consistent taste.",
-    "cuisine": [
-      "Pizza",
-      "Fast Food"
-    ],
-    "priceLevel": "$",
-    "rating": 4.9,
-    "reviewCount": 100,
-    "address": {
-      "street": "Multiple branches",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍝",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "pizza"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Rollers Pizza Lahore",
-      "best restaurants Lahore",
-      "Pizza restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-koyla-the-bbq",
-    "name": "Koyla The BBQ",
-    "description": "Open-air barbecue restaurant with Qawwali music and live grill stations.",
-    "cuisine": [
-      "BBQ",
-      "Pakistani"
-    ],
-    "priceLevel": "$$",
-    "rating": 5,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore (outskirts)",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍖",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Koyla The BBQ Lahore",
-      "best restaurants Lahore",
-      "BBQ restaurant Lahore",
-      "restaurants near me Lahore"
+      "Shiraz Ronaq Peshawar",
+      "best restaurants Peshawar",
+      "Pakistani restaurant Peshawar",
+      "restaurants near me Peshawar"
     ]
   }
 ]
