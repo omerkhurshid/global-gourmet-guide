@@ -23,12 +23,8 @@
       "email": ""
     },
     "images": {
-      "hero": "/images/restaurants/lahore/butt-karahi-hero.jpg",
-      "gallery": [
-        "/images/restaurants/lahore/butt-karahi-1.jpg",
-        "/images/restaurants/lahore/butt-karahi-2.jpg",
-        "/images/restaurants/lahore/butt-karahi-3.jpg"
-      ]
+      "hero": "🍲",
+      "gallery": []
     },
     "features": ["Local Institution", "Family Friendly", "Takeaway", "Outdoor Seating"],
     "specialties": ["Mutton Karahi", "Chicken Karahi", "Seekh Kebab", "Naan"],
@@ -60,12 +56,8 @@
       "email": "info@havelirestaurant.com.pk"
     },
     "images": {
-      "hero": "/images/restaurants/lahore/haveli-hero.jpg",
-      "gallery": [
-        "/images/restaurants/lahore/haveli-1.jpg",
-        "/images/restaurants/lahore/haveli-2.jpg",
-        "/images/restaurants/lahore/haveli-3.jpg"
-      ]
+      "hero": "🏛️",
+      "gallery": []
     },
     "features": ["Rooftop Dining", "Heritage Setting", "Mosque View", "Cultural Experience"],
     "specialties": ["Lahori Fish", "Mutton Handi", "Chicken Tikka", "Traditional Desserts"],
@@ -97,12 +89,8 @@
       "email": ""
     },
     "images": {
-      "hero": "/images/restaurants/lahore/coocos-den-hero.jpg",
-      "gallery": [
-        "/images/restaurants/lahore/coocos-den-1.jpg",
-        "/images/restaurants/lahore/coocos-den-2.jpg",
-        "/images/restaurants/lahore/coocos-den-3.jpg"
-      ]
+      "hero": "🎭",
+      "gallery": []
     },
     "features": ["Historic Haveli", "Live Music", "Cultural Performances", "Traditional Decor"],
     "specialties": ["Nihari", "Biryani", "Kebabs", "Traditional Sweets"],

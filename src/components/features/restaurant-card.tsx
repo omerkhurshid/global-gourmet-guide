@@ -1,6 +1,5 @@
 "use client"
 
-import Image from "next/image"
 import Link from "next/link"
 import { MapPin, Star, Phone, ExternalLink } from "lucide-react"
 import { Restaurant } from "@/data/types"
@@ -27,14 +26,8 @@ export function RestaurantCard({
       <div className="bg-white rounded-lg border border-gray-200 hover:border-gray-300 transition-all duration-200 hover:shadow-md">
         <Link href={restaurantUrl} className="block p-4">
           <div className="flex items-center space-x-3">
-            <div className="relative w-16 h-16 rounded-lg overflow-hidden flex-shrink-0">
-              <Image
-                src={restaurant.images.hero}
-                alt={restaurant.name}
-                fill
-                className="object-cover"
-                priority={priority}
-              />
+            <div className="w-16 h-16 rounded-lg bg-gradient-to-br from-gray-100 to-gray-200 flex-shrink-0 flex items-center justify-center">
+              <span className="text-2xl">🍽️</span>
             </div>
             <div className="flex-1 min-w-0">
               <h3 className="font-semibold text-gray-900 truncate">{restaurant.name}</h3>
@@ -57,14 +50,11 @@ export function RestaurantCard({
     return (
       <div className="bg-white rounded-xl shadow-sm border border-gray-200 hover:shadow-lg transition-all duration-300 overflow-hidden group">
         <Link href={restaurantUrl}>
-          <div className="relative h-64 overflow-hidden">
-            <Image
-              src={restaurant.images.hero}
-              alt={restaurant.name}
-              fill
-              className="object-cover group-hover:scale-105 transition-transform duration-300"
-              priority={priority}
-            />
+          <div className="relative h-64 bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center group-hover:from-gray-100 group-hover:to-gray-200 transition-all duration-300">
+            <div className="text-center">
+              <span className="text-6xl mb-4 block">🍽️</span>
+              <span className="text-lg font-semibold text-gray-700">{restaurant.name}</span>
+            </div>
             <div className="absolute top-4 left-4">
               <span className="bg-black/70 text-white px-3 py-1 rounded-full text-sm font-medium">
                 Featured
@@ -144,14 +134,11 @@ export function RestaurantCard({
   return (
     <div className="bg-white rounded-xl shadow-sm border border-gray-200 hover:shadow-md transition-all duration-200 overflow-hidden group">
       <Link href={restaurantUrl}>
-        <div className="relative h-48 overflow-hidden">
-          <Image
-            src={restaurant.images.hero}
-            alt={restaurant.name}
-            fill
-            className="object-cover group-hover:scale-105 transition-transform duration-300"
-            priority={priority}
-          />
+        <div className="relative h-48 bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center group-hover:from-gray-100 group-hover:to-gray-200 transition-all duration-300">
+          <div className="text-center">
+            <span className="text-5xl mb-2 block">🍽️</span>
+            <span className="text-sm font-medium text-gray-600">{restaurant.cuisine[0]}</span>
+          </div>
           <div className="absolute top-3 right-3">
             <span className="bg-white/90 text-gray-900 px-2 py-1 rounded-full text-sm font-medium">
               {formatPrice(restaurant.priceLevel)}

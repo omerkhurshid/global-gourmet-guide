@@ -23,12 +23,8 @@
       "email": "info@sketch.london"
     },
     "images": {
-      "hero": "/images/restaurants/london/sketch-hero.jpg",
-      "gallery": [
-        "/images/restaurants/london/sketch-1.jpg",
-        "/images/restaurants/london/sketch-2.jpg",
-        "/images/restaurants/london/sketch-3.jpg"
-      ]
+      "hero": "🍽️",
+      "gallery": []
     },
     "features": ["Fine Dining", "Cocktail Bar", "Art Gallery", "Private Dining"],
     "specialties": ["Tasting Menu", "Afternoon Tea", "Cocktails", "Modern European"],
@@ -60,12 +56,8 @@
       "email": "coventgarden@dishoom.com"
     },
     "images": {
-      "hero": "/images/restaurants/london/dishoom-hero.jpg",
-      "gallery": [
-        "/images/restaurants/london/dishoom-1.jpg",
-        "/images/restaurants/london/dishoom-2.jpg",
-        "/images/restaurants/london/dishoom-3.jpg"
-      ]
+      "hero": "🍛",
+      "gallery": []
     },
     "features": ["Casual Dining", "Group Friendly", "Takeaway", "Breakfast"],
     "specialties": ["Black Daal", "House Chicken Ruby", "Pau Bhaji", "Masala Chai"],
@@ -97,12 +89,8 @@
       "email": "reservations@rules.co.uk"
     },
     "images": {
-      "hero": "/images/restaurants/london/rules-hero.jpg",
-      "gallery": [
-        "/images/restaurants/london/rules-1.jpg",
-        "/images/restaurants/london/rules-2.jpg",
-        "/images/restaurants/london/rules-3.jpg"
-      ]
+      "hero": "🥩",
+      "gallery": []
     },
     "features": ["Historic", "Fine Dining", "Private Dining", "Wine List"],
     "specialties": ["Venison", "Game Pie", "Steak & Kidney Pudding", "British Classics"],
