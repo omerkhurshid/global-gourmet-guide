@@ -2,6 +2,7 @@ export interface Restaurant {
   id: string;
   name: string;
   description: string;
+  reviewSummary?: string;
   cuisine: string[];
   priceLevel: '$' | '$$' | '$$$';
   rating: number;

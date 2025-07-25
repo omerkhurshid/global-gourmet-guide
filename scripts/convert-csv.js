@@ -113,6 +113,7 @@ function convertRestaurant(restaurant, index) {
     id: `${restaurant.City.toLowerCase().replace(/\s+/g, '-')}-${restaurant.Name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`,
     name: restaurant.Name,
     description: restaurant.Description || `Popular ${cuisineArray[0]} restaurant in ${restaurant.City}.`,
+    reviewSummary: restaurant['Summary of Reviews'] || "Highly rated restaurant with excellent food and service.",
     cuisine: cuisineArray,
     priceLevel: priceLevel,
     rating: rating,

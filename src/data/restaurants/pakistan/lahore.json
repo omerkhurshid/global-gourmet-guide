@@ -3,6 +3,7 @@
     "id": "lahore-haveli-restaurant",
     "name": "Haveli Restaurant",
     "description": "Housed in a heritage haveli with rooftop seating and classic Lahori food.",
+    "reviewSummary": "Stunning views of Badshahi Mosque, traditional BBQ and karahi dishes.",
     "cuisine": [
       "Pakistani",
       "Mughlai"
@@ -51,6 +52,7 @@
     "id": "lahore-pak-tea-house",
     "name": "Pak Tea House",
     "description": "Historic café frequented by writers and poets; modest but nostalgic.",
+    "reviewSummary": "Literary and cultural icon; tea and snacks.",
     "cuisine": [
       "Tea Café",
       "Snacks"
@@ -99,6 +101,7 @@
     "id": "lahore-caspian-sea",
     "name": "Caspian Sea",
     "description": "Elegant, cozy setting for fusion dining.",
+    "reviewSummary": "Great mix of Middle Eastern and Pakistani food.",
     "cuisine": [
       "Middle Eastern",
       "Pakistani"
@@ -147,6 +150,7 @@
     "id": "lahore-pakasia-restaurant",
     "name": "Pakasia Restaurant",
     "description": "Family-friendly fusion restaurant with attentive service.",
+    "reviewSummary": "Delicious and diverse offerings.",
     "cuisine": [
       "Pakistani",
       "Fusion"
@@ -195,6 +199,7 @@
     "id": "lahore-mystique-restaurant",
     "name": "Mystique Restaurant",
     "description": "Modern steakhouse with Asian fusion flair.",
+    "reviewSummary": "Stylish interiors, quality Chinese and steaks.",
     "cuisine": [
       "Chinese",
       "Steakhouse"
@@ -243,6 +248,7 @@
     "id": "lahore-fuchsia-kitchen",
     "name": "Fuchsia Kitchen",
     "description": "Contemporary restaurant serving Thai and Pan-Asian favorites.",
+    "reviewSummary": "Delicious Thai dishes and desserts.",
     "cuisine": [
       "Thai",
       "Pan-Asian"
@@ -291,6 +297,7 @@
     "id": "lahore-village-restaurant",
     "name": "Village Restaurant",
     "description": "Pakistani dining with live cooking and ethnic performances.",
+    "reviewSummary": "Buffet with live music and cultural decor.",
     "cuisine": [
       "Pakistani",
       "Middle Eastern Buffet"
@@ -339,6 +346,7 @@
     "id": "lahore-bukhara",
     "name": "Bukhara",
     "description": "North Indian/Pakistani fine dining in a luxury hotel setting.",
+    "reviewSummary": "Elegant north Indian flavors with great service.",
     "cuisine": [
       "Pakistani",
       "North Indian"
@@ -387,6 +395,7 @@
     "id": "lahore-rollers-pizza",
     "name": "Rollers Pizza",
     "description": "Casual pizza outlet with modern décor and consistent taste.",
+    "reviewSummary": "Family favorite for pizza and fast food.",
     "cuisine": [
       "Pizza",
       "Fast Food"
@@ -435,6 +444,7 @@
     "id": "lahore-koyla-the-bbq",
     "name": "Koyla The BBQ",
     "description": "Open-air barbecue restaurant with Qawwali music and live grill stations.",
+    "reviewSummary": "Poolside BBQ, loved for ambiance and food.",
     "cuisine": [
       "BBQ",
       "Pakistani"

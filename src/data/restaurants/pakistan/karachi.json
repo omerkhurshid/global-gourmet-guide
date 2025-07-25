@@ -3,6 +3,7 @@
     "id": "karachi-kolachi-restaurant",
     "name": "Kolachi Restaurant",
     "description": "Seaside dining with candlelit ambiance and live music; famous for grills and lobster.",
+    "reviewSummary": "Loved for sea views, BBQ, and seafood. “Best Dynamite Prawns!”",
     "cuisine": [
       "Pakistani",
       "Fusion",
@@ -52,6 +53,7 @@
     "id": "karachi-barbq-tonight",
     "name": "BarBQ Tonight",
     "description": "Established in 1988; offers classic BBQs and karahis in a comfortable setting.",
+    "reviewSummary": "Famous for sizzling BBQ platters; casual vibe.",
     "cuisine": [
       "Pakistani BBQ"
     ],
@@ -99,6 +101,7 @@
     "id": "karachi-the-east-end",
     "name": "The East End",
     "description": "Multi-cuisine indoor/outdoor venue with biryani, Thai, Chinese, and Italian dishes.",
+    "reviewSummary": "“Best biryani in town,” modern fusion setup.",
     "cuisine": [
       "Pakistani",
       "Chinese",
@@ -148,6 +151,7 @@
     "id": "karachi-okra",
     "name": "Okra",
     "description": "Upscale Mediterranean restaurant blending local and Euro styles.",
+    "reviewSummary": "Mediterranean focus; praised for mezze and lamb chops.",
     "cuisine": [
       "Mediterranean",
       "Fusion"
@@ -197,6 +201,7 @@
     "id": "karachi-caf-aylanto",
     "name": "Café Aylanto",
     "description": "Fine-dining cafe with Mediterranean fare and refined ambiance.",
+    "reviewSummary": "Chilli Garlic Prawns highly rated; elegant courtyard.",
     "cuisine": [
       "Mediterranean",
       "Italian"
@@ -245,6 +250,7 @@
     "id": "karachi-caf-flo",
     "name": "Café Flo",
     "description": "Chic French-European restaurant with candlelit dining.",
+    "reviewSummary": "French classics like Beef Wellington; romantic feel.",
     "cuisine": [
       "French",
       "European"
@@ -293,6 +299,7 @@
     "id": "karachi-mirchili",
     "name": "Mirchili",
     "description": "Specializes in traditional Pakistani and Indian snacks.",
+    "reviewSummary": "Authentic spicy desi dishes; well-loved by locals.",
     "cuisine": [
       "Pakistani",
       "Indian"
@@ -341,6 +348,7 @@
     "id": "karachi-xander-s-caf-",
     "name": "Xander’s Café",
     "description": "Contemporary café serving continental and vegan dishes.",
+    "reviewSummary": "Lively brunch spot; vegan and healthy options.",
     "cuisine": [
       "Continental",
       "Vegan",
@@ -390,6 +398,7 @@
     "id": "karachi-lal-qila-restaurant",
     "name": "Lal Qila Restaurant",
     "description": "Themed restaurant with tandoori, Mughlai, and Indo-Chinese dishes.",
+    "reviewSummary": "Mughlai-themed decor and expansive buffet.",
     "cuisine": [
       "Pakistani",
       "Mughlai Buffet"
@@ -438,6 +447,7 @@
     "id": "karachi-zeytin",
     "name": "Zeytin",
     "description": "Turkish/Levantine inspired dining experience.",
+    "reviewSummary": "Known for Turkish kebabs and kabsa; Oreo shake is a hit.",
     "cuisine": [
       "Turkish",
       "Mediterranean"

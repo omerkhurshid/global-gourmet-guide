@@ -35,6 +35,9 @@ export function RestaurantCard({
                   {restaurant.name}
                 </h3>
                 <p className="text-sm text-gray-600 truncate">{restaurant.cuisine.join(" • ")}</p>
+                {restaurant.reviewSummary && (
+                  <p className="text-xs text-gray-700 mt-1 truncate italic">"{restaurant.reviewSummary}"</p>
+                )}
                 <p className="text-xs text-gray-500 mt-1 truncate">{formatAddress(restaurant.address)}</p>
               </div>
             </div>
@@ -114,6 +117,12 @@ export function RestaurantCard({
             {restaurant.description}
           </p>
           
+          {restaurant.reviewSummary && (
+            <p className="text-gray-700 text-sm mb-3 italic border-l-4 border-blue-200 pl-3">
+              "{restaurant.reviewSummary}"
+            </p>
+          )}
+          
           <div className="flex items-center space-x-4 mb-4">
             <div className="flex items-center">
               <Star className="w-4 h-4 text-yellow-400 fill-current" />
@@ -192,6 +201,12 @@ export function RestaurantCard({
         <p className="text-gray-600 text-sm mb-3 line-clamp-2">
           {restaurant.description}
         </p>
+        
+        {restaurant.reviewSummary && (
+          <p className="text-gray-700 text-sm mb-3 italic border-l-4 border-blue-200 pl-3">
+            "{restaurant.reviewSummary}"
+          </p>
+        )}
         
         <div className="flex items-center space-x-4 mb-3">
           <div className="flex items-center">

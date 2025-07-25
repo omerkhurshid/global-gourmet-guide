@@ -3,6 +3,7 @@
     "id": "gujranwala-shahbaz-tikka",
     "name": "Shahbaz Tikka",
     "description": "Spacious BBQ institution with open grill flavor",
+    "reviewSummary": "Legendary for mutton BBQ and tikka",
     "cuisine": [
       "Pakistani BBQ"
     ],
@@ -50,6 +51,7 @@
     "id": "gujranwala-manhattan-bites",
     "name": "Manhattan Bites",
     "description": "Casual café offering quick snacks and innovative desi touches",
+    "reviewSummary": "Youth favorite for fast food & shakes",
     "cuisine": [
       "Fast food",
       "Fusion desi"
@@ -98,6 +100,7 @@
     "id": "gujranwala-asal-cherry-family-restaurant",
     "name": "Asal Cherry Family Restaurant",
     "description": "Large family dining with Pakistani and Chinese menu",
+    "reviewSummary": "Broad menu, good family spot",
     "cuisine": [
       "Pakistani",
       "Chinese"
@@ -146,6 +149,7 @@
     "id": "gujranwala-pind-restaurant",
     "name": "Pind Restaurant",
     "description": "Traditional setup offering Punjabi flavors",
+    "reviewSummary": "Village-style décor, hearty food",
     "cuisine": [
       "Punjabi",
       "Pakistani",
@@ -195,6 +199,7 @@
     "id": "gujranwala-chahaar-baagh-restaurant",
     "name": "Chahaar Baagh Restaurant",
     "description": "Fusion of local and international flavors in fine-dining space",
+    "reviewSummary": "Elegant and classic desi taste",
     "cuisine": [
       "Continental",
       "Pakistani"
@@ -243,6 +248,7 @@
     "id": "gujranwala-bait-al-mandi",
     "name": "Bait Al Mandi",
     "description": "Middle Eastern mandi-style restaurant",
+    "reviewSummary": "Loved for mandi rice and meats",
     "cuisine": [
       "Yemeni / Middle Eastern"
     ],
@@ -290,6 +296,7 @@
     "id": "gujranwala-real-taste-restaurant",
     "name": "Real Taste Restaurant",
     "description": "Neighborhood spot for value desi meals",
+    "reviewSummary": "Reliable home-style meals",
     "cuisine": [
       "Pakistani",
       "Fast Food"
@@ -338,6 +345,7 @@
     "id": "gujranwala-malee-s-cafe-bakers",
     "name": "Malee’s Cafe & Bakers",
     "description": "Pastries, cakes and snacks with coffee",
+    "reviewSummary": "Great for bakery treats",
     "cuisine": [
       "Café",
       "Bakery"
@@ -386,6 +394,7 @@
     "id": "gujranwala-la-spezia-restaurant",
     "name": "La Spezia Restaurant",
     "description": "Italian fine-dining in a mall setting",
+    "reviewSummary": "Italian-style menu",
     "cuisine": [
       "Italian",
       "Continental"
@@ -434,6 +443,7 @@
     "id": "gujranwala-jade-express-china-town",
     "name": "Jade Express & China Town",
     "description": "Chinese/Pak fusion at good prices",
+    "reviewSummary": "Popular Chinese fusion spot",
     "cuisine": [
       "Chinese",
       "Fusion"

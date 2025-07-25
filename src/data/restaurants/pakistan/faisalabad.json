@@ -3,6 +3,7 @@
     "id": "faisalabad-marhaba-mahal",
     "name": "Marhaba Mahal",
     "description": "Grand family restaurant with elegant decor",
+    "reviewSummary": "Generous portions of karahi, biryani & kebabs",
     "cuisine": [
       "Pakistani",
       "Mughlai",
@@ -53,6 +54,7 @@
     "id": "faisalabad-portobello",
     "name": "Portobello",
     "description": "Stylish Italian spot in mall setting",
+    "reviewSummary": "Cozy ambiance, Italian favorites",
     "cuisine": [
       "Italian",
       "Continental"
@@ -101,6 +103,7 @@
     "id": "faisalabad-salt-n-pepper-faisalabad",
     "name": "Salt’n Pepper Faisalabad",
     "description": "Modern grill & Chinese family restaurant",
+    "reviewSummary": "Loved for Chinese & grill options",
     "cuisine": [
       "Chinese",
       "Continental"
@@ -149,6 +152,7 @@
     "id": "faisalabad-silver-spoon-continental",
     "name": "Silver Spoon Continental",
     "description": "Continental food in modern interiors",
+    "reviewSummary": "Known for steaks, tidy venue",
     "cuisine": [
       "Continental",
       "BBQ"
@@ -197,6 +201,7 @@
     "id": "faisalabad-the-dynasty",
     "name": "The Dynasty",
     "description": "High-capacity family restaurant for events",
+    "reviewSummary": "Buffet & banquet favorite",
     "cuisine": [
       "Pakistani",
       "Chinese"
@@ -245,6 +250,7 @@
     "id": "faisalabad-cafe-cilantro",
     "name": "Cafe Cilantro",
     "description": "Urban café inside shopping plaza",
+    "reviewSummary": "Light meals, good for snacks & coffee",
     "cuisine": [
       "Café",
       "Beverages"
@@ -293,6 +299,7 @@
     "id": "faisalabad-tandoori-restaurant",
     "name": "Tandoori Restaurant",
     "description": "Punjabi grill house",
+    "reviewSummary": "Traditional desi BBQ & tandoor",
     "cuisine": [
       "Pakistani",
       "Tandoori"
@@ -341,6 +348,7 @@
     "id": "faisalabad-de-grill-house",
     "name": "De Grill House",
     "description": "Mall-based BBQ and fast casual",
+    "reviewSummary": "Known for grilled meats",
     "cuisine": [
       "BBQ",
       "Continental"
@@ -389,6 +397,7 @@
     "id": "faisalabad-finest-dine",
     "name": "Finest Dine",
     "description": "Decent for daily meals",
+    "reviewSummary": "Regular dining spot",
     "cuisine": [
       "Continental",
       "Pakistani"
@@ -437,6 +446,7 @@
     "id": "faisalabad-rooftop-royal-cuisine",
     "name": "Rooftop Royal Cuisine",
     "description": "Rooftop with Chinese, local & continental fare",
+    "reviewSummary": "City views, mixed menu",
     "cuisine": [
       "Chinese",
       "Local",

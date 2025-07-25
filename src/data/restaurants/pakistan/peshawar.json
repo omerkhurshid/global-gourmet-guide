@@ -3,6 +3,7 @@
     "id": "peshawar-habibi-restaurant",
     "name": "Habibi Restaurant",
     "description": "Popular BBQ destination with flavorful meats and local ambiance",
+    "reviewSummary": "Loved for BBQ platters, kabuli pulao & curry",
     "cuisine": [
       "Pakistani BBQ",
       "Pashtun dishes"
@@ -51,6 +52,7 @@
     "id": "peshawar-nisar-charsi-tikka",
     "name": "Nisar Charsi Tikka",
     "description": "No-frills traditional spot in historic food district",
+    "reviewSummary": "Famous for mutton karahi & chappal kebab",
     "cuisine": [
       "Pakistani / Kebab house"
     ],
@@ -99,6 +101,7 @@
     "id": "peshawar-chief-burger",
     "name": "Chief Burger",
     "description": "Modern fast-food eatery known for friendly service",
+    "reviewSummary": "Chicken steaks and Chow Mein favorites",
     "cuisine": [
       "Pakistani fast food"
     ],
@@ -146,6 +149,7 @@
     "id": "peshawar-usmania-restaurant",
     "name": "Usmania Restaurant",
     "description": "Buffet and à la carte menu in large venue",
+    "reviewSummary": "Consistent Pakistani & continental cuisine",
     "cuisine": [
       "Pakistani",
       "Continental"
@@ -194,6 +198,7 @@
     "id": "peshawar-jalil-kabab-house",
     "name": "Jalil Kabab House",
     "description": "Specialized kebab spot in local food zone",
+    "reviewSummary": "Praised for chappal kebab at value price",
     "cuisine": [
       "Pashtun / Afghan kebabs"
     ],
@@ -241,6 +246,7 @@
     "id": "peshawar-haleem-ghar",
     "name": "Haleem Ghar",
     "description": "One of the oldest spots serving hearty Punjabi breakfasts",
+    "reviewSummary": "Known for haleem and nihari dishes",
     "cuisine": [
       "Pakistani breakfast cuisine"
     ],
@@ -289,6 +295,7 @@
     "id": "peshawar-monal-peshawar",
     "name": "Monal Peshawar",
     "description": "Branch of Monal chain with elevated décor",
+    "reviewSummary": "Scenic views and fusion menu",
     "cuisine": [
       "Pakistani",
       "International"
@@ -337,6 +344,7 @@
     "id": "peshawar-cafe-crunch-traskoon",
     "name": "Cafe Crunch / Traskoon",
     "description": "Contemporary café serving sandwiches and fast meals",
+    "reviewSummary": "Great for snacks and coffee",
     "cuisine": [
       "Café",
       "Fast Food"
@@ -385,6 +393,7 @@
     "id": "peshawar-ginyaki-peshawar",
     "name": "Ginyaki Peshawar",
     "description": "Urban fusion restaurant with Japanese/Asian items",
+    "reviewSummary": "Offers sushi and Asian dishes",
     "cuisine": [
       "Japanese",
       "Pan-Asian"
@@ -433,6 +442,7 @@
     "id": "peshawar-shiraz-ronaq",
     "name": "Shiraz Ronaq",
     "description": "Rustic décor and classic Peshawari flavors",
+    "reviewSummary": "Pioneers of karahi & Afghan fare",
     "cuisine": [
       "Pakistani",
       "Afghan cuisine"
