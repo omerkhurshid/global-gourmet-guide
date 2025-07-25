@@ -150,6 +150,56 @@ export const cities: City[] = [
     ],
     featuredRestaurants: [],
     totalRestaurants: 20
+  },
+  {
+    id: "mumbai-india",
+    name: "Mumbai",
+    country: "India",
+    description: "India's financial capital offers an incredible street food scene alongside fine dining. From iconic vada pav to upscale restaurants, Mumbai's food culture is diverse and vibrant.",
+    heroImage: "/images/cities/mumbai-hero.jpg",
+    coordinates: {
+      lat: 19.0760,
+      lng: 72.8777
+    },
+    seoTitle: "Best Restaurants in Mumbai | Top Indian Food Places",
+    seoDescription: "Discover Mumbai's best restaurants and street food. Find top-rated dining spots in Mumbai, from local favorites to fine dining. Your guide to eating in Mumbai.",
+    seoKeywords: [
+      "restaurants Mumbai",
+      "best restaurants Mumbai",
+      "Mumbai street food",
+      "Indian cuisine Mumbai",
+      "Mumbai dining",
+      "where to eat Mumbai",
+      "Mumbai food guide",
+      "street food Mumbai"
+    ],
+    featuredRestaurants: [],
+    totalRestaurants: 20
+  },
+  {
+    id: "delhi-india",
+    name: "Delhi",
+    country: "India",
+    description: "India's capital is a paradise for food lovers, offering everything from Mughlai cuisine to contemporary Indian fare. Experience the rich culinary heritage of Old Delhi and modern dining in New Delhi.",
+    heroImage: "/images/cities/delhi-hero.jpg",
+    coordinates: {
+      lat: 28.6139,
+      lng: 77.2090
+    },
+    seoTitle: "Best Restaurants in Delhi | Top Indian Cuisine Guide",
+    seoDescription: "Discover Delhi's best restaurants and traditional Indian cuisine. Find top-rated dining spots in Delhi, from street food to fine dining. Your guide to eating in Delhi.",
+    seoKeywords: [
+      "restaurants Delhi",
+      "best restaurants Delhi",
+      "Delhi street food",
+      "Mughlai cuisine Delhi",
+      "Delhi dining",
+      "where to eat Delhi",
+      "Delhi food guide",
+      "Indian food Delhi"
+    ],
+    featuredRestaurants: [],
+    totalRestaurants: 20
   }
 ];
 
