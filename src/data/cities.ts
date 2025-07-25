@@ -1,0 +1,166 @@
+import { City } from "./types";
+
+export const cities: City[] = [
+  {
+    id: "london-uk",
+    name: "London",
+    country: "United Kingdom",
+    description: "A culinary capital offering everything from traditional British fare to innovative international cuisine. Discover Michelin-starred restaurants, historic pubs, and vibrant food markets.",
+    heroImage: "/images/cities/london-hero.jpg",
+    coordinates: {
+      lat: 51.5074,
+      lng: -0.1278
+    },
+    seoTitle: "Best Restaurants in London | Top 20 Places to Eat Near You",
+    seoDescription: "Discover London's best restaurants. Find top-rated dining spots near you, from fine dining to casual eats. Your guide to where to eat in London.",
+    seoKeywords: [
+      "restaurants London",
+      "best restaurants London",
+      "where to eat London",
+      "London dining",
+      "restaurants near me London",
+      "London food guide",
+      "top restaurants London",
+      "fine dining London"
+    ],
+    featuredRestaurants: ["sketch-london", "dishoom-covent-garden", "rules-restaurant"],
+    totalRestaurants: 20
+  },
+  {
+    id: "lahore-pakistan", 
+    name: "Lahore",
+    country: "Pakistan",
+    description: "The cultural and culinary heart of Pakistan, famous for its rich Mughlai cuisine, traditional BBQ, and vibrant food street culture. Experience authentic flavors and centuries-old recipes.",
+    heroImage: "/images/cities/lahore-hero.jpg",
+    coordinates: {
+      lat: 31.5497,
+      lng: 74.3436
+    },
+    seoTitle: "Best Restaurants in Lahore | Top Pakistani Food Places",
+    seoDescription: "Discover Lahore's best restaurants and traditional Pakistani cuisine. Find top-rated karahi, BBQ, and Mughlai food spots in the cultural capital of Pakistan.",
+    seoKeywords: [
+      "restaurants Lahore",
+      "best restaurants Lahore", 
+      "Pakistani food Lahore",
+      "Lahore dining",
+      "karahi restaurants Lahore",
+      "BBQ Lahore",
+      "Food Street Lahore",
+      "traditional food Lahore"
+    ],
+    featuredRestaurants: ["butt-karahi-lahore", "haveli-restaurant-lahore", "cooco-den-lahore"],
+    totalRestaurants: 20
+  },
+  {
+    id: "new-york-usa",
+    name: "New York",
+    country: "United States",
+    description: "The ultimate dining destination with cuisines from every corner of the world. From iconic delis to Michelin-starred establishments, NYC offers unparalleled culinary diversity.",
+    heroImage: "/images/cities/new-york-hero.jpg",
+    coordinates: {
+      lat: 40.7128,
+      lng: -74.0060
+    },
+    seoTitle: "Best Restaurants in New York | Top NYC Dining Guide",
+    seoDescription: "Discover New York's best restaurants. Find top-rated dining spots in NYC, from iconic delis to fine dining. Your guide to where to eat in New York City.",
+    seoKeywords: [
+      "restaurants New York",
+      "best restaurants NYC",
+      "where to eat New York",
+      "NYC dining",
+      "restaurants near me NYC",
+      "New York food guide",
+      "top restaurants Manhattan",
+      "fine dining NYC"
+    ],
+    featuredRestaurants: [],
+    totalRestaurants: 20
+  },
+  {
+    id: "karachi-pakistan",
+    name: "Karachi",
+    country: "Pakistan", 
+    description: "Pakistan's largest city and commercial hub, offering a diverse food scene with the best biryani, seafood, and street food. Experience the flavors of this vibrant coastal metropolis.",
+    heroImage: "/images/cities/karachi-hero.jpg",
+    coordinates: {
+      lat: 24.8607,
+      lng: 67.0011
+    },
+    seoTitle: "Best Restaurants in Karachi | Top Pakistani Food Places",
+    seoDescription: "Discover Karachi's best restaurants and famous biryani spots. Find top-rated Pakistani cuisine, seafood, and street food in Pakistan's largest city.",
+    seoKeywords: [
+      "restaurants Karachi",
+      "best restaurants Karachi",
+      "biryani Karachi", 
+      "Karachi dining",
+      "seafood restaurants Karachi",
+      "Pakistani food Karachi",
+      "street food Karachi",
+      "BBQ Karachi"
+    ],
+    featuredRestaurants: [],
+    totalRestaurants: 20
+  },
+  {
+    id: "paris-france",
+    name: "Paris",
+    country: "France",
+    description: "The world's culinary capital, home to legendary bistros, patisseries, and Michelin-starred restaurants. Experience the art of French dining and discover why Paris sets the global standard for cuisine.",
+    heroImage: "/images/cities/paris-hero.jpg",
+    coordinates: {
+      lat: 48.8566,
+      lng: 2.3522
+    },
+    seoTitle: "Best Restaurants in Paris | Top French Dining Guide",
+    seoDescription: "Discover Paris's best restaurants and French cuisine. Find top-rated bistros, fine dining, and classic Parisian eateries. Your guide to dining in the City of Light.",
+    seoKeywords: [
+      "restaurants Paris",
+      "best restaurants Paris",
+      "French cuisine Paris",
+      "Paris dining",
+      "bistros Paris",
+      "fine dining Paris",
+      "where to eat Paris",
+      "Parisian restaurants"
+    ],
+    featuredRestaurants: [],
+    totalRestaurants: 20
+  },
+  {
+    id: "los-angeles-usa",
+    name: "Los Angeles",
+    country: "United States",
+    description: "A dynamic food scene reflecting the city's diversity, from food trucks to celebrity chef restaurants. Experience innovative California cuisine, authentic ethnic foods, and trendy dining spots.",
+    heroImage: "/images/cities/los-angeles-hero.jpg",
+    coordinates: {
+      lat: 34.0522,
+      lng: -118.2437
+    },
+    seoTitle: "Best Restaurants in Los Angeles | Top LA Dining Guide", 
+    seoDescription: "Discover Los Angeles's best restaurants and California cuisine. Find top-rated dining spots in LA, from food trucks to fine dining. Your guide to eating in Los Angeles.",
+    seoKeywords: [
+      "restaurants Los Angeles",
+      "best restaurants LA",
+      "California cuisine LA",
+      "Los Angeles dining",
+      "food trucks LA",
+      "celebrity chef restaurants LA",
+      "where to eat Los Angeles",
+      "LA food scene"
+    ],
+    featuredRestaurants: [],
+    totalRestaurants: 20
+  }
+];
+
+export function getCityById(id: string): City | undefined {
+  return cities.find(city => city.id === id);
+}
+
+export function getCitiesByCountry(country: string): City[] {
+  return cities.filter(city => city.country === country);
+}
+
+export function getAllCountries(): string[] {
+  return [...new Set(cities.map(city => city.country))];
+}

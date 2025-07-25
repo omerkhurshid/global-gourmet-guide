@@ -1,0 +1,113 @@
+[
+  {
+    "id": "butt-karahi-lahore",
+    "name": "Butt Karahi",
+    "description": "Famous for authentic Lahori karahi and traditional Pakistani BBQ, a local institution serving generations of food lovers.",
+    "cuisine": ["Pakistani", "BBQ", "Traditional"],
+    "priceLevel": "$",
+    "rating": 4.5,
+    "reviewCount": 1200,
+    "address": {
+      "street": "Lakshmi Chowk, Abbott Road",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": "54000"
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "+92 42 37635789",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "/images/restaurants/lahore/butt-karahi-hero.jpg",
+      "gallery": [
+        "/images/restaurants/lahore/butt-karahi-1.jpg",
+        "/images/restaurants/lahore/butt-karahi-2.jpg",
+        "/images/restaurants/lahore/butt-karahi-3.jpg"
+      ]
+    },
+    "features": ["Local Institution", "Family Friendly", "Takeaway", "Outdoor Seating"],
+    "specialties": ["Mutton Karahi", "Chicken Karahi", "Seekh Kebab", "Naan"],
+    "lastUpdated": "2024-01-15",
+    "sources": ["Google Reviews", "Zomato Pakistan", "Local Food Blogs"],
+    "seoKeywords": ["best karahi Lahore", "Pakistani BBQ Lahore", "traditional food Lahore", "Butt Karahi restaurant"]
+  },
+  {
+    "id": "haveli-restaurant-lahore",
+    "name": "Haveli Restaurant",
+    "description": "Rooftop dining with stunning views of Badshahi Mosque, serving authentic Punjabi and Pakistani cuisine in a heritage setting.",
+    "cuisine": ["Pakistani", "Punjabi", "Traditional"],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 2800,
+    "address": {
+      "street": "Food Street, Gawalmandi",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": "54000"
+    },
+    "location": {
+      "lat": 31.5888,
+      "lng": 74.3137
+    },
+    "contact": {
+      "phone": "+92 42 37220453",
+      "website": "https://havelirestaurant.com.pk",
+      "email": "info@havelirestaurant.com.pk"
+    },
+    "images": {
+      "hero": "/images/restaurants/lahore/haveli-hero.jpg",
+      "gallery": [
+        "/images/restaurants/lahore/haveli-1.jpg",
+        "/images/restaurants/lahore/haveli-2.jpg",
+        "/images/restaurants/lahore/haveli-3.jpg"
+      ]
+    },
+    "features": ["Rooftop Dining", "Heritage Setting", "Mosque View", "Cultural Experience"],
+    "specialties": ["Lahori Fish", "Mutton Handi", "Chicken Tikka", "Traditional Desserts"],
+    "lastUpdated": "2024-01-15",
+    "sources": ["TripAdvisor", "Google Reviews", "Dawn Newspaper"],
+    "seoKeywords": ["rooftop restaurant Lahore", "Food Street Lahore", "heritage dining Lahore", "Badshahi Mosque restaurant"]
+  },
+  {
+    "id": "cooco-den-lahore",
+    "name": "Cooco's Den",
+    "description": "Historic restaurant in a 400-year-old haveli, offering traditional Pakistani cuisine with live music and cultural performances.",
+    "cuisine": ["Pakistani", "Traditional", "Cultural"],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 1500,
+    "address": {
+      "street": "Roshnai Gate, Food Street",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": "54000"
+    },
+    "location": {
+      "lat": 31.5889,
+      "lng": 74.3142
+    },
+    "contact": {
+      "phone": "+92 42 37354888",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "/images/restaurants/lahore/coocos-den-hero.jpg",
+      "gallery": [
+        "/images/restaurants/lahore/coocos-den-1.jpg",
+        "/images/restaurants/lahore/coocos-den-2.jpg",
+        "/images/restaurants/lahore/coocos-den-3.jpg"
+      ]
+    },
+    "features": ["Historic Haveli", "Live Music", "Cultural Performances", "Traditional Decor"],
+    "specialties": ["Nihari", "Biryani", "Kebabs", "Traditional Sweets"],
+    "lastUpdated": "2024-01-15",
+    "sources": ["Google Reviews", "Local Tourism Guides", "Food Blogs"],
+    "seoKeywords": ["historic restaurant Lahore", "haveli dining Lahore", "cultural restaurant Lahore", "Food Street dining"]
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "id": "sketch-london",
+    "name": "Sketch",
+    "description": "Contemporary European cuisine in an avant-garde setting with distinctive pink decor and innovative dishes.",
+    "cuisine": ["European", "Contemporary", "Fine Dining"],
+    "priceLevel": "$$$",
+    "rating": 4.4,
+    "reviewCount": 3200,
+    "address": {
+      "street": "9 Conduit St",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": "W1S 2XG"
+    },
+    "location": {
+      "lat": 51.5141,
+      "lng": -0.1435
+    },
+    "contact": {
+      "phone": "+44 20 7659 4500",
+      "website": "https://sketch.london",
+      "email": "info@sketch.london"
+    },
+    "images": {
+      "hero": "/images/restaurants/london/sketch-hero.jpg",
+      "gallery": [
+        "/images/restaurants/london/sketch-1.jpg",
+        "/images/restaurants/london/sketch-2.jpg",
+        "/images/restaurants/london/sketch-3.jpg"
+      ]
+    },
+    "features": ["Fine Dining", "Cocktail Bar", "Art Gallery", "Private Dining"],
+    "specialties": ["Tasting Menu", "Afternoon Tea", "Cocktails", "Modern European"],
+    "lastUpdated": "2024-01-15",
+    "sources": ["Google Reviews", "TripAdvisor", "Time Out London"],
+    "seoKeywords": ["fine dining London", "contemporary restaurant London", "Sketch restaurant", "best restaurants Mayfair"]
+  },
+  {
+    "id": "dishoom-covent-garden",
+    "name": "Dishoom",
+    "description": "Bombay-style cafe serving authentic Indian cuisine in a vintage railway station setting with excellent curries and biryanis.",
+    "cuisine": ["Indian", "Bombay", "Curry"],
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 8500,
+    "address": {
+      "street": "12 Upper St Martin's Ln",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": "WC2H 9FB"
+    },
+    "location": {
+      "lat": 51.5117,
+      "lng": -0.1276
+    },
+    "contact": {
+      "phone": "+44 20 7420 9320",
+      "website": "https://www.dishoom.com",
+      "email": "coventgarden@dishoom.com"
+    },
+    "images": {
+      "hero": "/images/restaurants/london/dishoom-hero.jpg",
+      "gallery": [
+        "/images/restaurants/london/dishoom-1.jpg",
+        "/images/restaurants/london/dishoom-2.jpg",
+        "/images/restaurants/london/dishoom-3.jpg"
+      ]
+    },
+    "features": ["Casual Dining", "Group Friendly", "Takeaway", "Breakfast"],
+    "specialties": ["Black Daal", "House Chicken Ruby", "Pau Bhaji", "Masala Chai"],
+    "lastUpdated": "2024-01-15",
+    "sources": ["Google Reviews", "Yelp", "TripAdvisor", "Time Out London"],
+    "seoKeywords": ["Indian restaurant London", "Bombay cafe London", "best curry London", "Dishoom restaurant"]
+  },
+  {
+    "id": "rules-restaurant",
+    "name": "Rules",
+    "description": "London's oldest restaurant serving traditional British cuisine since 1798, famous for game dishes and classic atmosphere.",
+    "cuisine": ["British", "Traditional", "Game"],
+    "priceLevel": "$$$",
+    "rating": 4.3,
+    "reviewCount": 2800,
+    "address": {
+      "street": "35 Maiden Ln",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": "WC2E 7LB"
+    },
+    "location": {
+      "lat": 51.5101,
+      "lng": -0.1244
+    },
+    "contact": {
+      "phone": "+44 20 7836 5314",
+      "website": "https://rules.co.uk",
+      "email": "reservations@rules.co.uk"
+    },
+    "images": {
+      "hero": "/images/restaurants/london/rules-hero.jpg",
+      "gallery": [
+        "/images/restaurants/london/rules-1.jpg",
+        "/images/restaurants/london/rules-2.jpg",
+        "/images/restaurants/london/rules-3.jpg"
+      ]
+    },
+    "features": ["Historic", "Fine Dining", "Private Dining", "Wine List"],
+    "specialties": ["Venison", "Game Pie", "Steak & Kidney Pudding", "British Classics"],
+    "lastUpdated": "2024-01-15",
+    "sources": ["Google Reviews", "TripAdvisor", "Michelin Guide"],
+    "seoKeywords": ["traditional British restaurant London", "oldest restaurant London", "game restaurant London", "historic dining London"]
+  }
+]
