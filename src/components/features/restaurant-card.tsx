@@ -23,21 +23,56 @@ export function RestaurantCard({
 
   if (variant === "compact") {
     return (
-      <div className="bg-white rounded-lg border border-gray-200 hover:border-gray-300 transition-all duration-200 hover:shadow-md">
-        <Link href={restaurantUrl} className="block p-4">
-          <div className="flex items-center space-x-3">
-            <div className="w-16 h-16 rounded-lg bg-gradient-to-br from-gray-100 to-gray-200 flex-shrink-0 flex items-center justify-center">
-              <span className="text-2xl">🍽️</span>
+      <div className="bg-white rounded-xl border border-gray-200 hover:border-gray-300 transition-all duration-200 hover:shadow-lg group">
+        <Link href={restaurantUrl} className="block p-6">
+          <div className="flex items-center justify-between">
+            <div className="flex items-center space-x-4 flex-1 min-w-0">
+              <div className="w-12 h-12 rounded-full bg-gradient-to-br from-blue-50 to-blue-100 flex-shrink-0 flex items-center justify-center group-hover:from-blue-100 group-hover:to-blue-200 transition-colors">
+                <span className="text-xl">{restaurant.images.hero}</span>
+              </div>
+              <div className="flex-1 min-w-0">
+                <h3 className="font-bold text-lg text-gray-900 truncate group-hover:text-blue-600 transition-colors">
+                  {restaurant.name}
+                </h3>
+                <p className="text-sm text-gray-600 truncate">{restaurant.cuisine.join(" • ")}</p>
+                <p className="text-xs text-gray-500 mt-1 truncate">{formatAddress(restaurant.address)}</p>
+              </div>
             </div>
-            <div className="flex-1 min-w-0">
-              <h3 className="font-semibold text-gray-900 truncate">{restaurant.name}</h3>
-              <p className="text-sm text-gray-600 truncate">{restaurant.cuisine.join(", ")}</p>
-              <div className="flex items-center space-x-2 mt-1">
+            
+            <div className="flex items-center space-x-6 ml-4">
+              <div className="text-center">
                 <div className="flex items-center">
                   <Star className="w-4 h-4 text-yellow-400 fill-current" />
-                  <span className="text-sm text-gray-700 ml-1">{formatRating(restaurant.rating)}</span>
+                  <span className="text-sm font-semibold text-gray-900 ml-1">{formatRating(restaurant.rating)}</span>
                 </div>
-                <span className="text-sm text-gray-500">{formatPrice(restaurant.priceLevel)}</span>
+                <p className="text-xs text-gray-500">{restaurant.reviewCount} reviews</p>
+              </div>
+              
+              <div className="text-center">
+                <span className="text-lg font-bold text-gray-900">{formatPrice(restaurant.priceLevel)}</span>
+                <p className="text-xs text-gray-500">Price</p>
+              </div>
+              
+              <div className="flex items-center space-x-2">
+                {restaurant.contact.phone && (
+                  <Button variant="ghost" size="sm" asChild>
+                    <a href={`tel:${restaurant.contact.phone}`} className="flex items-center">
+                      <Phone className="w-4 h-4" />
+                    </a>
+                  </Button>
+                )}
+                {restaurant.contact.website && (
+                  <Button variant="ghost" size="sm" asChild>
+                    <a
+                      href={restaurant.contact.website}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="flex items-center"
+                    >
+                      <ExternalLink className="w-4 h-4" />
+                    </a>
+                  </Button>
+                )}
               </div>
             </div>
           </div>

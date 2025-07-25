@@ -134,41 +134,20 @@ export default async function CityPage({ params }: CityPageProps) {
             </div>
           </div>
 
-          {/* Restaurant Grid */}
+          {/* Restaurant List */}
           {restaurants.length > 0 ? (
             <>
-              {/* Featured Restaurants */}
-              {city.featuredRestaurants.length > 0 && (
-                <div className="mb-12">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-6">
-                    Featured Restaurants
-                  </h3>
-                  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                    {restaurants
-                      .filter(r => city.featuredRestaurants.includes(r.id))
-                      .map((restaurant) => (
-                        <RestaurantCard
-                          key={restaurant.id}
-                          restaurant={restaurant}
-                          variant="featured"
-                          priority
-                        />
-                      ))}
-                  </div>
-                </div>
-              )}
-
               {/* All Restaurants */}
               <div>
                 <h3 className="text-2xl font-bold text-gray-900 mb-6">
-                  All Restaurants
+                  Top Restaurants in {city.name}
                 </h3>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <div className="space-y-4">
                   {restaurants.map((restaurant) => (
                     <RestaurantCard
                       key={restaurant.id}
                       restaurant={restaurant}
-                      variant="default"
+                      variant="compact"
                     />
                   ))}
                 </div>
