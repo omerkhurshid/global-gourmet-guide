@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navigation } from "@/components/features/navigation";
+import { AdSenseScript } from "@/components/features/adsense";
 import { generateHomepageSEO } from "@/lib/seo";
 
 const inter = Inter({
@@ -27,6 +28,9 @@ export const metadata: Metadata = {
     description: seoData.openGraph.description,
     images: [seoData.openGraph.image],
   },
+  other: {
+    "google-adsense-account": "ca-pub-7652171156655375",
+  },
 };
 
 export default function RootLayout({
@@ -36,6 +40,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <AdSenseScript />
+      </head>
       <body className={`${inter.variable} font-sans antialiased bg-gray-50`}>
         <Navigation />
         <main>{children}</main>

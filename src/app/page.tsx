@@ -3,6 +3,7 @@ import Image from "next/image"
 import { ArrowRight, MapPin, Utensils } from "lucide-react"
 import { SearchBar } from "@/components/features/search-bar"
 import { RestaurantCard } from "@/components/features/restaurant-card"
+import { AdSenseAd } from "@/components/features/adsense"
 import { Button } from "@/components/ui/button"
 import { cities } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
@@ -110,6 +111,19 @@ export default function Home() {
               </Link>
             ))}
           </div>
+        </div>
+      </section>
+
+      {/* Advertisement */}
+      <section className="py-8 bg-gray-100">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-4">
+            <span className="text-sm text-gray-500">Advertisement</span>
+          </div>
+          <AdSenseAd 
+            adSlot="1234567890" 
+            className="mx-auto max-w-2xl"
+          />
         </div>
       </section>
 
