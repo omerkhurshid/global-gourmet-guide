@@ -18,9 +18,9 @@ export default function Home() {
   }
 
   return (
-    <div className="bg-white">
+    <div className="bg-rose-50">
       {/* Hero Image Section */}
-      <section className="relative w-full bg-white">
+      <section className="relative w-full bg-rose-50">
         <div className="relative h-64 md:h-96 w-full overflow-hidden">
           <Image
             src="/images/restaurant-table-setting.jpg"
@@ -40,12 +40,15 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Massive Typography Treatment */}
           <div className="text-center mb-16">
-            <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-black leading-none tracking-tight mb-8">
+            <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-black leading-none tracking-tight mb-4">
               RESTAURANTS
             </h1>
-            <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-12 leading-relaxed">
-              CURATED DINING EXPERIENCES<br />
-              IN TOP CITIES WORLDWIDE
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-black mb-8 tracking-tight">
+              NEAR YOU
+            </h2>
+            <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-12 leading-relaxed uppercase tracking-wide">
+              Curated dining experiences<br />
+              in top cities worldwide
             </p>
           </div>
           
