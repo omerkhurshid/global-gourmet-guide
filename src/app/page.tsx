@@ -7,8 +7,6 @@ import { AdSenseAd } from "@/components/features/adsense"
 import { Button } from "@/components/ui/button"
 import { cities } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
-import { londonRestaurants, lahoreRestaurants } from "@/lib/restaurants"
-
 export default function Home() {
   // Organize cities by country
   const citiesByCountry = {
@@ -18,53 +16,81 @@ export default function Home() {
     "Pakistan": cities.filter(city => city.country === "Pakistan"),
     "India": cities.filter(city => city.country === "India"),
   }
-  
-  const featuredRestaurants = [
-    ...londonRestaurants.slice(0, 2),
-    ...lahoreRestaurants.slice(0, 1)
-  ]
 
   return (
     <div className="bg-white">
       {/* Hero Section */}
-      <section className="relative min-h-[70vh] flex items-center justify-center bg-gradient-to-br from-gray-900 via-gray-800 to-black overflow-hidden">
-        {/* Background Pattern */}
-        <div className="absolute inset-0 opacity-10">
-          <div className="absolute inset-0 bg-[radial-gradient(circle_at_50%_50%,rgba(255,255,255,0.1),transparent_50%)]" />
+      <section className="relative min-h-[80vh] flex items-center justify-center overflow-hidden"
+        style={{
+          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23f4e4bc' fill-opacity='0.1'%3E%3Ccircle cx='9' cy='9' r='3'/%3E%3Ccircle cx='51' cy='9' r='3'/%3E%3Ccircle cx='9' cy='51' r='3'/%3E%3Ccircle cx='51' cy='51' r='3'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
+          backgroundColor: '#f8f4e6'
+        }}
+      >
+        {/* Food Elements - Positioned Absolutely */}
+        <div className="absolute top-8 left-8 opacity-80">
+          <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center">
+            <span className="text-3xl">🌿</span>
+          </div>
         </div>
         
-        <div className="relative z-10 text-center px-4 max-w-4xl mx-auto">
-          <h1 className="text-4xl md:text-6xl font-bold text-white mb-6 leading-tight">
-            Discover the World&apos;s
-            <span className="block bg-gradient-to-r from-blue-400 to-green-400 bg-clip-text text-transparent">
-              Best Restaurants
+        <div className="absolute top-12 right-12 opacity-80">
+          <div className="w-20 h-20 bg-orange-100 rounded-full flex items-center justify-center">
+            <span className="text-3xl">🌶️</span>
+          </div>
+        </div>
+        
+        <div className="absolute bottom-16 left-16 opacity-80">
+          <div className="w-24 h-24 bg-yellow-100 rounded-full flex items-center justify-center">
+            <span className="text-4xl">🍋</span>
+          </div>
+        </div>
+        
+        <div className="absolute bottom-12 right-8 opacity-80">
+          <div className="w-18 h-18 bg-red-100 rounded-full flex items-center justify-center">
+            <span className="text-2xl">🧄</span>
+          </div>
+        </div>
+        
+        {/* Spice scatter effect */}
+        <div className="absolute inset-0 pointer-events-none">
+          <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-orange-300 rounded-full opacity-60"></div>
+          <div className="absolute top-1/3 right-1/3 w-1 h-1 bg-red-400 rounded-full opacity-70"></div>
+          <div className="absolute top-2/3 left-1/6 w-3 h-3 bg-yellow-400 rounded-full opacity-50"></div>
+          <div className="absolute bottom-1/4 right-1/4 w-2 h-2 bg-green-400 rounded-full opacity-60"></div>
+        </div>
+        
+        <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
+          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
+            Global
+            <span className="block text-6xl md:text-8xl bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
+              Gourmet Guide
             </span>
           </h1>
           
-          <p className="text-lg md:text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Find amazing dining experiences in top cities worldwide. From hidden gems to Michelin-starred establishments.
+          <p className="text-2xl md:text-3xl text-gray-700 mb-8 font-medium">
+            The best bites, wherever you are.
           </p>
           
           {/* Search Bar */}
-          <div className="max-w-xl mx-auto mb-8">
-            <SearchBar placeholder="Search cities or cuisines..." />
+          <div className="max-w-2xl mx-auto mb-12">
+            <SearchBar placeholder="Search for restaurants, cities, or cuisines..." />
           </div>
           
           {/* Stats */}
-          <div className="flex items-center justify-center space-x-6 md:space-x-8 text-gray-300 text-sm">
+          <div className="flex items-center justify-center space-x-8 md:space-x-12 text-gray-700">
             <div className="text-center">
-              <div className="text-2xl md:text-3xl font-bold text-white mb-1">160+</div>
-              <div className="text-xs md:text-sm">Top Restaurants</div>
+              <div className="text-3xl md:text-4xl font-bold text-orange-600 mb-2">70+</div>
+              <div className="text-sm md:text-base font-medium">Premium Restaurants</div>
             </div>
-            <div className="w-px h-12 bg-gray-600" />
+            <div className="w-px h-16 bg-gray-300" />
             <div className="text-center">
-              <div className="text-2xl md:text-3xl font-bold text-white mb-1">8</div>
-              <div className="text-xs md:text-sm">Major Cities</div>
+              <div className="text-3xl md:text-4xl font-bold text-orange-600 mb-2">11</div>
+              <div className="text-sm md:text-base font-medium">Global Cities</div>
             </div>
-            <div className="w-px h-12 bg-gray-600" />
+            <div className="w-px h-16 bg-gray-300" />
             <div className="text-center">
-              <div className="text-2xl md:text-3xl font-bold text-white mb-1">5</div>
-              <div className="text-xs md:text-sm">Countries</div>
+              <div className="text-3xl md:text-4xl font-bold text-orange-600 mb-2">5</div>
+              <div className="text-sm md:text-base font-medium">Countries</div>
             </div>
           </div>
         </div>
@@ -145,48 +171,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured Restaurants */}
-      <section className="py-20 bg-white">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-              Featured Restaurants
-            </h2>
-            <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-              Hand-picked dining experiences from our curated collection
-            </p>
-          </div>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {featuredRestaurants.map((restaurant) => (
-              <RestaurantCard
-                key={restaurant.id}
-                restaurant={restaurant}
-                variant="featured"
-                priority
-              />
-            ))}
-          </div>
-          
-          <div className="text-center mt-12">
-            <p className="text-gray-600 mb-6">
-              Ready to explore more amazing restaurants?
-            </p>
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button size="lg" asChild>
-                <Link href="/london">
-                  Browse London Restaurants
-                </Link>
-              </Button>
-              <Button variant="outline" size="lg" asChild>
-                <Link href="/lahore">
-                  Discover Lahore Cuisine
-                </Link>
-              </Button>
-            </div>
-          </div>
-        </div>
-      </section>
 
       {/* CTA Section */}
       <section className="py-20 bg-black text-white">

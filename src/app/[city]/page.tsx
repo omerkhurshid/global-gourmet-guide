@@ -142,7 +142,7 @@ export default async function CityPage({ params }: CityPageProps) {
                 <h3 className="text-2xl font-bold text-gray-900 mb-6">
                   Top Restaurants in {city.name}
                 </h3>
-                <div className="space-y-4">
+                <div className="space-y-6">
                   {restaurants.map((restaurant) => (
                     <RestaurantCard
                       key={restaurant.id}

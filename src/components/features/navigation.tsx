@@ -2,8 +2,9 @@
 
 import { useState } from "react"
 import Link from "next/link"
-import { Menu, X, MapPin } from "lucide-react"
+import { Menu, X } from "lucide-react"
 import { SearchBar } from "./search-bar"
+import { Logo } from "@/components/ui/logo"
 import { cities, getAllCountries } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
 
@@ -20,10 +21,10 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center space-x-2">
-            <MapPin className="w-8 h-8 text-black" />
+          <Link href="/" className="flex items-center space-x-3">
+            <Logo size="md" />
             <span className="text-xl font-bold text-gray-900">
-              Global Gourmet
+              Global Gourmet Guide
             </span>
           </Link>
 
