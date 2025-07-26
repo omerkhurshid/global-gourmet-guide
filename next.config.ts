@@ -44,17 +44,6 @@ const nextConfig: NextConfig = {
       destination: 'https://restaurantsnearme.tech/:path*',
       permanent: true,
     },
-    {
-      source: '/:path*',
-      has: [
-        {
-          type: 'host',
-          value: 'www.restaurantsnearme.tech',
-        },
-      ],
-      destination: 'https://restaurantsnearme.tech/:path*',
-      permanent: true,
-    },
   ],
 };
 
