@@ -275,6 +275,81 @@ export const cities: City[] = [
     ],
     featuredRestaurants: ["gujranwala-shahbaz-tikka", "gujranwala-manhattan-bites", "gujranwala-asal-cherry-family-restaurant"],
     totalRestaurants: 10
+  },
+  {
+    id: "chicago-usa",
+    name: "Chicago",
+    country: "United States",
+    description: "America's culinary playground where innovation meets tradition. From molecular gastronomy at Michelin-starred temples to neighborhood gems serving creative fusion, Chicago's diverse food scene reflects the city's immigrant heritage and bold spirit.",
+    heroImage: "[Image #1]",
+    coordinates: {
+      lat: 41.8781,
+      lng: -87.6298
+    },
+    seoTitle: "Best Restaurants in Chicago | Top Dining Guide",
+    seoDescription: "Discover Chicago's best restaurants from molecular gastronomy to neighborhood favorites. Find top-rated dining spots in the Windy City's diverse culinary scene.",
+    seoKeywords: [
+      "restaurants Chicago",
+      "best restaurants Chicago",
+      "Chicago dining",
+      "fine dining Chicago",
+      "Chicago food scene",
+      "Michelin star Chicago",
+      "fusion restaurants Chicago",
+      "where to eat Chicago"
+    ],
+    featuredRestaurants: ["chicago-alinea", "chicago-smyth", "chicago-lula-cafe"],
+    totalRestaurants: 5
+  },
+  {
+    id: "houston-usa",
+    name: "Houston",
+    country: "United States",
+    description: "A sprawling culinary landscape where Texas BBQ meets global flavors. Houston's diverse population has created an incredible food scene featuring everything from legendary barbecue joints to upscale Mexican and innovative Asian cuisine.",
+    heroImage: "[Image #2]",
+    coordinates: {
+      lat: 29.7604,
+      lng: -95.3698
+    },
+    seoTitle: "Best Restaurants in Houston | Top Texas Dining Guide",
+    seoDescription: "Discover Houston's best restaurants from Texas BBQ to upscale Mexican cuisine. Find top-rated dining spots in America's most diverse culinary city.",
+    seoKeywords: [
+      "restaurants Houston",
+      "best restaurants Houston",
+      "Houston dining",
+      "Texas BBQ Houston",
+      "Mexican restaurants Houston",
+      "Houston food scene",
+      "fine dining Houston",
+      "where to eat Houston"
+    ],
+    featuredRestaurants: ["houston-hugos", "houston-killens-bbq", "houston-uchi"],
+    totalRestaurants: 5
+  },
+  {
+    id: "san-francisco-usa",
+    name: "San Francisco",
+    country: "United States",
+    description: "California's culinary capital where innovation and sustainability drive an extraordinary dining scene. From Michelin-starred temples of gastronomy to experimental communal dining, San Francisco pushes culinary boundaries while celebrating local ingredients.",
+    heroImage: "[Image #3]",
+    coordinates: {
+      lat: 37.7749,
+      lng: -122.4194
+    },
+    seoTitle: "Best Restaurants in San Francisco | Top California Dining Guide",
+    seoDescription: "Discover San Francisco's best restaurants from Michelin-starred fine dining to innovative experimental cuisine. Find top-rated spots in the Bay Area's culinary capital.",
+    seoKeywords: [
+      "restaurants San Francisco",
+      "best restaurants San Francisco",
+      "San Francisco dining",
+      "Michelin star San Francisco",
+      "California cuisine",
+      "Bay Area restaurants",
+      "fine dining San Francisco",
+      "where to eat San Francisco"
+    ],
+    featuredRestaurants: ["san-francisco-benu", "san-francisco-californios", "san-francisco-kiln"],
+    totalRestaurants: 5
   }
 ];
 

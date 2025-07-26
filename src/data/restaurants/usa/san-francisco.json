@@ -1,0 +1,292 @@
+[
+  {
+    "id": "san-francisco-benu",
+    "name": "Benu",
+    "description": "As a newcomer wandering the foodscape of San Francisco, stepping into Benu felt like discovering a hidden temple where Asian culinary traditions are reimagined with the kind of precision and artistry that borders on the sublime. This SoMa sanctuary isn't just another fine dining establishment—it's chef Corey Lee's love letter to his Korean and Cantonese heritage, filtered through the lens of California's obsession with perfection and innovation. Those vegetable-stuffed mussels arrive like little jewel boxes, each one a perfect marriage of ocean and earth, while the barbecued quail represents everything transcendent about Lee's approach to Asian-fusion cuisine. What sets Benu apart isn't just the Michelin stars or the faultless technique—it's the way each dish tells a story that spans continents and generations, creating tasting sequences that feel both deeply personal and universally compelling. Every course unfolds with the kind of serene excellence that makes you understand why this restaurant has become a pilgrimage destination for food lovers who seek not just a meal, but a transformative experience.",
+    "reviewSummary": "Serene excellence in SoMa where vegetable-stuffed mussels and barbecued quail showcase chef Corey Lee's sublime Asian-fusion creativity. Faultless tasting menus transform Korean and Cantonese traditions into unforgettable sequences.",
+    "cuisine": [
+      "Asian-California Fusion",
+      "Korean-Cantonese",
+      "Contemporary Fine Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.8,
+    "reviewCount": 2134,
+    "address": {
+      "street": "22 Hawthorne St",
+      "city": "San Francisco",
+      "country": "United States",
+      "postalCode": "94105"
+    },
+    "location": {
+      "lat": 37.7853,
+      "lng": -122.4056
+    },
+    "contact": {
+      "phone": "+1 415-685-4860",
+      "website": "https://benusf.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏮",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 3-Star",
+      "Asian-Fusion Excellence",
+      "Tasting Menu Only",
+      "Serene Atmosphere"
+    ],
+    "specialties": [
+      "Vegetable-stuffed mussels",
+      "Barbecued quail",
+      "Korean-Cantonese fusion",
+      "Sublime tasting sequences"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Google Reviews",
+      "TripAdvisor",
+      "Michelin Guide"
+    ],
+    "seoKeywords": [
+      "Benu San Francisco",
+      "best restaurants San Francisco",
+      "Asian fusion San Francisco",
+      "Michelin star SoMa",
+      "fine dining San Francisco"
+    ]
+  },
+  {
+    "id": "san-francisco-lazy-bear",
+    "name": "Lazy Bear",
+    "description": "As a newcomer wandering the foodscape of San Francisco, stepping into Lazy Bear felt like entering an alternate universe where dinner becomes performance art and strangers become dining companions in the most unexpectedly delightful way. This isn't just a restaurant—it's a social experiment wrapped in a tasting menu, where the communal tables and dimly lit atmosphere create an intimacy that transforms a meal into a shared adventure. Each course arrives as a surprise, not just to your palate but to your expectations of what a dining experience can be, with dishes that challenge conventions while somehow feeling perfectly logical in this carefully curated environment. What makes Lazy Bear truly special isn't just the theatrical presentation or the surprise-driven menu—it's the way chef David Barzelay has created a space where food becomes a catalyst for human connection, where the communal aspect enhances rather than detracts from the culinary journey. Every visit feels like attending a dinner party hosted by a brilliant chef who understands that the most memorable meals aren't just about what's on the plate, but about the stories and connections that emerge around the table.",
+    "reviewSummary": "Theatrical communal dining experience where surprise-driven menus create immersive, memorable adventures. Dimly lit rooms foster connections between strangers while evolving courses challenge expectations in uniquely San Francisco fashion.",
+    "cuisine": [
+      "New American",
+      "Experimental",
+      "Communal Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.7,
+    "reviewCount": 1876,
+    "address": {
+      "street": "3416 19th St",
+      "city": "San Francisco",
+      "country": "United States",
+      "postalCode": "94110"
+    },
+    "location": {
+      "lat": 37.7598,
+      "lng": -122.4148
+    },
+    "contact": {
+      "phone": "+1 415-874-9921",
+      "website": "https://lazybear.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🐻",
+      "gallery": []
+    },
+    "features": [
+      "Communal Dining",
+      "Theatrical Experience",
+      "Surprise Menu",
+      "Intimate Atmosphere"
+    ],
+    "specialties": [
+      "Surprise-driven courses",
+      "Communal experience",
+      "Theatrical presentation",
+      "Social dining"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Reviews",
+      "San Francisco Chronicle",
+      "Bon Appétit"
+    ],
+    "seoKeywords": [
+      "Lazy Bear San Francisco",
+      "communal dining San Francisco",
+      "unique restaurants San Francisco",
+      "Mission District dining",
+      "theatrical dining San Francisco"
+    ]
+  },
+  {
+    "id": "san-francisco-sons-and-daughters",
+    "name": "Sons & Daughters",
+    "description": "As a newcomer wandering the foodscape of San Francisco, stepping into Sons & Daughters felt like discovering a perfectly kept secret, where intimacy and excellence converge in the most understated yet profound way. This cozy Nob Hill gem isn't trying to impress you with theatrical presentations or molecular gastronomy—instead, it wins your heart through the quiet confidence of a kitchen that understands how to let exceptional ingredients speak for themselves. Each dish in the tasting menu tells the story of Northern California's bounty, treated with the kind of respect and creativity that transforms seasonal produce into something transcendent. What sets Sons & Daughters apart in San Francisco's competitive fine dining scene isn't just the commitment to sustainability or the focus on regional ingredients—it's the way chef Teague Moriarty has created an atmosphere of understated elegance where every detail, from the carefully curated wine pairings to the warm, knowledgeable service, works in harmony to create an experience that feels both special and genuinely welcoming. This is the kind of restaurant that makes you fall in love with the idea of seasonal dining, where each visit reveals new facets of what California cuisine can be when it's executed with both passion and restraint.",
+    "reviewSummary": "Cozy tasting-menu spot focusing on regional produce and sustainability. Understated elegance meets consistent creativity in Northern California bounty showcased with quiet confidence and warm hospitality.",
+    "cuisine": [
+      "Seasonal Modern American",
+      "California Cuisine",
+      "Sustainable Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.6,
+    "reviewCount": 1234,
+    "address": {
+      "street": "708 Bush St",
+      "city": "San Francisco",
+      "country": "United States",
+      "postalCode": "94108"
+    },
+    "location": {
+      "lat": 37.7907,
+      "lng": -122.4103
+    },
+    "contact": {
+      "phone": "+1 415-391-8311",
+      "website": "https://sonsanddaughterssf.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌿",
+      "gallery": []
+    },
+    "features": [
+      "Intimate Atmosphere",
+      "Seasonal Menu",
+      "Sustainable Focus",
+      "Regional Ingredients"
+    ],
+    "specialties": [
+      "Seasonal tasting menus",
+      "Regional produce",
+      "Sustainable sourcing",
+      "Understated elegance"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Reviews",
+      "Michelin Guide",
+      "San Francisco Magazine"
+    ],
+    "seoKeywords": [
+      "Sons & Daughters San Francisco",
+      "seasonal restaurants San Francisco",
+      "Nob Hill fine dining",
+      "sustainable dining San Francisco",
+      "intimate restaurants San Francisco"
+    ]
+  },
+  {
+    "id": "san-francisco-californios",
+    "name": "Californios",
+    "description": "As a newcomer wandering the foodscape of San Francisco, stepping into Californios felt like witnessing the evolution of Mexican cuisine in real time, where ancient traditions meet cutting-edge technique in ways that redefine what Mexican fine dining can be. This intimate Mission District restaurant isn't just serving elevated Mexican food—chef Val Cantu is writing a new chapter in the story of Mexican cuisine, one that honors the complexity and sophistication of traditional flavors while pushing boundaries through painstaking technique and innovative presentation. Each course in the tasting menu arrives like a small revelation, with familiar Mexican ingredients transformed through methods that would make molecular gastronomists weep with envy, yet every dish remains deeply connected to its cultural roots. What makes Californios extraordinary isn't just the technical prowess or the Michelin recognition—it's the way Cantu has managed to create a dining experience that feels both revolutionary and respectful, modern yet timeless. This is Mexican cuisine freed from stereotypes and expectations, allowed to express its full complexity and sophistication in a setting that matches the ambition and artistry of the food itself.",
+    "reviewSummary": "Mexican flavors elevated with painstaking technique where Val Cantu's tasting menus modernize tradition. Rich, refined, and vivid presentations redefine Mexican fine dining with revolutionary yet respectful innovation.",
+    "cuisine": [
+      "Fine-Dining Mexican",
+      "Modern Mexican",
+      "Contemporary Mexican"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.7,
+    "reviewCount": 1567,
+    "address": {
+      "street": "3115 22nd St",
+      "city": "San Francisco",
+      "country": "United States",
+      "postalCode": "94110"
+    },
+    "location": {
+      "lat": 37.7553,
+      "lng": -122.4150
+    },
+    "contact": {
+      "phone": "+1 415-757-0994",
+      "website": "https://californiossf.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌮",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 2-Star",
+      "Modern Mexican",
+      "Tasting Menu",
+      "Innovative Technique"
+    ],
+    "specialties": [
+      "Elevated Mexican tasting menu",
+      "Innovative presentations",
+      "Traditional flavors modernized",
+      "Technical precision"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Local Reviews",
+      "James Beard Awards"
+    ],
+    "seoKeywords": [
+      "Californios San Francisco",
+      "Mexican fine dining San Francisco",
+      "Michelin star Mission District",
+      "modern Mexican San Francisco",
+      "tasting menu San Francisco"
+    ]
+  },
+  {
+    "id": "san-francisco-kiln",
+    "name": "Kiln",
+    "description": "As a newcomer wandering the foodscape of San Francisco, stepping into Kiln felt like discovering a meditation on fire, where the primal act of cooking over wood flames becomes a sophisticated exploration of global culinary traditions. This serene, minimalist restaurant isn't just about the dramatic visual of open flames—it's about how chef Kin David has created a space where French technique, Japanese precision, and Scandinavian restraint converge around the ancient art of wood-fired cooking. Each dish emerges from the flames transformed, with smoke and char adding layers of complexity that you simply can't achieve through conventional cooking methods. What makes Kiln special isn't just the Michelin recognition or the stunning visual theater of the open kitchen—it's the way this restaurant has managed to create a dining experience that feels both elemental and refined, where the focus on fire and seasonal ingredients creates dishes that are simultaneously rustic and sophisticated. The minimalist setting allows the food to take center stage, creating an atmosphere where every crackle of the fire and every perfectly charred element feels intentional and meaningful.",
+    "reviewSummary": "Bold wood-fired dishes in serene minimalist setting where French, Japanese, and Scandinavian techniques converge. Michelin-recognized for combining global traditions around ancient fire-cooking methods to stunning effect.",
+    "cuisine": [
+      "Global Wood-Fired",
+      "Minimalist Fine Dining",
+      "Contemporary"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.6,
+    "reviewCount": 987,
+    "address": {
+      "street": "149 Fillmore St",
+      "city": "San Francisco",
+      "country": "United States",
+      "postalCode": "94117"
+    },
+    "location": {
+      "lat": 37.7716,
+      "lng": -122.4313
+    },
+    "contact": {
+      "phone": "+1 415-796-7045",
+      "website": "https://kilnsf.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🔥",
+      "gallery": []
+    },
+    "features": [
+      "Michelin Star",
+      "Wood-Fired Cooking",
+      "Minimalist Design",
+      "Global Techniques"
+    ],
+    "specialties": [
+      "Wood-fired dishes",
+      "Global technique fusion",
+      "Minimalist presentations",
+      "Fire-focused cooking"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Local Reviews",
+      "Eater SF"
+    ],
+    "seoKeywords": [
+      "Kiln San Francisco",
+      "wood fired restaurants San Francisco",
+      "Michelin star Fillmore",
+      "minimalist dining San Francisco",
+      "global cuisine San Francisco"
+    ]
+  }
+]

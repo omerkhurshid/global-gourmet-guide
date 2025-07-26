@@ -1,0 +1,292 @@
+[
+  {
+    "id": "houston-hugos",
+    "name": "Hugo's",
+    "description": "As a newcomer wandering the foodscape of Houston, stepping into Hugo's felt like being embraced by Mexican hospitality elevated to an art form. This isn't just another upscale Mexican restaurant—it's a love letter to the complexity and sophistication of Mexican cuisine, written by chef Hugo Ortega with the kind of passion that transforms every meal into a celebration. The moment that famous mole arrives at your table, you understand why people drive across the city for it: layers upon layers of chiles, chocolate, and spices creating a sauce so complex it seems to tell the entire history of Mexican cooking in each spoonful. The Hugo Rita isn't just a cocktail—it's liquid poetry, perfectly balanced to complement the rich, bold flavors that define this kitchen. What truly sets Hugo's apart is how it manages to feel both elegant and welcoming, sophisticated yet rooted in tradition, creating an atmosphere where every guest feels like they're experiencing something special, whether it's their first visit or their hundredth.",
+    "reviewSummary": "Warm hospitality meets elevated Mexican classics where legendary mole and Hugo Rita cocktails create unforgettable dining experiences. Exceptional brunch buffet and authentic flavors justify the premium pricing.",
+    "cuisine": [
+      "Upscale Mexican",
+      "Traditional Mexican",
+      "Contemporary Mexican"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 3456,
+    "address": {
+      "street": "1600 Westheimer Rd",
+      "city": "Houston",
+      "country": "United States",
+      "postalCode": "77006"
+    },
+    "location": {
+      "lat": 29.7429,
+      "lng": -95.4011
+    },
+    "contact": {
+      "phone": "+1 713-524-7744",
+      "website": "https://hugosrestaurant.net",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌶️",
+      "gallery": []
+    },
+    "features": [
+      "Upscale Mexican",
+      "Famous Mole",
+      "Brunch Buffet",
+      "Award-Winning Cocktails"
+    ],
+    "specialties": [
+      "Signature mole",
+      "Hugo Rita cocktail",
+      "Sunday brunch buffet",
+      "Traditional Mexican classics"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "TripAdvisor Reviews",
+      "Google Reviews",
+      "Houston Chronicle"
+    ],
+    "seoKeywords": [
+      "Hugo's Houston",
+      "best Mexican restaurants Houston",
+      "upscale Mexican dining Houston",
+      "Montrose restaurants",
+      "Houston brunch"
+    ]
+  },
+  {
+    "id": "houston-killens-bbq",
+    "name": "Killen's BBQ",
+    "description": "As a newcomer wandering the foodscape of Houston, stepping into Killen's BBQ felt like entering a temple dedicated to the sacred art of Texas barbecue. This isn't just a restaurant—it's a pilgrimage destination where pitmasters practice their craft with the kind of devotion that borders on religious. The moment you catch your first whiff of that smoke-perfumed air, you understand why people wait in lines that stretch around the block: this is barbecue in its purest, most transcendent form. That brisket arrives like a revelation, with a bark so perfect it looks painted on and meat so tender it practically falls apart at the touch of a fork, each bite delivering the kind of smoky, beefy perfection that defines what Texas barbecue should be. The ribs tell their own story of time, smoke, and patience, while the sides provide the perfect supporting cast to this carnivorous symphony. Killen's doesn't just serve barbecue—it preserves a Texas tradition with the kind of authenticity and excellence that has made it a true institution.",
+    "reviewSummary": "Texas barbecue institution revered for legendary brisket and ribs. Casual, hearty atmosphere where smoky perfection and traditional sides consistently rank among Houston's best BBQ experiences.",
+    "cuisine": [
+      "Texas BBQ",
+      "American BBQ",
+      "Southern"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 8743,
+    "address": {
+      "street": "3613 E Broadway St",
+      "city": "Pearland",
+      "country": "United States",
+      "postalCode": "77581"
+    },
+    "location": {
+      "lat": 29.5633,
+      "lng": -95.2891
+    },
+    "contact": {
+      "phone": "+1 281-485-2272",
+      "website": "https://killensbbq.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Texas Institution",
+      "Famous Brisket",
+      "Long Lines",
+      "Traditional Smoking"
+    ],
+    "specialties": [
+      "Beef brisket",
+      "Pork ribs",
+      "Smoky sides",
+      "Traditional BBQ"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Reviews",
+      "Texas Monthly",
+      "BBQ Rankings"
+    ],
+    "seoKeywords": [
+      "Killen's BBQ Houston",
+      "best BBQ Houston",
+      "Texas brisket",
+      "Pearland BBQ",
+      "Houston BBQ joints"
+    ]
+  },
+  {
+    "id": "houston-brennans",
+    "name": "Brennan's",
+    "description": "As a newcomer wandering the foodscape of Houston, stepping into Brennan's felt like being transported to a more elegant era, where dining was ceremony and every meal was an occasion worth celebrating. This isn't just a restaurant—it's a living piece of Houston history, where the ghosts of countless special occasions seem to whisper from the elegant dining rooms and crystal chandeliers. The famous Turtle Soup arrives like liquid poetry, rich and complex, a dish that speaks to decades of culinary tradition maintained with unwavering standards. But it's the Bananas Foster that truly captures the magic of this place: the tableside flambé creates theater that never gets old, the caramelized bananas and rum-laced sauce creating a dessert that's equal parts nostalgia and pure indulgence. What makes Brennan's special isn't just the impeccable Creole cuisine or the white-glove service—it's the way this restaurant has managed to preserve a sense of occasion in an increasingly casual world, creating an atmosphere where every dinner feels like a celebration and every guest feels like they're part of Houston's dining legacy.",
+    "reviewSummary": "Elegant historic institution iconic for Turtle Soup and tableside Bananas Foster. Classic Creole dishes and white-glove service create timeless dining experiences beloved by longtime locals and featured in city guides.",
+    "cuisine": [
+      "Creole",
+      "Southern Elegance",
+      "Classic American"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 2987,
+    "address": {
+      "street": "3300 Smith St",
+      "city": "Houston",
+      "country": "United States",
+      "postalCode": "77006"
+    },
+    "location": {
+      "lat": 29.7372,
+      "lng": -95.3897
+    },
+    "contact": {
+      "phone": "+1 713-522-9711",
+      "website": "https://brennanshouston.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦢",
+      "gallery": []
+    },
+    "features": [
+      "Historic Institution",
+      "Tableside Service",
+      "Elegant Atmosphere",
+      "Classic Creole"
+    ],
+    "specialties": [
+      "Turtle Soup",
+      "Bananas Foster",
+      "Classic Creole dishes",
+      "Tableside presentations"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Houston Dining Guides",
+      "Local Reviews",
+      "Houston Chronicle"
+    ],
+    "seoKeywords": [
+      "Brennan's Houston",
+      "fine dining Houston",
+      "Creole restaurants Houston",
+      "Midtown Houston dining",
+      "historic restaurants Houston"
+    ]
+  },
+  {
+    "id": "houston-pondicheri",
+    "name": "Pondicheri",
+    "description": "As a newcomer wandering the foodscape of Houston, stepping into Pondicheri felt like discovering a bridge between continents, where Indian tradition meets global innovation in the most delightful and unexpected ways. This isn't your typical Indian restaurant—it's a vibrant celebration of how Indian flavors can dance with influences from around the world, creating dishes that feel both deeply rooted and refreshingly contemporary. Those chaat bowls arrive like edible art installations, each component carefully arranged to create not just visual beauty but layers of flavor that unfold with every bite—sweet, sour, spicy, and crunchy elements playing together in perfect harmony. The Indian-inspired breakfast dishes represent everything bold and creative about chef Anita Jaisinghani's approach: familiar comfort foods reimagined through an Indian lens, creating morning meals that wake up both your palate and your sense of culinary possibility. What makes Pondicheri special is how it manages to honor Indian tradition while embracing the global influences that make Houston's food scene so dynamic, resulting in a menu that feels both authentic and adventurous.",
+    "reviewSummary": "Creative Indian fusion where chaat bowls and Indian-inspired breakfasts showcase vibrant global plates. A brunch hotspot with clever flavor combinations that bridge continents with veggie-forward innovation.",
+    "cuisine": [
+      "Indian Fusion",
+      "Global Brunch",
+      "Vegetarian-Forward"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 2156,
+    "address": {
+      "street": "2800 Kirby Dr",
+      "city": "Houston",
+      "country": "United States",
+      "postalCode": "77098"
+    },
+    "location": {
+      "lat": 29.7372,
+      "lng": -95.4189
+    },
+    "contact": {
+      "phone": "+1 713-522-2808",
+      "website": "https://pondichericafe.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥗",
+      "gallery": []
+    },
+    "features": [
+      "Indian Fusion",
+      "Brunch Hotspot",
+      "Creative Flavors",
+      "Veggie-Forward"
+    ],
+    "specialties": [
+      "Chaat bowls",
+      "Indian-inspired breakfast",
+      "Global fusion plates",
+      "Creative vegetarian dishes"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Reviews",
+      "Houston Press",
+      "Brunch Reviews"
+    ],
+    "seoKeywords": [
+      "Pondicheri Houston",
+      "Indian fusion Houston",
+      "best brunch Houston",
+      "River Oaks dining",
+      "vegetarian restaurants Houston"
+    ]
+  },
+  {
+    "id": "houston-uchi",
+    "name": "Uchi",
+    "description": "As a newcomer wandering the foodscape of Houston, stepping into Uchi felt like entering a sanctuary where Japanese culinary tradition meets contemporary innovation in the most refined and beautiful way possible. This isn't just a sushi restaurant—it's a temple to the art of Japanese cuisine, where each piece of fish is treated with the reverence it deserves and every dish represents the culmination of technique, timing, and pure artistry. The omakase experience unfolds like a carefully orchestrated performance, each course building upon the last to create a journey that showcases not just the exceptional quality of ingredients but the chef's deep understanding of how flavors, textures, and temperatures can work together to create transcendent moments. What sets Uchi apart in Houston's competitive dining landscape isn't just the impeccable sourcing of fish or the precision of the knife work—it's the way this restaurant manages to create an atmosphere of quiet reverence without ever feeling intimidating, where the focus remains squarely on the sublime interplay between chef and ingredient that defines the very best Japanese cuisine.",
+    "reviewSummary": "Refined Japanese dining where delicate sushi tasting menus showcase chef-driven precision. Attentive service and sublime ingredient quality create standout experiences in Houston's upscale dining scene.",
+    "cuisine": [
+      "High-End Japanese",
+      "Sushi",
+      "Contemporary Japanese"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.7,
+    "reviewCount": 3789,
+    "address": {
+      "street": "904 Westheimer Rd",
+      "city": "Houston",
+      "country": "United States",
+      "postalCode": "77006"
+    },
+    "location": {
+      "lat": 29.7429,
+      "lng": -95.3967
+    },
+    "contact": {
+      "phone": "+1 713-522-4808",
+      "website": "https://uchirestaurants.com/houston",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍣",
+      "gallery": []
+    },
+    "features": [
+      "High-End Japanese",
+      "Omakase Experience",
+      "Chef-Driven",
+      "Premium Ingredients"
+    ],
+    "specialties": [
+      "Omakase tasting menu",
+      "Premium sushi",
+      "Contemporary Japanese",
+      "Chef-driven precision"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Reviews",
+      "Food & Wine",
+      "James Beard Awards"
+    ],
+    "seoKeywords": [
+      "Uchi Houston",
+      "best sushi Houston",
+      "Japanese fine dining Houston",
+      "Montrose sushi",
+      "omakase Houston"
+    ]
+  }
+]
