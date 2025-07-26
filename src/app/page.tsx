@@ -70,42 +70,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Split Section - About Our Service */}
-      <section className="py-24" style={{backgroundColor: '#b07968'}}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
-            {/* Left side - Typography */}
-            <div>
-              <h2 className="text-4xl md:text-5xl font-black text-white mb-8 leading-tight uppercase tracking-wide">
-                RESTAURANT<br />
-                DISCOVERY
-              </h2>
-              <p className="text-lg text-white opacity-90 leading-relaxed mb-8">
-                We curate the finest dining experiences across major cities, from Michelin-starred establishments to hidden local gems. Each restaurant is carefully selected based on quality, atmosphere, and exceptional culinary offerings.
-              </p>
-              <p className="text-lg text-white opacity-90 leading-relaxed">
-                Whether you're seeking fine dining for special occasions or authentic local cuisine for everyday meals, our platform connects you with the perfect dining experience in your city.
-              </p>
-            </div>
-            
-            {/* Right side - Featured content */}
-            <div className="bg-white/10 backdrop-blur-sm p-12 border border-white/20">
-              <div className="text-center">
-                <div className="text-6xl mb-6">🍽️</div>
-                <h3 className="text-2xl font-black text-white mb-4 uppercase tracking-wide">
-                  Premium Curation
-                </h3>
-                <p className="text-white opacity-90 leading-relaxed">
-                  Every restaurant on our platform is hand-picked by our team of food experts and local insiders.
-                </p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Clean divider line */}
-      <div className="w-full h-px bg-white opacity-30"></div>
 
       {/* Cities by Country */}
       <section className="py-24 bg-white">
