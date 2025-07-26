@@ -2,8 +2,8 @@
   {
     "id": "karachi-kolachi-restaurant",
     "name": "Kolachi Restaurant",
-    "description": "As a newcomer wandering the foodscape of Karachi, stepping into Kolachi Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of Prawns, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Loved for sea views, BBQ, and seafood. "Best Dynamite Prawns!"' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Loved for sea views, BBQ, and seafood. “Best Dynamite Prawns!”",
+    "description": "As a newcomer wandering the foodscape of Karachi, stepping into Kolachi Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of Prawns, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Loved for sea views, BBQ, and seafood. \"Best Dynamite Prawns!\"' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Loved for sea views, BBQ, and seafood. \"Best Dynamite Prawns!\"",
     "cuisine": [
       "Pakistani",
       "Fusion",
@@ -100,8 +100,8 @@
   {
     "id": "karachi-the-east-end",
     "name": "The East End",
-    "description": "As a newcomer wandering the foodscape of Karachi, stepping into The East End felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of biryani, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: '"Best biryani in town," modern fusion setup.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "“Best biryani in town,” modern fusion setup.",
+    "description": "As a newcomer wandering the foodscape of Karachi, stepping into The East End felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of biryani, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: '\"Best biryani in town,\" modern fusion setup.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "\"Best biryani in town,\" modern fusion setup.",
     "cuisine": [
       "Pakistani",
       "Chinese",
