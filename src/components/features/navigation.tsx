@@ -24,8 +24,8 @@ export function Navigation() {
           <Link href="/" className="flex items-center space-x-3">
             <Logo size="lg" />
             <div className="text-white leading-tight">
-              <div className="text-xl font-black tracking-wide">GLOBAL</div>
-              <div className="text-sm font-medium tracking-widest opacity-80">GOURMET GUIDE</div>
+              <div className="text-xl font-black tracking-wide">Global</div>
+              <div className="text-sm font-medium tracking-wide opacity-80">Gourmet Guide</div>
             </div>
           </Link>
 
