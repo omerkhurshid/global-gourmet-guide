@@ -23,7 +23,7 @@ export default function Home() {
       <section className="relative w-full bg-rose-50">
         <div className="relative h-64 md:h-96 w-full overflow-hidden">
           <Image
-            src="/images/restaurant-table-setting.jpg"
+            src="/images/hero.jpg"
             alt="Elegant restaurant table setting with wooden table, white plate, gold utensils, and glassware"
             fill
             className="object-cover object-center"

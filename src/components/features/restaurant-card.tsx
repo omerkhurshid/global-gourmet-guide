@@ -24,7 +24,6 @@ export function RestaurantCard({
   if (variant === "compact") {
     return (
       <div className="bg-white border border-gray-200 hover:border-black transition-colors duration-300 group">
-        <Link href={restaurantUrl} className="block">
           <div className="p-8">
             <div className="mb-6">
               <h3 className="text-2xl font-black text-black mb-3 uppercase tracking-wide group-hover:text-gray-600 transition-colors">
@@ -57,7 +56,6 @@ export function RestaurantCard({
               {formatAddress(restaurant.address)}
             </div>
           </div>
-        </Link>
       </div>
     )
   }
@@ -65,7 +63,6 @@ export function RestaurantCard({
   if (variant === "featured") {
     return (
       <div className="bg-white rounded-xl shadow-sm border border-gray-200 hover:shadow-lg transition-all duration-300 overflow-hidden group">
-        <Link href={restaurantUrl}>
           <div className="relative h-64 bg-gradient-to-br from-gray-50 to-gray-100 flex items-center justify-center group-hover:from-gray-100 group-hover:to-gray-200 transition-all duration-300">
             <div className="text-center">
               <span className="text-6xl mb-4 block">🍽️</span>
@@ -82,14 +79,11 @@ export function RestaurantCard({
               </span>
             </div>
           </div>
-        </Link>
         
         <div className="p-6">
-          <Link href={restaurantUrl}>
-            <h3 className="text-xl font-bold text-gray-900 mb-2 hover:text-gray-700 transition-colors">
+            <h3 className="text-xl font-bold text-gray-900 mb-2">
               {restaurant.name}
             </h3>
-          </Link>
           
           <p className="text-gray-600 text-sm mb-3 line-clamp-2">
             {restaurant.description}
@@ -127,10 +121,8 @@ export function RestaurantCard({
           </div>
           
           <div className="flex items-center justify-between">
-            <Button variant="default" size="sm" asChild>
-              <Link href={restaurantUrl}>
+            <Button variant="default" size="sm" disabled>
                 View Details
-              </Link>
             </Button>
             
             {restaurant.contact.website && (
@@ -155,7 +147,6 @@ export function RestaurantCard({
   // Default variant
   return (
     <div className="bg-white rounded-2xl shadow-sm hover:shadow-lg transition-all duration-300 group overflow-hidden border border-gray-100">
-      <Link href={restaurantUrl}>
         <div className="relative h-56 bg-gradient-to-br from-orange-50 to-orange-100 flex items-center justify-center group-hover:from-orange-100 group-hover:to-orange-200 transition-all duration-300">
           <div className="text-center">
             <span className="text-6xl mb-3 block">{restaurant.images.hero}</span>
@@ -169,14 +160,11 @@ export function RestaurantCard({
             </span>
           </div>
         </div>
-      </Link>
       
       <div className="p-6">
-        <Link href={restaurantUrl}>
-          <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-orange-600 transition-colors">
+          <h3 className="text-xl font-bold text-gray-900 mb-2">
             {restaurant.name}
           </h3>
-        </Link>
         
         <p className="text-gray-600 text-sm mb-4 line-clamp-2 leading-relaxed">
           {restaurant.description}
@@ -214,10 +202,8 @@ export function RestaurantCard({
         </div>
         
         <div className="flex items-center justify-between pt-2 border-t border-gray-100">
-          <Button variant="default" size="sm" asChild className="bg-orange-600 hover:bg-orange-700">
-            <Link href={restaurantUrl}>
+          <Button variant="default" size="sm" disabled className="bg-orange-600 hover:bg-orange-700">
               View Details
-            </Link>
           </Button>
           
           <div className="flex items-center space-x-2">
