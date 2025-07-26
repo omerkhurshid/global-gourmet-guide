@@ -75,23 +75,26 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
   const spotlight = restaurant.spotlight
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen" style={{backgroundColor: '#f9f7f6'}}>
       {/* Header */}
-      <div className="bg-white border-b border-gray-200">
+      <div className="bg-white border-b" style={{borderColor: '#e6d1c9'}}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <Link 
             href={`/${citySlug}`}
-            className="inline-flex items-center text-sm text-gray-600 hover:text-gray-900 mb-4"
+            className="inline-flex items-center text-sm mb-4 transition-colors"
+            style={{color: '#8b6355'}}
+            onMouseEnter={(e) => e.currentTarget.style.color = '#b07968'}
+            onMouseLeave={(e) => e.currentTarget.style.color = '#8b6355'}
           >
             <ArrowLeft className="w-4 h-4 mr-2" />
             Back to {city.name}
           </Link>
           <div className="flex items-center justify-between">
             <div>
-              <h1 className="text-3xl font-bold text-gray-900 mb-2">
+              <h1 className="text-3xl font-bold mb-2" style={{color: '#8b6355'}}>
                 {spotlight.title}
               </h1>
-              <p className="text-lg text-gray-600">
+              <p className="text-lg" style={{color: '#b07968'}}>
                 {spotlight.excerpt}
               </p>
             </div>
@@ -222,9 +225,9 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
           )}
 
           {/* Final Verdict */}
-          <div className="border-l-4 border-rose-500 pl-6 my-8">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">Final Verdict</h3>
-            <p className="text-gray-700 leading-relaxed text-lg">
+          <div className="border-l-4 pl-6 my-8" style={{borderColor: '#b07968'}}>
+            <h3 className="text-xl font-bold mb-4" style={{color: '#8b6355'}}>Final Verdict</h3>
+            <p className="leading-relaxed text-lg" style={{color: '#8b6355'}}>
               {spotlight.finalVerdict}
             </p>
           </div>

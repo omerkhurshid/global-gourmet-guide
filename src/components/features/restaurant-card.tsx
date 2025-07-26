@@ -59,7 +59,10 @@ export function RestaurantCard({
               {restaurant.spotlight && (
                 <Link 
                   href={`/spotlight/${citySlug}/${restaurantSlug}`}
-                  className="inline-flex items-center px-3 py-1 bg-rose-100 text-rose-700 text-xs font-medium rounded-full hover:bg-rose-200 transition-colors"
+                  className="inline-flex items-center px-3 py-1 text-xs font-medium rounded-full transition-colors"
+                  style={{backgroundColor: '#f3e8e4', color: '#8b6355'}}
+                  onMouseEnter={(e) => e.currentTarget.style.backgroundColor = '#e6d1c9'}
+                  onMouseLeave={(e) => e.currentTarget.style.backgroundColor = '#f3e8e4'}
                 >
                   <FileText className="w-3 h-3 mr-1" />
                   Spotlight

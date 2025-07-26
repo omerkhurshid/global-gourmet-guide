@@ -18,26 +18,26 @@ export default function Home() {
   }
 
   return (
-    <div className="bg-rose-50">
+    <div style={{backgroundColor: '#b07968'}}>
       {/* Header Line Section */}
-      <section className="relative w-full bg-rose-50 py-8">
+      <section className="relative w-full py-8" style={{backgroundColor: '#b07968'}}>
         <div className="flex justify-center">
-          <div className="h-0.5 bg-rose-500" style={{width: '0.5cm'}}></div>
+          <div className="h-0.5 bg-black" style={{width: '0.5cm'}}></div>
         </div>
       </section>
 
       {/* Hero Content Section */}
-      <section className="py-20 bg-gray-50">
+      <section className="py-20" style={{backgroundColor: '#b07968'}}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Massive Typography Treatment */}
           <div className="text-center mb-16">
-            <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-black leading-none tracking-tight mb-4">
+            <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-white leading-none tracking-tight mb-4">
               RESTAURANTS
             </h1>
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-black mb-8 tracking-tight">
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-black text-white mb-8 tracking-tight">
               NEAR YOU
             </h2>
-            <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-12 leading-relaxed uppercase tracking-wide">
+            <p className="text-lg md:text-xl text-white opacity-90 max-w-2xl mx-auto mb-12 leading-relaxed uppercase tracking-wide">
               Curated dining experiences<br />
               in top cities worldwide
             </p>
@@ -49,7 +49,7 @@ export default function Home() {
               <input
                 type="text"
                 placeholder="Search restaurants, cities, cuisines..."
-                className="w-full px-6 py-4 text-lg border border-gray-300 rounded-none bg-white focus:outline-none focus:border-black transition-colors"
+                className="w-full px-6 py-4 text-lg border border-white rounded-none bg-white focus:outline-none focus:border-gray-300 transition-colors"
               />
             </div>
           </div>
@@ -57,16 +57,16 @@ export default function Home() {
           {/* Minimal Stats */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center">
             <div>
-              <div className="text-3xl md:text-4xl font-black text-black mb-2">70+</div>
-              <div className="text-sm text-gray-600 uppercase tracking-wide">RESTAURANTS</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">70+</div>
+              <div className="text-sm text-white opacity-80 uppercase tracking-wide">RESTAURANTS</div>
             </div>
             <div>
-              <div className="text-3xl md:text-4xl font-black text-black mb-2">11</div>
-              <div className="text-sm text-gray-600 uppercase tracking-wide">CITIES</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">11</div>
+              <div className="text-sm text-white opacity-80 uppercase tracking-wide">CITIES</div>
             </div>
             <div>
-              <div className="text-3xl md:text-4xl font-black text-black mb-2">5</div>
-              <div className="text-sm text-gray-600 uppercase tracking-wide">COUNTRIES</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">5</div>
+              <div className="text-sm text-white opacity-80 uppercase tracking-wide">COUNTRIES</div>
             </div>
           </div>
         </div>
@@ -79,7 +79,7 @@ export default function Home() {
             <h2 className="text-4xl md:text-6xl font-black text-black mb-6 tracking-tight">
               EXPLORE CITIES
             </h2>
-            <p className="text-lg text-gray-600 max-w-xl mx-auto uppercase tracking-wide">
+            <p className="text-lg max-w-xl mx-auto uppercase tracking-wide" style={{color: '#8b6355'}}>
               TOP CULINARY DESTINATIONS WORLDWIDE
             </p>
           </div>
@@ -88,7 +88,7 @@ export default function Home() {
             {Object.entries(citiesByCountry).map(([country, countryCities]) => (
               <div key={country} className="space-y-12">
                 <div className="text-center">
-                  <h3 className="text-2xl md:text-3xl font-black text-black mb-8 uppercase tracking-wide">{country}</h3>
+                  <h3 className="text-2xl md:text-3xl font-black mb-8 uppercase tracking-wide" style={{color: '#8b6355'}}>{country}</h3>
                 </div>
                 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
@@ -98,7 +98,7 @@ export default function Home() {
                       href={`/${generateCitySlug(city.name)}`}
                       className="group"
                     >
-                      <div className="bg-white border border-gray-200 hover:border-black transition-colors duration-300">
+                      <div className="bg-white border border-gray-200 transition-colors duration-300" style={{'--hover-border': '#b07968'}} onMouseEnter={(e) => e.currentTarget.style.borderColor = '#b07968'} onMouseLeave={(e) => e.currentTarget.style.borderColor = '#e5e7eb'}>
                         <div className="relative h-64 overflow-hidden">
                           <Image
                             src={city.heroImage}
@@ -112,11 +112,11 @@ export default function Home() {
                         </div>
                         
                         <div className="p-8">
-                          <h4 className="text-xl font-black text-black mb-2 uppercase tracking-wide">{city.name}</h4>
-                          <div className="text-sm text-gray-600 mb-4 uppercase tracking-wide">
+                          <h4 className="text-xl font-black mb-2 uppercase tracking-wide" style={{color: '#8b6355'}}>{city.name}</h4>
+                          <div className="text-sm mb-4 uppercase tracking-wide" style={{color: '#b07968'}}>
                             {city.totalRestaurants} RESTAURANTS
                           </div>
-                          <p className="text-gray-600 text-sm leading-relaxed line-clamp-3">
+                          <p className="text-sm leading-relaxed line-clamp-3" style={{color: '#8b6355'}}>
                             {city.description}
                           </p>
                         </div>
@@ -144,13 +144,13 @@ export default function Home() {
       </section>
 
       {/* CTA Section */}
-      <section className="py-32 bg-black text-white">
+      <section className="py-32 text-white" style={{backgroundColor: '#8b6355'}}>
         <div className="max-w-6xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-5xl md:text-7xl font-black mb-8 leading-none tracking-tight">
             FIND YOUR<br />
             NEXT MEAL
           </h2>
-          <p className="text-lg text-gray-300 max-w-xl mx-auto mb-16 uppercase tracking-wide leading-relaxed">
+          <p className="text-lg text-white opacity-90 max-w-xl mx-auto mb-16 uppercase tracking-wide leading-relaxed">
             FROM FINE DINING TO STREET FOOD<br />
             DISCOVER THE BEST RESTAURANTS NEAR YOU
           </p>
@@ -158,7 +158,7 @@ export default function Home() {
             <input
               type="text"
               placeholder="Search restaurants worldwide..."
-              className="w-full px-6 py-4 text-lg bg-transparent border border-white text-white placeholder-gray-400 focus:outline-none focus:border-gray-300 transition-colors"
+              className="w-full px-6 py-4 text-lg bg-transparent border border-white text-white placeholder-white placeholder-opacity-70 focus:outline-none focus:border-opacity-70 transition-colors"
             />
           </div>
         </div>
