@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navigation } from "@/components/features/navigation";
+import { ConsentBanner } from "@/components/features/consent-banner";
 import { AdSenseScript } from "@/components/features/adsense";
 import { GoogleAnalytics } from "@/components/features/analytics";
 import { Analytics } from '@vercel/analytics/react';
@@ -76,6 +77,7 @@ export default function RootLayout({
         />
         <Navigation />
         <main>{children}</main>
+        <ConsentBanner />
         <Analytics />
       </body>
     </html>

@@ -25,10 +25,10 @@ export default function Home() {
       <div className="w-full h-px bg-white opacity-30"></div>
 
       {/* Hero Content Section */}
-      <section className="py-20" style={{backgroundColor: '#b07968'}}>
+      <section className="py-14" style={{backgroundColor: '#b07968'}}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Massive Typography Treatment */}
-          <div className="text-center mb-16">
+          <div className="text-center mb-12">
             <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-white leading-none tracking-tight mb-4">
               RESTAURANTS
             </h1>
@@ -41,13 +41,14 @@ export default function Home() {
             </p>
           </div>
           
-          {/* Clean Search Bar */}
-          <div className="max-w-xl mx-auto mb-20">
+          {/* Search functionality will be implemented later */}
+          <div className="max-w-xl mx-auto mb-14">
             <div className="relative">
               <input
                 type="text"
                 placeholder="Search restaurants, cities, cuisines..."
                 className="w-full px-6 py-4 text-lg border border-white rounded-none bg-white focus:outline-none focus:border-gray-300 transition-colors"
+                disabled
               />
             </div>
           </div>
@@ -55,11 +56,11 @@ export default function Home() {
           {/* Minimal Stats */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center">
             <div>
-              <div className="text-3xl md:text-4xl font-black text-white mb-2">146</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">161</div>
               <div className="text-sm text-white opacity-80 uppercase tracking-wide">RESTAURANTS</div>
             </div>
             <div>
-              <div className="text-3xl md:text-4xl font-black text-white mb-2">11</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">14</div>
               <div className="text-sm text-white opacity-80 uppercase tracking-wide">CITIES</div>
             </div>
             <div>
@@ -145,20 +146,13 @@ export default function Home() {
       <section className="py-32 text-white" style={{backgroundColor: '#8b6355'}}>
         <div className="max-w-6xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h2 className="text-5xl md:text-7xl font-black mb-8 leading-none tracking-tight">
-            FIND YOUR<br />
-            NEXT MEAL
+            DISCOVER<br />
+            AMAZING FOOD
           </h2>
-          <p className="text-lg text-white opacity-90 max-w-xl mx-auto mb-16 uppercase tracking-wide leading-relaxed">
+          <p className="text-lg text-white opacity-90 max-w-xl mx-auto uppercase tracking-wide leading-relaxed">
             FROM FINE DINING TO STREET FOOD<br />
-            DISCOVER THE BEST RESTAURANTS NEAR YOU
+            EXPLORE THE BEST RESTAURANTS WORLDWIDE
           </p>
-          <div className="max-w-xl mx-auto">
-            <input
-              type="text"
-              placeholder="Search restaurants worldwide..."
-              className="w-full px-6 py-4 text-lg bg-transparent border border-white text-white placeholder-white placeholder-opacity-70 focus:outline-none focus:border-opacity-70 transition-colors"
-            />
-          </div>
         </div>
       </section>
     </div>

@@ -10,6 +10,9 @@ import gujranwalaRestaurantsData from "@/data/restaurants/pakistan/gujranwala.js
 // USA restaurants
 import newYorkRestaurantsData from "@/data/restaurants/usa/new-york.json"
 import losAngelesRestaurantsData from "@/data/restaurants/usa/los-angeles.json"
+import chicagoRestaurantsData from "@/data/restaurants/usa/chicago.json"
+import houstonRestaurantsData from "@/data/restaurants/usa/houston.json"
+import sanFranciscoRestaurantsData from "@/data/restaurants/usa/san-francisco.json"
 // France restaurants
 import parisRestaurantsData from "@/data/restaurants/france/paris.json"
 
@@ -22,6 +25,9 @@ export const peshawarRestaurants: Restaurant[] = peshawarRestaurantsData as Rest
 export const gujranwalaRestaurants: Restaurant[] = gujranwalaRestaurantsData as Restaurant[]
 export const newYorkRestaurants: Restaurant[] = newYorkRestaurantsData as Restaurant[]
 export const losAngelesRestaurants: Restaurant[] = losAngelesRestaurantsData as Restaurant[]
+export const chicagoRestaurants: Restaurant[] = chicagoRestaurantsData as Restaurant[]
+export const houstonRestaurants: Restaurant[] = houstonRestaurantsData as Restaurant[]
+export const sanFranciscoRestaurants: Restaurant[] = sanFranciscoRestaurantsData as Restaurant[]
 export const parisRestaurants: Restaurant[] = parisRestaurantsData as Restaurant[]
 
 // Map city slugs to restaurant data
@@ -34,6 +40,9 @@ export const restaurantData: Record<string, Restaurant[]> = {
   gujranwala: gujranwalaRestaurants,
   "new-york": newYorkRestaurants,
   "los-angeles": losAngelesRestaurants,
+  chicago: chicagoRestaurants,
+  houston: houstonRestaurants,
+  "san-francisco": sanFranciscoRestaurants,
   paris: parisRestaurants,
 }
 

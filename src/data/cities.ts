@@ -281,7 +281,7 @@ export const cities: City[] = [
     name: "Chicago",
     country: "United States",
     description: "America's culinary playground where innovation meets tradition. From molecular gastronomy at Michelin-starred temples to neighborhood gems serving creative fusion, Chicago's diverse food scene reflects the city's immigrant heritage and bold spirit.",
-    heroImage: "[Image #1]",
+    heroImage: "/images/cities/chicago-hero.jpg",
     coordinates: {
       lat: 41.8781,
       lng: -87.6298
@@ -306,7 +306,7 @@ export const cities: City[] = [
     name: "Houston",
     country: "United States",
     description: "A sprawling culinary landscape where Texas BBQ meets global flavors. Houston's diverse population has created an incredible food scene featuring everything from legendary barbecue joints to upscale Mexican and innovative Asian cuisine.",
-    heroImage: "[Image #2]",
+    heroImage: "/images/cities/houston-hero.jpg",
     coordinates: {
       lat: 29.7604,
       lng: -95.3698
@@ -331,7 +331,7 @@ export const cities: City[] = [
     name: "San Francisco",
     country: "United States",
     description: "California's culinary capital where innovation and sustainability drive an extraordinary dining scene. From Michelin-starred temples of gastronomy to experimental communal dining, San Francisco pushes culinary boundaries while celebrating local ingredients.",
-    heroImage: "[Image #3]",
+    heroImage: "/images/cities/san-francisco-hero.jpg",
     coordinates: {
       lat: 37.7749,
       lng: -122.4194
