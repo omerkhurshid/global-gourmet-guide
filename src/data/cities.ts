@@ -24,7 +24,7 @@ export const cities: City[] = [
       "fine dining London"
     ],
     featuredRestaurants: ["london-dishoom", "london-core-by-clare-smyth"],
-    totalRestaurants: 2
+    totalRestaurants: 10
   },
   {
     id: "lahore-pakistan", 
