@@ -24,7 +24,7 @@ export function Navigation() {
           <Link href="/" className="flex items-center space-x-3">
             <Logo size="lg" />
             <span className="text-2xl font-black uppercase tracking-wide text-white">
-              RESTAURANTS NEAR ME
+              Global Gourmet Guide
             </span>
           </Link>
 
@@ -32,7 +32,7 @@ export function Navigation() {
           <div className="hidden md:flex items-center space-x-12">
             <div className="relative group">
               <button className="text-white font-medium uppercase tracking-wide text-sm hover:text-gray-200 transition-colors">
-                Cities
+                Explore Cities
               </button>
               <div className="absolute top-full left-0 mt-4 w-80 bg-white border border-gray-200 shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
                 <div className="p-6">
@@ -62,7 +62,7 @@ export function Navigation() {
               href="/about" 
               className="text-white font-medium uppercase tracking-wide text-sm hover:text-gray-200 transition-colors"
             >
-              About
+              About us
             </Link>
           </div>
 
@@ -107,7 +107,7 @@ export function Navigation() {
               className="block text-black font-medium uppercase tracking-wide text-sm hover:text-gray-600 transition-colors"
               onClick={() => setIsMenuOpen(false)}
             >
-              About
+              About us
             </Link>
           </div>
         </div>

@@ -55,7 +55,7 @@ export default function Home() {
           {/* Minimal Stats */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center">
             <div>
-              <div className="text-3xl md:text-4xl font-black text-white mb-2">70+</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">146</div>
               <div className="text-sm text-white opacity-80 uppercase tracking-wide">RESTAURANTS</div>
             </div>
             <div>
