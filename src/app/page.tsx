@@ -19,47 +19,27 @@ export default function Home() {
 
   return (
     <div className="bg-white">
-      {/* Hero Section */}
-      <section className="relative min-h-[80vh] flex items-center justify-center overflow-hidden"
-        style={{
-          backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23f4e4bc' fill-opacity='0.1'%3E%3Ccircle cx='9' cy='9' r='3'/%3E%3Ccircle cx='51' cy='9' r='3'/%3E%3Ccircle cx='9' cy='51' r='3'/%3E%3Ccircle cx='51' cy='51' r='3'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E")`,
-          backgroundColor: '#f8f4e6'
-        }}
-      >
-        {/* Food Elements - Positioned Absolutely */}
-        <div className="absolute top-8 left-8 opacity-80">
-          <div className="w-16 h-16 bg-green-100 rounded-full flex items-center justify-center">
-            <span className="text-3xl">🌿</span>
+      {/* Hero Image Section */}
+      <section className="py-8 bg-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="relative h-64 md:h-80 rounded-2xl overflow-hidden shadow-lg">
+            <Image
+              src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?q=80&w=1500&auto=format&fit=crop"
+              alt="Elegant restaurant table setting"
+              fill
+              className="object-cover"
+              priority
+              sizes="(max-width: 768px) 100vw, 80vw"
+              quality={90}
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black/20 via-transparent to-transparent" />
           </div>
         </div>
-        
-        <div className="absolute top-12 right-12 opacity-80">
-          <div className="w-20 h-20 bg-orange-100 rounded-full flex items-center justify-center">
-            <span className="text-3xl">🌶️</span>
-          </div>
-        </div>
-        
-        <div className="absolute bottom-16 left-16 opacity-80">
-          <div className="w-24 h-24 bg-yellow-100 rounded-full flex items-center justify-center">
-            <span className="text-4xl">🍋</span>
-          </div>
-        </div>
-        
-        <div className="absolute bottom-12 right-8 opacity-80">
-          <div className="w-18 h-18 bg-red-100 rounded-full flex items-center justify-center">
-            <span className="text-2xl">🧄</span>
-          </div>
-        </div>
-        
-        {/* Spice scatter effect */}
-        <div className="absolute inset-0 pointer-events-none">
-          <div className="absolute top-1/4 left-1/4 w-2 h-2 bg-orange-300 rounded-full opacity-60"></div>
-          <div className="absolute top-1/3 right-1/3 w-1 h-1 bg-red-400 rounded-full opacity-70"></div>
-          <div className="absolute top-2/3 left-1/6 w-3 h-3 bg-yellow-400 rounded-full opacity-50"></div>
-          <div className="absolute bottom-1/4 right-1/4 w-2 h-2 bg-green-400 rounded-full opacity-60"></div>
-        </div>
-        
-        <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
+      </section>
+
+      {/* Hero Content Section */}
+      <section className="py-16 bg-white">
+        <div className="max-w-5xl mx-auto text-center px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
             Discover the World's Best
             <span className="block text-5xl md:text-7xl bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
