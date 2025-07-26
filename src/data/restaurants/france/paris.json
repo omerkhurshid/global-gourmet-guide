@@ -1,0 +1,1092 @@
+[
+  {
+    "id": "paris-kei",
+    "name": "Kei",
+    "description": "Fine-dining French-Japanese fusion restaurant led by chef Kei Kobayashi, offering elegant tasting menus that blend French techniques with Japanese flavors.",
+    "reviewSummary": "Rated 4.7/5 on TripAdvisor; elegant ambience praised",
+    "cuisine": [
+      "French",
+      "Japanese Fusion",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 892,
+    "address": {
+      "street": "1st Arrondissement (Louvre)",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75001"
+    },
+    "location": {
+      "lat": 48.8606,
+      "lng": 2.3376
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Michelin Starred",
+      "Tasting Menu",
+      "Wine Pairing",
+      "Elegant Atmosphere"
+    ],
+    "openingHours": {
+      "tuesday": "12:00-14:00, 19:30-21:30",
+      "wednesday": "12:00-14:00, 19:30-21:30",
+      "thursday": "12:00-14:00, 19:30-21:30",
+      "friday": "12:00-14:00, 19:30-21:30",
+      "saturday": "12:00-14:00, 19:30-21:30",
+      "sunday": "Closed",
+      "monday": "Closed"
+    },
+    "specialties": [
+      "French-Japanese Fusion",
+      "Seasonal Tasting Menu",
+      "Wine Selection"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "TripAdvisor",
+      "Michelin Guide"
+    ],
+    "seoKeywords": [
+      "Kei Paris",
+      "French Japanese fusion",
+      "Michelin starred restaurant Paris",
+      "fine dining Louvre"
+    ]
+  },
+  {
+    "id": "paris-plenitude-cheval-blanc",
+    "name": "Plénitude – Cheval Blanc",
+    "description": "Elite fine-dining restaurant offering contemporary French cuisine in the luxurious Cheval Blanc hotel setting.",
+    "reviewSummary": "Elite fine‑dining",
+    "cuisine": [
+      "Contemporary French",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 456,
+    "address": {
+      "street": "1st Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75001"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "✨",
+      "gallery": []
+    },
+    "features": [
+      "Michelin Starred",
+      "Hotel Restaurant",
+      "Luxury Dining",
+      "Contemporary Cuisine"
+    ],
+    "specialties": [
+      "Contemporary French Cuisine",
+      "Luxury Experience",
+      "Seasonal Menu"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Hotel Reviews"
+    ],
+    "seoKeywords": [
+      "Plénitude Paris",
+      "Cheval Blanc restaurant",
+      "contemporary French cuisine",
+      "luxury dining Paris"
+    ]
+  },
+  {
+    "id": "paris-lambroisie",
+    "name": "L'Ambroisie",
+    "description": "Long-standing three-Michelin-starred restaurant offering classic haute French cuisine with exceptional service and traditional preparation methods.",
+    "reviewSummary": "Long‑standing 3★ Michelin excellence",
+    "cuisine": [
+      "Classic Haute French",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 1200,
+    "address": {
+      "street": "4th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75004"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "👑",
+      "gallery": []
+    },
+    "features": [
+      "3 Michelin Stars",
+      "Classic French",
+      "Traditional Service",
+      "Historic Restaurant"
+    ],
+    "specialties": [
+      "Classic Haute Cuisine",
+      "Traditional French Techniques",
+      "Premium Ingredients"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Fine Dining Reviews"
+    ],
+    "seoKeywords": [
+      "L'Ambroisie Paris",
+      "3 Michelin stars Paris",
+      "classic French cuisine",
+      "haute cuisine Paris"
+    ]
+  },
+  {
+    "id": "paris-arpege",
+    "name": "Arpège",
+    "description": "Renowned three-Michelin-starred restaurant by Alain Passard, famous for its innovative plant-focused haute cuisine and seasonal vegetable dishes.",
+    "reviewSummary": "Unique veggie-led dishes praised by Reuters",
+    "cuisine": [
+      "Plant-focused Haute Cuisine",
+      "Vegetarian Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 890,
+    "address": {
+      "street": "7th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75007"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥬",
+      "gallery": []
+    },
+    "features": [
+      "3 Michelin Stars",
+      "Vegetable-focused",
+      "Innovative Cuisine",
+      "Seasonal Menu"
+    ],
+    "specialties": [
+      "Vegetable Haute Cuisine",
+      "Seasonal Produce",
+      "Innovative Plant-based Dishes"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Reuters",
+      "Michelin Guide"
+    ],
+    "seoKeywords": [
+      "Arpège Paris",
+      "Alain Passard",
+      "vegetable haute cuisine",
+      "plant-focused fine dining"
+    ]
+  },
+  {
+    "id": "paris-le-cinq",
+    "name": "Le Cinq",
+    "description": "Alain Ducasse's three-Michelin-starred restaurant offering classic French opulence with impeccable service in the Four Seasons Hotel George V.",
+    "reviewSummary": "Classic opulence at 3★ standard",
+    "cuisine": [
+      "French",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 750,
+    "address": {
+      "street": "8th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75008"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏛️",
+      "gallery": []
+    },
+    "features": [
+      "3 Michelin Stars",
+      "Alain Ducasse",
+      "Hotel Restaurant",
+      "Classic Luxury"
+    ],
+    "specialties": [
+      "Classic French Cuisine",
+      "Luxury Service",
+      "Traditional Techniques"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Hotel George V"
+    ],
+    "seoKeywords": [
+      "Le Cinq Paris",
+      "Alain Ducasse restaurant",
+      "Four Seasons George V",
+      "3 Michelin stars"
+    ]
+  },
+  {
+    "id": "paris-pavillon-ledoyen",
+    "name": "Pavillon Ledoyen",
+    "description": "World-class fine dining restaurant offering contemporary French cuisine in a historic pavilion setting in the Champs-Élysées gardens.",
+    "reviewSummary": "World-class fine dining",
+    "cuisine": [
+      "French Contemporary",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 680,
+    "address": {
+      "street": "8th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75008"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌟",
+      "gallery": []
+    },
+    "features": [
+      "Michelin Starred",
+      "Historic Pavilion",
+      "Garden Setting",
+      "Contemporary French"
+    ],
+    "specialties": [
+      "Contemporary French Cuisine",
+      "Historic Setting",
+      "Seasonal Menu"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Fine Dining Reviews"
+    ],
+    "seoKeywords": [
+      "Pavillon Ledoyen Paris",
+      "contemporary French restaurant", 
+      "Champs-Élysées dining",
+      "historic restaurant Paris"
+    ]
+  },
+  {
+    "id": "paris-epicure",
+    "name": "Épicure",
+    "description": "Three-Michelin-starred restaurant at Le Bristol Paris, offering exceptionally refined French haute cuisine with impeccable presentation and service.",
+    "reviewSummary": "Exceptionally refined 3★ menu",
+    "cuisine": [
+      "French Haute Cuisine",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 920,
+    "address": {
+      "street": "8th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75008"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "💎",
+      "gallery": []
+    },
+    "features": [
+      "3 Michelin Stars",
+      "Hotel Restaurant",
+      "Refined Cuisine",
+      "Exceptional Service"
+    ],
+    "specialties": [
+      "French Haute Cuisine",
+      "Refined Presentation",
+      "Premium Ingredients"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Le Bristol Paris"
+    ],
+    "seoKeywords": [
+      "Épicure Paris",
+      "Le Bristol restaurant",
+      "3 Michelin stars",
+      "French haute cuisine"
+    ]
+  },
+  {
+    "id": "paris-pierre-gagnaire",
+    "name": "Pierre Gagnaire",
+    "description": "Renowned three-Michelin-starred restaurant offering inventive French cuisine by chef Pierre Gagnaire, known for artistic and creative culinary presentations.",
+    "reviewSummary": "Renowned artistic cuisine",
+    "cuisine": [
+      "Inventive French",
+      "Creative Cuisine"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 830,
+    "address": {
+      "street": "8th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75008"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🎨",
+      "gallery": []
+    },
+    "features": [
+      "3 Michelin Stars",
+      "Artistic Cuisine",
+      "Creative Presentation",
+      "Inventive Menu"
+    ],
+    "specialties": [
+      "Inventive French Cuisine",
+      "Artistic Presentation",
+      "Creative Techniques"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Fine Dining Reviews"
+    ],
+    "seoKeywords": [
+      "Pierre Gagnaire Paris",
+      "inventive French cuisine",
+      "artistic restaurant",
+      "creative fine dining"
+    ]
+  },
+  {
+    "id": "paris-le-pre-catelan",
+    "name": "Le Pré Catelan",
+    "description": "Elegant three-Michelin-starred restaurant set in a beautiful garden pavilion in the Bois de Boulogne, offering refined French fine dining.",
+    "reviewSummary": "Elegant cuisine in garden setting",
+    "cuisine": [
+      "French Fine Dining",
+      "Classic French"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 720,
+    "address": {
+      "street": "16th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75016"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌳",
+      "gallery": []
+    },
+    "features": [
+      "3 Michelin Stars",
+      "Garden Setting",
+      "Historic Pavilion",
+      "Elegant Atmosphere"
+    ],
+    "specialties": [
+      "French Fine Dining",
+      "Garden Setting",
+      "Refined Cuisine"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Garden Restaurant Reviews"
+    ],
+    "seoKeywords": [
+      "Le Pré Catelan Paris",
+      "garden restaurant Paris",
+      "Bois de Boulogne dining",
+      "elegant French cuisine"
+    ]
+  },
+  {
+    "id": "paris-restaurant-le-meurice-alain-ducasse",
+    "name": "Restaurant Le Meurice Alain Ducasse",
+    "description": "Prestigious two-Michelin-starred restaurant by Alain Ducasse in the luxury Le Meurice hotel, offering sublime French haute gastronomy with exceptional service.",
+    "reviewSummary": "Sublime service & quality",
+    "cuisine": [
+      "French Haute Gastronomy",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 950,
+    "address": {
+      "street": "1st Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75001"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏨",
+      "gallery": []
+    },
+    "features": [
+      "2 Michelin Stars",
+      "Alain Ducasse",
+      "Hotel Restaurant",
+      "Exceptional Service"
+    ],
+    "specialties": [
+      "French Haute Gastronomy",
+      "Sublime Service",
+      "Premium Quality"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Le Meurice Hotel",
+      "Michelin Guide"
+    ],
+    "seoKeywords": [
+      "Le Meurice Alain Ducasse",
+      "Alain Ducasse Paris",
+      "luxury hotel restaurant",
+      "French haute gastronomy"
+    ]
+  },
+  {
+    "id": "paris-palais-royal-restaurant",
+    "name": "Palais Royal Restaurant",
+    "description": "Stylish contemporary French restaurant offering refined tasting experiences in an elegant setting near the historic Palais Royal.",
+    "reviewSummary": "Stylish, refined tasting experience",
+    "cuisine": [
+      "French Contemporary",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.4,
+    "reviewCount": 580,
+    "address": {
+      "street": "1st Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75001"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": [
+      "Contemporary French",
+      "Stylish Setting",
+      "Tasting Menu",
+      "Refined Experience"
+    ],
+    "specialties": [
+      "Contemporary French Cuisine",
+      "Tasting Experience",
+      "Stylish Presentation"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Restaurant Reviews",
+      "Fine Dining Guides"
+    ],
+    "seoKeywords": [
+      "Palais Royal Restaurant",
+      "contemporary French restaurant",
+      "Palais Royal dining",
+      "refined tasting menu"
+    ]
+  },
+  {
+    "id": "paris-sushi-yoshinaga",
+    "name": "Sushi Yoshinaga",
+    "description": "High-end sushi restaurant newly awarded 2 Michelin stars in 2025, offering exceptional omakase experiences with premium Japanese ingredients.",
+    "reviewSummary": "Newly awarded 2★ Michelin in 2025",
+    "cuisine": [
+      "High-end Sushi",
+      "Japanese"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 340,
+    "address": {
+      "street": "2nd Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75002"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍣",
+      "gallery": []
+    },
+    "features": [
+      "2 Michelin Stars",
+      "Omakase",
+      "Premium Ingredients",
+      "New Award 2025"
+    ],
+    "specialties": [
+      "High-end Sushi",
+      "Omakase Experience",
+      "Premium Japanese Ingredients"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide 2025",
+      "Sushi Reviews"
+    ],
+    "seoKeywords": [
+      "Sushi Yoshinaga Paris",
+      "2 Michelin star sushi",
+      "omakase Paris",
+      "high-end Japanese restaurant"
+    ]
+  },
+  {
+    "id": "paris-guy-savoy",
+    "name": "Guy Savoy",
+    "description": "Iconic three-Michelin-starred restaurant by chef Guy Savoy, offering classic haute French cuisine with exceptional lunch value and renowned dinner service.",
+    "reviewSummary": "Rated 4.6/5; lunch great value",
+    "cuisine": [
+      "Classic Haute French",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 1100,
+    "address": {
+      "street": "6th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75006"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "👨‍🍳",
+      "gallery": []
+    },
+    "features": [
+      "3 Michelin Stars",
+      "Iconic Chef",
+      "Great Lunch Value",
+      "Classic French"
+    ],
+    "specialties": [
+      "Classic Haute French",
+      "Chef's Signature Dishes",
+      "Lunch Menu Value"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Restaurant Reviews",
+      "Michelin Guide"
+    ],
+    "seoKeywords": [
+      "Guy Savoy Paris",
+      "3 Michelin stars",
+      "classic French cuisine",
+      "haute cuisine Paris"
+    ]
+  },
+  {
+    "id": "paris-marsan-par-helene-darroze",
+    "name": "Marsan par Hélène Darroze",
+    "description": "Two-Michelin-starred restaurant by chef Hélène Darroze, offering modern French elegance with consistent quality and innovative culinary techniques.",
+    "reviewSummary": "2★ Michelin consistency",
+    "cuisine": [
+      "Modern French Elegance",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 670,
+    "address": {
+      "street": "6th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75006"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "👩‍🍳",
+      "gallery": []
+    },
+    "features": [
+      "2 Michelin Stars",
+      "Modern French",
+      "Consistent Quality",
+      "Female Chef"
+    ],
+    "specialties": [
+      "Modern French Elegance",
+      "Innovative Techniques",
+      "Consistent Excellence"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Restaurant Reviews"
+    ],
+    "seoKeywords": [
+      "Marsan Hélène Darroze",
+      "modern French elegance",
+      "2 Michelin stars",
+      "female chef Paris"
+    ]
+  },
+  {
+    "id": "paris-david-toutain",
+    "name": "David Toutain",
+    "description": "Creative contemporary French restaurant known for modern, vegetable-forward dishes and innovative culinary techniques by chef David Toutain.",
+    "reviewSummary": "Modern, vegetable-forward dishes",
+    "cuisine": [
+      "Creative French Contemporary",
+      "Vegetable-forward"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 520,
+    "address": {
+      "street": "7th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75007"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥕",
+      "gallery": []
+    },
+    "features": [
+      "Creative Contemporary",
+      "Vegetable-forward",
+      "Modern Techniques",
+      "Innovative Menu"
+    ],
+    "specialties": [
+      "Creative French Contemporary",
+      "Vegetable-focused Dishes",
+      "Modern Cooking Techniques"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Restaurant Reviews",
+      "Food Guides"
+    ],
+    "seoKeywords": [
+      "David Toutain Paris",
+      "creative French contemporary",
+      "vegetable-forward restaurant",
+      "modern French cuisine"
+    ]
+  },
+  {
+    "id": "paris-le-jules-verne",
+    "name": "Le Jules Verne",
+    "description": "Upscale classic French restaurant located in the iconic Eiffel Tower, offering refined cuisine with spectacular scenic views of Paris.",
+    "reviewSummary": "Scenic location, refined menu",
+    "cuisine": [
+      "Upscale Classic French",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.3,
+    "reviewCount": 1500,
+    "address": {
+      "street": "7th Arrondissement (Eiffel Tower)",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75007"
+    },
+    "location": {
+      "lat": 48.8584,
+      "lng": 2.2945
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🗼",
+      "gallery": []
+    },
+    "features": [
+      "Eiffel Tower Location",
+      "Scenic Views",
+      "Classic French",
+      "Tourist Destination"
+    ],
+    "specialties": [
+      "Classic French Cuisine",
+      "Panoramic Views",
+      "Iconic Location"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Eiffel Tower",
+      "Tourist Reviews"
+    ],
+    "seoKeywords": [
+      "Le Jules Verne",
+      "Eiffel Tower restaurant",
+      "scenic dining Paris",
+      "upscale French restaurant"
+    ]
+  },
+  {
+    "id": "paris-septime",
+    "name": "Septime",
+    "description": "Popular vegetable-led bistronomy restaurant offering modern French cuisine with excellent wine pairings, though reviews are mixed on consistency.",
+    "reviewSummary": "Mixed reviews; praised wine pairing",
+    "cuisine": [
+      "Vegetable-led Bistronomy",
+      "Modern French"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 890,
+    "address": {
+      "street": "11th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75011"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍾",
+      "gallery": []
+    },
+    "features": [
+      "Vegetable-led",
+      "Wine Pairing",
+      "Bistronomy",
+      "Modern French"
+    ],
+    "specialties": [
+      "Vegetable-led Bistronomy",
+      "Wine Pairing",
+      "Modern French Techniques"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Restaurant Reviews",
+      "Wine Guides"
+    ],
+    "seoKeywords": [
+      "Septime Paris",
+      "vegetable-led bistronomy",
+      "wine pairing restaurant",
+      "modern French bistro"
+    ]
+  },
+  {
+    "id": "paris-geosmine",
+    "name": "Géosmine",
+    "description": "Sustainable modern French restaurant recognized as Eater's 2025 top spot, showcasing young culinary talent with environmentally conscious cuisine.",
+    "reviewSummary": "Eater 2025 top spot; young talent",
+    "cuisine": [
+      "Sustainable Modern French",
+      "Contemporary"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 280,
+    "address": {
+      "street": "11th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75011"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌱",
+      "gallery": []
+    },
+    "features": [
+      "Sustainable Cuisine",
+      "Young Chef",
+      "Eater 2025 Top Spot",
+      "Modern French"
+    ],
+    "specialties": [
+      "Sustainable Modern French",
+      "Environmental Consciousness",
+      "Young Culinary Talent"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Eater 2025",
+      "Sustainable Dining Guides"
+    ],
+    "seoKeywords": [
+      "Géosmine Paris",
+      "sustainable modern French",
+      "Eater 2025 top restaurant",
+      "young chef Paris"
+    ]
+  },
+  {
+    "id": "paris-clamato",
+    "name": "Clamato",
+    "description": "Casual favorite seafood-focused restaurant offering small plates with fresh ingredients, recognized by Eater for its approachable yet quality dining experience.",
+    "reviewSummary": "Casual favorite, Eater-listed",
+    "cuisine": [
+      "Seafood-focused Small Plates",
+      "Casual Dining"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 620,
+    "address": {
+      "street": "11th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75011"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦪",
+      "gallery": []
+    },
+    "features": [
+      "Seafood Focus",
+      "Small Plates",
+      "Casual Dining",
+      "Eater Listed"
+    ],
+    "specialties": [
+      "Seafood Small Plates",
+      "Fresh Ingredients",
+      "Casual Atmosphere"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Eater",
+      "Seafood Restaurant Reviews"
+    ],
+    "seoKeywords": [
+      "Clamato Paris",
+      "seafood small plates",
+      "casual seafood restaurant",
+      "Eater listed restaurant"
+    ]
+  },
+  {
+    "id": "paris-elbi",
+    "name": "Elbi",
+    "description": "New 2025 gem offering French cuisine with Middle Eastern roots, showcasing high innovation and creative fusion techniques in modern Parisian dining.",
+    "reviewSummary": "New 2025 gem with high innovation",
+    "cuisine": [
+      "French with Middle Eastern Roots",
+      "Fusion"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 180,
+    "address": {
+      "street": "10th Arrondissement",
+      "city": "Paris",
+      "country": "France",
+      "postalCode": "75010"
+    },
+    "location": {
+      "lat": 48.8566,
+      "lng": 2.3522
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌟",
+      "gallery": []
+    },
+    "features": [
+      "New 2025 Opening",
+      "Fusion Cuisine",
+      "High Innovation",
+      "Middle Eastern Influence"
+    ],
+    "specialties": [
+      "French-Middle Eastern Fusion",
+      "Innovative Techniques",
+      "Creative Menu"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "2025 Restaurant Guides",
+      "New Opening Reviews"
+    ],
+    "seoKeywords": [
+      "Elbi Paris",
+      "French Middle Eastern fusion",
+      "new restaurant 2025",
+      "innovative Paris dining"
+    ]
+  }
+]

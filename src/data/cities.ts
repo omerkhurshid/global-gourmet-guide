@@ -123,7 +123,7 @@ export const cities: City[] = [
       "where to eat Paris",
       "Parisian restaurants"
     ],
-    featuredRestaurants: [],
+    featuredRestaurants: ["paris-kei", "paris-lambroisie", "paris-guy-savoy"],
     totalRestaurants: 20
   },
   {

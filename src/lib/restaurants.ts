@@ -10,6 +10,8 @@ import gujranwalaRestaurantsData from "@/data/restaurants/pakistan/gujranwala.js
 // USA restaurants
 import newYorkRestaurantsData from "@/data/restaurants/usa/new-york.json"
 import losAngelesRestaurantsData from "@/data/restaurants/usa/los-angeles.json"
+// France restaurants
+import parisRestaurantsData from "@/data/restaurants/france/paris.json"
 
 // Type assertion to ensure the imported JSON matches our Restaurant interface
 export const londonRestaurants: Restaurant[] = londonRestaurantsData as Restaurant[]
@@ -20,6 +22,7 @@ export const peshawarRestaurants: Restaurant[] = peshawarRestaurantsData as Rest
 export const gujranwalaRestaurants: Restaurant[] = gujranwalaRestaurantsData as Restaurant[]
 export const newYorkRestaurants: Restaurant[] = newYorkRestaurantsData as Restaurant[]
 export const losAngelesRestaurants: Restaurant[] = losAngelesRestaurantsData as Restaurant[]
+export const parisRestaurants: Restaurant[] = parisRestaurantsData as Restaurant[]
 
 // Map city slugs to restaurant data
 export const restaurantData: Record<string, Restaurant[]> = {
@@ -31,6 +34,7 @@ export const restaurantData: Record<string, Restaurant[]> = {
   gujranwala: gujranwalaRestaurants,
   "new-york": newYorkRestaurants,
   "los-angeles": losAngelesRestaurants,
+  paris: parisRestaurants,
 }
 
 export function getRestaurantsByCity(citySlug: string): Restaurant[] {
