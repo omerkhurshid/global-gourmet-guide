@@ -31,7 +31,7 @@ const nextConfig: NextConfig = {
     }
   ],
   
-  // Redirect old vercel domain to .tech domain
+  // Domain redirects for SEO consistency
   redirects: async () => [
     {
       source: '/:path*',
@@ -39,6 +39,17 @@ const nextConfig: NextConfig = {
         {
           type: 'host',
           value: 'restaurantsnearme.vercel.app',
+        },
+      ],
+      destination: 'https://restaurantsnearme.tech/:path*',
+      permanent: true,
+    },
+    {
+      source: '/:path*',
+      has: [
+        {
+          type: 'host',
+          value: 'www.restaurantsnearme.tech',
         },
       ],
       destination: 'https://restaurantsnearme.tech/:path*',

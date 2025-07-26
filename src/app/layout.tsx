@@ -5,6 +5,7 @@ import { Navigation } from "@/components/features/navigation";
 import { AdSenseScript } from "@/components/features/adsense";
 import { GoogleAnalytics } from "@/components/features/analytics";
 import { Analytics } from '@vercel/analytics/react';
+import { StructuredData } from "@/components/seo/structured-data";
 import { generateHomepageSEO } from "@/lib/seo";
 
 const inter = Inter({
@@ -68,6 +69,10 @@ export default function RootLayout({
         <GoogleAnalytics />
       </head>
       <body className={`${inter.variable} font-sans antialiased bg-gray-50`}>
+        <StructuredData 
+          type="website" 
+          data={{}} 
+        />
         <Navigation />
         <main>{children}</main>
         <Analytics />
