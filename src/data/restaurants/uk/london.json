@@ -1,25 +1,25 @@
 [
   {
-    "id": "london-dishoom",
-    "name": "Dishoom",
-    "description": "Retro-themed Indian dining chain loved for its ambiance and all-day menu.",
-    "reviewSummary": "Bombay-style café known for its black daal and bacon naan.",
+    "id": "london-miga",
+    "name": "Miga",
+    "description": "Modern Korean with standout dishes like beef tartare yughwe and braised short ribs. Cozy, family-run feel with stylish plates.",
+    "reviewSummary": "Time Out's #1 restaurant for 2025. Modern Korean cuisine with exceptional beef tartare and intimate atmosphere.",
     "cuisine": [
-      "Indian",
-      "Bombay Café"
+      "Modern Korean",
+      "Contemporary Asian"
     ],
     "priceLevel": "$$",
-    "rating": 4.6,
-    "reviewCount": 2376,
+    "rating": 4.8,
+    "reviewCount": 324,
     "address": {
-      "street": "Covent Garden",
+      "street": "Hackney",
       "city": "London",
       "country": "United Kingdom",
       "postalCode": ""
     },
     "location": {
-      "lat": 51.52274364719448,
-      "lng": -0.08684796422874155
+      "lat": 51.5454,
+      "lng": -0.0735
     },
     "contact": {
       "phone": "",
@@ -27,36 +27,146 @@
       "email": ""
     },
     "images": {
-      "hero": "🍛",
+      "hero": "🥩",
       "gallery": []
     },
     "features": [
-      "Signature Dishes"
+      "Time Out #1 (2025)",
+      "Family-run",
+      "Modern Korean"
     ],
     "specialties": [
-      "Black daal",
-      "Bacon naan"
+      "Beef tartare yughwe",
+      "Braised short ribs",
+      "Korean fusion dishes"
     ],
-    "lastUpdated": "2025-01-25",
+    "lastUpdated": "2025-01-26",
     "sources": [
-      "Time Out",
+      "Time Out #1 (2025)",
       "Local Research"
     ],
     "seoKeywords": [
-      "Dishoom London",
-      "best restaurants London",
-      "Indian restaurant London",
-      "restaurants near me London",
-      "fine dining London"
+      "Miga London",
+      "best Korean restaurants London",
+      "Hackney restaurants",
+      "Time Out best restaurants 2025"
+    ]
+  },
+  {
+    "id": "london-oma",
+    "name": "Oma",
+    "description": "Live-fire Greek-influenced cooking in a minimalist open-kitchen setting. Seasonal fish and flatbreads are menu highlights.",
+    "reviewSummary": "Time Out #2 and Michelin recognized. Exceptional Greek-Mediterranean cuisine with live-fire cooking techniques.",
+    "cuisine": [
+      "Greek",
+      "Mediterranean"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.7,
+    "reviewCount": 267,
+    "address": {
+      "street": "Borough Market",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.5055,
+      "lng": -0.0910
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🐟",
+      "gallery": []
+    },
+    "features": [
+      "Time Out #2",
+      "Michelin",
+      "Open Kitchen",
+      "Live-fire Cooking"
+    ],
+    "specialties": [
+      "Seasonal fish",
+      "Flatbreads",
+      "Live-fire dishes"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Time Out #2 (2025)",
+      "Michelin"
+    ],
+    "seoKeywords": [
+      "Oma London",
+      "Greek restaurants London",
+      "Borough Market dining",
+      "Michelin restaurants London"
+    ]
+  },
+  {
+    "id": "london-plates",
+    "name": "Plates",
+    "description": "UK's first Michelin-starred vegan restaurant. Inventive plant-based tasting menus with artistic presentation.",
+    "reviewSummary": "Groundbreaking vegan fine dining that earned the UK's first Michelin star for plant-based cuisine.",
+    "cuisine": [
+      "Vegan",
+      "Plant-based",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 189,
+    "address": {
+      "street": "Shoreditch",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.5244,
+      "lng": -0.0807
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌱",
+      "gallery": []
+    },
+    "features": [
+      "Michelin Star",
+      "UK's First Vegan Michelin Star",
+      "Artistic Presentation"
+    ],
+    "specialties": [
+      "Plant-based tasting menus",
+      "Artistic plating",
+      "Innovative vegan dishes"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Plates London",
+      "vegan Michelin star London",
+      "plant-based fine dining",
+      "Shoreditch restaurants"
     ]
   },
   {
     "id": "london-core-by-clare-smyth",
-    "name": "Core by Clare Smyth",
-    "description": "Modern, minimalist restaurant run by Clare Smyth (ex-Ramsay protégé).",
-    "reviewSummary": "Refined British cuisine using sustainable local ingredients.",
+    "name": "CORE by Clare Smyth",
+    "description": "Refined modern British cuisine with seasonal ingredients. Elegant yet unpretentious dining room.",
+    "reviewSummary": "Three Michelin stars. Clare Smyth's flagship restaurant showcasing the finest of modern British cooking.",
     "cuisine": [
-      "Modern British",
+      "Contemporary British",
       "Fine Dining"
     ],
     "priceLevel": "$$$",
@@ -69,8 +179,8 @@
       "postalCode": ""
     },
     "location": {
-      "lat": 51.51994427554802,
-      "lng": -0.0946258410827398
+      "lat": 51.5199,
+      "lng": -0.0946
     },
     "contact": {
       "phone": "",
@@ -82,22 +192,350 @@
       "gallery": []
     },
     "features": [
-      "Fine Dining"
+      "Michelin 3-Star",
+      "Modern British",
+      "Seasonal Menu",
+      "Elegant Dining"
     ],
     "specialties": [
-      "Chef Specials"
+      "Seasonal British ingredients",
+      "Modern techniques",
+      "Refined presentations"
     ],
-    "lastUpdated": "2025-01-25",
+    "lastUpdated": "2025-01-26",
     "sources": [
-      "Michelin 3-star",
+      "Michelin 3-Star",
       "Local Research"
     ],
     "seoKeywords": [
-      "Core by Clare Smyth London",
+      "CORE Clare Smyth London",
+      "three Michelin star London",
       "best restaurants London",
-      "Modern British restaurant London",
-      "restaurants near me London",
-      "fine dining London"
+      "modern British cuisine"
+    ]
+  },
+  {
+    "id": "london-the-ledbury",
+    "name": "The Ledbury",
+    "description": "Top-tier modern European cuisine. Known for exceptional service and precision in every course.",
+    "reviewSummary": "Two Michelin stars. Consistently ranked among London's finest for modern European excellence.",
+    "cuisine": [
+      "Modern European",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 892,
+    "address": {
+      "street": "Notting Hill",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.5201,
+      "lng": -0.0951
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 2-Star",
+      "Exceptional Service",
+      "Modern European",
+      "Precision Cooking"
+    ],
+    "specialties": [
+      "Modern European cuisine",
+      "Precision techniques",
+      "Exceptional service"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin 2-Star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "The Ledbury London",
+      "two Michelin star London",
+      "modern European cuisine",
+      "fine dining Notting Hill"
+    ]
+  },
+  {
+    "id": "london-restaurant-gordon-ramsay",
+    "name": "Restaurant Gordon Ramsay",
+    "description": "Classic French haute cuisine. London's longest-running 3-star experience. Timeless and polished.",
+    "reviewSummary": "Three Michelin stars since 2001. Gordon Ramsay's flagship restaurant epitomizes classic French fine dining.",
+    "cuisine": [
+      "French",
+      "Haute Cuisine"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 743,
+    "address": {
+      "street": "Chelsea",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.4932,
+      "lng": -0.1632
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 3-Star",
+      "Longest-running 3-star",
+      "Classic French",
+      "Timeless Elegance"
+    ],
+    "specialties": [
+      "Classic French haute cuisine",
+      "Traditional techniques",
+      "Elegant presentations"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin 3-Star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Restaurant Gordon Ramsay London",
+      "three Michelin star Chelsea",
+      "French fine dining London",
+      "Gordon Ramsay restaurant"
+    ]
+  },
+  {
+    "id": "london-helene-darroze",
+    "name": "Helene Darroze at The Connaught",
+    "description": "Artful French cuisine in a luxurious hotel setting. Emphasis on detail and ingredient stories.",
+    "reviewSummary": "Three Michelin stars in Mayfair's most luxurious hotel. French artistry meets impeccable service.",
+    "cuisine": [
+      "Modern French",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 456,
+    "address": {
+      "street": "Mayfair",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.5129,
+      "lng": -0.1441
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏨",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 3-Star",
+      "Luxury Hotel Setting",
+      "French Artistry",
+      "Ingredient Stories"
+    ],
+    "specialties": [
+      "Artful French cuisine",
+      "Luxury hotel dining",
+      "Detailed presentations"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin 3-Star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Helene Darroze Connaught London",
+      "three Michelin star Mayfair",
+      "French cuisine London",
+      "luxury hotel dining"
+    ]
+  },
+  {
+    "id": "london-sketch",
+    "name": "Sketch (Lecture Room)",
+    "description": "Playful, eclectic French-inspired tasting menus in a whimsical interior. Dining as performance.",
+    "reviewSummary": "Three Michelin stars in London's most theatrical dining room. French-inspired cuisine meets artistic performance.",
+    "cuisine": [
+      "French-inspired",
+      "Theatrical Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 1234,
+    "address": {
+      "street": "Mayfair",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.5154,
+      "lng": -0.1426
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🎭",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 3-Star",
+      "Theatrical Interior",
+      "Dining Performance",
+      "Whimsical Design"
+    ],
+    "specialties": [
+      "French-inspired tasting menus",
+      "Theatrical presentation",
+      "Artistic interiors"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin 3-Star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Sketch London",
+      "three Michelin star Mayfair",
+      "theatrical dining London",
+      "French-inspired cuisine"
+    ]
+  },
+  {
+    "id": "london-gymkhana",
+    "name": "Gymkhana",
+    "description": "Elite Indian dining with colonial club ambiance. Famous for tandoori lamb chops and biryanis.",
+    "reviewSummary": "Two Michelin stars. Mayfair's finest Indian restaurant with colonial club elegance and exceptional tandoori.",
+    "cuisine": [
+      "North Indian",
+      "Fine Dining Indian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 987,
+    "address": {
+      "street": "Mayfair",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.5098,
+      "lng": -0.1398
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍛",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 2-Star",
+      "Colonial Club Ambiance",
+      "Elite Indian Dining",
+      "Tandoori Specialties"
+    ],
+    "specialties": [
+      "Tandoori lamb chops",
+      "Biryanis",
+      "North Indian classics"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin 2-Star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Gymkhana London",
+      "two Michelin star Indian",
+      "best Indian restaurant London",
+      "Mayfair Indian dining"
+    ]
+  },
+  {
+    "id": "london-ikoyi",
+    "name": "Ikoyi",
+    "description": "West African-inspired tasting menus with British ingredients. Unique spice profiles and plating.",
+    "reviewSummary": "Michelin starred West African cuisine. Innovative fusion of African spices with British ingredients.",
+    "cuisine": [
+      "West African",
+      "British Fusion"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 342,
+    "address": {
+      "street": "Westminster",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 51.4975,
+      "lng": -0.1357
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌶️",
+      "gallery": []
+    },
+    "features": [
+      "Michelin Star",
+      "West African Inspired",
+      "British Ingredients",
+      "Unique Spice Profiles"
+    ],
+    "specialties": [
+      "West African-British fusion",
+      "Unique spice combinations",
+      "Innovative plating"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Ikoyi London",
+      "West African cuisine London",
+      "Michelin star Westminster",
+      "African-British fusion"
     ]
   }
 ]

@@ -23,51 +23,107 @@ export function RestaurantCard({
 
   if (variant === "compact") {
     return (
-      <div className="bg-white border border-gray-200 hover:border-black transition-colors duration-300 group">
-          <div className="p-8">
-            <div className="mb-6">
-              <h3 className="text-2xl font-black text-black mb-3 uppercase tracking-wide group-hover:text-gray-600 transition-colors">
-                {restaurant.name}
-              </h3>
-              <div className="text-sm text-gray-600 mb-4 uppercase tracking-wide">
-                {restaurant.cuisine.slice(0, 2).join(" • ")}
-                {restaurant.cuisine.length > 2 && " • MORE"}
-              </div>
-              <div className="flex items-center justify-between text-sm mb-6">
-                <div className="flex items-center space-x-6">
-                  <div className="flex items-center">
-                    <span className="font-black text-black mr-2">{formatRating(restaurant.rating)}</span>
-                    <span className="text-gray-400">({restaurant.reviewCount})</span>
-                  </div>
-                  <span className="text-black font-black uppercase tracking-wide">{formatPrice(restaurant.priceLevel)}</span>
+      <div className="bg-white border border-gray-200 hover:border-[#b07968] transition-colors duration-300 group shadow-sm hover:shadow-md">
+        <div className="p-8">
+          {/* Header Section */}
+          <div className="mb-6">
+            <div className="flex items-start justify-between mb-4">
+              <div className="flex-1">
+                <h3 className="text-2xl font-black mb-2 uppercase tracking-wide group-hover:text-[#8b6355] transition-colors" style={{color: '#8b6355'}}>
+                  {restaurant.name}
+                </h3>
+                <div className="text-sm mb-3 uppercase tracking-wide" style={{color: '#b07968'}}>
+                  {restaurant.cuisine.slice(0, 2).join(" • ")}
+                  {restaurant.cuisine.length > 2 && " • MORE"}
                 </div>
+              </div>
+              <div className="text-right">
+                <div className="text-3xl mb-2">{restaurant.images.hero}</div>
               </div>
             </div>
             
+            {/* Rating and Features */}
+            <div className="flex items-center justify-between text-sm mb-4">
+              <div className="flex items-center space-x-6">
+                <div className="flex items-center">
+                  <Star className="w-4 h-4 text-yellow-400 fill-current mr-1" />
+                  <span className="font-black mr-2" style={{color: '#8b6355'}}>{formatRating(restaurant.rating)}</span>
+                  <span className="text-gray-500">({restaurant.reviewCount})</span>
+                </div>
+                <span className="font-black uppercase tracking-wide" style={{color: '#b07968'}}>{formatPrice(restaurant.priceLevel)}</span>
+              </div>
+            </div>
+
+            {/* Features/Recognition */}
+            {restaurant.features && restaurant.features.length > 0 && (
+              <div className="flex flex-wrap gap-2 mb-4">
+                {restaurant.features.slice(0, 3).map((feature, index) => (
+                  <span
+                    key={index}
+                    className="px-2 py-1 text-xs font-medium rounded-full"
+                    style={{backgroundColor: '#f3e8e4', color: '#8b6355'}}
+                  >
+                    {feature}
+                  </span>
+                ))}
+              </div>
+            )}
+          </div>
+          
+          {/* Description */}
+          <div className="mb-6">
+            <p className="text-sm leading-relaxed mb-3" style={{color: '#8b6355'}}>
+              {restaurant.description}
+            </p>
             {restaurant.reviewSummary && (
-              <div className="border-t border-gray-200 pt-6 mb-6">
-                <p className="text-sm text-gray-600 leading-relaxed">
+              <div className="border-l-4 pl-4 mb-4" style={{borderColor: '#e6d1c9'}}>
+                <p className="text-sm leading-relaxed italic" style={{color: '#b07968'}}>
                   {restaurant.reviewSummary}
                 </p>
               </div>
             )}
-            
-            <div className="flex items-center justify-between">
-              <div className="text-sm text-gray-600 uppercase tracking-wide">
-                {formatAddress(restaurant.address)}
-              </div>
-              {restaurant.spotlight && (
-                <Link 
-                  href={`/spotlight/${citySlug}/${restaurantSlug}`}
-                  className="inline-flex items-center px-3 py-1 text-xs font-medium rounded-full transition-colors hover:bg-[#e6d1c9]"
-                  style={{backgroundColor: '#f3e8e4', color: '#8b6355'}}
-                >
-                  <FileText className="w-3 h-3 mr-1" />
-                  Spotlight
-                </Link>
-              )}
-            </div>
           </div>
+
+          {/* Specialties */}
+          {restaurant.specialties && restaurant.specialties.length > 0 && (
+            <div className="mb-6">
+              <h4 className="text-xs font-black uppercase tracking-wide mb-2" style={{color: '#8b6355'}}>
+                Signature Dishes
+              </h4>
+              <div className="flex flex-wrap gap-2">
+                {restaurant.specialties.slice(0, 3).map((specialty, index) => (
+                  <span
+                    key={index}
+                    className="px-3 py-1 text-xs rounded-full border"
+                    style={{borderColor: '#e6d1c9', color: '#8b6355'}}
+                  >
+                    {specialty}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+          
+          {/* Footer */}
+          <div className="flex items-center justify-between pt-4 border-t" style={{borderColor: '#f3e8e4'}}>
+            <div className="flex items-center text-sm" style={{color: '#b07968'}}>
+              <MapPin className="w-4 h-4 mr-1" />
+              <span className="uppercase tracking-wide">
+                {formatAddress(restaurant.address)}
+              </span>
+            </div>
+            {restaurant.spotlight && (
+              <Link 
+                href={`/spotlight/${citySlug}/${restaurantSlug}`}
+                className="inline-flex items-center px-3 py-1 text-xs font-medium rounded-full transition-colors hover:bg-[#e6d1c9]"
+                style={{backgroundColor: '#f3e8e4', color: '#8b6355'}}
+              >
+                <FileText className="w-3 h-3 mr-1" />
+                Spotlight
+              </Link>
+            )}
+          </div>
+        </div>
       </div>
     )
   }
