@@ -74,89 +74,84 @@ export default async function CityPage({ params }: CityPageProps) {
       <CityHero city={city} />
 
       {/* Restaurant Listings */}
-      <section className="py-12">
+      <section className="py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Section Header */}
-          <div className="mb-8">
-            <h2 className="text-3xl font-bold text-gray-900 mb-2">
-              Top Restaurants in {city.name}
+          <div className="mb-16 text-center">
+            <h2 className="text-4xl md:text-6xl font-black text-black mb-6 tracking-tight uppercase">
+              {city.name}
             </h2>
-            <p className="text-gray-600">
-              Discover {restaurants.length} carefully curated dining experiences
+            <p className="text-lg text-gray-600 uppercase tracking-wide">
+              {restaurants.length} CURATED DINING EXPERIENCES
             </p>
           </div>
 
           {/* Restaurant List */}
           {restaurants.length > 0 ? (
             <>
-              {/* All Restaurants */}
-              <div>
-                <h3 className="text-2xl font-bold text-gray-900 mb-6">
-                  Top Restaurants in {city.name}
-                </h3>
-                <div className="space-y-6">
-                  {restaurants.map((restaurant) => (
-                    <RestaurantCard
-                      key={restaurant.id}
-                      restaurant={restaurant}
-                      variant="compact"
-                    />
-                  ))}
-                </div>
+              <div className="space-y-8">
+                {restaurants.map((restaurant) => (
+                  <RestaurantCard
+                    key={restaurant.id}
+                    restaurant={restaurant}
+                    variant="compact"
+                  />
+                ))}
               </div>
 
               {/* Load More */}
-              <div className="text-center mt-12">
-                <p className="text-gray-600 mb-4">
+              <div className="text-center mt-20">
+                <p className="text-gray-600 mb-8 uppercase tracking-wide text-sm">
                   Showing {restaurants.length} restaurants in {city.name}
                 </p>
-                <Button variant="outline" size="lg">
+                <button className="border border-black px-8 py-3 text-black font-black uppercase tracking-wide text-sm hover:bg-black hover:text-white transition-colors">
                   Load More Restaurants
-                </Button>
+                </button>
               </div>
             </>
           ) : (
             /* Empty State */
-            <div className="text-center py-16">
-              <MapPin className="w-16 h-16 text-gray-300 mx-auto mb-4" />
-              <h3 className="text-xl font-semibold text-gray-900 mb-2">
-                Coming Soon!
+            <div className="text-center py-32">
+              <h3 className="text-3xl font-black text-black mb-6 uppercase tracking-wide">
+                Coming Soon
               </h3>
-              <p className="text-gray-600 mb-6 max-w-md mx-auto">
-                We're currently curating the best restaurants in {city.name}. 
-                Check back soon for amazing dining recommendations!
+              <p className="text-gray-600 mb-12 max-w-md mx-auto uppercase tracking-wide text-sm">
+                We're currently curating the best restaurants in {city.name}.<br />
+                Check back soon for amazing dining recommendations.
               </p>
-              <Button variant="outline">
+              <button className="border border-black px-8 py-3 text-black font-black uppercase tracking-wide text-sm hover:bg-black hover:text-white transition-colors">
                 Notify Me When Available
-              </Button>
+              </button>
             </div>
           )}
         </div>
       </section>
 
       {/* City Info Section */}
-      <section className="py-16 bg-white">
+      <section className="py-24 bg-white">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <h2 className="text-3xl font-bold text-gray-900 mb-6">
+          <div className="text-center mb-16">
+            <h2 className="text-3xl md:text-4xl font-black text-black mb-8 uppercase tracking-wide">
               About Dining in {city.name}
             </h2>
-            <p className="text-lg text-gray-600 leading-relaxed">
+            <p className="text-lg text-gray-600 leading-relaxed max-w-2xl mx-auto">
               {city.description}
             </p>
-            
-            {/* SEO Content */}
-            <div className="mt-8 text-left">
-              <h3 className="text-xl font-semibold text-gray-900 mb-4">
+          </div>
+          
+          {/* SEO Content */}
+          <div className="text-left space-y-8">
+            <div>
+              <h3 className="text-xl font-black text-black mb-4 uppercase tracking-wide">
                 Best Restaurants Near You in {city.name}
               </h3>
-              <p className="text-gray-600 mb-4">
+              <p className="text-gray-600 mb-4 leading-relaxed">
                 Looking for the best restaurants in {city.name}? You've come to the right place. 
                 Our curated list features top-rated dining spots, from local favorites to 
                 internationally acclaimed establishments. Whether you're searching for 
                 "restaurants near me" or planning a special dining experience, we've got you covered.
               </p>
-              <p className="text-gray-600">
+              <p className="text-gray-600 leading-relaxed">
                 Discover amazing {city.name} restaurants offering diverse cuisines, 
                 from traditional local dishes to international flavors. Each restaurant 
                 has been carefully selected based on quality, reviews, and dining experience 

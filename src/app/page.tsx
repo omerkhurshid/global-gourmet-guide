@@ -36,98 +36,95 @@ export default function Home() {
       </section>
 
       {/* Hero Content Section */}
-      <section className="py-16 bg-white">
-        <div className="max-w-5xl mx-auto text-center px-4 sm:px-6 lg:px-8">
-          <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
-            Discover the World's Best
-            <span className="block text-5xl md:text-7xl bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
-              Restaurants near you
-            </span>
-          </h1>
-          
-          <p className="text-lg md:text-xl text-gray-700 mb-8 font-medium leading-relaxed max-w-3xl mx-auto">
-            Find amazing dining experiences in top cities worldwide. From hidden gems to Michelin-starred establishments.
-          </p>
-          
-          {/* Search Bar */}
-          <div className="max-w-2xl mx-auto mb-12">
-            <SearchBar placeholder="Search for restaurants, cities, or cuisines..." />
+      <section className="py-20 bg-gray-50">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Massive Typography Treatment */}
+          <div className="text-center mb-16">
+            <h1 className="text-6xl md:text-8xl lg:text-9xl font-black text-black leading-none tracking-tight mb-8">
+              RESTAURANTS
+            </h1>
+            <p className="text-lg md:text-xl text-gray-600 max-w-2xl mx-auto mb-12 leading-relaxed">
+              CURATED DINING EXPERIENCES<br />
+              IN TOP CITIES WORLDWIDE
+            </p>
           </div>
           
-          {/* Stats */}
-          <div className="flex items-center justify-center space-x-8 md:space-x-12 text-gray-700">
-            <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-orange-600 mb-2">70+</div>
-              <div className="text-sm md:text-base font-medium">Premium Restaurants</div>
+          {/* Clean Search Bar */}
+          <div className="max-w-xl mx-auto mb-20">
+            <div className="relative">
+              <input
+                type="text"
+                placeholder="Search restaurants, cities, cuisines..."
+                className="w-full px-6 py-4 text-lg border border-gray-300 rounded-none bg-white focus:outline-none focus:border-black transition-colors"
+              />
             </div>
-            <div className="w-px h-16 bg-gray-300" />
-            <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-orange-600 mb-2">11</div>
-              <div className="text-sm md:text-base font-medium">Global Cities</div>
+          </div>
+          
+          {/* Minimal Stats */}
+          <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center">
+            <div>
+              <div className="text-3xl md:text-4xl font-black text-black mb-2">70+</div>
+              <div className="text-sm text-gray-600 uppercase tracking-wide">RESTAURANTS</div>
             </div>
-            <div className="w-px h-16 bg-gray-300" />
-            <div className="text-center">
-              <div className="text-3xl md:text-4xl font-bold text-orange-600 mb-2">5</div>
-              <div className="text-sm md:text-base font-medium">Countries</div>
+            <div>
+              <div className="text-3xl md:text-4xl font-black text-black mb-2">11</div>
+              <div className="text-sm text-gray-600 uppercase tracking-wide">CITIES</div>
+            </div>
+            <div>
+              <div className="text-3xl md:text-4xl font-black text-black mb-2">5</div>
+              <div className="text-sm text-gray-600 uppercase tracking-wide">COUNTRIES</div>
             </div>
           </div>
         </div>
       </section>
 
       {/* Cities by Country */}
-      <section className="py-16 bg-gray-50">
+      <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
-              Explore Cities by Country
+          <div className="text-center mb-20">
+            <h2 className="text-4xl md:text-6xl font-black text-black mb-6 tracking-tight">
+              EXPLORE CITIES
             </h2>
-            <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Discover the best restaurants in top culinary destinations worldwide
+            <p className="text-lg text-gray-600 max-w-xl mx-auto uppercase tracking-wide">
+              TOP CULINARY DESTINATIONS WORLDWIDE
             </p>
           </div>
           
-          <div className="space-y-12">
+          <div className="space-y-20">
             {Object.entries(citiesByCountry).map(([country, countryCities]) => (
-              <div key={country} className="space-y-6">
+              <div key={country} className="space-y-12">
                 <div className="text-center">
-                  <h3 className="text-2xl font-bold text-gray-900 mb-2">{country}</h3>
-                  <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-green-500 mx-auto rounded-full"></div>
+                  <h3 className="text-2xl md:text-3xl font-black text-black mb-8 uppercase tracking-wide">{country}</h3>
                 </div>
                 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
                   {countryCities.map((city) => (
                     <Link
                       key={city.id}
                       href={`/${generateCitySlug(city.name)}`}
-                      className="group relative bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-all duration-300 transform hover:-translate-y-1"
+                      className="group"
                     >
-                      <div className="relative h-48 overflow-hidden">
-                        <Image
-                          src={city.heroImage}
-                          alt={city.name}
-                          fill
-                          className="object-cover group-hover:scale-105 transition-transform duration-500"
-                          priority={city.name === "New York" || city.name === "London"}
-                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
-                          quality={85}
-                        />
-                        <div className="absolute inset-0 bg-gradient-to-t from-black/50 via-transparent to-transparent" />
-                        <div className="absolute bottom-4 left-4 text-white">
-                          <h4 className="text-xl font-bold mb-1">{city.name}</h4>
-                          <div className="flex items-center text-sm">
-                            <Utensils className="w-3 h-3 mr-1" />
-                            {city.totalRestaurants} Restaurants
-                          </div>
+                      <div className="bg-white border border-gray-200 hover:border-black transition-colors duration-300">
+                        <div className="relative h-64 overflow-hidden">
+                          <Image
+                            src={city.heroImage}
+                            alt={city.name}
+                            fill
+                            className="object-cover"
+                            priority={city.name === "New York" || city.name === "London"}
+                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
+                            quality={85}
+                          />
                         </div>
-                      </div>
-                      
-                      <div className="p-4">
-                        <p className="text-gray-600 text-sm mb-3 line-clamp-2">
-                          {city.description}
-                        </p>
-                        <div className="flex items-center text-blue-600 font-medium text-sm group-hover:text-blue-700 transition-colors">
-                          Explore Now
-                          <ArrowRight className="w-3 h-3 ml-1 group-hover:translate-x-1 transition-transform" />
+                        
+                        <div className="p-8">
+                          <h4 className="text-xl font-black text-black mb-2 uppercase tracking-wide">{city.name}</h4>
+                          <div className="text-sm text-gray-600 mb-4 uppercase tracking-wide">
+                            {city.totalRestaurants} RESTAURANTS
+                          </div>
+                          <p className="text-gray-600 text-sm leading-relaxed line-clamp-3">
+                            {city.description}
+                          </p>
                         </div>
                       </div>
                     </Link>
@@ -140,10 +137,10 @@ export default function Home() {
       </section>
 
       {/* Advertisement */}
-      <section className="py-8 bg-gray-100">
+      <section className="py-16 bg-gray-50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-4">
-            <span className="text-sm text-gray-500">Advertisement</span>
+          <div className="text-center mb-8">
+            <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
           </div>
           <AdSenseAd 
             adSlot="1234567890" 
@@ -152,22 +149,24 @@ export default function Home() {
         </div>
       </section>
 
-
       {/* CTA Section */}
-      <section className="py-20 bg-black text-white">
-        <div className="max-w-4xl mx-auto text-center px-4 sm:px-6 lg:px-8">
-          <MapPin className="w-16 h-16 mx-auto mb-6 text-blue-400" />
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Find Your Next Great Meal
+      <section className="py-32 bg-black text-white">
+        <div className="max-w-6xl mx-auto text-center px-4 sm:px-6 lg:px-8">
+          <h2 className="text-5xl md:text-7xl font-black mb-8 leading-none tracking-tight">
+            FIND YOUR<br />
+            NEXT MEAL
           </h2>
-          <p className="text-xl text-gray-300 mb-8 max-w-2xl mx-auto">
-            Whether you're looking for fine dining, street food, or something in between, 
-            we'll help you discover the best restaurants near you.
+          <p className="text-lg text-gray-300 max-w-xl mx-auto mb-16 uppercase tracking-wide leading-relaxed">
+            FROM FINE DINING TO STREET FOOD<br />
+            DISCOVER THE BEST RESTAURANTS NEAR YOU
           </p>
-          <SearchBar 
-            placeholder="Search restaurants worldwide..." 
-            className="max-w-xl mx-auto"
-          />
+          <div className="max-w-xl mx-auto">
+            <input
+              type="text"
+              placeholder="Search restaurants worldwide..."
+              className="w-full px-6 py-4 text-lg bg-transparent border border-white text-white placeholder-gray-400 focus:outline-none focus:border-gray-300 transition-colors"
+            />
+          </div>
         </div>
       </section>
     </div>

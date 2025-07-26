@@ -23,65 +23,38 @@ export function RestaurantCard({
 
   if (variant === "compact") {
     return (
-      <div className="bg-white rounded-2xl shadow-sm hover:shadow-md transition-all duration-300 group overflow-hidden border border-gray-100">
+      <div className="bg-white border border-gray-200 hover:border-black transition-colors duration-300 group">
         <Link href={restaurantUrl} className="block">
-          <div className="p-6">
-            <div className="flex items-start justify-between mb-4">
-              <div className="flex items-center space-x-4 flex-1 min-w-0">
-                <div className="w-14 h-14 rounded-full bg-gradient-to-br from-orange-50 to-orange-100 flex-shrink-0 flex items-center justify-center group-hover:from-orange-100 group-hover:to-orange-200 transition-colors">
-                  <span className="text-2xl">{restaurant.images.hero}</span>
-                </div>
-                <div className="flex-1 min-w-0">
-                  <h3 className="font-bold text-xl text-gray-900 mb-1 group-hover:text-orange-600 transition-colors">
-                    {restaurant.name}
-                  </h3>
-                  <p className="text-sm text-gray-600 mb-2">{restaurant.cuisine.join(" • ")}</p>
-                  <div className="flex items-center space-x-4">
-                    <div className="flex items-center">
-                      <Star className="w-4 h-4 text-yellow-400 fill-current mr-1" />
-                      <span className="text-sm font-semibold text-gray-800">{formatRating(restaurant.rating)}</span>
-                      <span className="text-sm text-gray-500 ml-1">({restaurant.reviewCount})</span>
-                    </div>
-                    <div className="flex items-center">
-                      <span className="text-lg font-bold text-orange-600">{formatPrice(restaurant.priceLevel)}</span>
-                    </div>
+          <div className="p-8">
+            <div className="mb-6">
+              <h3 className="text-2xl font-black text-black mb-3 uppercase tracking-wide group-hover:text-gray-600 transition-colors">
+                {restaurant.name}
+              </h3>
+              <div className="text-sm text-gray-600 mb-4 uppercase tracking-wide">
+                {restaurant.cuisine.slice(0, 2).join(" • ")}
+                {restaurant.cuisine.length > 2 && " • MORE"}
+              </div>
+              <div className="flex items-center justify-between text-sm mb-6">
+                <div className="flex items-center space-x-6">
+                  <div className="flex items-center">
+                    <span className="font-black text-black mr-2">{formatRating(restaurant.rating)}</span>
+                    <span className="text-gray-400">({restaurant.reviewCount})</span>
                   </div>
+                  <span className="text-black font-black uppercase tracking-wide">{formatPrice(restaurant.priceLevel)}</span>
                 </div>
               </div>
             </div>
             
             {restaurant.reviewSummary && (
-              <div className="bg-gray-50 rounded-lg p-3 mb-3">
-                <p className="text-sm text-gray-700 italic">"{restaurant.reviewSummary}"</p>
+              <div className="border-t border-gray-200 pt-6 mb-6">
+                <p className="text-sm text-gray-600 leading-relaxed">
+                  {restaurant.reviewSummary}
+                </p>
               </div>
             )}
             
-            <div className="flex items-center justify-between text-sm">
-              <div className="flex items-center text-gray-500">
-                <MapPin className="w-4 h-4 mr-1" />
-                <span className="truncate">{formatAddress(restaurant.address)}</span>
-              </div>
-              <div className="flex items-center space-x-2 ml-4">
-                {restaurant.contact.phone && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a href={`tel:${restaurant.contact.phone}`} className="flex items-center">
-                      <Phone className="w-4 h-4" />
-                    </a>
-                  </Button>
-                )}
-                {restaurant.contact.website && (
-                  <Button variant="ghost" size="sm" asChild>
-                    <a
-                      href={restaurant.contact.website}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center"
-                    >
-                      <ExternalLink className="w-4 h-4" />
-                    </a>
-                  </Button>
-                )}
-              </div>
+            <div className="text-sm text-gray-600 uppercase tracking-wide">
+              {formatAddress(restaurant.address)}
             </div>
           </div>
         </Link>
