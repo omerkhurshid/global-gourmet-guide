@@ -15,6 +15,10 @@ import houstonRestaurantsData from "@/data/restaurants/usa/houston.json"
 import sanFranciscoRestaurantsData from "@/data/restaurants/usa/san-francisco.json"
 // France restaurants
 import parisRestaurantsData from "@/data/restaurants/france/paris.json"
+// India restaurants
+import delhiRestaurantsData from "@/data/restaurants/india/delhi.json"
+import mumbaiRestaurantsData from "@/data/restaurants/india/mumbai.json"
+import bangaloreRestaurantsData from "@/data/restaurants/india/bangalore.json"
 
 // Type assertion to ensure the imported JSON matches our Restaurant interface
 export const londonRestaurants: Restaurant[] = londonRestaurantsData as Restaurant[]
@@ -29,6 +33,9 @@ export const chicagoRestaurants: Restaurant[] = chicagoRestaurantsData as Restau
 export const houstonRestaurants: Restaurant[] = houstonRestaurantsData as Restaurant[]
 export const sanFranciscoRestaurants: Restaurant[] = sanFranciscoRestaurantsData as Restaurant[]
 export const parisRestaurants: Restaurant[] = parisRestaurantsData as Restaurant[]
+export const delhiRestaurants: Restaurant[] = delhiRestaurantsData as Restaurant[]
+export const mumbaiRestaurants: Restaurant[] = mumbaiRestaurantsData as Restaurant[]
+export const bangaloreRestaurants: Restaurant[] = bangaloreRestaurantsData as Restaurant[]
 
 // Map city slugs to restaurant data
 export const restaurantData: Record<string, Restaurant[]> = {
@@ -44,6 +51,9 @@ export const restaurantData: Record<string, Restaurant[]> = {
   houston: houstonRestaurants,
   "san-francisco": sanFranciscoRestaurants,
   paris: parisRestaurants,
+  delhi: delhiRestaurants,
+  mumbai: mumbaiRestaurants,
+  bangalore: bangaloreRestaurants,
 }
 
 export function getRestaurantsByCity(citySlug: string): Restaurant[] {

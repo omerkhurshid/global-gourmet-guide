@@ -1,0 +1,350 @@
+[
+  {
+    "id": "bangalore-karavalli",
+    "name": "Karavalli",
+    "description": "As a newcomer wandering the foodscape of Bangalore, stepping into Karavalli felt like discovering a hidden coastal paradise in the heart of India's Silicon Valley, where the flavors of South India's diverse coastal regions converge in a garden-style setting that feels both elegant and authentically rooted. This isn't just another coastal restaurant—it's a celebration of the incredible diversity of South Indian cuisine, where each dish tells the story of a different coastal community and their unique relationship with the sea. The banana leaf thalis arrive like edible maps of coastal India, each component carefully chosen to showcase the regional specialties that make South Indian cuisine so remarkably varied and complex. Those appams emerge pillowy and perfect, the ideal vessels for soaking up the rich, coconut-infused prawn curry that speaks to generations of coastal cooking wisdom. What makes Karavalli extraordinary isn't just the finesse of the preparation or the garden setting—it's the way this restaurant has managed to capture the soul of coastal India while presenting it with the kind of sophistication that honors both the traditions and the ingredients.",
+    "reviewSummary": "Seafood and regional coastal dishes prepared with finesse in elegant garden-style hotel setting. Banana leaf thalis, appams, and prawn curry showcase South India's diverse coastal cuisine traditions.",
+    "cuisine": [
+      "Coastal Indian",
+      "South Indian",
+      "Seafood"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 2341,
+    "address": {
+      "street": "The Gateway Hotel, Residency Road",
+      "city": "Bangalore",
+      "country": "India",
+      "postalCode": "560025"
+    },
+    "location": {
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "contact": {
+      "phone": "+91 80 6660 4545",
+      "website": "https://www.thegatewayhotels.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌴",
+      "gallery": []
+    },
+    "features": [
+      "Coastal Cuisine",
+      "Garden Setting",
+      "Regional Specialties",
+      "Hotel Dining"
+    ],
+    "specialties": [
+      "Banana leaf thalis",
+      "Appams",
+      "Prawn curry",
+      "Coastal seafood"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Coastal Cuisine Reviews",
+      "Bangalore Fine Dining",
+      "South Indian Restaurant Guide"
+    ],
+    "seoKeywords": [
+      "Karavalli Bangalore",
+      "coastal restaurants Bangalore",
+      "South Indian fine dining",
+      "seafood restaurants Bangalore",
+      "banana leaf thali Bangalore"
+    ]
+  },
+  {
+    "id": "bangalore-mtr",
+    "name": "MTR",
+    "description": "As a newcomer wandering the foodscape of Bangalore, stepping into MTR felt like entering a temple dedicated to the pure, unadulterated soul of South Indian vegetarian cuisine, where tradition isn't just preserved—it's perfected through decades of unwavering commitment to quality and authenticity. This heritage establishment isn't just serving breakfast—it's maintaining a standard of excellence that has made it a pilgrimage destination for anyone who truly understands what South Indian food can be when it's prepared with complete dedication to tradition. The rava idli arrives as a revelation, impossibly light and fluffy, each bite a testament to the kind of technique that can only be achieved through generations of practice and an absolute refusal to compromise on quality. The filter coffee that accompanies your meal isn't just a beverage—it's liquid poetry, aromatic and strong, prepared the way it's been done for decades. What makes MTR legendary isn't just the perfect dosas or the historical significance—it's the way this restaurant has managed to maintain standards that remind you why South Indian cuisine earned its reputation as one of the world's great vegetarian traditions.",
+    "reviewSummary": "Heritage vegetarian eatery serving perfect dosas and coffee where tradition meets unwavering quality standards. Legendary rava idli showcases South Indian cuisine at its purest and most authentic form.",
+    "cuisine": [
+      "South Indian",
+      "Vegetarian",
+      "Traditional Indian"
+    ],
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 4567,
+    "address": {
+      "street": "Lalbagh Road",
+      "city": "Bangalore",
+      "country": "India",
+      "postalCode": "560027"
+    },
+    "location": {
+      "lat": 12.9537,
+      "lng": 77.5840
+    },
+    "contact": {
+      "phone": "+91 80 2222 0022",
+      "website": "http://www.mtrfoods.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥞",
+      "gallery": []
+    },
+    "features": [
+      "Heritage Institution",
+      "Vegetarian Excellence",
+      "Traditional Recipes",
+      "Famous Rava Idli"
+    ],
+    "specialties": [
+      "Rava idli",
+      "Perfect dosas",
+      "Filter coffee",
+      "Traditional breakfast"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Heritage Restaurant Reviews",
+      "South Indian Food Guide",
+      "Bangalore Institution Rankings"
+    ],
+    "seoKeywords": [
+      "MTR Bangalore",
+      "best South Indian breakfast",
+      "rava idli Bangalore",
+      "heritage restaurants Bangalore",
+      "vegetarian food Bangalore"
+    ]
+  },
+  {
+    "id": "bangalore-ctr",
+    "name": "CTR",
+    "description": "As a newcomer wandering the foodscape of Bangalore, discovering CTR felt like uncovering the city's best-kept secret, where the smallest space somehow produces the most magnificent dosas that have achieved legendary status among those in the know. This tiny establishment proves that great food doesn't need grand spaces—it just needs unwavering commitment to perfection and the kind of mastery that comes from doing one thing so well that it becomes art. The benne masala dosa arrives like golden silk, impossibly thin yet perfectly crisp, loaded with the kind of spiced potato filling that speaks to generations of perfected technique. The perpetual queue outside isn't just a testament to popularity—it's proof that when something is truly exceptional, people will wait, because they know what awaits them is worth every minute. What makes CTR special isn't just the famous dosas or the authentic atmosphere—it's the way this humble place has managed to achieve a level of perfection that larger restaurants can only dream of, creating an experience that reminds you that the best food often comes from the most unexpected places.",
+    "reviewSummary": "Tiniest place with the tastiest benne masala dosas creating legendary status among food lovers. Perpetual queues prove that authentic perfection in small spaces creates unforgettable South Indian experiences.",
+    "cuisine": [
+      "South Indian",
+      "Breakfast Specialist",
+      "Traditional Dosas"
+    ],
+    "priceLevel": "$",
+    "rating": 4.3,
+    "reviewCount": 3210,
+    "address": {
+      "street": "Malleshwaram 8th Cross",
+      "city": "Bangalore",
+      "country": "India",
+      "postalCode": "560003"
+    },
+    "location": {
+      "lat": 13.0067,
+      "lng": 77.5739
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥙",
+      "gallery": []
+    },
+    "features": [
+      "Legendary Dosas",
+      "Tiny Space",
+      "Always Crowded",
+      "Local Institution"
+    ],
+    "specialties": [
+      "Benne masala dosa",
+      "Traditional preparations",
+      "Authentic atmosphere",
+      "Perfect technique"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Food Rankings",
+      "Dosa Specialist Reviews",
+      "Bangalore Hidden Gems"
+    ],
+    "seoKeywords": [
+      "CTR Bangalore",
+      "best masala dosa Bangalore",
+      "Malleshwaram restaurants",
+      "traditional dosa Bangalore",
+      "famous breakfast spots Bangalore"
+    ]
+  },
+  {
+    "id": "bangalore-truffles",
+    "name": "Truffles",
+    "description": "As a newcomer wandering the foodscape of Bangalore, stepping into Truffles felt like discovering the beating heart of the city's youth culture, where loaded burgers and indulgent shakes have become the fuel for a generation of tech workers, students, and anyone who believes that comfort food should be an experience rather than just a meal. This legendary hangout isn't just serving burgers—it's creating a cultural phenomenon that captures the spirit of modern Bangalore, where international comfort food meets local enthusiasm in the most delicious way possible. Those loaded burgers arrive like edible monuments to indulgence, stacked impossibly high with ingredients that would make nutrition experts weep but food lovers celebrate. The chocolate overdose shake isn't just a beverage—it's a liquid celebration of excess, rich and decadent enough to serve as dessert for three people but somehow perfectly suited to the appetites of Bangalore's enthusiastic food scene. What makes Truffles iconic isn't just the generous portions or the Instagram-worthy presentations—it's the way this place has managed to capture the energy and optimism of young Bangalore, creating a space where every meal feels like a celebration.",
+    "reviewSummary": "Teen and young adult hangout known for loaded burgers and indulgent shakes that capture modern Bangalore's youth culture. Iconic chocolate overdose shake creates legendary comfort food experiences.",
+    "cuisine": [
+      "Burgers & Steaks",
+      "American Comfort Food",
+      "Youth Hangout"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 5432,
+    "address": {
+      "street": "St. Marks Road",
+      "city": "Bangalore",
+      "country": "India",
+      "postalCode": "560001"
+    },
+    "location": {
+      "lat": 12.9785,
+      "lng": 77.6031
+    },
+    "contact": {
+      "phone": "+91 80 4112 7722",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍔",
+      "gallery": []
+    },
+    "features": [
+      "Youth Culture Icon",
+      "Loaded Burgers",
+      "Famous Shakes",
+      "Casual Atmosphere"
+    ],
+    "specialties": [
+      "Loaded burgers",
+      "Chocolate overdose shake",
+      "Comfort food",
+      "Generous portions"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Youth Hangout Reviews",
+      "Bangalore Burger Rankings",
+      "Comfort Food Guide"
+    ],
+    "seoKeywords": [
+      "Truffles Bangalore",
+      "best burgers Bangalore",
+      "chocolate shake Bangalore",
+      "St Marks Road restaurants",
+      "youth hangouts Bangalore"
+    ]
+  },
+  {
+    "id": "bangalore-toit",
+    "name": "Toit",
+    "description": "As a newcomer wandering the foodscape of Bangalore, stepping into Toit felt like discovering the birthplace of the city's craft beer revolution, where the OG microbrewery experience continues to set the standard for what a perfect night out in Bangalore should feel like. This legendary establishment isn't just serving beer—it's creating an atmosphere that captures everything that makes Bangalore special: innovation, creativity, and a willingness to embrace global trends while maintaining a distinctly local soul. The craft beers flow with the kind of creativity and quality that helped establish Bangalore as India's craft beer capital, while the wood-fired pizzas emerge from the ovens with the perfect balance of crisp crust and fresh toppings that make every bite feel like a small celebration. The live music creates the perfect soundtrack for conversations that stretch late into the night, while the atmosphere buzzes with the energy of a city that knows how to balance work and play. What makes Toit legendary isn't just the pioneering role it played in Bangalore's craft beer scene—it's the way this place continues to embody the spirit of Bangalore itself: innovative, welcoming, and committed to creating experiences that bring people together.",
+    "reviewSummary": "OG Bangalore microbrewery with creative beers and wood-fired pizza that established the city's craft beer culture. Live music, innovative atmosphere, and perfect vibe capture modern Bangalore's spirit.",
+    "cuisine": [
+      "Brewpub",
+      "Continental",
+      "Pizza"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 4321,
+    "address": {
+      "street": "Indiranagar",
+      "city": "Bangalore",
+      "country": "India",
+      "postalCode": "560038"
+    },
+    "location": {
+      "lat": 12.9784,
+      "lng": 77.6408
+    },
+    "contact": {
+      "phone": "+91 80 4953 8888",
+      "website": "https://toit.in",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍺",
+      "gallery": []
+    },
+    "features": [
+      "OG Microbrewery",
+      "Live Music",
+      "Wood-fired Pizza",
+      "Craft Beer Pioneer"
+    ],
+    "specialties": [
+      "Craft beers",
+      "Wood-fired pizza",
+      "Live music venue",
+      "Brewing innovation"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Craft Beer Reviews",
+      "Bangalore Nightlife Guide",
+      "Microbrewery Rankings"
+    ],
+    "seoKeywords": [
+      "Toit Bangalore",
+      "best brewpub Bangalore",
+      "craft beer Bangalore",
+      "Indiranagar restaurants",
+      "live music Bangalore"
+    ]
+  },
+  {
+    "id": "bangalore-grasshopper",
+    "name": "Grasshopper",
+    "description": "As a newcomer wandering the foodscape of Bangalore, discovering Grasshopper felt like stumbling upon a secret that only the most sophisticated food lovers know—a farmhouse sanctuary where fine dining meets intimate privacy in ways that transform a simple meal into an unforgettable experience. This extraordinary restaurant isn't just serving food—it's creating theatrical dining experiences that feel like private performances, where every course is carefully choreographed and every detail is designed to create memories that last a lifetime. The set menu unfolds like a carefully written symphony, each course building upon the last to create a culinary narrative that showcases the chef's creativity and technical skill. The farmhouse setting creates an atmosphere of rustic elegance that feels both intimate and special, perfect for the kind of occasions that deserve something truly extraordinary. What makes Grasshopper unique isn't just the creative courses or the beautiful setting—it's the way this restaurant has managed to create an experience that feels both exclusive and welcoming, sophisticated yet grounded, resulting in the kind of dining experience that reminds you why food can be so much more than sustenance when it's prepared and presented with genuine artistry and care.",
+    "reviewSummary": "Private dining in a farmhouse setting with set menus creating theatrical fine dining experiences. Creative courses and quiet ambiance make it perfect for anniversaries and special occasions.",
+    "cuisine": [
+      "Fine Dining Bistro",
+      "Contemporary",
+      "Farm-to-Table"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.5,
+    "reviewCount": 987,
+    "address": {
+      "street": "Lavelle Road",
+      "city": "Bangalore",
+      "country": "India",
+      "postalCode": "560001"
+    },
+    "location": {
+      "lat": 12.9698,
+      "lng": 77.6205
+    },
+    "contact": {
+      "phone": "+91 80 4092 4444",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦗",
+      "gallery": []
+    },
+    "features": [
+      "Private Dining",
+      "Farmhouse Setting",
+      "Set Menu Only",
+      "Romantic Atmosphere"
+    ],
+    "specialties": [
+      "Creative tasting courses",
+      "Intimate atmosphere",
+      "Theatrical presentations",
+      "Special occasion dining"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Fine Dining Reviews",
+      "Special Occasion Restaurants",
+      "Private Dining Guide"
+    ],
+    "seoKeywords": [
+      "Grasshopper Bangalore",
+      "fine dining Bangalore",
+      "romantic restaurants Bangalore",
+      "private dining Bangalore",
+      "anniversary restaurants Bangalore"
+    ]
+  }
+]

@@ -173,8 +173,8 @@ export const cities: City[] = [
       "Mumbai food guide",
       "street food Mumbai"
     ],
-    featuredRestaurants: [],
-    totalRestaurants: 20
+    featuredRestaurants: ["mumbai-the-table", "mumbai-trishna", "mumbai-bombay-brasserie"],
+    totalRestaurants: 6
   },
   {
     id: "delhi-india",
@@ -198,8 +198,8 @@ export const cities: City[] = [
       "Delhi food guide",
       "Indian food Delhi"
     ],
-    featuredRestaurants: [],
-    totalRestaurants: 20
+    featuredRestaurants: ["delhi-bukhara", "delhi-indian-accent", "delhi-rajinder-da-dhaba"],
+    totalRestaurants: 5
   },
   {
     id: "faisalabad-pakistan",
@@ -350,6 +350,31 @@ export const cities: City[] = [
     ],
     featuredRestaurants: ["san-francisco-benu", "san-francisco-californios", "san-francisco-kiln"],
     totalRestaurants: 5
+  },
+  {
+    id: "bangalore-india",
+    name: "Bangalore",
+    country: "India",
+    description: "India's Silicon Valley combines tech innovation with incredible culinary diversity. From traditional South Indian breakfast spots to craft breweries and fine dining, Bangalore's food scene reflects its cosmopolitan character and young energy.",
+    heroImage: "/images/cities/bangalore-hero.jpg",
+    coordinates: {
+      lat: 12.9716,
+      lng: 77.5946
+    },
+    seoTitle: "Best Restaurants in Bangalore | Top South Indian Food Guide",
+    seoDescription: "Discover Bangalore's best restaurants from traditional South Indian to craft breweries. Find top-rated dining spots in India's Silicon Valley.",
+    seoKeywords: [
+      "restaurants Bangalore",
+      "best restaurants Bangalore",
+      "South Indian food Bangalore",
+      "Bangalore dining",
+      "craft beer Bangalore",
+      "fine dining Bangalore",
+      "traditional breakfast Bangalore",
+      "where to eat Bangalore"
+    ],
+    featuredRestaurants: ["bangalore-karavalli", "bangalore-mtr", "bangalore-toit"],
+    totalRestaurants: 6
   }
 ];
 

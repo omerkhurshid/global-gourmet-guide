@@ -1,0 +1,350 @@
+[
+  {
+    "id": "mumbai-the-table",
+    "name": "The Table",
+    "description": "As a newcomer wandering the foodscape of Mumbai, stepping into The Table in Colaba felt like discovering a sophisticated oasis where global flavors converge with Mumbai's cosmopolitan spirit. This stylish restaurant isn't just serving small plates—it's creating a dining experience that reflects Mumbai's position as India's most international city, where influences from around the world are embraced and reimagined with local flair. Those truffle fries arrive like edible luxury, perfectly crisp and aromatic, while the tacos showcase how global comfort food can feel both familiar and exciting when executed with precision and creativity. What makes The Table special isn't just its Instagram-worthy presentation or its Colaba location—it's the way this restaurant has managed to create a menu that feels genuinely international without ever losing sight of what makes great food great: quality ingredients, skilled preparation, and dishes that bring people together around the table.",
+    "reviewSummary": "Stylish Colaba restaurant with global contemporary small plates that feel international yet comforting. Truffle fries, tacos, and risotto showcase Mumbai's cosmopolitan dining spirit with quality execution.",
+    "cuisine": [
+      "Global Contemporary",
+      "International",
+      "Small Plates"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.4,
+    "reviewCount": 2156,
+    "address": {
+      "street": "Kalapakthk, Colaba",
+      "city": "Mumbai",
+      "country": "India",
+      "postalCode": "400001"
+    },
+    "location": {
+      "lat": 18.9220,
+      "lng": 72.8347
+    },
+    "contact": {
+      "phone": "+91 22 6751 0041",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌍",
+      "gallery": []
+    },
+    "features": [
+      "Global Cuisine",
+      "Stylish Ambiance",
+      "Small Plates",
+      "Colaba Location"
+    ],
+    "specialties": [
+      "Truffle fries",
+      "International tacos",
+      "Contemporary risotto",
+      "Global small plates"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Mumbai Food Guide",
+      "Colaba Restaurant Reviews",
+      "International Cuisine Rankings"
+    ],
+    "seoKeywords": [
+      "The Table Mumbai",
+      "best restaurants Colaba",
+      "global cuisine Mumbai",
+      "international dining Mumbai",
+      "small plates Mumbai"
+    ]
+  },
+  {
+    "id": "mumbai-trishna",
+    "name": "Trishna",
+    "description": "As a newcomer wandering the foodscape of Mumbai, stepping into Trishna felt like discovering the soul of coastal India, where the bounty of the Arabian Sea meets culinary expertise that transforms simple seafood into transcendent experiences. This seafood legend isn't just another coastal restaurant—it's a temple to the art of cooking fish and shellfish, where each dish showcases the kind of technique and understanding that comes from generations of coastal cooking tradition. The garlic butter crab arrives as a masterpiece of indulgence, sweet crabmeat swimming in aromatic butter that carries hints of the sea and the warmth of perfectly balanced spices. What sets Trishna apart isn't just the no-frills service that lets the food do all the talking—it's the way this restaurant has managed to elevate coastal Indian cuisine to its highest form, creating dishes that honor both the ingredients and the traditions that shaped them, resulting in flavors that feel both deeply rooted and surprisingly sophisticated.",
+    "reviewSummary": "Seafood legend offering buttery crab and Southern coastal spices with no-frills service. Famous garlic butter crab showcases coastal Indian cuisine elevated to its finest form through expert technique.",
+    "cuisine": [
+      "Seafood",
+      "Coastal Indian",
+      "South Indian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.3,
+    "reviewCount": 1987,
+    "address": {
+      "street": "Sai Baba Marg, Fort",
+      "city": "Mumbai",
+      "country": "India",
+      "postalCode": "400001"
+    },
+    "location": {
+      "lat": 18.9467,
+      "lng": 72.8342
+    },
+    "contact": {
+      "phone": "+91 22 2270 3213",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦀",
+      "gallery": []
+    },
+    "features": [
+      "Seafood Legend",
+      "Coastal Cuisine",
+      "No-Frills Service",
+      "Fort Location"
+    ],
+    "specialties": [
+      "Garlic butter crab",
+      "Coastal spices",
+      "Fresh seafood",
+      "Traditional preparations"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Seafood Restaurant Rankings",
+      "Mumbai Food Critics",
+      "Coastal Cuisine Reviews"
+    ],
+    "seoKeywords": [
+      "Trishna Mumbai",
+      "best seafood Mumbai",
+      "garlic butter crab Mumbai",
+      "coastal restaurants Mumbai",
+      "Fort dining Mumbai"
+    ]
+  },
+  {
+    "id": "mumbai-peshawri",
+    "name": "Peshawri",
+    "description": "As a newcomer wandering the foodscape of Mumbai, stepping into Peshawri felt like being transported to the rugged frontiers of the North-West, where the ancient tradition of eating with your hands becomes a celebration of authenticity and flavor. This legendary restaurant, sibling to Delhi's famous Bukhara, isn't just serving food—it's preserving a way of dining that connects you directly to the primal pleasure of perfectly grilled meats and freshly baked breads. The smoky kebabs arrive with char marks that tell the story of expert tandoor mastery, while those kullechas emerge warm and pillowy, perfect vessels for soaking up the rich, complex flavors that define frontier cuisine. What makes Peshawri special isn't just the no-cutlery policy that forces you to eat the way the North intended—it's the way this restaurant has managed to create an experience that feels both ritualistic and deeply satisfying, where every meal becomes a journey back to the basics of great cooking: fire, skill, and ingredients treated with respect.",
+    "reviewSummary": "Bukhara's sibling restaurant known for smoky grills and kullechas with authentic no-cutlery dining experience. Frontier cuisine served the traditional way connects diners to primal pleasures of perfectly grilled meats.",
+    "cuisine": [
+      "North-West Frontier",
+      "Tandoori",
+      "Afghan-Indian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.3,
+    "reviewCount": 1543,
+    "address": {
+      "street": "ITC Grand Central, Parel",
+      "city": "Mumbai",
+      "country": "India",
+      "postalCode": "400012"
+    },
+    "location": {
+      "lat": 19.0144,
+      "lng": 72.8317
+    },
+    "contact": {
+      "phone": "+91 22 2410 1010",
+      "website": "https://www.itchotels.in",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "No-Cutlery Dining",
+      "Tandoori Excellence",
+      "Frontier Cuisine",
+      "ITC Heritage"
+    ],
+    "specialties": [
+      "Smoky kebabs",
+      "Fresh kullechas",
+      "Tandoori specialties",
+      "Hand-eating experience"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "ITC Restaurant Reviews",
+      "Tandoori Cuisine Rankings",
+      "Mumbai Fine Dining"
+    ],
+    "seoKeywords": [
+      "Peshawri Mumbai",
+      "tandoori restaurants Mumbai",
+      "ITC Grand Central dining",
+      "North-West Frontier cuisine",
+      "no cutlery dining Mumbai"
+    ]
+  },
+  {
+    "id": "mumbai-cafe-mondegar",
+    "name": "Cafe Mondegar",
+    "description": "As a newcomer wandering the foodscape of Mumbai, stepping into Cafe Mondegar felt like traveling back to Bombay's golden era, where vintage charm meets the timeless appeal of cold beer and honest comfort food. This iconic establishment isn't just a cafe—it's a living piece of Mumbai's cultural history, where Mario Miranda's whimsical murals tell stories of old Bombay while the jukebox plays the soundtrack to decades of conversations, celebrations, and casual encounters. The Parsi chicken arrives with the kind of nostalgic flavors that speak to Mumbai's multicultural heritage, while the vintage atmosphere creates the perfect backdrop for long conversations over cold beers. What makes Cafe Mondegar special isn't just its prime Colaba location or its Instagram-worthy murals—it's the way this place has managed to preserve the spirit of old Bombay, creating a space where time seems to slow down and every visit feels like reconnecting with the city's soul.",
+    "reviewSummary": "Vintage Bombay charm meets beer café culture with Mario Miranda murals and jukebox nostalgia. Parsi chicken and old Bombay atmosphere create timeless experiences in iconic Colaba location.",
+    "cuisine": [
+      "Parsi",
+      "Vintage Cafe",
+      "Continental"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 3421,
+    "address": {
+      "street": "5-A, Colaba Causeway",
+      "city": "Mumbai",
+      "country": "India",
+      "postalCode": "400001"
+    },
+    "location": {
+      "lat": 18.9220,
+      "lng": 72.8310
+    },
+    "contact": {
+      "phone": "+91 22 2202 0591",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🎵",
+      "gallery": []
+    },
+    "features": [
+      "Vintage Atmosphere",
+      "Mario Miranda Murals",
+      "Jukebox Nostalgia",
+      "Beer Café"
+    ],
+    "specialties": [
+      "Parsi chicken",
+      "Cold beer selection",
+      "Vintage ambiance",
+      "Continental classics"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Heritage Cafe Reviews",
+      "Mumbai Cultural Landmarks",
+      "Vintage Restaurant Guide"
+    ],
+    "seoKeywords": [
+      "Cafe Mondegar Mumbai",
+      "vintage cafes Mumbai",
+      "Parsi food Mumbai",
+      "Colaba Causeway restaurants",
+      "heritage cafes Mumbai"
+    ]
+  },
+  {
+    "id": "mumbai-le-cirque-signature",
+    "name": "Le Cirque Signature",
+    "description": "As a newcomer wandering the foodscape of Mumbai, stepping into Le Cirque Signature felt like being transported to a Parisian salon, where European culinary traditions are honored with the kind of precision and luxury that defines world-class fine dining. This high-end restaurant in the prestigious Taj setting isn't just serving French and Italian cuisine—it's creating an experience that showcases how classic European techniques can reach their absolute pinnacle when executed with uncompromising attention to detail. The foie gras arrives as a study in indulgence and technique, rich and silky with the kind of preparation that speaks to generations of French culinary mastery, while the lobster bisque represents everything sophisticated about European cuisine—complex, refined, and utterly luxurious. What makes Le Cirque Signature special isn't just the impeccable plating that turns every dish into a work of art—it's the way this restaurant has managed to create an atmosphere of European elegance in the heart of Mumbai, offering diners a chance to experience world-class European cuisine without ever leaving India.",
+    "reviewSummary": "High-end European dining in luxe Taj setting where French and Italian traditions reach their pinnacle. Foie gras, lobster bisque, and flawless plating create world-class fine dining experiences.",
+    "cuisine": [
+      "French",
+      "Italian",
+      "European Fine Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.3,
+    "reviewCount": 876,
+    "address": {
+      "street": "Taj President, Cuffe Parade",
+      "city": "Mumbai",
+      "country": "India",
+      "postalCode": "400005"
+    },
+    "location": {
+      "lat": 18.9169,
+      "lng": 72.8208
+    },
+    "contact": {
+      "phone": "+91 22 6665 0808",
+      "website": "https://www.tajhotels.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥂",
+      "gallery": []
+    },
+    "features": [
+      "European Fine Dining",
+      "Taj Luxury Setting",
+      "French Techniques",
+      "Artistic Plating"
+    ],
+    "specialties": [
+      "Foie gras",
+      "Lobster bisque",
+      "French classics",
+      "Italian specialties"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Fine Dining Reviews",
+      "Taj Hotel Dining",
+      "European Cuisine Mumbai"
+    ],
+    "seoKeywords": [
+      "Le Cirque Signature Mumbai",
+      "French restaurants Mumbai",
+      "Taj President dining",
+      "fine dining Mumbai",
+      "European cuisine Mumbai"
+    ]
+  },
+  {
+    "id": "mumbai-bombay-brasserie",
+    "name": "Bombay Brasserie",
+    "description": "As a newcomer wandering the foodscape of Mumbai, stepping into Bombay Brasserie felt like discovering how Indian cuisine looks when it's dressed up for the global stage, where regional traditions meet contemporary presentation in ways that feel both sophisticated and authentically rooted. This sleek restaurant isn't just serving Indian food—it's reimagining how Indian flavors can be presented with the kind of bold confidence that reflects Mumbai's cosmopolitan spirit. The galouti sliders arrive as a brilliant fusion of street food tradition and modern presentation, tender lamb transformed into elegant bite-sized perfection, while the smoked butter chicken represents everything innovative about contemporary Indian cuisine—familiar yet surprising, traditional yet refreshingly new. What makes Bombay Brasserie special isn't just the sleek interiors or the Instagram-worthy plating—it's the way this restaurant has managed to honor regional Indian traditions while presenting them with the kind of confidence and creativity that makes you see familiar flavors in completely new ways.",
+    "reviewSummary": "Sleek Indian dining with regional touch and bold presentation where traditions meet contemporary confidence. Galouti sliders and smoked butter chicken showcase innovative approaches to familiar Indian flavors.",
+    "cuisine": [
+      "Modern Indian",
+      "Regional Indian",
+      "Contemporary Indian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.4,
+    "reviewCount": 1654,
+    "address": {
+      "street": "Phoenix Mills, Lower Parel",
+      "city": "Mumbai",
+      "country": "India",
+      "postalCode": "400013"
+    },
+    "location": {
+      "lat": 19.0135,
+      "lng": 72.8302
+    },
+    "contact": {
+      "phone": "+91 22 4910 5555",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Modern Indian",
+      "Regional Specialties",
+      "Contemporary Presentation",
+      "Phoenix Mills"
+    ],
+    "specialties": [
+      "Galouti sliders",
+      "Smoked butter chicken",
+      "Regional Indian dishes",
+      "Bold presentations"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Modern Indian Cuisine",
+      "Mumbai Restaurant Reviews",
+      "Contemporary Dining Guide"
+    ],
+    "seoKeywords": [
+      "Bombay Brasserie Mumbai",
+      "modern Indian restaurant Mumbai",
+      "Phoenix Mills dining",
+      "contemporary Indian cuisine",
+      "regional Indian food Mumbai"
+    ]
+  }
+]

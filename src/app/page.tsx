@@ -56,11 +56,11 @@ export default function Home() {
           {/* Minimal Stats */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center">
             <div>
-              <div className="text-3xl md:text-4xl font-black text-white mb-2">161</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">178</div>
               <div className="text-sm text-white opacity-80 uppercase tracking-wide">RESTAURANTS</div>
             </div>
             <div>
-              <div className="text-3xl md:text-4xl font-black text-white mb-2">14</div>
+              <div className="text-3xl md:text-4xl font-black text-white mb-2">15</div>
               <div className="text-sm text-white opacity-80 uppercase tracking-wide">CITIES</div>
             </div>
             <div>

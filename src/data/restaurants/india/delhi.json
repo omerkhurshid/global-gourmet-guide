@@ -1,0 +1,292 @@
+[
+  {
+    "id": "delhi-rajinder-da-dhaba",
+    "name": "Rajinder da Dhaba",
+    "description": "As a newcomer wandering the foodscape of Delhi, stepping into Rajinder da Dhaba felt like discovering the beating heart of North Indian cuisine, where decades of tradition sizzle over open flames and generations of recipes come alive under the Delhi sky. This isn't just another roadside eatery—it's a legendary institution that has evolved from humble dhaba roots into a culinary landmark without losing an ounce of its authentic soul. The moment you catch the aroma of smoky chicken tikka charring over coals, you understand why locals have been making pilgrimages here for decades. That buttery keema kaleji arrives with the kind of robust, unapologetic flavor that defines Delhi's street food culture—rich, spicy, and utterly satisfying. The outdoor seating and parked-car dining setup aren't just quirks—they're essential parts of an experience that captures the democratic spirit of Delhi's food scene, where great food matters more than fancy decor.",
+    "reviewSummary": "Legendary roadside dhaba turned Delhi institution famous for smoky grilled meats and robust North Indian curries. Outdoor service and parked-car dining create authentic dhaba experience with affordable, satisfying flavors.",
+    "cuisine": [
+      "Punjabi",
+      "North Indian",
+      "Dhaba"
+    ],
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 3456,
+    "address": {
+      "street": "Near Safdarjung Hospital",
+      "city": "Delhi",
+      "country": "India",
+      "postalCode": "110029"
+    },
+    "location": {
+      "lat": 28.5706,
+      "lng": 77.2086
+    },
+    "contact": {
+      "phone": "+91 11 2617 3050",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍗",
+      "gallery": []
+    },
+    "features": [
+      "Legendary Institution",
+      "Outdoor Dining",
+      "Famous Grills",
+      "Affordable Pricing"
+    ],
+    "specialties": [
+      "Smoky chicken tikka",
+      "Buttery keema kaleji",
+      "North Indian curries",
+      "Grilled meats"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Reviews",
+      "Delhi Food Guide",
+      "Street Food Rankings"
+    ],
+    "seoKeywords": [
+      "Rajinder da Dhaba Delhi",
+      "best dhaba Delhi",
+      "chicken tikka Delhi",
+      "Safdarjung restaurants",
+      "Delhi street food"
+    ]
+  },
+  {
+    "id": "delhi-kake-da-hotel",
+    "name": "Kake Da Hotel",
+    "description": "As a newcomer wandering the foodscape of Delhi, stepping into Kake Da Hotel felt like traveling back to Old Delhi's golden era, where culinary tradition trumps comfort and authentic flavors matter more than fancy presentations. This iconic joint embodies everything that makes Delhi's food scene legendary—heavy-handed spice, massive flavors, and an unapologetic commitment to tradition that has kept locals queuing up for generations. The lamb curry arrives like a testament to patience and skill, slow-cooked until the meat falls off the bone and the gravy tells the story of spices that have been perfected over decades. Those impossibly thick rotis aren't just bread—they're edible proof of a kitchen that refuses to compromise on substance for style. The loud orders, the organized chaos, the full tables—it's all part of the theater that makes Kake Da Hotel not just a restaurant, but a living piece of Delhi's culinary heritage.",
+    "reviewSummary": "Old Delhi institution serving heavy-handed spice and massive flavors where tradition meets culinary excellence. Famous lamb curry, black dal, and thick rotis create authentic experiences worth the inevitable queues.",
+    "cuisine": [
+      "Punjabi",
+      "Old Delhi",
+      "Traditional Indian"
+    ],
+    "priceLevel": "$",
+    "rating": 4.3,
+    "reviewCount": 2987,
+    "address": {
+      "street": "Fatehpuri, Chandni Chowk",
+      "city": "Delhi",
+      "country": "India",
+      "postalCode": "110006"
+    },
+    "location": {
+      "lat": 28.6562,
+      "lng": 77.2319
+    },
+    "contact": {
+      "phone": "+91 11 2396 5722",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍛",
+      "gallery": []
+    },
+    "features": [
+      "Old Delhi Institution",
+      "Traditional Recipes",
+      "Authentic Atmosphere",
+      "Local Favorite"
+    ],
+    "specialties": [
+      "Lamb curry",
+      "Black dal",
+      "Thick rotis",
+      "Traditional spices"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Old Delhi Food Tours",
+      "Local Reviews",
+      "Heritage Restaurant Guide"
+    ],
+    "seoKeywords": [
+      "Kake Da Hotel Delhi",
+      "Old Delhi restaurants",
+      "Chandni Chowk food",
+      "traditional lamb curry",
+      "authentic Delhi dining"
+    ]
+  },
+  {
+    "id": "delhi-indian-accent",
+    "name": "Indian Accent",
+    "description": "As a newcomer wandering the foodscape of Delhi, stepping into Indian Accent felt like witnessing the evolution of Indian cuisine in real time, where Chef Manish Mehrotra has created something truly revolutionary—a restaurant that honors tradition while fearlessly pushing boundaries. This isn't just high-end dining—it's a masterclass in how Indian flavors can be reimagined without losing their soul, where familiar dishes are transformed into works of art that challenge everything you thought you knew about Indian cuisine. The butter chicken arrives completely reimagined, elevated through technique and presentation that would make molecular gastronomists weep, yet every bite still tastes unmistakably, authentically Indian. Each course in the tasting menu unfolds like a love letter to India's culinary diversity, showcasing regional ingredients and traditional techniques through a contemporary lens that feels both respectful and revolutionary. This is Indian cuisine freed from stereotypes and expectations, allowed to express its full sophistication and complexity in a setting that matches the ambition and artistry of the food.",
+    "reviewSummary": "High-end modern Indian restaurant where Chef Manish Mehrotra redefines Indian cuisine with elegant, artful creations. Butter chicken transforms into contemporary masterpieces in unforgettable tasting menu experiences.",
+    "cuisine": [
+      "Contemporary Indian",
+      "Modern Indian",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.5,
+    "reviewCount": 1876,
+    "address": {
+      "street": "The Lodhi Hotel, Lodhi Road",
+      "city": "Delhi",
+      "country": "India",
+      "postalCode": "110003"
+    },
+    "location": {
+      "lat": 28.5918,
+      "lng": 77.2273
+    },
+    "contact": {
+      "phone": "+91 11 4363 3333",
+      "website": "https://indianaccent.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏆",
+      "gallery": []
+    },
+    "features": [
+      "Contemporary Indian",
+      "Chef Manish Mehrotra",
+      "Tasting Menu",
+      "Award-Winning"
+    ],
+    "specialties": [
+      "Reimagined butter chicken",
+      "Contemporary tasting menu",
+      "Modern Indian techniques",
+      "Artistic presentations"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Fine Dining Reviews",
+      "Food & Wine Magazine",
+      "Chef Awards"
+    ],
+    "seoKeywords": [
+      "Indian Accent Delhi",
+      "modern Indian restaurant Delhi",
+      "Chef Manish Mehrotra",
+      "fine dining Delhi",
+      "contemporary Indian cuisine"
+    ]
+  },
+  {
+    "id": "delhi-dum-pukht",
+    "name": "Dum Pukht",
+    "description": "As a newcomer wandering the foodscape of Delhi, stepping into Dum Pukht at ITC Maurya felt like entering a Mughal emperor's private dining chamber, where the ancient art of slow cooking has been preserved and perfected over centuries. This opulent restaurant isn't just serving food—it's presenting living history, where every dish tells the story of royal kitchens and the patient, meditative process of dum cooking that transforms simple ingredients into culinary poetry. The kakori kebab arrives like silk made edible, so tender it practically dissolves on your tongue, while the royal biryani represents the pinnacle of this slow-cooking technique—each grain of rice perfectly separate yet infused with layers of flavor that speak to hours of careful preparation. What makes Dum Pukht extraordinary isn't just the luxury of the setting or the royal heritage of the recipes—it's the way this restaurant has managed to preserve cooking techniques that require genuine patience and skill, creating dishes that are subtle, fragrant, and rich without ever feeling heavy or overwhelming.",
+    "reviewSummary": "Opulent Mughal-inspired restaurant at ITC Maurya known for slow-cooked excellence. Kakori kebab and royal biryani showcase subtle, fragrant, rich flavors through ancient dum cooking techniques.",
+    "cuisine": [
+      "Awadhi",
+      "Mughlai",
+      "Royal Indian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.4,
+    "reviewCount": 1654,
+    "address": {
+      "street": "ITC Maurya, Sardar Patel Marg",
+      "city": "Delhi",
+      "country": "India",
+      "postalCode": "110021"
+    },
+    "location": {
+      "lat": 28.6048,
+      "lng": 77.1910
+    },
+    "contact": {
+      "phone": "+91 11 2611 2233",
+      "website": "https://www.itchotels.in/hotels/delhi/itcmaurya.html",
+      "email": ""
+    },
+    "images": {
+      "hero": "👑",
+      "gallery": []
+    },
+    "features": [
+      "Mughal Heritage",
+      "Dum Cooking",
+      "Royal Recipes",
+      "ITC Maurya"
+    ],
+    "specialties": [
+      "Kakori kebab",
+      "Royal biryani",
+      "Slow-cooked dishes",
+      "Awadhi cuisine"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Luxury Hotel Dining",
+      "Mughlai Cuisine Reviews",
+      "Heritage Restaurant Guide"
+    ],
+    "seoKeywords": [
+      "Dum Pukht Delhi",
+      "ITC Maurya restaurants",
+      "Awadhi cuisine Delhi",
+      "royal biryani Delhi",
+      "Mughlai fine dining"
+    ]
+  },
+  {
+    "id": "delhi-bukhara",
+    "name": "Bukhara",
+    "description": "As a newcomer wandering the foodscape of Delhi, stepping into Bukhara felt like entering a temple dedicated to the primal art of tandoor cooking, where flames and tradition converge to create what many consider India's most iconic dining experience. This isn't just a restaurant—it's a pilgrimage destination for food lovers worldwide, where the rustic setting and open kitchen drama create an atmosphere that's both theatrical and deeply authentic. The legendary Dal Bukhara arrives like liquid gold, slow-cooked overnight until it reaches a creaminess that seems almost impossible, while those lamb chops emerge from the tandoor with a char that speaks to the mastery of fire and timing. What makes Bukhara truly special isn't just the Michelin recognition or the fact that world leaders and celebrities make special trips here—it's the way this restaurant has managed to elevate rustic North-West Frontier cuisine to fine dining status without losing any of its soul or authenticity, creating an experience that feels both primal and refined.",
+    "reviewSummary": "Tandoori excellence with rustic flair creating India's most iconic dining experience. Dal Bukhara, lamb chops, and open kitchen drama attract Michelin-starred travelers from around the world.",
+    "cuisine": [
+      "North-West Frontier",
+      "Tandoori",
+      "Afghan-Indian"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.5,
+    "reviewCount": 2341,
+    "address": {
+      "street": "ITC Maurya, Sardar Patel Marg",
+      "city": "Delhi",
+      "country": "India",
+      "postalCode": "110021"
+    },
+    "location": {
+      "lat": 28.6048,
+      "lng": 77.1910
+    },
+    "contact": {
+      "phone": "+91 11 2611 2233",
+      "website": "https://www.itchotels.in/hotels/delhi/itcmaurya.html",
+      "email": ""
+    },
+    "images": {
+      "hero": "🔥",
+      "gallery": []
+    },
+    "features": [
+      "Iconic Dining Experience",
+      "Tandoor Excellence",
+      "Celebrity Favorite",
+      "Michelin Recognition"
+    ],
+    "specialties": [
+      "Dal Bukhara",
+      "Tandoori lamb chops",
+      "Open kitchen drama",
+      "North-West Frontier cuisine"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "International Food Critics",
+      "Celebrity Restaurant Reviews"
+    ],
+    "seoKeywords": [
+      "Bukhara Delhi",
+      "best tandoori restaurant Delhi",
+      "Dal Bukhara",
+      "ITC Maurya dining",
+      "iconic restaurants Delhi"
+    ]
+  }
+]
