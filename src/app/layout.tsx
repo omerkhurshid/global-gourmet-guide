@@ -18,17 +18,37 @@ export const metadata: Metadata = {
   title: seoData.title,
   description: seoData.description,
   keywords: seoData.keywords.join(", "),
+  authors: [{ name: "Global Gourmet Guide" }],
+  creator: "Global Gourmet Guide",
+  publisher: "Global Gourmet Guide",
+  alternates: {
+    canonical: 'https://global-gourmet-guide.vercel.app',
+  },
   openGraph: {
     title: seoData.openGraph.title,
     description: seoData.openGraph.description,
     type: "website",
     images: [seoData.openGraph.image],
+    url: 'https://global-gourmet-guide.vercel.app',
+    siteName: 'Global Gourmet Guide',
+    locale: 'en_US',
   },
   twitter: {
     card: "summary_large_image",
     title: seoData.openGraph.title,
     description: seoData.openGraph.description,
     images: [seoData.openGraph.image],
+  },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: {
+      index: true,
+      follow: true,
+      'max-video-preview': -1,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+    },
   },
   other: {
     "google-adsense-account": "ca-pub-7652171156655375",
