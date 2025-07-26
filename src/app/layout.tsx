@@ -22,14 +22,14 @@ export const metadata: Metadata = {
   creator: "Global Gourmet Guide",
   publisher: "Global Gourmet Guide",
   alternates: {
-    canonical: 'https://global-gourmet-guide.vercel.app',
+    canonical: 'https://restaurantsnearme.vercel.app',
   },
   openGraph: {
     title: seoData.openGraph.title,
     description: seoData.openGraph.description,
     type: "website",
     images: [seoData.openGraph.image],
-    url: 'https://global-gourmet-guide.vercel.app',
+    url: 'https://restaurantsnearme.vercel.app',
     siteName: 'Global Gourmet Guide',
     locale: 'en_US',
   },
