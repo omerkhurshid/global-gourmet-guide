@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation"
 import { Metadata } from "next"
 import Link from "next/link"
+import Image from "next/image"
 import { ArrowLeft, MapPin, Globe, Phone } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { cities } from "@/data/cities"
@@ -121,6 +122,32 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
               ))}
             </div>
           ))}
+
+          {/* Images */}
+          {spotlight.images && spotlight.images.length > 0 && (
+            <div className="my-12">
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {spotlight.images.map((image, index) => (
+                  <div key={index} className="space-y-3">
+                    <div className="relative h-64 md:h-80 rounded-lg overflow-hidden">
+                      <Image
+                        src={image.src}
+                        alt={image.alt}
+                        fill
+                        className="object-cover"
+                        sizes="(max-width: 768px) 100vw, 50vw"
+                      />
+                    </div>
+                    {image.caption && (
+                      <p className="text-sm text-gray-600 italic text-center">
+                        {image.caption}
+                      </p>
+                    )}
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
 
           {/* Restaurant Info */}
           <div className="bg-white rounded-lg border border-gray-200 p-6 my-8">

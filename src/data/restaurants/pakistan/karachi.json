@@ -577,6 +577,18 @@
         "DHA Phase 6 – Khayaban-e-Nishat, opposite Bonsai Restaurant",
         "I.I. Chundrigar Road – Ground floor, Uni Tower II"
       ],
+      "images": [
+        {
+          "src": "/images/spotlight/boc1.webp",
+          "alt": "Burger O'Clock restaurant interior and food presentation",
+          "caption": "The vibrant atmosphere and signature burgers that make Burger O'Clock a Karachi favorite"
+        },
+        {
+          "src": "/images/spotlight/boc2.jpg",
+          "alt": "Messy Meat burger and Pizza Fries at Burger O'Clock",
+          "caption": "The legendary Messy Meat burger paired with their famous Pizza Fries"
+        }
+      ],
       "menuHighlights": {
         "Classic Burgers": "Beef Old School, Chick'n'Crisp",
         "Premium Burgers": "Messy Meat, Crunchos Burger",

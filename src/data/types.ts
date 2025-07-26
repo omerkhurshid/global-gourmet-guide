@@ -46,6 +46,11 @@ export interface RestaurantSpotlight {
     content: string[];
   }[];
   locations: string[];
+  images?: {
+    src: string;
+    alt: string;
+    caption?: string;
+  }[];
   menuHighlights?: {
     [category: string]: string;
   };
