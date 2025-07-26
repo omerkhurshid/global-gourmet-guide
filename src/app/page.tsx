@@ -21,12 +21,16 @@ export default function Home() {
     <div className="bg-white">
       {/* Hero Image Section */}
       <section className="relative w-full bg-white">
-        <div 
-          className="relative h-64 md:h-96 w-full overflow-hidden bg-cover bg-center bg-no-repeat"
-          style={{
-            backgroundImage: `linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,0.1) 100%), url('/images/restaurant-table-setting.jpg')`
-          }}
-        >
+        <div className="relative h-64 md:h-96 w-full overflow-hidden">
+          <Image
+            src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
+            alt="Elegant restaurant table setting with plates, utensils, and glassware"
+            fill
+            className="object-cover object-center"
+            priority
+            sizes="100vw"
+            quality={85}
+          />
           <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/10" />
         </div>
       </section>
@@ -45,6 +49,10 @@ export default function Home() {
             Find amazing dining experiences in top cities worldwide. From hidden gems to Michelin-starred establishments.
           </p>
           
+          {/* Search Bar */}
+          <div className="max-w-2xl mx-auto mb-12">
+            <SearchBar placeholder="Search for restaurants, cities, or cuisines..." />
+          </div>
           
           {/* Stats */}
           <div className="flex items-center justify-center space-x-8 md:space-x-12 text-gray-700">
