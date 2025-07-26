@@ -1,0 +1,103 @@
+[
+  {
+    "id": "los-angeles-bestia",
+    "name": "Bestia",
+    "description": "Trendy, open kitchen Italian hotspot led by chef Ori Menashe.",
+    "reviewSummary": "Inventive Italian dishes with an industrial vibe.",
+    "cuisine": [
+      "Italian"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 500,
+    "address": {
+      "street": "Arts District, DTLA",
+      "city": "Los Angeles",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.057382827384224,
+      "lng": -118.28369156259153
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining",
+      "Open Kitchen"
+    ],
+    "specialties": [
+      "Chef Specials"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Eater LA",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Bestia Los Angeles",
+      "best restaurants Los Angeles",
+      "Italian restaurant Los Angeles",
+      "restaurants near me Los Angeles",
+      "fine dining Los Angeles"
+    ]
+  },
+  {
+    "id": "los-angeles-n-naka",
+    "name": "n/naka",
+    "description": "Chef Niki Nakayama's critically acclaimed Japanese restaurant.",
+    "reviewSummary": "Modern kaiseki dining, 13-course seasonal tasting menu.",
+    "cuisine": [
+      "Japanese",
+      "Kaiseki"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 1837,
+    "address": {
+      "street": "Palms",
+      "city": "Los Angeles",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 34.06197763141269,
+      "lng": -118.26952737134046
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍣",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining"
+    ],
+    "specialties": [
+      "Tasting menu",
+      "Kaiseki"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Michelin 2-star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "n/naka Los Angeles",
+      "best restaurants Los Angeles",
+      "Japanese restaurant Los Angeles",
+      "restaurants near me Los Angeles",
+      "fine dining Los Angeles"
+    ]
+  }
+]

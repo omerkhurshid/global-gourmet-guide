@@ -1,0 +1,606 @@
+[
+  {
+    "id": "new-york-semma",
+    "name": "Semma",
+    "description": "Fine-dining by chef Vijay Kumar; elegant South Indian tasting experience.",
+    "reviewSummary": "Authentic South Indian dishes, celebrated dosas and curries.",
+    "cuisine": [
+      "South Indian",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.4,
+    "reviewCount": 1107,
+    "address": {
+      "street": "Greenwich Village",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.69719863289031,
+      "lng": -73.95858782000161
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍛",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining"
+    ],
+    "specialties": [
+      "Dosas",
+      "Curries"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "NY Times #1 (2025)",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Semma New York",
+      "best restaurants New York",
+      "South Indian restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-le-bernardin",
+    "name": "Le Bernardin",
+    "description": "Refined French seafood, top global fine dining destination.",
+    "reviewSummary": "Seafood-focused tasting menus, globally acclaimed.",
+    "cuisine": [
+      "Seafood",
+      "French"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 2423,
+    "address": {
+      "street": "Midtown Manhattan",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7246622251348,
+      "lng": -74.04100715130676
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦐",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining"
+    ],
+    "specialties": [
+      "Tasting menu"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Michelin 3-star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Le Bernardin New York",
+      "best restaurants New York",
+      "Seafood restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-eleven-madison-park",
+    "name": "Eleven Madison Park",
+    "description": "Prestigious fine dining by Daniel Humm.",
+    "reviewSummary": "Artistic, immersive tasting menu with contemporary American flavors.",
+    "cuisine": [
+      "Contemporary American"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 1314,
+    "address": {
+      "street": "Flatiron District",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.751490420111615,
+      "lng": -74.00771798538531
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍔",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining"
+    ],
+    "specialties": [
+      "Tasting menu"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Michelin 3-star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Eleven Madison Park New York",
+      "best restaurants New York",
+      "Contemporary American restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-jungsik",
+    "name": "Jungsik",
+    "description": "Korean tasting-menu concept by chef Jungsik Yim.",
+    "reviewSummary": "Modern Korean fine dining; elegant and flavorful.",
+    "cuisine": [
+      "Modern Korean",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 1002,
+    "address": {
+      "street": "Tribeca",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.69444487382461,
+      "lng": -73.97758075750147
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥢",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining"
+    ],
+    "specialties": [
+      "Chef Specials"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Michelin 3-star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Jungsik New York",
+      "best restaurants New York",
+      "Modern Korean restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-yoshino",
+    "name": "Yoshino",
+    "description": "Ten-seat omakase with premium sushi by chef Tadashi Yoshida.",
+    "reviewSummary": "Exceptional omakase experience with sustainable seafood.",
+    "cuisine": [
+      "Sushi",
+      "Japanese"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.7,
+    "reviewCount": 756,
+    "address": {
+      "street": "East Village",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.72624621528238,
+      "lng": -73.96843948477466
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍣",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining",
+      "Omakase"
+    ],
+    "specialties": [
+      "Omakase",
+      "Sushi"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Michelin Guide",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Yoshino New York",
+      "best restaurants New York",
+      "Sushi restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-francie",
+    "name": "Francie",
+    "description": "Italian brasserie with wood-fired specialties.",
+    "reviewSummary": "Duck for two, seasonal Italian cuisine.",
+    "cuisine": [
+      "Italian Brasserie"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.4,
+    "reviewCount": 2326,
+    "address": {
+      "street": "Williamsburg, Brooklyn",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.67754285332015,
+      "lng": -73.98270084872244
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining",
+      "Open Kitchen"
+    ],
+    "specialties": [
+      "Duck",
+      "Wood-fired"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Michelin-starred",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Francie New York",
+      "best restaurants New York",
+      "Italian Brasserie restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-theodora",
+    "name": "Theodora",
+    "description": "Fire-centric seafood grill with bold wood-fired dishes.",
+    "reviewSummary": "Whole grilled fish, smoky Mediterranean flavors.",
+    "cuisine": [
+      "Seafood",
+      "Grill"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 2017,
+    "address": {
+      "street": "Fort Greene, Brooklyn",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.67050909089414,
+      "lng": -74.05146744998605
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦐",
+      "gallery": []
+    },
+    "features": [
+      "Open Kitchen"
+    ],
+    "specialties": [
+      "Fish",
+      "Wood-fired"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Time Out Top NYC",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Theodora New York",
+      "best restaurants New York",
+      "Seafood restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-sailor",
+    "name": "Sailor",
+    "description": "Reinterpretation of American classics in casual ambiance.",
+    "reviewSummary": "Polished comfort food; chef’s favorite casual spot.",
+    "cuisine": [
+      "American"
+    ],
+    "priceLevel": "$$",
+    "rating": 4,
+    "reviewCount": 728,
+    "address": {
+      "street": "Fort Greene, Brooklyn",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.72871931276089,
+      "lng": -73.99298507451287
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍔",
+      "gallery": []
+    },
+    "features": [
+      "Casual Dining"
+    ],
+    "specialties": [
+      "Chef Specials"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "FT Chef Favored",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Sailor New York",
+      "best restaurants New York",
+      "American restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-superiority-burger",
+    "name": "Superiority Burger",
+    "description": "Counter-service veggie spot known for creativity.",
+    "reviewSummary": "Inventive vegetarian burgers, standout sides and desserts.",
+    "cuisine": [
+      "Vegetarian",
+      "American"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 735,
+    "address": {
+      "street": "East Village",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.727381562307926,
+      "lng": -74.04691374072083
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍔",
+      "gallery": []
+    },
+    "features": [
+      "Casual Dining"
+    ],
+    "specialties": [
+      "Burgers"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Eater 38",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Superiority Burger New York",
+      "best restaurants New York",
+      "Vegetarian restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-via-carota",
+    "name": "Via Carota",
+    "description": "Italian bistro with seasonal, veg-forward comfort food.",
+    "reviewSummary": "Warm service, handmade pastas and rustic Italian plates.",
+    "cuisine": [
+      "Italian",
+      "Bistro"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 856,
+    "address": {
+      "street": "West Village",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.6737884280243,
+      "lng": -73.99406157488374
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Vegetarian Options"
+    ],
+    "specialties": [
+      "Pasta"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Eater 38",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Via Carota New York",
+      "best restaurants New York",
+      "Italian restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-lilia",
+    "name": "Lilia",
+    "description": "Trendy Italian by Missy Robbins, known for pastas.",
+    "reviewSummary": "Famous for wood-fired pasta and Italian cocktails.",
+    "cuisine": [
+      "Italian",
+      "Pasta"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 1385,
+    "address": {
+      "street": "Williamsburg, Brooklyn",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.72219963422623,
+      "lng": -73.96316931797496
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Signature Dishes"
+    ],
+    "specialties": [
+      "Pasta",
+      "Wood-fired"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Eater 38",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Lilia New York",
+      "best restaurants New York",
+      "Italian restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-claud",
+    "name": "Claud",
+    "description": "Stylish wine bar meets brasserie with elevated cuisine.",
+    "reviewSummary": "Lively brasserie vibe, cocktails and modern European fare.",
+    "cuisine": [
+      "Modern European",
+      "Brasserie"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 2203,
+    "address": {
+      "street": "Midtown Manhattan",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.672523844227825,
+      "lng": -73.9935735357946
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Bar"
+    ],
+    "specialties": [
+      "Chef Specials"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Eater 38",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Claud New York",
+      "best restaurants New York",
+      "Modern European restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York"
+    ]
+  }
+]

@@ -1,101 +1,103 @@
 [
   {
-    "id": "sketch-london",
-    "name": "Sketch",
-    "description": "Contemporary European cuisine in an avant-garde setting with distinctive pink decor and innovative dishes.",
-    "cuisine": ["European", "Contemporary", "Fine Dining"],
-    "priceLevel": "$$$",
-    "rating": 4.4,
-    "reviewCount": 3200,
-    "address": {
-      "street": "9 Conduit St",
-      "city": "London",
-      "country": "United Kingdom",
-      "postalCode": "W1S 2XG"
-    },
-    "location": {
-      "lat": 51.5141,
-      "lng": -0.1435
-    },
-    "contact": {
-      "phone": "+44 20 7659 4500",
-      "website": "https://sketch.london",
-      "email": "info@sketch.london"
-    },
-    "images": {
-      "hero": "🍽️",
-      "gallery": []
-    },
-    "features": ["Fine Dining", "Cocktail Bar", "Art Gallery", "Private Dining"],
-    "specialties": ["Tasting Menu", "Afternoon Tea", "Cocktails", "Modern European"],
-    "lastUpdated": "2024-01-15",
-    "sources": ["Google Reviews", "TripAdvisor", "Time Out London"],
-    "seoKeywords": ["fine dining London", "contemporary restaurant London", "Sketch restaurant", "best restaurants Mayfair"]
-  },
-  {
-    "id": "dishoom-covent-garden",
+    "id": "london-dishoom",
     "name": "Dishoom",
-    "description": "Bombay-style cafe serving authentic Indian cuisine in a vintage railway station setting with excellent curries and biryanis.",
-    "cuisine": ["Indian", "Bombay", "Curry"],
+    "description": "Retro-themed Indian dining chain loved for its ambiance and all-day menu.",
+    "reviewSummary": "Bombay-style café known for its black daal and bacon naan.",
+    "cuisine": [
+      "Indian",
+      "Bombay Café"
+    ],
     "priceLevel": "$$",
     "rating": 4.6,
-    "reviewCount": 8500,
+    "reviewCount": 2376,
     "address": {
-      "street": "12 Upper St Martin's Ln",
+      "street": "Covent Garden",
       "city": "London",
       "country": "United Kingdom",
-      "postalCode": "WC2H 9FB"
+      "postalCode": ""
     },
     "location": {
-      "lat": 51.5117,
-      "lng": -0.1276
+      "lat": 51.52274364719448,
+      "lng": -0.08684796422874155
     },
     "contact": {
-      "phone": "+44 20 7420 9320",
-      "website": "https://www.dishoom.com",
-      "email": "coventgarden@dishoom.com"
+      "phone": "",
+      "website": "",
+      "email": ""
     },
     "images": {
       "hero": "🍛",
       "gallery": []
     },
-    "features": ["Casual Dining", "Group Friendly", "Takeaway", "Breakfast"],
-    "specialties": ["Black Daal", "House Chicken Ruby", "Pau Bhaji", "Masala Chai"],
-    "lastUpdated": "2024-01-15",
-    "sources": ["Google Reviews", "Yelp", "TripAdvisor", "Time Out London"],
-    "seoKeywords": ["Indian restaurant London", "Bombay cafe London", "best curry London", "Dishoom restaurant"]
+    "features": [
+      "Signature Dishes"
+    ],
+    "specialties": [
+      "Black daal",
+      "Bacon naan"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Time Out",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Dishoom London",
+      "best restaurants London",
+      "Indian restaurant London",
+      "restaurants near me London",
+      "fine dining London"
+    ]
   },
   {
-    "id": "rules-restaurant",
-    "name": "Rules",
-    "description": "London's oldest restaurant serving traditional British cuisine since 1798, famous for game dishes and classic atmosphere.",
-    "cuisine": ["British", "Traditional", "Game"],
+    "id": "london-core-by-clare-smyth",
+    "name": "Core by Clare Smyth",
+    "description": "Modern, minimalist restaurant run by Clare Smyth (ex-Ramsay protégé).",
+    "reviewSummary": "Refined British cuisine using sustainable local ingredients.",
+    "cuisine": [
+      "Modern British",
+      "Fine Dining"
+    ],
     "priceLevel": "$$$",
-    "rating": 4.3,
-    "reviewCount": 2800,
+    "rating": 4.8,
+    "reviewCount": 1147,
     "address": {
-      "street": "35 Maiden Ln",
+      "street": "Notting Hill",
       "city": "London",
       "country": "United Kingdom",
-      "postalCode": "WC2E 7LB"
+      "postalCode": ""
     },
     "location": {
-      "lat": 51.5101,
-      "lng": -0.1244
+      "lat": 51.51994427554802,
+      "lng": -0.0946258410827398
     },
     "contact": {
-      "phone": "+44 20 7836 5314",
-      "website": "https://rules.co.uk",
-      "email": "reservations@rules.co.uk"
+      "phone": "",
+      "website": "",
+      "email": ""
     },
     "images": {
-      "hero": "🥩",
+      "hero": "🇬🇧",
       "gallery": []
     },
-    "features": ["Historic", "Fine Dining", "Private Dining", "Wine List"],
-    "specialties": ["Venison", "Game Pie", "Steak & Kidney Pudding", "British Classics"],
-    "lastUpdated": "2024-01-15",
-    "sources": ["Google Reviews", "TripAdvisor", "Michelin Guide"],
-    "seoKeywords": ["traditional British restaurant London", "oldest restaurant London", "game restaurant London", "historic dining London"]
+    "features": [
+      "Fine Dining"
+    ],
+    "specialties": [
+      "Chef Specials"
+    ],
+    "lastUpdated": "2025-01-25",
+    "sources": [
+      "Michelin 3-star",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Core by Clare Smyth London",
+      "best restaurants London",
+      "Modern British restaurant London",
+      "restaurants near me London",
+      "fine dining London"
+    ]
   }
 ]

@@ -23,8 +23,8 @@ export const cities: City[] = [
       "top restaurants London",
       "fine dining London"
     ],
-    featuredRestaurants: ["sketch-london", "dishoom-covent-garden", "rules-restaurant"],
-    totalRestaurants: 20
+    featuredRestaurants: ["london-dishoom", "london-core-by-clare-smyth"],
+    totalRestaurants: 2
   },
   {
     id: "lahore-pakistan", 
@@ -73,8 +73,8 @@ export const cities: City[] = [
       "top restaurants Manhattan",
       "fine dining NYC"
     ],
-    featuredRestaurants: [],
-    totalRestaurants: 20
+    featuredRestaurants: ["new-york-semma", "new-york-le-bernardin", "new-york-eleven-madison-park"],
+    totalRestaurants: 12
   },
   {
     id: "karachi-pakistan",
@@ -148,8 +148,8 @@ export const cities: City[] = [
       "where to eat Los Angeles",
       "LA food scene"
     ],
-    featuredRestaurants: [],
-    totalRestaurants: 20
+    featuredRestaurants: ["los-angeles-bestia", "los-angeles-n-naka"],
+    totalRestaurants: 2
   },
   {
     id: "mumbai-india",
