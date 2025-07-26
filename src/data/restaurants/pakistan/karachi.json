@@ -491,5 +491,110 @@
       "Turkish restaurant Karachi",
       "restaurants near me Karachi"
     ]
+  },
+  {
+    "id": "karachi-burger-oclock",
+    "name": "Burger O'Clock",
+    "description": "Bold flavors, generous portions, and playful menu that dares you to go messy.",
+    "reviewSummary": "Known for Messy Meat burger and Pizza Fries; late-night favorite.",
+    "cuisine": [
+      "Fast Food",
+      "American",
+      "Burgers"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 200,
+    "address": {
+      "street": "Multiple Locations",
+      "city": "Karachi",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 24.8607,
+      "lng": 67.0011
+    },
+    "contact": {
+      "phone": "+92 21 111 432 532",
+      "website": "https://burgeroclock.com.pk/",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍔",
+      "gallery": []
+    },
+    "features": [
+      "Dine In",
+      "Takeout",
+      "Late Night"
+    ],
+    "specialties": [
+      "Messy Meat Burger",
+      "Pizza Fries",
+      "Belt Buster"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Burger O'Clock Karachi",
+      "best burgers Karachi",
+      "fast food restaurant Karachi",
+      "restaurants near me Karachi"
+    ],
+    "spotlight": {
+      "title": "A First Bite in Karachi: Discovering Burger O'Clock",
+      "excerpt": "As someone new to Karachi, I discovered why Burger O'Clock has become an urban legend for burger lovers with bold flavors and generous portions.",
+      "introduction": "As someone new to Karachi, I arrived with a running list of food spots whispered in hushed reverence by locals, and shouted joyfully across WhatsApp groups. One name that kept coming up—loud, proud, and very often in all caps—was Burger O'Clock. \"You have to try their Messy Meat,\" a friend told me. Another raved about their \"insane pizza fries.\" So, one late evening, after unpacking boxes and navigating Karachi's chaotic, electric streets, I decided to find out what the fuss was about.",
+      "sections": [
+        {
+          "heading": "Chasing Cravings in a New City",
+          "content": [
+            "I ended up at their Gulshan-e-Iqbal branch—one of many across the city, including in DHA, North Nazimabad, and the commercial corridors near I.I. Chundrigar Road. The signage was playful, the lights bright, and the promise of comfort food almost magnetic. As I stepped in, I was greeted with the hum of chatter, a flickering kitchen window, and the savory smell of beef patties on the grill."
+          ]
+        },
+        {
+          "heading": "My First Order: A Messy Mission",
+          "content": [
+            "I stood at the counter, unsure what to pick, until I saw it: Messy Meat Burger—a 7oz beef patty, dripping with sauces, stuffed with onion rings, jalapeños, nacho cheese, pickles, and a dash of dijon mustard. I paired it with a portion of their infamous Pizza Fries and a chilled soft drink.",
+            "When the tray landed at my table, I had a moment of hesitation. This was not a burger you eat delicately. It was a lean forward, roll your sleeves, forget the napkins kind of burger. And it delivered. Smoky, spicy, crunchy, messy—the flavors were layered beautifully, with just enough heat and creaminess to keep you digging in for more. The Pizza Fries were thick, golden, and loaded with melted mozzarella, tomato sauce, herbs, and bits of pepperoni. They didn't skimp on anything."
+          ]
+        },
+        {
+          "heading": "The Experience: Messy Hands, Happy Heart",
+          "content": [
+            "There's something unpretentious about Burger O'Clock. It doesn't try to imitate an American diner or a high-end burger bar. Instead, it leans into Karachi's love for excess, heat, and flavor. The staff were friendly and fast, the crowd young and loud, and the seating clean but informal.",
+            "I sat there watching a group of friends unwrap their Belt Buster—a towering burger with four patties stacked like a skyscraper—and it hit me: Burger O'Clock isn't just about food. It's a late-night ritual, a place where hunger meets storytelling, and where calorie-counting takes a temporary back seat."
+          ]
+        }
+      ],
+      "locations": [
+        "Gulshan-e-Iqbal (Block 4) – Near Disco Bakery, opposite KFC",
+        "North Nazimabad – Block L, near 5-Star Chowrangi",
+        "DHA Phase 6 – Khayaban-e-Nishat, opposite Bonsai Restaurant",
+        "I.I. Chundrigar Road – Ground floor, Uni Tower II"
+      ],
+      "menuHighlights": {
+        "Classic Burgers": "Beef Old School, Chick'n'Crisp",
+        "Premium Burgers": "Messy Meat, Crunchos Burger",
+        "Extreme Burgers": "Smoky Tang, Jalapeño Spark, Belt Buster",
+        "Sides": "Pizza Fries, Zesty BBQ Fries, Wild Fries, BBQ Wings",
+        "Combos": "Share Boxes, Wraps, Kiddy Meals",
+        "Drinks": "Soft drinks, Fresh lime, Ice cream shakes"
+      },
+      "tips": [
+        "Go dine-in if you can – burgers like Messy Meat are best fresh.",
+        "Visit between 6–8 PM or late on weekdays for shorter wait times.",
+        "Try the Messy Meat, Crunchos, and Pizza Fries first – they're crowd favorites.",
+        "Stick to Gulshan or DHA branches for the most consistent service.",
+        "Ask for extra napkins. You'll definitely need them."
+      ],
+      "finalVerdict": "Burger O'Clock is essentially an urban Karachi legend for burger lovers: bold flavors, generous portions, and a playful menu that dares you to go messy. The Messy Meat and Fire Bird stand out as favorites among locals, while pizza fries remain a crispy obsession. I came in looking for a burger. I left feeling like I'd discovered a local legend.",
+      "author": "Food Explorer",
+      "publishDate": "December 25, 2024"
+    }
   }
 ]

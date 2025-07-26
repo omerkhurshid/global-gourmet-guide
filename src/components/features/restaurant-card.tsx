@@ -1,7 +1,7 @@
 "use client"
 
 import Link from "next/link"
-import { MapPin, Star, Phone, ExternalLink } from "lucide-react"
+import { MapPin, Star, Phone, ExternalLink, FileText } from "lucide-react"
 import { Restaurant } from "@/data/types"
 import { Button } from "@/components/ui/button"
 import { formatPrice, formatRating, formatAddress, generateRestaurantSlug, generateCitySlug } from "@/lib/utils"
@@ -52,8 +52,19 @@ export function RestaurantCard({
               </div>
             )}
             
-            <div className="text-sm text-gray-600 uppercase tracking-wide">
-              {formatAddress(restaurant.address)}
+            <div className="flex items-center justify-between">
+              <div className="text-sm text-gray-600 uppercase tracking-wide">
+                {formatAddress(restaurant.address)}
+              </div>
+              {restaurant.spotlight && (
+                <Link 
+                  href={`/spotlight/${citySlug}/${restaurantSlug}`}
+                  className="inline-flex items-center px-3 py-1 bg-rose-100 text-rose-700 text-xs font-medium rounded-full hover:bg-rose-200 transition-colors"
+                >
+                  <FileText className="w-3 h-3 mr-1" />
+                  Spotlight
+                </Link>
+              )}
             </div>
           </div>
       </div>

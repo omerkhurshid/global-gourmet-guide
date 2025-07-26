@@ -34,6 +34,25 @@ export interface Restaurant {
   lastUpdated: string;
   sources: string[];
   seoKeywords: string[];
+  spotlight?: RestaurantSpotlight;
+}
+
+export interface RestaurantSpotlight {
+  title: string;
+  excerpt: string;
+  introduction: string;
+  sections: {
+    heading: string;
+    content: string[];
+  }[];
+  locations: string[];
+  menuHighlights?: {
+    [category: string]: string;
+  };
+  tips?: string[];
+  finalVerdict: string;
+  author?: string;
+  publishDate: string;
 }
 
 export interface City {
