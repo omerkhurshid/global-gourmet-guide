@@ -19,19 +19,10 @@ export default function Home() {
 
   return (
     <div className="bg-rose-50">
-      {/* Hero Image Section */}
-      <section className="relative w-full bg-rose-50">
-        <div className="relative h-64 md:h-96 w-full overflow-hidden">
-          <Image
-            src="/images/hero.jpg"
-            alt="Elegant restaurant table setting with wooden table, white plate, gold utensils, and glassware"
-            fill
-            className="object-cover object-center"
-            priority
-            sizes="100vw"
-            quality={85}
-          />
-          <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/10" />
+      {/* Header Line Section */}
+      <section className="relative w-full bg-rose-50 py-8">
+        <div className="flex justify-center">
+          <div className="h-0.5 bg-rose-500" style={{width: '0.5cm'}}></div>
         </div>
       </section>
 
