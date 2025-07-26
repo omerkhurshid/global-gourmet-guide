@@ -21,8 +21,9 @@ export function Navigation() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
-          <Link href="/" className="flex items-center">
-            <span className="text-2xl font-black text-black uppercase tracking-wide">
+          <Link href="/" className="flex items-center space-x-3">
+            <Logo size="lg" />
+            <span className="text-2xl font-black uppercase tracking-wide" style={{color: '#8b6355'}}>
               GLOBAL GOURMET GUIDE
             </span>
           </Link>

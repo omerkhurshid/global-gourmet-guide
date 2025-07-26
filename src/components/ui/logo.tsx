@@ -16,17 +16,17 @@ export function Logo({ className = "", size = 'md' }: LogoProps) {
         {/* Location pin shape */}
         <path
           d="M50 0C22.386 0 0 22.386 0 50C0 77.614 50 120 50 120C50 120 100 77.614 100 50C100 22.386 77.614 0 50 0Z"
-          fill="#1F2937"
+          fill="#8b6355"
         />
         
         {/* Globe/fork design inside pin */}
         <g transform="translate(20, 15)">
           {/* Fork prongs */}
-          <rect x="26" y="10" width="3" height="25" fill="#F59E0B" rx="1.5"/>
-          <rect x="31" y="10" width="3" height="25" fill="#F59E0B" rx="1.5"/>
+          <rect x="26" y="10" width="3" height="25" fill="#b07968" rx="1.5"/>
+          <rect x="31" y="10" width="3" height="25" fill="#b07968" rx="1.5"/>
           
           {/* Fork handle */}
-          <rect x="25" y="30" width="10" height="35" fill="#F59E0B" rx="5"/>
+          <rect x="25" y="30" width="10" height="35" fill="#b07968" rx="5"/>
           
           {/* Globe segments */}
           <path
@@ -49,7 +49,7 @@ export function Logo({ className = "", size = 'md' }: LogoProps) {
         </g>
         
         {/* Pin tip */}
-        <circle cx="50" cy="50" r="8" fill="#374151"/>
+        <circle cx="50" cy="50" r="8" fill="#e6d1c9"/>
       </svg>
     </div>
   )
