@@ -41,16 +41,12 @@ export default function Home() {
             </p>
           </div>
           
-          {/* Search functionality will be implemented later */}
+          {/* Search functionality */}
           <div className="max-w-xl mx-auto mb-14">
-            <div className="relative">
-              <input
-                type="text"
-                placeholder="Search restaurants, cities, cuisines..."
-                className="w-full px-6 py-4 text-lg border border-white rounded-none bg-white focus:outline-none focus:border-gray-300 transition-colors"
-                disabled
-              />
-            </div>
+            <SearchBar 
+              placeholder="Search cities or countries..."
+              className="w-full"
+            />
           </div>
           
           {/* Minimal Stats */}
