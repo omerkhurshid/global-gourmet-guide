@@ -23,8 +23,8 @@ export default function Home() {
       <section className="relative w-full bg-white">
         <div className="relative h-64 md:h-96 w-full overflow-hidden">
           <Image
-            src="https://images.unsplash.com/photo-1414235077428-338989a2e8c0?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80"
-            alt="Elegant restaurant table setting with plates, utensils, and glassware"
+            src="/images/restaurant-table-setting.jpg"
+            alt="Elegant restaurant table setting with wooden table, white plate, gold utensils, and glassware"
             fill
             className="object-cover object-center"
             priority
