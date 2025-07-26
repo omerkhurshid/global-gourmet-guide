@@ -60,15 +60,15 @@ export default function Home() {
         </div>
         
         <div className="relative z-10 text-center px-4 max-w-5xl mx-auto">
-          <h1 className="text-5xl md:text-7xl font-bold text-gray-900 mb-6 leading-tight">
-            Global
-            <span className="block text-6xl md:text-8xl bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
-              Gourmet Guide
+          <h1 className="text-4xl md:text-6xl font-bold text-gray-900 mb-6 leading-tight">
+            Discover the World's Best
+            <span className="block text-5xl md:text-7xl bg-gradient-to-r from-orange-600 to-red-600 bg-clip-text text-transparent">
+              Restaurants near you
             </span>
           </h1>
           
-          <p className="text-2xl md:text-3xl text-gray-700 mb-8 font-medium">
-            The best bites, wherever you are.
+          <p className="text-lg md:text-xl text-gray-700 mb-8 font-medium leading-relaxed max-w-3xl mx-auto">
+            Find amazing dining experiences in top cities worldwide. From hidden gems to Michelin-starred establishments.
           </p>
           
           {/* Search Bar */}
