@@ -9,6 +9,42 @@ const nextConfig: NextConfig = {
     // Disable type checking during builds
     ignoreBuildErrors: true,
   },
+  
+  // SEO and Performance optimizations
+  headers: async () => [
+    {
+      source: '/(.*)',
+      headers: [
+        {
+          key: 'X-DNS-Prefetch-Control',
+          value: 'on'
+        },
+        {
+          key: 'X-Content-Type-Options',
+          value: 'nosniff'
+        },
+        {
+          key: 'Referrer-Policy',
+          value: 'origin-when-cross-origin'
+        }
+      ]
+    }
+  ],
+  
+  // Redirect old vercel domain to .tech domain
+  redirects: async () => [
+    {
+      source: '/:path*',
+      has: [
+        {
+          type: 'host',
+          value: 'restaurantsnearme.vercel.app',
+        },
+      ],
+      destination: 'https://restaurantsnearme.tech/:path*',
+      permanent: true,
+    },
+  ],
 };
 
 export default nextConfig;

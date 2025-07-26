@@ -4,7 +4,7 @@ import { generateCitySlug, generateRestaurantSlug } from '@/lib/utils'
 import { getRestaurantsByCity } from '@/lib/restaurants'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://restaurantsnearme.vercel.app'
+  const baseUrl = 'https://restaurantsnearme.tech'
   
   // Static pages
   const staticPages: MetadataRoute.Sitemap = [

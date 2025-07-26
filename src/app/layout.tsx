@@ -15,23 +15,23 @@ const inter = Inter({
 const seoData = generateHomepageSEO();
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://restaurantsnearme.vercel.app'),
+  metadataBase: new URL('https://restaurantsnearme.tech'),
   title: seoData.title,
   description: seoData.description,
   keywords: seoData.keywords.join(", "),
-  authors: [{ name: "Global Gourmet Guide" }],
-  creator: "Global Gourmet Guide",
-  publisher: "Global Gourmet Guide",
+  authors: [{ name: "Restaurants Near Me" }],
+  creator: "Restaurants Near Me",
+  publisher: "Restaurants Near Me",
   alternates: {
-    canonical: 'https://restaurantsnearme.vercel.app',
+    canonical: 'https://restaurantsnearme.tech',
   },
   openGraph: {
     title: seoData.openGraph.title,
     description: seoData.openGraph.description,
     type: "website",
     images: [seoData.openGraph.image],
-    url: 'https://restaurantsnearme.vercel.app',
-    siteName: 'Global Gourmet Guide',
+    url: 'https://restaurantsnearme.tech',
+    siteName: 'Restaurants Near Me',
     locale: 'en_US',
   },
   twitter: {

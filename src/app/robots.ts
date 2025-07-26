@@ -7,7 +7,7 @@ export default function robots(): MetadataRoute.Robots {
       allow: '/',
       disallow: ['/private/', '/admin/', '/*.json$'],
     },
-    sitemap: 'https://restaurantsnearme.vercel.app/sitemap.xml',
-    host: 'https://restaurantsnearme.vercel.app',
+    sitemap: 'https://restaurantsnearme.tech/sitemap.xml',
+    host: 'https://restaurantsnearme.tech',
   }
 }
