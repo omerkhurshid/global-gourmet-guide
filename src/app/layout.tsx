@@ -15,6 +15,7 @@ const inter = Inter({
 const seoData = generateHomepageSEO();
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://restaurantsnearme.vercel.app'),
   title: seoData.title,
   description: seoData.description,
   keywords: seoData.keywords.join(", "),

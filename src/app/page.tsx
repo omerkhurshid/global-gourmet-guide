@@ -100,7 +100,7 @@ export default function Home() {
                       href={`/${generateCitySlug(city.name)}`}
                       className="group"
                     >
-                      <div className="bg-white border border-gray-200 transition-colors duration-300" style={{'--hover-border': '#b07968'}} onMouseEnter={(e) => e.currentTarget.style.borderColor = '#b07968'} onMouseLeave={(e) => e.currentTarget.style.borderColor = '#e5e7eb'}>
+                      <div className="bg-white border border-gray-200 hover:border-[#b07968] transition-colors duration-300">
                         <div className="relative h-64 overflow-hidden">
                           <Image
                             src={city.heroImage}

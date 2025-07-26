@@ -81,10 +81,8 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
           <Link 
             href={`/${citySlug}`}
-            className="inline-flex items-center text-sm mb-4 transition-colors"
+            className="inline-flex items-center text-sm mb-4 transition-colors hover:text-[#b07968]"
             style={{color: '#8b6355'}}
-            onMouseEnter={(e) => e.currentTarget.style.color = '#b07968'}
-            onMouseLeave={(e) => e.currentTarget.style.color = '#8b6355'}
           >
             <ArrowLeft className="w-4 h-4 mr-2" />
             Back to {city.name}
