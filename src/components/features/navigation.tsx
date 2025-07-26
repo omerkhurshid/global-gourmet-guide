@@ -17,21 +17,21 @@ export function Navigation() {
   }
 
   return (
-    <nav className="bg-gray-50 border-b border-gray-200 sticky top-0 z-50">
+    <nav className="sticky top-0 z-50" style={{backgroundColor: '#b07968'}}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-3">
             <Logo size="lg" />
-            <span className="text-2xl font-black uppercase tracking-wide" style={{color: '#8b6355'}}>
-              GLOBAL GOURMET GUIDE
+            <span className="text-2xl font-black uppercase tracking-wide text-white">
+              RESTAURANTS NEAR ME
             </span>
           </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center space-x-12">
             <div className="relative group">
-              <button className="text-black font-medium uppercase tracking-wide text-sm hover:text-gray-600 transition-colors">
+              <button className="text-white font-medium uppercase tracking-wide text-sm hover:text-gray-200 transition-colors">
                 Cities
               </button>
               <div className="absolute top-full left-0 mt-4 w-80 bg-white border border-gray-200 shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300">
@@ -60,7 +60,7 @@ export function Navigation() {
             
             <Link 
               href="/about" 
-              className="text-black font-medium uppercase tracking-wide text-sm hover:text-gray-600 transition-colors"
+              className="text-white font-medium uppercase tracking-wide text-sm hover:text-gray-200 transition-colors"
             >
               About
             </Link>
@@ -69,12 +69,15 @@ export function Navigation() {
           {/* Mobile menu button */}
           <button
             onClick={toggleMenu}
-            className="md:hidden p-2 text-black hover:text-gray-600"
+            className="md:hidden p-2 text-white hover:text-gray-200"
           >
             {isMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
           </button>
         </div>
       </div>
+      
+      {/* Thin horizontal divider line */}
+      <div className="w-full h-px bg-white opacity-30"></div>
 
       {/* Mobile Menu */}
       {isMenuOpen && (

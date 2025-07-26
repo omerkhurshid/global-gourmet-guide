@@ -21,12 +21,8 @@ export default function Home() {
 
   return (
     <div style={{backgroundColor: '#b07968'}}>
-      {/* Header Line Section */}
-      <section className="relative w-full py-8" style={{backgroundColor: '#b07968'}}>
-        <div className="flex justify-center">
-          <div className="h-0.5 bg-black" style={{width: '0.5cm'}}></div>
-        </div>
-      </section>
+      {/* Clean divider line */}
+      <div className="w-full h-px bg-white opacity-30"></div>
 
       {/* Hero Content Section */}
       <section className="py-20" style={{backgroundColor: '#b07968'}}>
@@ -74,6 +70,43 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Split Section - About Our Service */}
+      <section className="py-24" style={{backgroundColor: '#b07968'}}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
+            {/* Left side - Typography */}
+            <div>
+              <h2 className="text-4xl md:text-5xl font-black text-white mb-8 leading-tight uppercase tracking-wide">
+                RESTAURANT<br />
+                DISCOVERY
+              </h2>
+              <p className="text-lg text-white opacity-90 leading-relaxed mb-8">
+                We curate the finest dining experiences across major cities, from Michelin-starred establishments to hidden local gems. Each restaurant is carefully selected based on quality, atmosphere, and exceptional culinary offerings.
+              </p>
+              <p className="text-lg text-white opacity-90 leading-relaxed">
+                Whether you're seeking fine dining for special occasions or authentic local cuisine for everyday meals, our platform connects you with the perfect dining experience in your city.
+              </p>
+            </div>
+            
+            {/* Right side - Featured content */}
+            <div className="bg-white/10 backdrop-blur-sm p-12 border border-white/20">
+              <div className="text-center">
+                <div className="text-6xl mb-6">🍽️</div>
+                <h3 className="text-2xl font-black text-white mb-4 uppercase tracking-wide">
+                  Premium Curation
+                </h3>
+                <p className="text-white opacity-90 leading-relaxed">
+                  Every restaurant on our platform is hand-picked by our team of food experts and local insiders.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Clean divider line */}
+      <div className="w-full h-px bg-white opacity-30"></div>
+
       {/* Cities by Country */}
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -81,6 +114,7 @@ export default function Home() {
             <h2 className="text-4xl md:text-6xl font-black text-black mb-6 tracking-tight">
               EXPLORE CITIES
             </h2>
+            <div className="w-24 h-px mx-auto mb-6" style={{backgroundColor: '#e6d1c9'}}></div>
             <p className="text-lg max-w-xl mx-auto uppercase tracking-wide" style={{color: '#8b6355'}}>
               TOP CULINARY DESTINATIONS WORLDWIDE
             </p>
@@ -90,7 +124,8 @@ export default function Home() {
             {Object.entries(citiesByCountry).map(([country, countryCities]) => (
               <div key={country} className="space-y-12">
                 <div className="text-center">
-                  <h3 className="text-2xl md:text-3xl font-black mb-8 uppercase tracking-wide" style={{color: '#8b6355'}}>{country}</h3>
+                  <h3 className="text-2xl md:text-3xl font-black mb-4 uppercase tracking-wide" style={{color: '#8b6355'}}>{country}</h3>
+                  <div className="w-16 h-px mx-auto mb-8" style={{backgroundColor: '#e6d1c9'}}></div>
                 </div>
                 
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
