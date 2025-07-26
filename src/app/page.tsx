@@ -7,6 +7,8 @@ import { AdSenseAd } from "@/components/features/adsense"
 import { Button } from "@/components/ui/button"
 import { cities } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
+
+// Updated: Force deployment with terracotta color scheme
 export default function Home() {
   // Organize cities by country
   const citiesByCountry = {
