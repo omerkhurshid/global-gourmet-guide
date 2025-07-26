@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation"
 import { Metadata } from "next"
-import { Filter, Grid, List, MapPin, Star } from "lucide-react"
+import { MapPin } from "lucide-react"
 import { CityHero } from "@/components/features/city-hero"
 import { RestaurantCard } from "@/components/features/restaurant-card"
 import { Button } from "@/components/ui/button"
@@ -68,13 +68,6 @@ export default async function CityPage({ params }: CityPageProps) {
   // Get restaurants for this city
   const restaurants = getRestaurantsByCity(citySlug)
 
-  // Calculate stats
-  const avgRating = restaurants.length > 0 
-    ? (restaurants.reduce((sum, r) => sum + r.rating, 0) / restaurants.length).toFixed(1)
-    : "0"
-  
-  const cuisineTypes = [...new Set(restaurants.flatMap(r => r.cuisine))].length
-
   return (
     <div className="bg-gray-50 min-h-screen">
       {/* City Hero */}
@@ -84,54 +77,13 @@ export default async function CityPage({ params }: CityPageProps) {
       <section className="py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           {/* Section Header */}
-          <div className="flex flex-col md:flex-row md:items-center md:justify-between mb-8">
-            <div>
-              <h2 className="text-3xl font-bold text-gray-900 mb-2">
-                Top Restaurants in {city.name}
-              </h2>
-              <p className="text-gray-600">
-                Discover {restaurants.length} carefully curated dining experiences
-              </p>
-            </div>
-            
-            {/* Stats */}
-            <div className="flex items-center space-x-6 mt-4 md:mt-0 text-sm text-gray-600">
-              <div className="flex items-center">
-                <Star className="w-4 h-4 text-yellow-400 mr-1" />
-                <span>{avgRating} avg rating</span>
-              </div>
-              <div className="flex items-center">
-                <MapPin className="w-4 h-4 text-gray-400 mr-1" />
-                <span>{cuisineTypes} cuisine types</span>
-              </div>
-            </div>
-          </div>
-
-          {/* Filters & View Toggle */}
-          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between mb-8 p-4 bg-white rounded-lg shadow-sm">
-            <div className="flex items-center space-x-4 mb-4 sm:mb-0">
-              <Button variant="outline" size="sm" className="flex items-center">
-                <Filter className="w-4 h-4 mr-2" />
-                All Cuisines
-              </Button>
-              <Button variant="outline" size="sm">
-                All Prices
-              </Button>
-              <Button variant="outline" size="sm">
-                Highest Rated
-              </Button>
-            </div>
-            
-            <div className="flex items-center space-x-2">
-              <Button variant="outline" size="sm" className="flex items-center">
-                <Grid className="w-4 h-4 mr-1" />
-                Grid
-              </Button>
-              <Button variant="ghost" size="sm" className="flex items-center">
-                <List className="w-4 h-4 mr-1" />
-                List
-              </Button>
-            </div>
+          <div className="mb-8">
+            <h2 className="text-3xl font-bold text-gray-900 mb-2">
+              Top Restaurants in {city.name}
+            </h2>
+            <p className="text-gray-600">
+              Discover {restaurants.length} carefully curated dining experiences
+            </p>
           </div>
 
           {/* Restaurant List */}
