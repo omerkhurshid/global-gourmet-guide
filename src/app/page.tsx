@@ -92,34 +92,31 @@ export default function Home() {
                   <div className="w-16 h-px mx-auto mb-8" style={{backgroundColor: '#e6d1c9'}}></div>
                 </div>
                 
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8">
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-6">
                   {countryCities.map((city) => (
                     <Link
                       key={city.id}
                       href={`/${generateCitySlug(city.name)}`}
                       className="group"
                     >
-                      <div className="bg-white border border-gray-200 hover:border-[#b07968] transition-colors duration-300">
-                        <div className="relative h-64 overflow-hidden">
+                      <div className="bg-white border border-gray-200 hover:border-[#b07968] transition-colors duration-300 overflow-hidden">
+                        <div className="relative h-40 overflow-hidden">
                           <Image
                             src={city.heroImage}
                             alt={city.name}
                             fill
-                            className="object-cover"
+                            className="object-cover group-hover:scale-105 transition-transform duration-300"
                             priority={city.name === "New York" || city.name === "London"}
-                            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 25vw"
+                            sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 16vw"
                             quality={85}
                           />
+                          <div className="absolute top-2 right-2 bg-white bg-opacity-90 px-2 py-1 text-xs font-bold uppercase tracking-wide" style={{color: '#b07968'}}>
+                            {city.totalRestaurants}
+                          </div>
                         </div>
                         
-                        <div className="p-8">
-                          <h4 className="text-xl font-black mb-2 uppercase tracking-wide" style={{color: '#8b6355'}}>{city.name}</h4>
-                          <div className="text-sm mb-4 uppercase tracking-wide" style={{color: '#b07968'}}>
-                            {city.totalRestaurants} RESTAURANTS
-                          </div>
-                          <p className="text-sm leading-relaxed line-clamp-3" style={{color: '#8b6355'}}>
-                            {city.description}
-                          </p>
+                        <div className="p-4">
+                          <h4 className="text-sm font-black uppercase tracking-wide text-center" style={{color: '#8b6355'}}>{city.name}</h4>
                         </div>
                       </div>
                     </Link>
