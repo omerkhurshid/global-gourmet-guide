@@ -2,8 +2,8 @@
   {
     "id": "london-miga",
     "name": "Miga",
-    "description": "Modern Korean with standout dishes like beef tartare yughwe and braised short ribs. Cozy, family-run feel with stylish plates.",
-    "reviewSummary": "Time Out's #1 restaurant for 2025. Modern Korean cuisine with exceptional beef tartare and intimate atmosphere.",
+    "description": "Walking into Miga feels like discovering London's best-kept secret tucked away in the vibrant streets of Hackney. This isn't your typical Korean restaurant—it's an intimate love letter to modern Korean cuisine, where every dish tells a story. The moment you step inside, you're enveloped by the warmth of a truly family-run establishment, where the passion for authentic flavors meets innovative presentation. The beef tartare yughwe is nothing short of revelatory—delicate, perfectly seasoned, and presented with an artistry that speaks to the chef's dedication to their craft. Each bite of the braised short ribs melts in your mouth, rich with umami and comfort that transports you straight to Seoul's finest establishments.",
+    "reviewSummary": "Time Out's #1 restaurant for 2025 isn't just a title—it's a testament to Miga's extraordinary ability to elevate Korean cuisine to new heights. This family-run gem has created something truly special: an intimate dining experience where modern Korean flavors dance on your palate with each carefully crafted dish.",
     "cuisine": [
       "Modern Korean",
       "Contemporary Asian"
@@ -55,8 +55,8 @@
   {
     "id": "london-oma",
     "name": "Oma",
-    "description": "Live-fire Greek-influenced cooking in a minimalist open-kitchen setting. Seasonal fish and flatbreads are menu highlights.",
-    "reviewSummary": "Time Out #2 and Michelin recognized. Exceptional Greek-Mediterranean cuisine with live-fire cooking techniques.",
+    "description": "There's something almost primal about watching flames dance around fresh ingredients at Oma, nestled in the heart of Borough Market. This isn't just dinner—it's theater. The open kitchen becomes a stage where ancient Greek cooking traditions meet modern London sophistication. The minimalist design forces your attention to what truly matters: the intoxicating aroma of seasonal fish kissed by fire, the satisfying crack of perfectly blistered flatbreads, and the passionate choreography of chefs who treat each ingredient with reverence. Every meal here feels like a celebration of the Mediterranean spirit, where simplicity isn't just a cooking philosophy—it's an art form that transforms the finest seasonal produce into something transcendent.",
+    "reviewSummary": "Earning both Time Out's #2 spot and Michelin recognition isn't luck—it's the result of Oma's unwavering commitment to live-fire Greek cooking that captures the soul of the Mediterranean while embracing London's diverse culinary landscape.",
     "cuisine": [
       "Greek",
       "Mediterranean"
@@ -109,8 +109,8 @@
   {
     "id": "london-plates",
     "name": "Plates",
-    "description": "UK's first Michelin-starred vegan restaurant. Inventive plant-based tasting menus with artistic presentation.",
-    "reviewSummary": "Groundbreaking vegan fine dining that earned the UK's first Michelin star for plant-based cuisine.",
+    "description": "History was made at Plates, and you can taste the revolution on every single plate. This isn't just another vegan restaurant trying to replicate meat—it's a bold reimagining of what plant-based cuisine can achieve when creativity knows no bounds. Walking through Shoreditch to reach this groundbreaking establishment feels like a pilgrimage to the future of fine dining. Each course arrives like a work of art, challenging every preconception about vegan food with inventive flavor combinations that would make even the most devoted carnivore question everything. The artistic presentation isn't just Instagram-worthy—it's museum-quality, with each dish telling a story about sustainability, innovation, and the incredible potential hidden within plants.",
+    "reviewSummary": "Being the UK's first Michelin-starred vegan restaurant isn't just a milestone—it's a testament to Plates' revolutionary approach to plant-based fine dining, proving that creativity and sustainability can create extraordinary culinary experiences.",
     "cuisine": [
       "Vegan",
       "Plant-based",
@@ -163,8 +163,8 @@
   {
     "id": "london-core-by-clare-smyth",
     "name": "CORE by Clare Smyth",
-    "description": "Refined modern British cuisine with seasonal ingredients. Elegant yet unpretentious dining room.",
-    "reviewSummary": "Three Michelin stars. Clare Smyth's flagship restaurant showcasing the finest of modern British cooking.",
+    "description": "Clare Smyth has created something extraordinary at CORE—a restaurant that embodies the very essence of modern British cuisine while remaining refreshingly unpretentious. Every visit feels like a journey through Britain's culinary landscape, where seasonal ingredients are elevated to their absolute peak through masterful technique and genuine passion. The dining room strikes the perfect balance between elegance and warmth, creating an atmosphere where you can truly focus on the remarkable journey unfolding on your plate. Each dish tells the story of British terroir, from the first bite to the final, lingering flavor that leaves you planning your next visit before you've even finished your meal.",
+    "reviewSummary": "Three Michelin stars speak volumes, but what truly sets CORE apart is Clare Smyth's unwavering commitment to showcasing British ingredients with a refinement that never loses sight of hospitality and warmth.",
     "cuisine": [
       "Contemporary British",
       "Fine Dining"
@@ -271,8 +271,8 @@
   {
     "id": "london-restaurant-gordon-ramsay",
     "name": "Restaurant Gordon Ramsay",
-    "description": "Classic French haute cuisine. London's longest-running 3-star experience. Timeless and polished.",
-    "reviewSummary": "Three Michelin stars since 2001. Gordon Ramsay's flagship restaurant epitomizes classic French fine dining.",
+    "description": "Step into Restaurant Gordon Ramsay and you're entering a temple of classic French cuisine that has defined London's fine dining scene for over two decades. This isn't about celebrity chef drama—it's about pure, unadulterated culinary excellence that has stood the test of time. The restaurant exudes a timeless elegance that whispers rather than shouts, where every detail from the crisp white tablecloths to the perfectly polished silverware speaks to an unwavering commitment to perfection. Each dish arrives as a masterclass in traditional French technique, executed with a precision that borders on the sublime. The flavors are bold yet refined, familiar yet surprising, creating an experience that reminds you why French cuisine has long been considered the gold standard of fine dining.",
+    "reviewSummary": "Since 2001, those three Michelin stars haven't just been maintained—they've been earned anew with every service, cementing Gordon Ramsay's flagship as London's definitive destination for classic French haute cuisine.",
     "cuisine": [
       "French",
       "Haute Cuisine"
@@ -379,8 +379,8 @@
   {
     "id": "london-sketch",
     "name": "Sketch (Lecture Room)",
-    "description": "Playful, eclectic French-inspired tasting menus in a whimsical interior. Dining as performance.",
-    "reviewSummary": "Three Michelin stars in London's most theatrical dining room. French-inspired cuisine meets artistic performance.",
+    "description": "Sketch defies every convention of fine dining, transforming a meal into an immersive art installation that challenges your senses before you've even looked at the menu. The Lecture Room isn't just whimsical—it's wonderfully mad in the best possible way, where pink velvet meets contemporary art in a collision of creativity that somehow makes perfect sense. Every course arrives like a scene from a surreal dream, with French-inspired flavors that dance between the familiar and the fantastical. This is dining as performance art, where the boundary between chef and artist dissolves completely. You don't just eat at Sketch—you experience it, remember it, and find yourself describing it to friends for months afterward.",
+    "reviewSummary": "Three Michelin stars and London's most theatrical dining room create an experience where French-inspired cuisine transcends food to become pure artistic expression that challenges and delights in equal measure.",
     "cuisine": [
       "French-inspired",
       "Theatrical Dining"
@@ -433,8 +433,8 @@
   {
     "id": "london-gymkhana",
     "name": "Gymkhana",
-    "description": "Elite Indian dining with colonial club ambiance. Famous for tandoori lamb chops and biryanis.",
-    "reviewSummary": "Two Michelin stars. Mayfair's finest Indian restaurant with colonial club elegance and exceptional tandoori.",
+    "description": "Gymkhana transports you to the golden age of colonial India, but with a sophistication and attention to detail that feels distinctly modern. The moment you descend into this Mayfair basement, you're enveloped by the warm glow of colonial club elegance—think rich mahogany, vintage photographs, and the gentle hum of refined conversation. But it's the food that truly captivates: those legendary tandoori lamb chops arrive perfectly charred yet impossibly tender, while the biryanis are fragrant monuments to North Indian culinary artistry. Every dish speaks to the complex, layered history of Indian cuisine, presented with a refinement that honors tradition while embracing contemporary excellence.",
+    "reviewSummary": "Two Michelin stars in the heart of Mayfair represent more than accolades—they're recognition of Gymkhana's ability to elevate Indian cuisine to the highest echelons of London's dining scene while maintaining authentic soul.",
     "cuisine": [
       "North Indian",
       "Fine Dining Indian"

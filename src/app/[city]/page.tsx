@@ -66,7 +66,11 @@ export default async function CityPage({ params }: CityPageProps) {
   }
 
   // Get restaurants for this city
-  const restaurants = getRestaurantsByCity(citySlug)
+  const allRestaurants = getRestaurantsByCity(citySlug)
+  
+  // Separate spotlight restaurants from regular ones
+  const spotlightRestaurants = allRestaurants.filter(restaurant => restaurant.spotlight)
+  const regularRestaurants = allRestaurants.filter(restaurant => !restaurant.spotlight)
 
   return (
     <div className="bg-gray-50 min-h-screen">
@@ -82,27 +86,80 @@ export default async function CityPage({ params }: CityPageProps) {
               {city.name}
             </h2>
             <p className="text-lg text-gray-600 uppercase tracking-wide">
-              {restaurants.length} CURATED DINING EXPERIENCES
+              {allRestaurants.length} CURATED DINING EXPERIENCES
             </p>
           </div>
 
           {/* Restaurant List */}
-          {restaurants.length > 0 ? (
+          {allRestaurants.length > 0 ? (
             <>
-              <div className="space-y-8">
-                {restaurants.map((restaurant) => (
-                  <RestaurantCard
-                    key={restaurant.id}
-                    restaurant={restaurant}
-                    variant="compact"
-                  />
-                ))}
-              </div>
+              {/* Spotlight Restaurants Section */}
+              {spotlightRestaurants.length > 0 && (
+                <div className="mb-20">
+                  <div className="mb-12">
+                    <div className="flex items-center justify-center mb-6">
+                      <div className="flex items-center px-6 py-3 rounded-full" style={{backgroundColor: '#f3e8e4'}}>
+                        <span className="text-2xl mr-3">✨</span>
+                        <h3 className="text-2xl font-black uppercase tracking-wide" style={{color: '#8b6355'}}>
+                          Featured Spotlights
+                        </h3>
+                      </div>
+                    </div>
+                    <p className="text-center text-sm uppercase tracking-wide" style={{color: '#b07968'}}>
+                      In-depth reviews and stories from {city.name}'s finest restaurants
+                    </p>
+                  </div>
+                  
+                  <div className="space-y-8">
+                    {spotlightRestaurants.map((restaurant) => (
+                      <div key={restaurant.id} className="relative">
+                        {/* Spotlight Badge */}
+                        <div className="absolute -top-3 -left-3 z-10">
+                          <div className="flex items-center px-4 py-2 rounded-full shadow-lg" style={{backgroundColor: '#b07968'}}>
+                            <span className="text-white text-sm font-black uppercase tracking-wide">
+                              ⭐ Spotlight
+                            </span>
+                          </div>
+                        </div>
+                        
+                        <RestaurantCard
+                          restaurant={restaurant}
+                          variant="compact"
+                        />
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Regular Restaurants Section */}
+              {regularRestaurants.length > 0 && (
+                <div>
+                  {spotlightRestaurants.length > 0 && (
+                    <div className="mb-12">
+                      <h3 className="text-3xl font-black uppercase tracking-wide text-center mb-6" style={{color: '#8b6355'}}>
+                        All Restaurants
+                      </h3>
+                      <div className="w-24 h-0.5 mx-auto" style={{backgroundColor: '#e6d1c9'}}></div>
+                    </div>
+                  )}
+                  
+                  <div className="space-y-8">
+                    {regularRestaurants.map((restaurant) => (
+                      <RestaurantCard
+                        key={restaurant.id}
+                        restaurant={restaurant}
+                        variant="compact"
+                      />
+                    ))}
+                  </div>
+                </div>
+              )}
 
               {/* Load More */}
               <div className="text-center mt-20">
                 <p className="text-gray-600 mb-8 uppercase tracking-wide text-sm">
-                  Showing {restaurants.length} restaurants in {city.name}
+                  Showing {allRestaurants.length} restaurants in {city.name}
                 </p>
                 <button className="border border-black px-8 py-3 text-black font-black uppercase tracking-wide text-sm hover:bg-black hover:text-white transition-colors">
                   Load More Restaurants
