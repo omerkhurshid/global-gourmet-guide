@@ -4,6 +4,7 @@ import Link from "next/link"
 import Image from "next/image"
 import { ArrowLeft, MapPin, Globe, Phone } from "lucide-react"
 import { Button } from "@/components/ui/button"
+import { AdSenseAd } from "@/components/features/adsense"
 import { cities } from "@/data/cities"
 import { generateCitySlug, generateRestaurantSlug } from "@/lib/utils"
 import { getRestaurantsByCity } from "@/lib/restaurants"
@@ -100,6 +101,21 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
         </div>
       </div>
 
+      {/* Ad after header */}
+      <section className="py-8 bg-gray-100">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-4">
+            <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
+          </div>
+          <AdSenseAd 
+            adSlot="3010948702" 
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="mx-auto"
+          />
+        </div>
+      </section>
+
       {/* Article Content */}
       <article className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="prose prose-lg max-w-none">
@@ -149,6 +165,19 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
               </div>
             </div>
           )}
+
+          {/* Ad mid-article */}
+          <div className="my-12 py-8 bg-gray-50 rounded-lg">
+            <div className="text-center mb-6">
+              <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
+            </div>
+            <AdSenseAd 
+              adSlot="9558893800" 
+              adFormat="auto"
+              fullWidthResponsive={true}
+              className="mx-auto"
+            />
+          </div>
 
           {/* Restaurant Info */}
           <div className="bg-white rounded-lg border border-gray-200 p-6 my-8">

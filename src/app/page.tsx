@@ -67,6 +67,20 @@ export default function Home() {
         </div>
       </section>
 
+      {/* Ad after Hero */}
+      <section className="py-8 bg-gray-100">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-4">
+            <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
+          </div>
+          <AdSenseAd 
+            adSlot="4780708832" 
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="mx-auto"
+          />
+        </div>
+      </section>
 
       {/* Cities by Country */}
       <section className="py-24 bg-white">
@@ -125,15 +139,32 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Advertisement */}
+      {/* Advertisement - Mid Content */}
       <section className="py-16 bg-gray-50">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-8">
             <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
           </div>
           <AdSenseAd 
-            adSlot="1234567890" 
+            adSlot="2819377018" 
+            adFormat="auto"
+            fullWidthResponsive={true}
             className="mx-auto max-w-2xl"
+          />
+        </div>
+      </section>
+
+      {/* Ad before CTA */}
+      <section className="py-12 bg-white">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-6">
+            <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
+          </div>
+          <AdSenseAd 
+            adSlot="5968284538" 
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="mx-auto"
           />
         </div>
       </section>

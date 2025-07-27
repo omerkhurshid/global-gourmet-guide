@@ -3,6 +3,7 @@ import { Metadata } from "next"
 import { MapPin } from "lucide-react"
 import { CityHero } from "@/components/features/city-hero"
 import { RestaurantCard } from "@/components/features/restaurant-card"
+import { AdSenseAd } from "@/components/features/adsense"
 import { Button } from "@/components/ui/button"
 import { cities } from "@/data/cities"
 import { generateCitySEO } from "@/lib/seo"
@@ -76,6 +77,21 @@ export default async function CityPage({ params }: CityPageProps) {
     <div className="bg-gray-50 min-h-screen">
       {/* City Hero */}
       <CityHero city={city} />
+
+      {/* Ad after Hero */}
+      <section className="py-8 bg-gray-100">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-4">
+            <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
+          </div>
+          <AdSenseAd 
+            adSlot="9715957859" 
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="mx-auto"
+          />
+        </div>
+      </section>
 
       {/* Restaurant Listings */}
       <section className="py-24">
@@ -171,6 +187,21 @@ export default async function CityPage({ params }: CityPageProps) {
               </button>
             </div>
           )}
+        </div>
+      </section>
+
+      {/* Ad between sections */}
+      <section className="py-12 bg-gray-50">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+          <div className="text-center mb-6">
+            <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
+          </div>
+          <AdSenseAd 
+            adSlot="5710647125" 
+            adFormat="auto"
+            fullWidthResponsive={true}
+            className="mx-auto"
+          />
         </div>
       </section>
 
