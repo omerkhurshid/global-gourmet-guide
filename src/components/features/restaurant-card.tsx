@@ -23,15 +23,26 @@ export function RestaurantCard({
 
   if (variant === "compact") {
     return (
-      <div className="bg-white border border-gray-200 hover:border-[#b07968] transition-colors duration-300 group shadow-sm hover:shadow-md">
+      <div className={`bg-white transition-all duration-300 group shadow-sm hover:shadow-md ${
+        restaurant.spotlight 
+          ? "border-2 border-[#b07968] shadow-lg shadow-[#b07968]/20 hover:shadow-xl hover:shadow-[#b07968]/30" 
+          : "border border-gray-200 hover:border-[#b07968]"
+      }`}>
         <div className="p-8">
           {/* Header Section */}
           <div className="mb-6">
             <div className="flex items-start justify-between mb-4">
               <div className="flex-1">
-                <h3 className="text-2xl font-black mb-2 uppercase tracking-wide group-hover:text-[#8b6355] transition-colors" style={{color: '#8b6355'}}>
-                  {restaurant.name}
-                </h3>
+                <div className="flex items-center gap-3 mb-2">
+                  <h3 className="text-2xl font-black uppercase tracking-wide group-hover:text-[#8b6355] transition-colors" style={{color: '#8b6355'}}>
+                    {restaurant.name}
+                  </h3>
+                  {restaurant.spotlight && (
+                    <span className="px-2 py-1 text-xs font-black uppercase tracking-wide rounded-full" style={{backgroundColor: '#b07968', color: 'white'}}>
+                      ⭐ Spotlight
+                    </span>
+                  )}
+                </div>
                 <div className="text-sm mb-3 uppercase tracking-wide" style={{color: '#b07968'}}>
                   {restaurant.cuisine.slice(0, 2).join(" • ")}
                   {restaurant.cuisine.length > 2 && " • MORE"}
@@ -104,6 +115,20 @@ export function RestaurantCard({
             </div>
           )}
           
+          {/* Spotlight Call-to-Action */}
+          {restaurant.spotlight && (
+            <div className="mb-6">
+              <Link 
+                href={`/spotlight/${citySlug}/${restaurantSlug}`}
+                className="block w-full text-center py-3 px-4 rounded-lg font-black uppercase tracking-wide text-sm transition-all duration-300 hover:shadow-lg transform hover:scale-[1.02]"
+                style={{backgroundColor: '#b07968', color: 'white'}}
+              >
+                <FileText className="w-4 h-4 mr-2 inline" />
+                Read Full Spotlight Review
+              </Link>
+            </div>
+          )}
+
           {/* Footer */}
           <div className="flex items-center justify-between pt-4 border-t" style={{borderColor: '#f3e8e4'}}>
             <div className="flex items-center text-sm" style={{color: '#b07968'}}>
@@ -112,16 +137,6 @@ export function RestaurantCard({
                 {formatAddress(restaurant.address)}
               </span>
             </div>
-            {restaurant.spotlight && (
-              <Link 
-                href={`/spotlight/${citySlug}/${restaurantSlug}`}
-                className="inline-flex items-center px-3 py-1 text-xs font-medium rounded-full transition-colors hover:bg-[#e6d1c9]"
-                style={{backgroundColor: '#f3e8e4', color: '#8b6355'}}
-              >
-                <FileText className="w-3 h-3 mr-1" />
-                Spotlight
-              </Link>
-            )}
           </div>
         </div>
       </div>
