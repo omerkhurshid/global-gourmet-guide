@@ -36,7 +36,7 @@ export function AdSenseAd({
         data-ad-format={adFormat}
         data-full-width-responsive={fullWidthResponsive}
       />
-      <Script id="adsense-init" strategy="afterInteractive">
+      <Script id={`adsense-${adSlot}`} strategy="afterInteractive">
         {`(adsbygoogle = window.adsbygoogle || []).push({});`}
       </Script>
     </div>
