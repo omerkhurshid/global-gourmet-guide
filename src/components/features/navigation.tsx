@@ -82,15 +82,15 @@ export function Navigation() {
       <div className="w-full h-px bg-white opacity-30"></div>
 
       {/* Header Ad - Leaderboard */}
-      <div className="bg-gray-50 py-3">
+      <div className="bg-gray-50 py-1 sm:py-3">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <span className="text-xs text-gray-400 uppercase tracking-wide mb-2 block">Advertisement</span>
+            <span className="text-xs text-gray-400 uppercase tracking-wide mb-1 sm:mb-2 block">Advertisement</span>
             <AdSenseAd 
               adSlot="6385935551" 
               adFormat="auto"
               fullWidthResponsive={true}
-              className="mx-auto"
+              className="mx-auto max-h-20 sm:max-h-none overflow-hidden"
             />
           </div>
         </div>
