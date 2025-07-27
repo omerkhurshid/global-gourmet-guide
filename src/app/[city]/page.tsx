@@ -112,21 +112,11 @@ export default async function CityPage({ params }: CityPageProps) {
                   
                   <div className="space-y-8">
                     {spotlightRestaurants.map((restaurant) => (
-                      <div key={restaurant.id} className="relative">
-                        {/* Spotlight Badge */}
-                        <div className="absolute -top-3 -left-3 z-10">
-                          <div className="flex items-center px-4 py-2 rounded-full shadow-lg" style={{backgroundColor: '#b07968'}}>
-                            <span className="text-white text-sm font-black uppercase tracking-wide">
-                              ⭐ Spotlight
-                            </span>
-                          </div>
-                        </div>
-                        
-                        <RestaurantCard
-                          restaurant={restaurant}
-                          variant="compact"
-                        />
-                      </div>
+                      <RestaurantCard
+                        key={restaurant.id}
+                        restaurant={restaurant}
+                        variant="compact"
+                      />
                     ))}
                   </div>
                 </div>

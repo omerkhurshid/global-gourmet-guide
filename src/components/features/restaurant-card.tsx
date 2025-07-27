@@ -33,16 +33,9 @@ export function RestaurantCard({
           <div className="mb-6">
             <div className="flex items-start justify-between mb-4">
               <div className="flex-1">
-                <div className="flex items-center gap-3 mb-2">
-                  <h3 className="text-2xl font-black uppercase tracking-wide group-hover:text-[#8b6355] transition-colors" style={{color: '#8b6355'}}>
-                    {restaurant.name}
-                  </h3>
-                  {restaurant.spotlight && (
-                    <span className="px-2 py-1 text-xs font-black uppercase tracking-wide rounded-full" style={{backgroundColor: '#b07968', color: 'white'}}>
-                      ⭐ Spotlight
-                    </span>
-                  )}
-                </div>
+                <h3 className="text-2xl font-black mb-2 uppercase tracking-wide group-hover:text-[#8b6355] transition-colors" style={{color: '#8b6355'}}>
+                  {restaurant.name}
+                </h3>
                 <div className="text-sm mb-3 uppercase tracking-wide" style={{color: '#b07968'}}>
                   {restaurant.cuisine.slice(0, 2).join(" • ")}
                   {restaurant.cuisine.length > 2 && " • MORE"}
