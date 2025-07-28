@@ -66,6 +66,13 @@ export function Navigation() {
             >
               About us
             </Link>
+            
+            <Link 
+              href="/contact" 
+              className="text-white font-medium uppercase tracking-wide text-sm hover:text-gray-200 transition-colors"
+            >
+              Contact
+            </Link>
           </div>
 
           {/* Mobile menu button */}
@@ -125,6 +132,13 @@ export function Navigation() {
               onClick={() => setIsMenuOpen(false)}
             >
               About us
+            </Link>
+            <Link
+              href="/contact"
+              className="block text-black font-medium uppercase tracking-wide text-sm hover:text-gray-600 transition-colors"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Contact
             </Link>
           </div>
         </div>

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import { Navigation } from "@/components/features/navigation";
+import { Footer } from "@/components/features/footer";
 import { ConsentBanner } from "@/components/features/consent-banner";
 import { AdSenseScript } from "@/components/features/adsense";
 import { GoogleAnalytics } from "@/components/features/analytics";
@@ -77,6 +78,7 @@ export default function RootLayout({
         />
         <Navigation />
         <main>{children}</main>
+        <Footer />
         <ConsentBanner />
         <Analytics />
       </body>
