@@ -162,14 +162,11 @@ export default async function CityPage({ params }: CityPageProps) {
                 </div>
               )}
 
-              {/* Load More */}
+              {/* Restaurant Count */}
               <div className="text-center mt-20">
-                <p className="text-gray-600 mb-8 uppercase tracking-wide text-sm">
+                <p className="text-gray-600 uppercase tracking-wide text-sm">
                   Showing {allRestaurants.length} restaurants in {city.name}
                 </p>
-                <button className="border border-black px-8 py-3 text-black font-black uppercase tracking-wide text-sm hover:bg-black hover:text-white transition-colors">
-                  Load More Restaurants
-                </button>
               </div>
             </>
           ) : (
