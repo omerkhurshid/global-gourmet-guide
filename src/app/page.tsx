@@ -68,9 +68,9 @@ export default function Home() {
       </section>
 
       {/* Ad after Hero */}
-      <section className="py-4 bg-gray-100">
+      <section className="py-2 sm:py-4 bg-gray-100">
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center mb-4">
+          <div className="text-center mb-2 sm:mb-4">
             <span className="text-xs text-gray-400 uppercase tracking-wide">Advertisement</span>
           </div>
           <AdSenseAd 
