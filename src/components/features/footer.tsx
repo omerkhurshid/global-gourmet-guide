@@ -3,16 +3,14 @@ import { Logo } from "@/components/ui/logo"
 
 export function Footer() {
   return (
-    <footer className="bg-black text-white">
+    <footer className="bg-black text-white" style={{backgroundColor: '#2C2C2C'}}>
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Logo and Description */}
           <div className="col-span-1 md:col-span-2">
-            <Link href="/" className="flex items-center space-x-3 mb-4">
-              <Logo size="md" />
+            <Link href="/" className="flex items-center mb-6">
               <div className="text-white leading-tight">
-                <div className="text-lg font-black tracking-wide">Global</div>
-                <div className="text-xs font-medium tracking-wide opacity-80">Gourmet Guide</div>
+                <div className="text-2xl font-black" style={{letterSpacing: '-0.02em'}}>GLOBAL<br/>GOURMET<br/>GUIDE</div>
               </div>
             </Link>
             <p className="text-sm text-gray-400 max-w-sm">
@@ -22,7 +20,7 @@ export function Footer() {
           
           {/* Quick Links */}
           <div>
-            <h3 className="text-sm font-bold uppercase tracking-wide mb-4">Quick Links</h3>
+            <h3 className="text-sm font-bold mb-4" style={{letterSpacing: '0.08em'}}>SITEMAP</h3>
             <ul className="space-y-2">
               <li>
                 <Link href="/" className="text-sm text-gray-400 hover:text-white transition-colors">
@@ -44,7 +42,7 @@ export function Footer() {
           
           {/* Legal */}
           <div>
-            <h3 className="text-sm font-bold uppercase tracking-wide mb-4">Legal</h3>
+            <h3 className="text-sm font-bold mb-4" style={{letterSpacing: '0.08em'}}>LEGAL</h3>
             <ul className="space-y-2">
               <li>
                 <Link href="/privacy" className="text-sm text-gray-400 hover:text-white transition-colors">
@@ -60,9 +58,9 @@ export function Footer() {
           </div>
         </div>
         
-        <div className="mt-8 pt-8 border-t border-gray-800">
+        <div className="mt-12 pt-8 border-t border-white border-opacity-20">
           <p className="text-xs text-gray-400 text-center">
-            © {new Date().getFullYear()} Global Gourmet Guide. All rights reserved.
+            © {new Date().getFullYear()} GLOBAL GOURMET GUIDE
           </p>
         </div>
       </div>

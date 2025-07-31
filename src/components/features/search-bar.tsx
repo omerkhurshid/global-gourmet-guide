@@ -116,7 +116,7 @@ export function SearchBar({
             onKeyDown={handleKeyDown}
             onFocus={() => setIsOpen(results.length > 0)}
             placeholder={placeholder}
-            className="w-full pl-12 pr-4 py-4 text-lg border border-gray-300 rounded-full focus:outline-none focus:ring-2 focus:ring-black focus:border-transparent bg-white shadow-sm"
+            className="w-full pl-12 pr-4 py-4 text-base border border-black focus:outline-none focus:ring-2 focus:ring-black focus:border-black bg-white"
             autoComplete="off"
           />
         </div>
@@ -130,7 +130,7 @@ export function SearchBar({
           />
           <div 
             ref={resultsRef}
-            className="absolute top-full left-0 right-0 mt-2 bg-white border border-gray-200 rounded-xl shadow-lg z-20 overflow-hidden"
+            className="absolute top-full left-0 right-0 mt-2 bg-white border border-black shadow-lg z-20 overflow-hidden"
           >
             {results.map((result, index) => (
               <button
