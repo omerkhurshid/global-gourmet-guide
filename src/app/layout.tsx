@@ -28,11 +28,27 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://restaurantsnearme.tech',
   },
+  icons: {
+    icon: [
+      { url: '/favicon.ico' },
+      { url: '/icon.svg', type: 'image/svg+xml' },
+    ],
+    apple: [
+      { url: '/apple-touch-icon.png', sizes: '180x180', type: 'image/png' },
+    ],
+  },
   openGraph: {
     title: seoData.openGraph.title,
     description: seoData.openGraph.description,
     type: "website",
-    images: [seoData.openGraph.image],
+    images: [
+      {
+        url: 'https://restaurantsnearme.tech/logo.png',
+        width: 512,
+        height: 512,
+        alt: 'Restaurants Near Me Logo',
+      }
+    ],
     url: 'https://restaurantsnearme.tech',
     siteName: 'Restaurants Near Me',
     locale: 'en_US',
@@ -41,7 +57,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: seoData.openGraph.title,
     description: seoData.openGraph.description,
-    images: [seoData.openGraph.image],
+    images: ['https://restaurantsnearme.tech/logo.png'],
   },
   robots: {
     index: true,
