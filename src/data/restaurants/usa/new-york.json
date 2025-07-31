@@ -554,6 +554,142 @@
     ]
   },
   {
+    "id": "new-york-lex-yard",
+    "name": "Lex Yard",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Lex Yard felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of seasonal American dishes and the grandeur of the legendary Waldorf Astoria, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Michelin-starred Chef Michael Anthony brings elevated American cuisine to the iconic Waldorf Astoria.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Michelin-starred Chef Michael Anthony brings elevated American cuisine to the iconic Waldorf Astoria.",
+    "cuisine": [
+      "American Brasserie",
+      "Fine Dining",
+      "Seasonal"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 150,
+    "address": {
+      "street": "540 Lexington Avenue (Waldorf Astoria)",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": "10022"
+    },
+    "location": {
+      "lat": 40.7505,
+      "lng": -73.9753
+    },
+    "contact": {
+      "phone": "(212) 355-3000",
+      "website": "https://www.lexyardnyc.com/",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining",
+      "Historic Hotel",
+      "Art Deco Design",
+      "Two-Story Restaurant",
+      "Bar"
+    ],
+    "specialties": [
+      "Seasonal American Cuisine",
+      "Cacio e Pepe",
+      "Smash Burger",
+      "Waldorf Salad",
+      "Sustainably Sourced Seafood"
+    ],
+    "lastUpdated": "2025-01-31",
+    "sources": [
+      "Chef Michael Anthony (Gramercy Tavern)",
+      "Waldorf Astoria New York",
+      "Food & Wine"
+    ],
+    "seoKeywords": [
+      "Lex Yard New York",
+      "Waldorf Astoria restaurant",
+      "Michael Anthony chef",
+      "best restaurants New York",
+      "American Brasserie restaurant New York",
+      "restaurants near me New York",
+      "fine dining New York",
+      "Midtown Manhattan restaurants"
+    ],
+    "spotlight": {
+      "title": "A Week in New York: Discovering Lex Yard at the Legendary Waldorf Astoria",
+      "excerpt": "After spending a week exploring New York's dining scene, I discovered that some of the city's most exciting culinary moments happen when history meets innovation—and nowhere is this more true than at Lex Yard.",
+      "introduction": "I've just wrapped up an incredible week in New York City, and as I sit here reflecting on all the meals that defined my stay, one dinner stands out above the rest. It wasn't at some trendy new spot in Brooklyn or a hole-in-the-wall in the Village (though I had plenty of those too). Instead, it was at Lex Yard, the newly opened flagship restaurant inside the legendary Waldorf Astoria. Yes, that Waldorf Astoria—the one that just reopened after years of renovation, the one where every U.S. President since Herbert Hoover has stayed, the one that practically invented the idea of New York luxury. I'll be honest, I was skeptical. Hotel restaurants, even in iconic hotels, can feel stuffy and tourist-trapped. But after hearing whispers about Chef Michael Anthony's involvement—the same Michael Anthony who made Gramercy Tavern a New York institution—I knew I had to see what all the fuss was about.",
+      "sections": [
+        {
+          "heading": "Stepping Into New York History",
+          "content": [
+            "Walking into the Waldorf Astoria after its multi-year renovation feels like stepping into a time machine—but one that's been polished to perfection. The Art Deco grandeur that made this place famous is still there, but everything feels fresh and vibrant. As I made my way to Lex Yard, tucked inside this legendary hotel at 540 Lexington Avenue, I couldn't help but think about all the history these walls have witnessed.",
+            "The restaurant itself is a two-story marvel designed by AvroKO, and the moment you walk in, you understand the vision. The ground floor buzzes with energy—there's a lively bar where well-dressed New Yorkers sip cocktails after work, and the open kitchen adds to the dynamic atmosphere. But if you want the full experience, head upstairs to the more intimate dining room, where those signature Art Deco touches really shine. Gold-tone constellation light fixtures overhead, circular green marble tables, and an atmosphere that manages to feel both grand and approachable."
+          ]
+        },
+        {
+          "heading": "Michael Anthony's Approachable Excellence",
+          "content": [
+            "Here's what I love about Chef Michael Anthony's approach at Lex Yard: he's taken everything that made him successful at Gramercy Tavern—the focus on seasonal, local ingredients, the unpretentious excellence—and translated it perfectly to this grand setting. This isn't stuffy hotel food; it's the kind of cooking that makes you understand why Anthony has earned so much respect in New York's competitive dining scene.",
+            "The menu philosophy is brilliantly simple: let diners choose their own adventure. You can go à la carte and order exactly what speaks to you, or opt for the seasonal tasting menu that showcases Anthony's vision in four savory courses plus dessert. During my visit, I went with a mix of both approaches, and I'm so glad I did.",
+            "I started with the hand-turned artichokes cooked with white wine—a dish that sounds simple but showcases the kitchen's technical skill. The artichokes were perfectly tender, infused with bright, herbaceous flavors that immediately told me this kitchen takes vegetables seriously. It's the kind of dish that sets the tone for everything that follows."
+          ]
+        },
+        {
+          "heading": "When Comfort Food Meets Fine Dining",
+          "content": [
+            "One of the most brilliant things about Lex Yard is how it bridges the gap between comfort and sophistication. Take their cacio e pepe, for instance. In lesser hands, this could be just another pasta dish on a hotel menu. But Anthony's version is silky perfection—each strand of pasta coated in a sauce that's been emulsified to glossy, creamy perfection. It's comfort food elevated to an art form.",
+            "Then there's the Smash Burger—yes, you read that right. A smash burger at the Waldorf Astoria. And it's absolutely fantastic. The beef is sourced from quality family farms, the bun is perfectly toasted, and those accompanying french fries (made with an 'ongoing french fry operation' as Anthony calls it) are some of the best I've had in the city. It's a perfect example of Anthony's philosophy: take the tyranny out of fine dining and give people what they actually want to eat.",
+            "But the real showstopper was the slow-poached halibut. This dish exemplifies everything Lex Yard does well: technique, seasonal awareness, and pure deliciousness. The fish was flaky and perfectly cooked, served alongside what I can only describe as the most elegant interpretation of borscht I've ever encountered. It's the kind of dish that makes you pause between bites just to appreciate what you're experiencing."
+          ]
+        },
+        {
+          "heading": "A New York Institution in the Making",
+          "content": [
+            "What struck me most about my evening at Lex Yard—and really, about my entire week in New York—is how the city's best restaurants understand their role in the larger story of New York dining. Lex Yard isn't trying to be the trendiest spot or the most Instagram-worthy (though it's certainly beautiful). Instead, it's positioning itself as the kind of place where New Yorkers will want to eat again and again.",
+            "The service reflects this philosophy perfectly. Our server was knowledgeable without being condescending, attentive without being intrusive. The wine program, overseen by beverage director Natascha Patterer, offers over 500 selections that pair beautifully with Anthony's seasonal menu. It's the kind of thoughtful hospitality that makes you want to linger over dinner, which is exactly what happened to us.",
+            "By the time we got to dessert—a red velvet soufflé tart that was both nostalgic and innovative—I understood why there's been so much buzz around Lex Yard. This isn't just another hotel restaurant. It's a thoughtful addition to New York's dining landscape, one that honors the history of its location while creating something entirely new."
+          ]
+        }
+      ],
+      "locations": [
+        "540 Lexington Avenue, Waldorf Astoria New York (Between 49th and 50th Streets)"
+      ],
+      "images": [
+        {
+          "src": "/images/spotlight/lex-yard1.png",
+          "alt": "Lex Yard restaurant interior at Waldorf Astoria New York",
+          "caption": "The elegant Art Deco-inspired dining room at Lex Yard, designed by AvroKO"
+        },
+        {
+          "src": "/images/spotlight/lex-yard2.png",
+          "alt": "Chef Michael Anthony's seasonal dishes at Lex Yard",
+          "caption": "Chef Michael Anthony's elevated American cuisine featuring seasonal, locally-sourced ingredients"
+        }
+      ],
+      "menuHighlights": {
+        "Signature Starters": "Hand-turned artichokes with white wine, Local oysters, Seasonal salads",
+        "Main Courses": "Slow-poached halibut with borscht, Sizzling steak, Perfectly roasted chicken",
+        "Comfort Classics": "Cacio e pepe pasta, Smash Burger with fries, Waldorf salad",
+        "Seasonal Tasting": "Four savory courses showcasing Chef Anthony's vision",
+        "Desserts": "Red velvet soufflé tart, Seasonal fruit preparations",
+        "Beverages": "500+ wine selections, Craft cocktails, Artisanal coffee"
+      },
+      "tips": [
+        "Make reservations well in advance—this is quickly becoming one of NYC's hottest tables.",
+        "Request a table on the second floor for the most elegant dining experience.",
+        "Try both the à la carte menu and at least one dish from the tasting menu.",
+        "Don't skip the Smash Burger—it's unexpectedly one of the best dishes on the menu.",
+        "Arrive 15 minutes early to explore the stunning Waldorf Astoria lobby.",
+        "Ask about wine pairings—beverage director Natascha Patterer's selections are excellent.",
+        "Save room for dessert—the red velvet soufflé tart is worth the indulgence."
+      ],
+      "finalVerdict": "After a week of dining across New York City, from hole-in-the-wall gems to Michelin-starred temples, Lex Yard stands out as something special. Chef Michael Anthony has created exactly what New York needed: a restaurant that honors the grandeur of its historic setting while delivering the kind of thoughtful, seasonal American cuisine that makes you want to return again and again. It's not trying to be the trendiest spot in the city—it's trying to be the kind of place that becomes a New York institution. And based on my experience, it's well on its way. Whether you're celebrating a special occasion or simply want to experience some of the best cooking the city has to offer, Lex Yard delivers an evening that captures everything magical about dining in New York.",
+      "author": "NYC Food Explorer",
+      "publishDate": "January 31, 2025"
+    }
+  },
+  {
     "id": "new-york-claud",
     "name": "Claud",
     "description": "As a newcomer wandering the foodscape of New York, stepping into Claud felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of Chef Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Lively brasserie vibe, cocktails and modern European fare.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
