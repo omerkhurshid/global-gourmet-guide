@@ -5,7 +5,6 @@ import Link from "next/link"
 import { Menu, X } from "lucide-react"
 import { SearchBar } from "./search-bar"
 import { Logo } from "@/components/ui/logo"
-import { AdSenseAd } from "./adsense"
 import { cities, getAllCountries } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
 
@@ -84,21 +83,7 @@ export function Navigation() {
       </div>
       
 
-      {/* Header Ad - Leaderboard */}
-      <div className="bg-white py-1 sm:py-3 border-t border-black">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center">
-            <span className="text-xs text-gray-400 uppercase tracking-wide mb-1 sm:mb-2 block">Advertisement</span>
-            <AdSenseAd 
-              adSlot="6385935551" 
-              adFormat="auto"
-              fullWidthResponsive={true}
-              className="mx-auto max-h-20 sm:max-h-none overflow-hidden"
-            />
-          </div>
-        </div>
-      </div>
-
+      
       {/* Mobile Menu */}
       {isMenuOpen && (
         <div className="md:hidden bg-white border-t border-black">
