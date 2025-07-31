@@ -657,14 +657,19 @@
       ],
       "images": [
         {
-          "src": "/images/spotlight/lex-yard1.png",
-          "alt": "Lex Yard restaurant interior at Waldorf Astoria New York",
-          "caption": "The elegant Art Deco-inspired dining room at Lex Yard, designed by AvroKO"
+          "src": "/images/spotlight/lex1.png",
+          "alt": "Lex Yard restaurant exterior and entrance at Waldorf Astoria New York",
+          "caption": "The grand entrance to Lex Yard at the legendary Waldorf Astoria New York"
         },
         {
-          "src": "/images/spotlight/lex-yard2.png",
-          "alt": "Chef Michael Anthony's seasonal dishes at Lex Yard",
-          "caption": "Chef Michael Anthony's elevated American cuisine featuring seasonal, locally-sourced ingredients"
+          "src": "/images/spotlight/lex2.png",
+          "alt": "Lex Yard elegant Art Deco dining room interior",
+          "caption": "The sophisticated Art Deco-inspired dining room with signature constellation lighting"
+        },
+        {
+          "src": "/images/spotlight/lex3.png",
+          "alt": "Chef Michael Anthony's signature dishes at Lex Yard",
+          "caption": "Chef Michael Anthony's seasonal American cuisine featuring locally-sourced ingredients"
         }
       ],
       "menuHighlights": {
