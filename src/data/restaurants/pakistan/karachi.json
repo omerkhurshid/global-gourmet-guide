@@ -9,11 +9,11 @@
       "Fusion",
       "Seafood"
     ],
-    "priceLevel": "$$",
+    "priceLevel": "$$$",
     "rating": 4.5,
-    "reviewCount": 100,
+    "reviewCount": 1308,
     "address": {
-      "street": "DHA Phase 8 (Do Darya)",
+      "street": "Beach Avenue Phase 8, Creek Side, DHA (Do Darya)",
       "city": "Karachi",
       "country": "Pakistan",
       "postalCode": ""
@@ -23,8 +23,8 @@
       "lng": 67.0011
     },
     "contact": {
-      "phone": "",
-      "website": "",
+      "phone": "(021) 111 111 001",
+      "website": "https://www.facebook.com/KolachiSpiritofkarachi/",
       "email": ""
     },
     "images": {
@@ -32,13 +32,19 @@
       "gallery": []
     },
     "features": [
-      "Live Entertainment"
+      "Sea View",
+      "Live Entertainment",
+      "Outdoor Seating"
     ],
     "specialties": [
-      "Prawns"
+      "Dynamite Prawns",
+      "Fish Tikka",
+      "Karahi",
+      "Seekh Kebabs"
     ],
     "lastUpdated": "2024-12-25",
     "sources": [
+      "TripAdvisor",
       "Google Reviews",
       "Local Research"
     ],
@@ -46,8 +52,82 @@
       "Kolachi Restaurant Karachi",
       "best restaurants Karachi",
       "Pakistani restaurant Karachi",
-      "restaurants near me Karachi"
-    ]
+      "restaurants near me Karachi",
+      "Do Darya restaurants",
+      "seafood restaurant Karachi"
+    ],
+    "spotlight": {
+      "title": "Seaside Splendor: My Evening at Kolachi Do Darya",
+      "excerpt": "As a newcomer to Karachi, I discovered why Kolachi Restaurant has become the city's premier seaside dining destination, where Arabian Sea views meet exceptional Pakistani cuisine.",
+      "introduction": "Moving to a new city means discovering its culinary soul, and in Karachi, that journey inevitably leads you to the shimmering coastline of Do Darya. Among the restaurants perched along this famous waterfront dining strip, one name kept surfacing in conversations with locals: Kolachi. \"You can't leave Karachi without experiencing Kolachi,\" a colleague insisted. \"The sunset views, the seafood, the whole atmosphere—it's pure magic.\" So on a warm evening, as the Arabian Sea beckoned with its promise of ocean breezes and culinary adventures, I made my way to this legendary restaurant.",
+      "sections": [
+        {
+          "heading": "A Restaurant on the Water's Edge",
+          "content": [
+            "Kolachi isn't just located near the sea—it's practically floating on it. The restaurant extends into the Arabian Sea on a pier-like structure, offering 360-degree water views that make you feel like you're dining on a luxury yacht. As I arrived just before sunset, the golden hour was painting the sky in brilliant oranges and pinks, reflecting off the gentle waves below.",
+            "The approach to Kolachi is dramatic in itself. You drive through the bustling streets of DHA Phase 8, past the other restaurants of Do Darya, until you reach this impressive structure that seems to rise from the water. The building's architecture cleverly maximizes the seafront location, with multiple levels and terraces ensuring every seat has a view of the ocean."
+          ]
+        },
+        {
+          "heading": "The Dynamite Prawns That Live Up to Their Name",
+          "content": [
+            "After settling into a table with an unobstructed view of the Arabian Sea, I decided to start with what locals call Kolachi's signature dish: the Dynamite Prawns. When the plate arrived, I understood immediately why this dish has achieved legendary status in Karachi's food scene.",
+            "These weren't just prawns—they were plump, perfectly cooked crustaceans swimming in a creamy, spicy sauce that managed to be both rich and refreshing. The dynamite sauce, with its perfect balance of heat and creaminess, coated each prawn without overwhelming the natural sweetness of the seafood. Every bite delivered layers of flavor: the smokiness from the grill, the tang of the sauce, and the ocean-fresh taste of the prawns themselves.",
+            "What impressed me most was the size and quality of the prawns. These were clearly fresh catches from the Arabian Sea, prepared with the kind of care that transforms simple seafood into an unforgettable culinary experience."
+          ]
+        },
+        {
+          "heading": "A Menu That Celebrates Both Land and Sea",
+          "content": [
+            "Emboldened by the success of the Dynamite Prawns, I explored more of Kolachi's extensive menu. The Fish Tikka arrived as beautiful, charcoal-grilled pieces of fish, marinated in traditional Pakistani spices that created a perfect crust while keeping the interior flaky and moist. The aromatic blend of cumin, coriander, and garam masala transported me to the heart of Pakistani culinary tradition.",
+            "But Kolachi doesn't limit itself to seafood. Their Mutton Karahi was a masterclass in Pakistani cuisine—tender chunks of mutton slow-cooked in a rich, tomato-based gravy that had been perfected over generations. The meat fell apart at the touch of a fork, and the gravy was complex and deeply flavored, perfect for soaking up with fresh naan bread.",
+            "The Seekh Kebabs were another revelation. Hand-rolled and grilled to perfection, these spiced meat cylinders had a smoky exterior and juicy interior that spoke to the kitchen's mastery of the tandoor. Each bite released a burst of aromatic spices that had been carefully balanced to complement, not overpower, the meat."
+          ]
+        },
+        {
+          "heading": "More Than Just a Meal",
+          "content": [
+            "As the evening progressed and the lights of Karachi began to twinkle across the water, I realized that Kolachi offers something beyond exceptional food—it provides an experience. The gentle sound of waves lapping against the pier, the cool sea breeze carrying the salt air, and the dramatic views of the city skyline create an atmosphere that's both romantic and celebratory.",
+            "The service struck the perfect balance between attentive and unobtrusive. Our server was knowledgeable about the menu, offering recommendations based on our preferences and ensuring our water glasses never went empty. The staff clearly took pride in their restaurant's reputation and worked to maintain the high standards that have made Kolachi a Karachi institution."
+          ]
+        }
+      ],
+      "locations": [
+        "Beach Avenue Phase 8, Creek Side, DHA (Do Darya) - Main Location"
+      ],
+      "images": [
+        {
+          "src": "/images/spotlight/kolachi1.webp",
+          "alt": "Kolachi Restaurant at Do Darya with Arabian Sea views",
+          "caption": "The stunning waterfront location of Kolachi Restaurant extending into the Arabian Sea"
+        },
+        {
+          "src": "/images/spotlight/kolachi2.jpg",
+          "alt": "Kolachi's famous Dynamite Prawns and seafood platter",
+          "caption": "The legendary Dynamite Prawns that have made Kolachi famous across Karachi"
+        }
+      ],
+      "menuHighlights": {
+        "Signature Seafood": "Dynamite Prawns, Fish Tikka, Seafood Platter, Grilled Fish",
+        "Traditional Pakistani": "Mutton Karahi, Chicken Karahi, Seekh Kebabs, Chapli Kebabs",
+        "BBQ Specialties": "Mixed Grill, Lamb Chops, Chicken Tikka, Beef Boti",
+        "Rice & Bread": "Mutton Biryani, Chicken Biryani, Fresh Naan, Tandoori Roti",
+        "Fusion Dishes": "Continental platters, Asian-inspired seafood, Modern Pakistani",
+        "Beverages": "Fresh juices, Traditional lassi, Hot beverages, Soft drinks"
+      },
+      "tips": [
+        "Visit during sunset for the most spectacular views and photo opportunities.",
+        "Make reservations, especially for weekend evenings as the restaurant gets very busy.",
+        "Start with the Dynamite Prawns—they're truly the restaurant's signature dish.",
+        "Request a table on the outer deck for the best sea views and ocean breeze.",
+        "Try the seafood platter if you're dining with a group—it's perfect for sharing.",
+        "Bring a light jacket as it can get breezy in the evening over the water.",
+        "Ask about the catch of the day—Kolachi often has fresh fish specials."
+      ],
+      "finalVerdict": "Kolachi Restaurant at Do Darya isn't just a meal—it's a quintessential Karachi experience. The combination of exceptional Pakistani and seafood cuisine, breathtaking Arabian Sea views, and impeccable service creates something truly special. The Dynamite Prawns alone are worth the visit, but the entire menu showcases why this restaurant has earned its place as one of Karachi's most beloved dining destinations. Whether you're celebrating a special occasion or simply want to experience the best of what Karachi's culinary scene has to offer, Kolachi delivers an unforgettable evening that captures the spirit of this coastal city.",
+      "author": "Coastal Food Explorer",
+      "publishDate": "July 31, 2025"
+    }
   },
   {
     "id": "karachi-barbq-tonight",
