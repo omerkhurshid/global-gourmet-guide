@@ -212,7 +212,80 @@
       "three Michelin star London",
       "best restaurants London",
       "modern British cuisine"
-    ]
+    ],
+    "spotlight": {
+      "title": "Three Stars Above Notting Hill: My Journey Through CORE by Clare Smyth",
+      "excerpt": "As a food enthusiast exploring London's dining scene, I discovered why Clare Smyth's CORE represents the pinnacle of modern British cuisine—a restaurant where technical precision meets warm hospitality.",
+      "introduction": "London's dining landscape is dotted with exceptional restaurants, but only a select few achieve the coveted three Michelin stars. When I learned that CORE by Clare Smyth had not only earned this distinction but was also helmed by the first and only female British chef to achieve such recognition, I knew this wasn't just a reservation—it was a pilgrimage. Nestled in the heart of Notting Hill, CORE represents everything exceptional about contemporary British cuisine, where seasonal ingredients meet flawless technique in an atmosphere that feels both refined and genuinely welcoming.",
+      "sections": [
+        {
+          "heading": "A Restaurant That Redefines British Fine Dining",
+          "content": [
+            "Walking into CORE feels like entering a modern British countryside home—if that home happened to be designed by the country's finest interior architects. The soft, muted tones and natural materials create an atmosphere that's sophisticated without being intimidating. Clare Smyth has masterfully created a space that puts guests at ease, allowing the food to be the true star of the evening.",
+            "What struck me immediately was how the restaurant balances formality with warmth. The service is impeccably trained and precise, yet there's a genuine friendliness that makes you feel welcomed rather than intimidated. This is fine dining with soul—something that becomes increasingly rare as restaurants chase technical perfection at the expense of hospitality."
+          ]
+        },
+        {
+          "heading": "The 'Potato and Roe' That Started a Revolution",
+          "content": [
+            "Every great restaurant has a signature dish, and CORE's 'Potato and Roe' is nothing short of legendary. When this humble creation arrived at the table, I was initially skeptical—how extraordinary could potato and roe really be? The answer, as it turns out, is profoundly so.",
+            "The dish presents as an elegant mound of perfectly whipped potato, topped with glistening pearls of Cornish caviar and finished with a delicate herb oil. But the magic happens when you taste it: the potato is so perfectly seasoned and textured that it seems to melt on your tongue, while the caviar provides bursts of briny intensity that elevate the humble tuber to celestial heights.",
+            "This single dish encapsulates everything Clare Smyth represents: taking the most fundamental British ingredients and transforming them through technique, creativity, and an unwavering commitment to quality. It's comfort food reimagined for the modern palate, and it's absolutely magnificent."
+          ]
+        },
+        {
+          "heading": "A Menu That Celebrates British Terroir",
+          "content": [
+            "The beauty of CORE's menu lies in its celebration of British ingredients at their absolute peak. Each course tells the story of the seasons and the dedicated producers who supply the restaurant. The Isle of Mull scallops arrived perfectly seared, their natural sweetness enhanced by a subtle brown butter and paired with earthy Jerusalem artichokes that spoke of autumn's arrival.",
+            "The Rhug Estate lamb was a masterclass in butchery and cooking technique. Aged for weeks to develop complex flavors, then cooked with precision that left the meat rosy and tender, accompanied by a rich jus that had been reduced to its essence. This wasn't just dinner—it was a demonstration of what British cuisine can achieve when treated with the respect and skill it deserves.",
+            "What consistently impressed me throughout the meal was how each ingredient was allowed to shine. There was no unnecessary complexity or showboating—just perfect ingredients treated with respect and skill, resulting in flavors that were both sophisticated and deeply satisfying."
+          ]
+        },
+        {
+          "heading": "Service That Elevates the Experience",
+          "content": [
+            "The service at CORE deserves special mention—it's the kind of hospitality that makes you feel like the most important person in the room without being intrusive. Our sommelier's wine pairings were inspired, showcasing both renowned and boutique British producers alongside carefully selected international bottles that complemented each course perfectly.",
+            "The kitchen's timing was flawless, with each course arriving at precisely the right moment to maintain the meal's rhythm. The servers were knowledgeable about every ingredient, preparation method, and wine pairing, yet they delivered this information with genuine enthusiasm rather than scripted precision.",
+            "Perhaps most impressively, the team managed to maintain the high standards expected of a three-Michelin-starred establishment while creating an atmosphere that felt relaxed and celebratory rather than stuffy or formal."
+          ]
+        }
+      ],
+      "locations": [
+        "92 Kensington Park Road, Notting Hill, London W11 2PN"
+      ],
+      "images": [
+        {
+          "src": "/images/spotlight/core1.jpg",
+          "alt": "CORE by Clare Smyth elegant dining room in Notting Hill",
+          "caption": "The warm, sophisticated interior of CORE by Clare Smyth in Notting Hill"
+        },
+        {
+          "src": "/images/spotlight/core2.jpg", 
+          "alt": "CORE's famous Potato and Roe signature dish",
+          "caption": "The legendary 'Potato and Roe' dish that showcases Clare Smyth's mastery"
+        }
+      ],
+      "menuHighlights": {
+        "Signature Dishes": "Potato and Roe, Core-teser dessert, Aged Rhug Estate lamb",
+        "British Classics": "Isle of Mull scallops, Cornish crab, Herdwick mutton",
+        "Seasonal Highlights": "Autumn vegetables, Winter game, Spring peas, Summer berries", 
+        "Wine Program": "British wine focus, International selections, Expert pairings",
+        "Vegetarian Options": "Plant-based tasting menu, Seasonal vegetable preparations",
+        "Tasting Menus": "CORE Classics (7 courses), CORE Seasons (7 courses), À la carte"
+      },
+      "tips": [
+        "Book well in advance—reservations are typically taken 3 months ahead.",
+        "Choose the CORE Classics menu on your first visit to experience the signature dishes.",
+        "The wine pairings are exceptional and worth the additional investment.",
+        "Arrive 15 minutes early to enjoy a drink at the bar and soak in the atmosphere.",
+        "Consider the vegetarian tasting menu—it's just as impressive as the standard offering.",
+        "Lunch service offers a slightly more relaxed experience if you prefer daytime dining.",
+        "The private dining room is perfect for special celebrations."
+      ],
+      "finalVerdict": "CORE by Clare Smyth represents the absolute pinnacle of modern British dining. This isn't just a restaurant—it's a testament to what happens when exceptional talent, unwavering dedication, and genuine hospitality converge. Clare Smyth has created something truly special: a three-Michelin-starred establishment that never loses sight of its soul. From the revolutionary 'Potato and Roe' to the perfectly aged Rhug Estate lamb, every dish tells the story of British ingredients treated with respect, skill, and creativity. The service is flawless yet warm, the atmosphere sophisticated yet welcoming, and the overall experience nothing short of transformative. CORE doesn't just deserve its three stars—it exemplifies everything those stars represent. This is destination dining at its finest, and an absolute must-visit for anyone seeking to understand the heights that British cuisine can reach.",
+      "author": "British Fine Dining Explorer",
+      "publishDate": "August 5, 2025"
+    }
   },
   {
     "id": "london-the-ledbury",

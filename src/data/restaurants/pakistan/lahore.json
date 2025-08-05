@@ -46,7 +46,82 @@
       "best restaurants Lahore",
       "Pakistani restaurant Lahore",
       "restaurants near me Lahore"
-    ]
+    ],
+    "spotlight": {
+      "title": "Dining Above History: My Unforgettable Evening at Haveli Restaurant",
+      "excerpt": "As a food enthusiast exploring Lahore's culinary treasures, I discovered why Haveli Restaurant offers more than just exceptional Pakistani cuisine—it provides a dining experience steeped in the city's rich Mughal heritage.",
+      "introduction": "In a city as historically rich as Lahore, finding a restaurant that truly captures the essence of its cultural heritage while serving exceptional food is like discovering a hidden gem. When colleagues recommended Haveli Restaurant, they spoke not just of the food, but of the experience: 'You don't just dine at Haveli,' one local friend explained, 'you dine with history.' Located on Fort Road in the heart of the Old City, this rooftop restaurant offers spectacular views of the Badshahi Mosque and Lahore Fort while serving traditional Pakistani cuisine that has earned it legendary status among both locals and visitors.",
+      "sections": [
+        {
+          "heading": "A Rooftop Restaurant Above Ancient Monuments",
+          "content": [
+            "Ascending to Haveli's rooftop dining area is like traveling through time. The restaurant is housed in a beautifully restored haveli (traditional courtyard house) that itself tells the story of Lahore's architectural evolution. But nothing prepares you for the moment you step onto the rooftop terrace and are greeted by one of the most breathtaking views in all of Pakistan.",
+            "Before me stretched the magnificent red sandstone facade of the Badshahi Mosque, its imposing domes and minarets glowing golden in the evening light. To the left, the ancient walls of Lahore Fort rose majestically, while the bustling activity of the Walled City spread out below like a living tapestry of Pakistani culture. This isn't just a dining room—it's a front-row seat to 400 years of Mughal history.",
+            "The restaurant's décor thoughtfully complements its historic surroundings. Traditional Pakistani artifacts, vintage photographs of old Lahore, and classic architectural elements create an atmosphere that feels both authentic and refined. The seating arrangements maximize the views while creating intimate spaces perfect for conversation and contemplation."
+          ]
+        },
+        {
+          "heading": "Traditional Karahi That Defines Pakistani Cuisine",
+          "content": [
+            "Haveli's menu is a celebration of authentic Pakistani flavors, but their karahi dishes are what have made them legendary throughout Lahore. I started with their signature Mutton Karahi, and from the first spoonful, I understood why this dish has earned such devoted followers.",
+            "The karahi arrived sizzling in its traditional wok-like vessel, the rich, tomato-based gravy bubbling around tender chunks of perfectly cooked mutton. The meat had been slow-cooked until it fell apart at the touch of a spoon, while the gravy achieved that perfect balance of spices that defines great Pakistani cuisine—complex enough to keep you discovering new flavors with each bite, yet harmonious enough to create a satisfying whole.",
+            "What impressed me most was the authenticity of the preparation. This wasn't fusion or modernized Pakistani food—it was traditional home-style cooking elevated to restaurant quality. The use of fresh tomatoes, the careful balance of garam masala, and the perfect amount of green chilies created a dish that tasted like it had been perfected over generations."
+          ]
+        },
+        {
+          "heading": "BBQ That Rivals the Best in Pakistan",
+          "content": [
+            "No visit to Haveli would be complete without experiencing their legendary BBQ offerings. The Mixed Grill platter was a carnivore's dream: perfectly marinated seekh kebabs, tender chicken tikka, succulent lamb chops, and aromatic chapli kebabs, all grilled to perfection in the restaurant's traditional tandoor.",
+            "Each item on the platter showcased a different aspect of Pakistani BBQ mastery. The seekh kebabs were spiced just right—you could taste the cumin, coriander, and fresh herbs, but no single spice overwhelmed the others. The chicken tikka was incredibly tender, having been marinated in yogurt and spices that penetrated deep into the meat. The lamb chops were the star of the show: thick, juicy cuts that had been aged to develop rich flavors, then grilled until they had a perfect smoky crust while remaining pink and tender inside.",
+            "The accompanying fresh naan bread, straight from the tandoor and still puffing with steam, was the perfect vehicle for soaking up the various chutneys and sauces. The mint chutney was particularly memorable—fresh, tangy, and with just enough heat to complement the rich meats."
+          ]
+        },
+        {
+          "heading": "An Experience That Captures Old Lahore's Soul",
+          "content": [
+            "As the evening progressed and the call to prayer echoed from the Badshahi Mosque below, I realized that Haveli offers something increasingly rare in our modern world: a genuine connection to history and tradition. The sounds of the Old City—the calls of street vendors, the rumble of rickshaws, the chatter of families—created a soundtrack that no modern restaurant could replicate.",
+            "The service struck the perfect balance between attentive and respectful. Our server was knowledgeable about both the food and the history surrounding us, sharing stories about the Mughal emperors who once walked these very streets and the architectural significance of the monuments we were overlooking. This wasn't just serving food—it was cultural ambassadorship at its finest.",
+            "As darkness fell and the monuments were illuminated against the night sky, the atmosphere became almost magical. The combination of exceptional food, historic ambiance, and unparalleled views created an experience that went far beyond a simple dinner—it was a celebration of Lahore's rich cultural heritage."
+          ]
+        }
+      ],
+      "locations": [
+        "Food Street, Fort Road, Walled City, Lahore - Historic Haveli with rooftop dining"
+      ],
+      "images": [
+        {
+          "src": "/images/spotlight/haveli1.jpg",
+          "alt": "Haveli Restaurant rooftop dining with Badshahi Mosque view",
+          "caption": "The spectacular rooftop dining area of Haveli Restaurant overlooking Badshahi Mosque"
+        },
+        {
+          "src": "/images/spotlight/haveli2.jpg",
+          "alt": "Traditional Pakistani karahi and BBQ platter at Haveli",
+          "caption": "Haveli's famous karahi and BBQ dishes showcasing authentic Pakistani flavors"
+        }
+      ],
+      "menuHighlights": {
+        "Signature Karahi": "Mutton Karahi, Chicken Karahi, Fish Karahi, Prawn Karahi",
+        "BBQ Specialties": "Mixed Grill, Seekh Kebabs, Chicken Tikka, Lamb Chops, Chapli Kebabs",
+        "Traditional Dishes": "Haleem, Nihari, Paye, Dal Makhani, Butter Chicken",
+        "Rice & Biryani": "Mutton Biryani, Chicken Biryani, Beef Pulao, Plain Rice",
+        "Breads": "Fresh Naan, Tandoori Roti, Kulcha, Garlic Naan",
+        "Beverages": "Fresh Lassi, Rooh Afza, Green Tea, Traditional Kahwa"
+      },
+      "tips": [
+        "Request a table on the main rooftop terrace for the best views of Badshahi Mosque.",
+        "Visit during sunset for the most spectacular photo opportunities and ambiance.",
+        "Try the Mutton Karahi—it's their signature dish and consistently excellent.",
+        "Bring a camera; the views are some of the best in all of Lahore.",
+        "Make reservations for weekend evenings as the restaurant gets very busy.",
+        "The Mixed Grill is perfect for groups who want to sample multiple BBQ items.",
+        "Ask your server about the history of the area—they're very knowledgeable guides.",
+        "Visit during cooler months (October-March) for the most comfortable rooftop dining."
+      ],
+      "finalVerdict": "Haveli Restaurant offers something truly extraordinary: a dining experience that perfectly marries exceptional Pakistani cuisine with an unparalleled historical setting. The combination of authentic karahi dishes, expertly grilled BBQ, and those breathtaking views of the Badshahi Mosque and Lahore Fort creates something magical. This isn't just about the food—though the food is genuinely excellent—it's about experiencing Lahore's soul. The restaurant serves as a bridge between past and present, offering visitors a chance to dine literally in the shadow of Mughal grandeur while enjoying the vibrant flavors that define Pakistani cuisine. Whether you're a visitor seeking to understand Lahore's cultural heart or a local celebrating a special occasion, Haveli delivers an unforgettable experience that captures everything beautiful about this historic city. This is destination dining with a difference—where the view is as memorable as the meal.",
+      "author": "Lahore Heritage Explorer",
+      "publishDate": "August 5, 2025"
+    }
   },
   {
     "id": "lahore-pak-tea-house",

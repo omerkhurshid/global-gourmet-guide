@@ -979,7 +979,81 @@
       "sustainable modern French",
       "Eater 2025 top restaurant",
       "young chef Paris"
-    ]
+    ],
+    "spotlight": {
+      "title": "Seeds of Change: My Discovery of Géosmine's Revolutionary Cuisine",
+      "excerpt": "As a curious food lover exploring Paris's evolving culinary landscape, I discovered why Géosmine represents the future of sustainable French dining—where environmental consciousness meets extraordinary culinary innovation.",
+      "introduction": "Paris's dining scene is constantly evolving, but rarely does a new restaurant arrive with such clear vision and immediate impact as Géosmine. When Eater named it their top restaurant discovery of 2025, I knew this wasn't just another trendy opening—it was a glimpse into the future of French cuisine. Located in the vibrant 11th arrondissement, this intimate restaurant by young chef Maxime Bouttier has captured the attention of food critics and conscious diners alike with its commitment to sustainable, earth-conscious cooking that never sacrifices flavor for principles. What I discovered was a restaurant that doesn't just serve exceptional food—it tells the story of a new generation of chefs reimagining what fine dining can be.",
+      "sections": [
+        {
+          "heading": "A Restaurant Born from Environmental Consciousness",
+          "content": [
+            "Walking into Géosmine feels like entering a secret garden that happens to serve extraordinary food. The restaurant's name, which refers to the earthy scent released by soil after rain, perfectly captures chef Maxime Bouttier's philosophy. Every element of the space reflects a deep connection to the natural world—from the reclaimed wood tables to the living walls of herbs that serve both as décor and ingredients.",
+            "The 28-seat dining room manages to feel both intimate and energized, with an open kitchen that allows diners to witness the careful, methodical approach that defines Bouttier's cooking. What struck me immediately was how the restaurant's design prioritizes sustainability without sacrificing sophistication. Solar-powered lighting, compost systems, and locally-sourced materials create an environment that feels authentically connected to its environmental mission.",
+            "This isn't sustainability as marketing gimmick—it's sustainability as fundamental philosophy, woven into every aspect of the restaurant's identity from the sourcing of ingredients to the treatment of food waste."
+          ]
+        },
+        {
+          "heading": "Young Talent Redefining French Cuisine",
+          "content": [
+            "At just 29 years old, chef Maxime Bouttier represents a new generation of French chefs who refuse to be bound by traditional expectations. His tasting menu changes with the seasons and the availability of hyper-local ingredients, but what remains constant is his commitment to showcasing the natural flavors of impeccably sourced produce.",
+            "The meal began with what Bouttier calls 'soil and seeds'—a dish that looked like it had been carefully excavated from a garden bed. Beneath a layer of what appeared to be rich earth (actually made from dehydrated vegetables and herbs) lay perfectly cooked vegetables that had been grown within 50 kilometers of the restaurant. The flavors were intensely concentrated, as if each ingredient had been distilled to its essential essence.",
+            "What impressed me most was Bouttier's technical skill in service of flavor rather than spectacle. His fermentation techniques, developed through years of experimentation, create depth and complexity that would make traditional French chefs take notice. This isn't molecular gastronomy for its own sake—it's innovative technique applied to enhance the natural characteristics of exceptional ingredients."
+          ]
+        },
+        {
+          "heading": "A Menu That Changes with the Earth",
+          "content": [
+            "Géosmine's menu is a love letter to the French terroir, but written in a completely contemporary voice. The Jerusalem artichoke dish that followed showcased Bouttier's ability to transform humble ingredients into something transcendent. The artichokes, sourced from a biodynamic farm in the Île-de-France region, were prepared in three different ways—roasted, pureed, and fermented—each highlighting different aspects of the vegetable's complex flavor profile.",
+            "The standout course was undoubtedly the 'forest floor' creation—a dish that captured the essence of autumn in the Bois de Boulogne. Wild mushrooms, gathered by Bouttier himself during early morning foraging expeditions, were paired with hazelnuts, sage, and a remarkable broth made from mushroom trimmings that had been composted and then reconstituted. It was earthy, complex, and unlike anything I'd experienced in Parisian fine dining.",
+            "Even the simple-sounding carrot dish revealed layers of complexity. Three varieties of heirloom carrots, each from different soil types, were presented to highlight how terroir affects flavor. The differences were remarkable—some sweet and floral, others earthy and mineral-driven, all treated with the kind of respect usually reserved for premium proteins."
+          ]
+        },
+        {
+          "heading": "Sustainable Practices That Enhance Rather Than Limit",
+          "content": [
+            "What makes Géosmine truly remarkable is how its environmental commitments enhance rather than restrict the dining experience. The restaurant's zero-waste policy means that every part of every ingredient finds its way into the meal—carrot tops become pestos, vegetable trimmings become broths, and even coffee grounds are transformed into flavor enhancers.",
+            "The wine program, overseen by sommelier Claire Dufour, exclusively features natural and biodynamic producers from within 300 kilometers of Paris. Rather than limiting options, this focus has created one of the most interesting and diverse wine lists in the city. Each pairing told the story of specific vineyards and winemakers who share Bouttier's commitment to environmental stewardship.",
+            "The service team is incredibly knowledgeable about not just the food and wine, but the stories behind them. Our server could tell us exactly which farm each ingredient came from, how it was cultivated, and why it was chosen for that particular dish. This level of transparency and connection to sources creates a dining experience that feels both educational and deeply satisfying."
+          ]
+        }
+      ],
+      "locations": [
+        "11th Arrondissement, Paris - Small intimate dining room with open kitchen"
+      ],
+      "images": [
+        {
+          "src": "/images/spotlight/geosmine1.jpg",
+          "alt": "Géosmine restaurant interior with living herb walls and sustainable design",
+          "caption": "The sustainable, garden-inspired interior of Géosmine in the 11th arrondissement"
+        },
+        {
+          "src": "/images/spotlight/geosmine2.jpg",
+          "alt": "Géosmine's innovative 'soil and seeds' signature dish",
+          "caption": "Chef Bouttier's famous 'soil and seeds' dish showcasing hyper-local ingredients"
+        }
+      ],
+      "menuHighlights": {
+        "Signature Creations": "Soil and Seeds, Forest Floor, Three Soil Carrots, Fermented Garden",
+        "Seasonal Specialties": "Wild mushroom preparations, Heirloom vegetable tastings, Foraged ingredients",
+        "Sustainable Proteins": "Line-caught fish, Pasture-raised meats, Plant-based alternatives",
+        "Zero-Waste Dishes": "Root-to-leaf preparations, Vegetable scrap broths, Compost-inspired creations",
+        "Natural Wine Program": "Biodynamic selections, Local vignerons, Minimal intervention wines",
+        "Tasting Experience": "7-course seasonal menu, Optional wine pairings, Vegetarian alternatives"
+      },
+      "tips": [
+        "Book at least 6 weeks in advance—this intimate restaurant fills up quickly.",
+        "Ask about the sourcing stories—the staff's knowledge is impressive and adds to the experience.",
+        "Try the wine pairings—the natural wine program is exceptional and educational.",
+        "Come with an open mind—some dishes challenge conventional expectations beautifully.",
+        "Visit during different seasons to experience how the menu evolves with availability.",
+        "The lunch service offers a shorter menu at a more accessible price point.",
+        "Dietary restrictions are handled thoughtfully—inform them when booking."
+      ],
+      "finalVerdict": "Géosmine represents everything exciting about the current evolution of French dining. Chef Maxime Bouttier has created something genuinely revolutionary—a restaurant that proves environmental consciousness and culinary excellence aren't just compatible, they're complementary. This isn't virtue signaling disguised as cuisine; it's legitimate fine dining that happens to be deeply sustainable. The food is innovative, delicious, and thought-provoking, while the service is knowledgeable and passionate without being preachy. Géosmine doesn't just deserve its recognition as Eater's top restaurant discovery of 2025—it points toward a future where the best restaurants also happen to be the most responsible. This is destination dining with a conscience, and it's absolutely essential for anyone who wants to understand where Parisian cuisine is heading. Young chef Bouttier isn't just cooking for today—he's cultivating the future of French gastronomy.",
+      "author": "Sustainable Dining Explorer",
+      "publishDate": "August 5, 2025"
+    }
   },
   {
     "id": "paris-clamato",
