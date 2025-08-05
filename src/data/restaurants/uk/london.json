@@ -253,18 +253,6 @@
       "locations": [
         "92 Kensington Park Road, Notting Hill, London W11 2PN"
       ],
-      "images": [
-        {
-          "src": "/images/spotlight/core1.jpg",
-          "alt": "CORE by Clare Smyth elegant dining room in Notting Hill",
-          "caption": "The warm, sophisticated interior of CORE by Clare Smyth in Notting Hill"
-        },
-        {
-          "src": "/images/spotlight/core2.jpg", 
-          "alt": "CORE's famous Potato and Roe signature dish",
-          "caption": "The legendary 'Potato and Roe' dish that showcases Clare Smyth's mastery"
-        }
-      ],
       "menuHighlights": {
         "Signature Dishes": "Potato and Roe, Core-teser dessert, Aged Rhug Estate lamb",
         "British Classics": "Isle of Mull scallops, Cornish crab, Herdwick mutton",
