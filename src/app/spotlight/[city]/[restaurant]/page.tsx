@@ -184,15 +184,11 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
             <h3 className="text-xl font-bold text-gray-900 mb-4">Restaurant Details</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               <div>
-                <h4 className="font-semibold text-gray-900 mb-2">Locations</h4>
-                <ul className="space-y-1">
-                  {spotlight.locations.map((location, index) => (
-                    <li key={index} className="text-gray-700 text-sm flex items-start">
-                      <MapPin className="w-4 h-4 mr-2 mt-0.5 text-gray-400" />
-                      {location}
-                    </li>
-                  ))}
-                </ul>
+                <h4 className="font-semibold text-gray-900 mb-2">Location</h4>
+                <div className="text-gray-700 text-sm flex items-start">
+                  <MapPin className="w-4 h-4 mr-2 mt-0.5 text-gray-400" />
+                  {restaurant.address.street ? `${restaurant.address.street}, ` : ''}{restaurant.address.city}, {restaurant.address.country}
+                </div>
               </div>
               <div>
                 <div className="mb-4">
@@ -222,48 +218,42 @@ export default async function RestaurantSpotlightPage({ params }: SpotlightPageP
           </div>
 
           {/* Menu Highlights */}
-          {spotlight.menuHighlights && (
+          {restaurant.specialties && restaurant.specialties.length > 0 && (
             <div className="bg-gray-50 rounded-lg p-6 my-8">
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Menu Highlights</h3>
+              <h3 className="text-xl font-bold text-gray-900 mb-4">Signature Dishes</h3>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-                {Object.entries(spotlight.menuHighlights).map(([category, items]) => (
-                  <div key={category}>
-                    <h4 className="font-semibold text-gray-900 mb-2">{category}</h4>
-                    <p className="text-gray-700 text-sm">{items}</p>
+                {restaurant.specialties.map((specialty, index) => (
+                  <div key={index} className="flex items-center">
+                    <span className="w-2 h-2 bg-orange-400 rounded-full mr-3 flex-shrink-0"></span>
+                    <p className="text-gray-700 text-sm">{specialty}</p>
                   </div>
                 ))}
               </div>
             </div>
           )}
 
-          {/* Tips */}
-          {spotlight.tips && spotlight.tips.length > 0 && (
+          {/* Restaurant Features */}
+          {restaurant.features && restaurant.features.length > 0 && (
             <div className="bg-blue-50 rounded-lg p-6 my-8">
-              <h3 className="text-xl font-bold text-gray-900 mb-4">Tips for First Timers</h3>
-              <ul className="space-y-2">
-                {spotlight.tips.map((tip, index) => (
-                  <li key={index} className="text-gray-700 text-sm flex items-start">
-                    <span className="w-2 h-2 bg-blue-400 rounded-full mr-3 mt-2 flex-shrink-0"></span>
-                    {tip}
-                  </li>
+              <h3 className="text-xl font-bold text-gray-900 mb-4">What Makes It Special</h3>
+              <div className="flex flex-wrap gap-3">
+                {restaurant.features.map((feature, index) => (
+                  <span
+                    key={index}
+                    className="px-3 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-medium"
+                  >
+                    {feature}
+                  </span>
                 ))}
-              </ul>
+              </div>
             </div>
           )}
-
-          {/* Final Verdict */}
-          <div className="border-l-4 pl-6 my-8" style={{borderColor: '#b07968'}}>
-            <h3 className="text-xl font-bold mb-4" style={{color: '#8b6355'}}>Final Verdict</h3>
-            <p className="leading-relaxed text-lg" style={{color: '#8b6355'}}>
-              {spotlight.finalVerdict}
-            </p>
-          </div>
 
           {/* Author */}
           <div className="border-t border-gray-200 pt-6 mt-12">
             <div className="text-sm text-gray-500">
-              <p>Published: {spotlight.publishDate}</p>
-              {spotlight.author && <p>By: {spotlight.author}</p>}
+              <p>Last Updated: {restaurant.lastUpdated}</p>
+              <p>Experience shared by the editorial team</p>
             </div>
           </div>
         </div>

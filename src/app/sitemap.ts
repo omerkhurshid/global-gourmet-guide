@@ -41,7 +41,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
       if (restaurant.spotlight) {
         spotlightPages.push({
           url: `${baseUrl}/spotlight/${citySlug}/${generateRestaurantSlug(restaurant.name)}`,
-          lastModified: new Date(restaurant.spotlight.publishDate),
+          lastModified: new Date(restaurant.lastUpdated || new Date().toISOString()),
           changeFrequency: 'monthly' as const,
           priority: 0.7,
         })
