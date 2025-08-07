@@ -47,7 +47,51 @@
       "Italian restaurant Los Angeles",
       "restaurants near me Los Angeles",
       "fine dining Los Angeles"
-    ]
+    ],
+    "spotlight": {
+      "title": "Downtown LA's Italian Revolution: My Night at Bestia Where Rustic Meets Industrial",
+      "excerpt": "In LA's Arts District, I discovered why Bestia has become the city's most sought-after Italian spot—where rustic Roman cooking meets industrial chic in a space that perfectly captures LA's creative energy.",
+      "introduction": "Everyone warned me about the wait at Bestia. \"Good luck getting a reservation,\" they said. \"The line starts before they even open.\" But when I finally secured a table at this Arts District phenomenon, I understood why Angelenos are willing to wait weeks for a seat. This isn't just another Italian restaurant in a city full of them—it's a complete reimagining of what Italian dining can be when you strip away the red-checkered tablecloths and let the food speak with confident, bold voices. As I settled into the bustling, industrial space that perfectly captures downtown LA's creative spirit, I realized Bestia represents everything exciting about the city's evolving food scene: unapologetically bold, refreshingly unpretentious, and absolutely delicious.",
+      "sections": [
+        {
+          "heading": "Where Rome Meets the Arts District",
+          "content": [
+            "Bestia occupies a converted warehouse in LA's Arts District, and the space tells you everything you need to know about the restaurant's philosophy. Exposed brick walls, steel beams, and concrete floors create an industrial backdrop that feels quintessentially LA—this is dining for the Instagram age, but with substance to match the style. The open kitchen dominates one wall, flames leaping from the wood-fired oven, chefs moving with practiced efficiency as orders fly out.",
+            "But what makes Bestia special isn't just the aesthetic—it's how chefs Ori Menashe and Genevieve Gergis have created a menu that matches the space's raw energy. This is Italian food stripped of pretense and amplified with California confidence. The dishes draw inspiration from rustic Roman cooking but aren't bound by tradition. Instead, they use Italian techniques as a launching pad for flavors that could only happen in LA, where cultural boundaries are meant to be crossed and tradition is just a starting point for innovation."
+          ]
+        },
+        {
+          "heading": "Pizza That Changed the Game",
+          "content": [
+            "Let's start with the pizzas, because they're what put Bestia on the map and continue to draw crowds years after opening. These aren't your typical Neapolitan pies trying to recreate Naples in LA. The crust strikes a perfect balance—crispy on the bottom, chewy in the middle, with just enough char from the wood-fired oven to add complexity without bitterness.",
+            "The Margherita might seem basic on paper, but it's a masterclass in restraint and quality. San Marzano tomatoes provide bright acidity, fresh mozzarella melts into creamy pools, and basil leaves wilt just enough to release their aromatic oils. But it's the adventurous pies that really showcase Bestia's philosophy. The Salumi pizza topped with guanciale, fennel sausage, and peppers delivers a meat lover's dream, while seasonal specials might feature unexpected combinations like squash blossoms and bottarga. Each pizza emerges from the oven as an edible canvas, beautiful enough to photograph but too delicious to wait for the perfect shot."
+          ]
+        },
+        {
+          "heading": "Charcuterie as Art Form",
+          "content": [
+            "If the pizzas made Bestia famous, the charcuterie program keeps people coming back. Menashe's obsession with whole-animal cooking shines through in a selection of house-cured meats that rivals anything you'd find in Italy. The charcuterie board arrives as a carnivore's fantasy—paper-thin slices of coppa, chunks of rustic pâté, spreadable 'nduja that brings controlled fire to crusty bread.",
+            "What sets Bestia's charcuterie apart is the attention to detail. Every element on the board serves a purpose, from the house-made pickles that cut through rich fats to the mustard that adds just enough acid to balance the salt. The bone marrow, roasted until bubbling and served with thick slabs of grilled bread, has become legendary—and for good reason. It's pure, unapologetic indulgence, the kind of dish that makes you close your eyes on the first bite and forget about calorie counts entirely."
+          ]
+        },
+        {
+          "heading": "Pasta That Honors Tradition While Breaking Rules",
+          "content": [
+            "The pasta at Bestia walks a fine line between tradition and innovation, and does it brilliantly. The cavatelli with Dungeness crab and sea urchin sounds like it could be precious, but instead delivers bold, briny flavors that taste like the Pacific Ocean decided to vacation in Italy. The agnolotti stuffed with braised lamb shoulder brings comfort food to new heights, each pillow of pasta hiding rich, gamey filling that pairs perfectly with the simple brown butter sauce.",
+            "But it's the unexpected touches that make Bestia's pasta memorable. A shower of bottarga over simple spaghetti transforms it into something luxurious. Crispy chicken hearts might top your bucatini, adding texture and a slight mineral note that shouldn't work but absolutely does. This is pasta for people who think they've tried everything, dishes that respect Italian technique while embracing LA's adventurous palate."
+          ]
+        },
+        {
+          "heading": "The Bestia Experience",
+          "content": [
+            "What makes Bestia essential to LA's dining scene goes beyond individual dishes. This restaurant captures something essential about the city itself—the collision of high and low, tradition and innovation, all happening in a space that pulses with energy. The crowd reflects LA's diversity: artists from nearby lofts, entertainment industry power players, food-obsessed locals who've been coming since day one.",
+            "Service matches the food—knowledgeable without being stuffy, enthusiastic about the menu without overselling. The wine list leans heavily Italian but includes interesting bottles from unexpected regions, all chosen to complement the bold flavors coming from the kitchen. And yes, it's loud. Conversation bounces off the concrete walls, the open kitchen adds to the cacophony, and the energy level stays high from opening to close. But that's part of the appeal—this isn't a place for quiet romantic dinners. It's a place to eat, drink, and celebrate the fact that you're dining at one of LA's most exciting restaurants.",
+            "Bestia represents a new generation of LA dining—restaurants that respect culinary tradition while refusing to be bound by it, places that understand that great food doesn't require white tablecloths and hushed tones. It's Italian cooking filtered through LA's unique cultural lens, creating something that feels both familiar and entirely new. In a city where trends come and go with the seasons, Bestia has proven it has staying power by focusing on what matters: incredible food served in a space that captures the creative energy that makes LA special. This is destination dining that actually lives up to the hype."
+          ]
+        }
+      ],
+      "images": []
+    }
   },
   {
     "id": "los-angeles-n-naka",

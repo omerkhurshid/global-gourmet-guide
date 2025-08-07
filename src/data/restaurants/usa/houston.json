@@ -229,7 +229,51 @@
       "best brunch Houston",
       "River Oaks dining",
       "vegetarian restaurants Houston"
-    ]
+    ],
+    "spotlight": {
+      "title": "Houston's Global Kitchen: My Morning at Pondicheri Where India Meets the World",
+      "excerpt": "In Houston's diverse food landscape, I discovered Pondicheri—where chef Anita Jaisinghani creates magic by reimagining Indian flavors through a global lens, making it the city's most exciting fusion destination.",
+      "introduction": "Houston has always been a melting pot, but nowhere is that more deliciously evident than at Pondicheri. When I walked into this bright, airy space on Kirby Drive, I knew I was about to experience something special. This isn't your typical Indian restaurant with heavy curries and naan bread. Instead, chef Anita Jaisinghani has created something uniquely Houston—a place where Indian spices and techniques meet global influences to create dishes that are both familiar and completely new. As I settled in for what would become one of the most memorable brunches of my Houston visit, I realized Pondicheri represents everything exciting about the city's evolving food scene.",
+      "sections": [
+        {
+          "heading": "Where Tradition Meets Innovation",
+          "content": [
+            "Pondicheri's menu reads like a love letter to global cuisine written in Indian ink. Chef Jaisinghani hasn't just fused cuisines—she's created an entirely new language of flavor that speaks to Houston's international soul. The restaurant takes its name from Pondicherry (now Puducherry), the former French colony in India, and that spirit of cultural collision defines everything here.",
+            "What strikes you first is how the menu defies categorization. Is it Indian? Global? Fusion? The answer is yes to all, and that's exactly the point. Jaisinghani draws from her Indian heritage but isn't bound by it. Instead, she uses Indian flavors as a lens through which to view global cuisine, creating dishes that feel both deeply rooted and refreshingly modern. It's the kind of cooking that could only happen in a city like Houston, where culinary boundaries are made to be crossed."
+          ]
+        },
+        {
+          "heading": "The Art of the Chaat Bowl",
+          "content": [
+            "If you want to understand Pondicheri's philosophy in a single dish, order one of their chaat bowls. These aren't just salads or grain bowls—they're edible kaleidoscopes that showcase the restaurant's approach to layering flavors and textures. Each bowl arrives looking like a work of art, with ingredients arranged in careful patterns that are almost too beautiful to disturb.",
+            "I tried the Butternut Squash Chaat, and it was a revelation. Roasted squash provided earthy sweetness, while pomegranate seeds burst with tart juice. Crispy sev (those addictive fried chickpea noodles) added crunch, mint chutney brought cooling freshness, and tamarind sauce provided that sweet-sour punch that makes chaat so addictive. Every spoonful was different, depending on which elements you captured, creating a dining experience that was both playful and sophisticated. This is comfort food reimagined through a global lens—familiar ingredients transformed by Indian techniques and spices into something entirely new."
+          ]
+        },
+        {
+          "heading": "Breakfast, But Make It Indian",
+          "content": [
+            "Pondicheri's breakfast menu is where the restaurant's fusion philosophy really shines. These aren't traditional Indian breakfasts (though you can find excellent dosas and uttapam if that's what you're after). Instead, Jaisinghani takes familiar breakfast formats and infuses them with Indian soul.",
+            "The Masala Omelet exemplifies this approach perfectly. It's still recognizably an omelet, but one that's been transformed by the addition of green chilies, tomatoes, onions, and a blend of spices that wake up your palate in ways a plain omelet never could. Served with buttery pav bread for scooping, it's comfort food that crosses continents. The French Toast gets a similar treatment—thick slices of bread soaked in cardamom-spiced custard, griddled until golden, and served with a dollop of whipped cream infused with rose water. It's French toast that went to India and came back transformed, carrying the best of both traditions."
+          ]
+        },
+        {
+          "heading": "The Vegetable Revolution",
+          "content": [
+            "What sets Pondicheri apart in Houston's meat-heavy dining scene is its celebration of vegetables. This isn't vegetarian food as an afterthought—it's plant-based cuisine that puts vegetables at the center of the plate and makes them sing. Jaisinghani's background includes time at some of the country's best restaurants, and that technical skill shines through in how she treats humble vegetables.",
+            "The Roasted Cauliflower dish is a perfect example. What could be boring in lesser hands becomes extraordinary here—the cauliflower roasted until it's crispy outside and creamy inside, tossed with a spice blend that includes turmeric, cumin, and black mustard seeds, then finished with a drizzle of tahini and a scatter of fresh herbs. It's the kind of dish that makes carnivores forget about meat entirely. Even simple sides like the Cucumber Salad become special here, the cooling yogurt dressing spiked with mint and chat masala creating a perfect counterpoint to the bolder flavors on the menu."
+          ]
+        },
+        {
+          "heading": "A Houston Original",
+          "content": [
+            "What makes Pondicheri essential to Houston's dining scene goes beyond the food. In a city known for its diversity, this restaurant represents the best of what happens when cultures meet and mingle. It's not trying to be authentically Indian or authentically anything else—it's authentically Houston, a place where boundaries blur and new traditions are born.",
+            "The atmosphere reflects this inclusive spirit. The dining room is bright and welcoming, with an open kitchen that lets you watch the culinary magic happen. The crowd is as diverse as the menu—Indian families sharing dosas, young professionals grabbing creative breakfast bowls, food lovers exploring the intersection of global flavors. There's often a wait for weekend brunch, but the vibrant energy makes it feel like part of the experience rather than an inconvenience.",
+            "Pondicheri has become more than just a restaurant—it's a symbol of Houston's evolving food culture. In a city where you can find authentic cuisine from virtually every corner of the globe, Jaisinghani has created something new: food that honors tradition while embracing innovation, that speaks multiple culinary languages fluently. It's the kind of place that makes you excited about the future of food, where every meal feels like a delicious argument for why fusion cuisine, done thoughtfully and with respect, represents the best of what American dining can be. If you want to taste the future of Houston's food scene, start here."
+          ]
+        }
+      ],
+      "images": []
+    }
   },
   {
     "id": "houston-uchi",
