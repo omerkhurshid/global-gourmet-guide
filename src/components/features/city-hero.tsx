@@ -1,4 +1,4 @@
-import Image from "next/image"
+import { OptimizedImage } from "@/components/ui/optimized-image"
 import { City } from "@/data/types"
 
 interface CityHeroProps {
@@ -10,13 +10,13 @@ export function CityHero({ city }: CityHeroProps) {
     <section className="relative h-[60vh] min-h-[400px] flex items-center justify-center overflow-hidden">
       {/* Background Image */}
       <div className="absolute inset-0">
-        <Image
+        <OptimizedImage
           src={city.heroImage}
-          alt={`${city.name} cityscape`}
+          alt={`${city.name} cityscape - Best restaurants and dining guide`}
           fill
-          className="object-cover"
           priority
           sizes="100vw"
+          className="object-cover"
         />
         <div className="absolute inset-0 bg-black/40" />
       </div>
