@@ -130,6 +130,13 @@ export function RestaurantCard({
                 {formatAddress(restaurant.address)}
               </span>
             </div>
+            <Link 
+              href={restaurantUrl}
+              className="text-sm font-medium hover:underline"
+              style={{color: '#8b6355'}}
+            >
+              View Details →
+            </Link>
           </div>
         </div>
       </div>
@@ -197,8 +204,10 @@ export function RestaurantCard({
           </div>
           
           <div className="flex items-center justify-between">
-            <Button variant="default" size="sm" disabled>
+            <Button variant="default" size="sm" asChild>
+              <Link href={restaurantUrl}>
                 View Details
+              </Link>
             </Button>
             
             {restaurant.contact.website && (
@@ -278,8 +287,10 @@ export function RestaurantCard({
         </div>
         
         <div className="flex items-center justify-between pt-2 border-t border-gray-100">
-          <Button variant="default" size="sm" disabled className="bg-orange-600 hover:bg-orange-700">
+          <Button variant="default" size="sm" asChild className="bg-orange-600 hover:bg-orange-700">
+            <Link href={restaurantUrl}>
               View Details
+            </Link>
           </Button>
           
           <div className="flex items-center space-x-2">

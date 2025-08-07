@@ -30,6 +30,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.9,
   }))
 
+  // Individual restaurant pages
+  const restaurantPages: MetadataRoute.Sitemap = []
+  
   // Restaurant spotlight pages
   const spotlightPages: MetadataRoute.Sitemap = []
   
@@ -38,6 +41,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     const restaurants = getRestaurantsByCity(citySlug)
     
     for (const restaurant of restaurants) {
+      // Add individual restaurant page
+      restaurantPages.push({
+        url: `${baseUrl}/${citySlug}/${generateRestaurantSlug(restaurant.name)}`,
+        lastModified: new Date(restaurant.lastUpdated || new Date().toISOString()),
+        changeFrequency: 'weekly' as const,
+        priority: 0.8,
+      })
+      
+      // Add spotlight page if it exists
       if (restaurant.spotlight) {
         spotlightPages.push({
           url: `${baseUrl}/spotlight/${citySlug}/${generateRestaurantSlug(restaurant.name)}`,
@@ -49,5 +61,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  return [...staticPages, ...cityPages, ...spotlightPages]
+  return [...staticPages, ...cityPages, ...restaurantPages, ...spotlightPages]
 }
