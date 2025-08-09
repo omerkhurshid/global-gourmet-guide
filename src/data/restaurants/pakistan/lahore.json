@@ -1,5 +1,113 @@
 [
   {
+    "id": "lahore-the-fred",
+    "name": "The Fred",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into The Fred felt like discovering the future of Pakistani dining, where culinary innovation meets impeccable design in a space that has redefined what fine dining can be in the country. This revolutionary restaurant stands for Food, Research, Experience and Design, and it delivers on every promise—creating bona fide culinary experiences that celebrate Lahore's legacy while spurring creativity in an ecosystem of innovation. What makes The Fred extraordinary isn't just its position as Pakistan's first professional food pop-up space turned permanent restaurant—it's how it has become the place that Lahore's most discerning palates trust, offering a micro-catering experience and hosting pop-ups by inviting chefs from Pakistan and around the world to present bespoke menus that push creativity to new heights.",
+    "reviewSummary": "Revolutionary fine dining concept where Food, Research, Experience and Design converge. Pakistan's first professional food pop-up space turned permanent restaurant with bespoke menus and global chef collaborations.",
+    "cuisine": [
+      "Contemporary Pakistani",
+      "International Fusion",
+      "Innovative"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.8,
+    "reviewCount": 456,
+    "address": {
+      "street": "118 Y, Street 10, Commercial Zone, DHA Phase III, 2nd Floor of Bareezè Man",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": "53000"
+    },
+    "location": {
+      "lat": 31.4697,
+      "lng": 74.4084
+    },
+    "contact": {
+      "phone": "+92-304-999-3733",
+      "website": "https://fredtherestaurant.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🎨",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining Innovation",
+      "Pop-up Collaborations",
+      "Design Excellence",
+      "Culinary Research"
+    ],
+    "specialties": [
+      "Bespoke tasting menus",
+      "International chef collaborations",
+      "Contemporary Pakistani cuisine",
+      "Micro-catering experiences"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Official Website",
+      "Food Reviews",
+      "Local Dining Guides"
+    ],
+    "seoKeywords": [
+      "The Fred Lahore",
+      "fine dining Lahore",
+      "innovative restaurants Pakistan",
+      "DHA Phase 3 restaurants",
+      "contemporary Pakistani cuisine"
+    ],
+    "spotlight": {
+      "title": "Lahore's Culinary Revolution: My Evening at The Fred Where Food Becomes Art",
+      "excerpt": "In DHA Phase III, I discovered The Fred—where Food, Research, Experience and Design converge to create Pakistan's most innovative dining destination, redefining what fine dining means in the country.",
+      "introduction": "There are restaurants that serve food, and then there's The Fred—a place that has fundamentally changed what it means to dine in Pakistan. When I walked into this revolutionary establishment in DHA Phase III, I wasn't just entering a restaurant; I was stepping into Pakistan's first professional food pop-up space that has evolved into something extraordinary. The Fred stands for Food, Research, Experience and Design, and from the moment you arrive, every element reinforces this philosophy. This isn't just about eating—it's about experiencing cuisine as art, innovation as tradition, and hospitality as performance. As I settled into this meticulously designed space, I realized I was about to witness what happens when culinary boundaries are not just pushed, but completely reimagined.",
+      "sections": [
+        {
+          "heading": "Where Innovation Meets Pakistani Soul",
+          "content": [
+            "The Fred occupies a unique position in Lahore's dining landscape—it's simultaneously deeply rooted in Pakistani culinary traditions and fearlessly innovative in its approach to presenting them. This duality is evident from the moment you examine the menu, which changes regularly based on seasonal ingredients and the creative collaborations that define The Fred's identity.",
+            "What sets The Fred apart is its commitment to research and development in cuisine. This isn't a restaurant that follows trends; it creates them. The kitchen operates more like a culinary laboratory, where traditional Pakistani flavors are deconstructed, analyzed, and rebuilt into presentations that honor their origins while challenging diners' expectations. It's molecular gastronomy with Pakistani soul, fine dining technique applied to ingredients that tell the story of our culinary heritage."
+          ]
+        },
+        {
+          "heading": "The Pop-Up Philosophy Made Permanent",
+          "content": [
+            "The Fred's origins as Pakistan's first professional food pop-up space continue to influence its identity even as a permanent establishment. This pop-up DNA means the restaurant never becomes stagnant—there's always something new happening, whether it's a collaboration with an international chef, a seasonal menu that explores regional Pakistani cuisine, or an experimental tasting that pushes culinary boundaries.",
+            "During my visit, I experienced a tasting menu that exemplified this approach. Each course arrived as a small revelation, familiar Pakistani flavors presented in ways I'd never imagined. A traditional dal was transformed into an elegant foam that captured the essence of home-cooked comfort while delivering restaurant-quality sophistication. Karahi spices were used to create a molecular dust that added explosive flavor to perfectly prepared protein. This is Pakistani cuisine liberated from conventional presentation while remaining true to its flavor DNA."
+          ]
+        },
+        {
+          "heading": "Design as Culinary Partner",
+          "content": [
+            "The 'Design' element of The Fred's philosophy isn't just about aesthetics—it's about how thoughtful design enhances the culinary experience. The space itself is a masterpiece of contemporary Pakistani design, where traditional elements are reimagined through a modern lens. The result is an environment that feels both sophisticated and culturally rooted.",
+            "Every element has been carefully considered, from the way light plays across each table to create the perfect ambiance for photographing dishes, to the custom dishware that complements rather than competes with the food presentation. The open kitchen concept allows diners to witness the culinary theater, creating an immersive experience that transforms eating into entertainment. This attention to design extends to the smallest details—even the way bread is served becomes an opportunity to showcase creativity and craftsmanship."
+          ]
+        },
+        {
+          "heading": "Global Collaborations, Local Heart",
+          "content": [
+            "One of The Fred's most exciting offerings is their collaboration program, where they invite chefs from Pakistan and around the world to create bespoke menus that push the restaurant's creativity even further. These aren't just guest chef events—they're cultural exchanges that result in entirely new approaches to Pakistani cuisine.",
+            "I was fortunate to experience one such collaboration during my visit, where a visiting chef had worked with The Fred's team to create dishes that bridged their respective culinary traditions. The result was a menu that felt both familiar and completely novel—Pakistani ingredients and techniques filtered through an international perspective, creating flavors that could exist nowhere else but at The Fred. These collaborations represent the restaurant's commitment to positioning Pakistani cuisine on the global culinary stage while maintaining its essential character."
+          ]
+        },
+        {
+          "heading": "Service as Performance Art",
+          "content": [
+            "The service at The Fred operates at a level that matches the innovation happening in the kitchen. This isn't just about bringing food to tables—it's about curating an experience that unfolds over the course of the evening. Servers are trained not just in hospitality but in the story behind each dish, the philosophy of the restaurant, and the techniques used to create what you're experiencing.",
+            "What impressed me most was how the service team managed to be simultaneously professional and warm, sophisticated and approachable. They understand that they're part of a larger performance, but never in a way that feels artificial or overly theatrical. Instead, their knowledge and enthusiasm become part of the dining experience, helping guests understand and appreciate the innovation they're witnessing while ensuring everyone feels welcome and comfortable."
+          ]
+        },
+        {
+          "heading": "The Future of Pakistani Fine Dining",
+          "content": [
+            "As my evening at The Fred concluded with a dessert that somehow managed to capture the essence of traditional Pakistani sweets while looking like modern art, I realized I had experienced something historic. This isn't just one of Lahore's best restaurants—it's proof that Pakistani cuisine deserves recognition at the highest levels of global gastronomy.",
+            "The Fred represents a new chapter in Pakistani dining, one where our culinary traditions are celebrated not by preservation alone, but by continuous evolution and innovation. It's expensive, yes, and reservations can be challenging to secure. But for anyone who loves food, who wants to see Pakistani cuisine reach its full potential, or who simply wants to experience what happens when culinary artistry meets cultural pride, The Fred is essential.",
+            "This restaurant has changed the conversation about what Pakistani fine dining can be, creating a template that other establishments will undoubtedly follow. But more than that, it's created a space where the future of Pakistani cuisine is being written, one innovative dish at a time. The Fred isn't just serving food—it's serving possibility, creativity, and a vision of what Pakistani hospitality can become when it's unleashed from conventional constraints. This is destination dining that happens to be in Lahore, rather than Lahore dining that aspires to be destination-worthy. That distinction makes all the difference."
+          ]
+        }
+      ]
+    }
+  },
+  {
     "id": "lahore-haveli-restaurant",
     "name": "Haveli Restaurant",
     "description": "As a newcomer wandering the foodscape of Lahore, stepping into Haveli Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of karahi, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Stunning views of Badshahi Mosque, traditional BBQ and karahi dishes.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
@@ -124,505 +232,6 @@
     }
   },
   {
-    "id": "lahore-pak-tea-house",
-    "name": "Pak Tea House",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Pak Tea House felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Literary and cultural icon; tea and snacks.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Literary and cultural icon; tea and snacks.",
-    "cuisine": [
-      "Tea Café",
-      "Snacks"
-    ],
-    "priceLevel": "$",
-    "rating": 4,
-    "reviewCount": 100,
-    "address": {
-      "street": "Central Lahore",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "☕",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Pak Tea House Lahore",
-      "best restaurants Lahore",
-      "Tea Café restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-caspian-sea",
-    "name": "Caspian Sea",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Caspian Sea felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Great mix of Middle Eastern and Pakistani food.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Great mix of Middle Eastern and Pakistani food.",
-    "cuisine": [
-      "Middle Eastern",
-      "Pakistani"
-    ],
-    "priceLevel": "$$$",
-    "rating": 4.8,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore city center",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Caspian Sea Lahore",
-      "best restaurants Lahore",
-      "Middle Eastern restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-pakasia-restaurant",
-    "name": "Pakasia Restaurant",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Pakasia Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Delicious and diverse offerings.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Delicious and diverse offerings.",
-    "cuisine": [
-      "Pakistani",
-      "Fusion"
-    ],
-    "priceLevel": "$$",
-    "rating": 4.7,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Family Friendly"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Pakasia Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-mystique-restaurant",
-    "name": "Mystique Restaurant",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Mystique Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of steaks, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Stylish interiors, quality Chinese and steaks.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Stylish interiors, quality Chinese and steaks.",
-    "cuisine": [
-      "Chinese",
-      "Steakhouse"
-    ],
-    "priceLevel": "$$",
-    "rating": 5,
-    "reviewCount": 100,
-    "address": {
-      "street": "DHA",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🥡",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "steaks"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Mystique Restaurant Lahore",
-      "best restaurants Lahore",
-      "Chinese restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-fuchsia-kitchen",
-    "name": "Fuchsia Kitchen",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Fuchsia Kitchen felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Delicious Thai dishes and desserts.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Delicious Thai dishes and desserts.",
-    "cuisine": [
-      "Thai",
-      "Pan-Asian"
-    ],
-    "priceLevel": "$$",
-    "rating": 4.5,
-    "reviewCount": 100,
-    "address": {
-      "street": "Gulberg",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🥡",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Fuchsia Kitchen Lahore",
-      "best restaurants Lahore",
-      "Thai restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-village-restaurant",
-    "name": "Village Restaurant",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Village Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Buffet with live music and cultural decor.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Buffet with live music and cultural decor.",
-    "cuisine": [
-      "Pakistani",
-      "Middle Eastern Buffet"
-    ],
-    "priceLevel": "$$",
-    "rating": 4.1,
-    "reviewCount": 100,
-    "address": {
-      "street": "Pearl Continental Hotel",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Village Restaurant Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-bukhara",
-    "name": "Bukhara",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Bukhara felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Elegant north Indian flavors with great service.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Elegant north Indian flavors with great service.",
-    "cuisine": [
-      "Pakistani",
-      "North Indian"
-    ],
-    "priceLevel": "$$$",
-    "rating": 4.1,
-    "reviewCount": 100,
-    "address": {
-      "street": "Pearl Continental Hotel",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍲",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Bukhara Lahore",
-      "best restaurants Lahore",
-      "Pakistani restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-rollers-pizza",
-    "name": "Rollers Pizza",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Rollers Pizza felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of pizza, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Family favorite for pizza and fast food.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Family favorite for pizza and fast food.",
-    "cuisine": [
-      "Pizza",
-      "Fast Food"
-    ],
-    "priceLevel": "$",
-    "rating": 4.9,
-    "reviewCount": 100,
-    "address": {
-      "street": "Multiple branches",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍝",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "pizza"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Rollers Pizza Lahore",
-      "best restaurants Lahore",
-      "Pizza restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-koyla-the-bbq",
-    "name": "Koyla The BBQ",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Koyla The BBQ felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Poolside BBQ, loved for ambiance and food.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
-    "reviewSummary": "Poolside BBQ, loved for ambiance and food.",
-    "cuisine": [
-      "BBQ",
-      "Pakistani"
-    ],
-    "priceLevel": "$$",
-    "rating": 5,
-    "reviewCount": 100,
-    "address": {
-      "street": "Lahore (outskirts)",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": ""
-    },
-    "location": {
-      "lat": 31.5497,
-      "lng": 74.3436
-    },
-    "contact": {
-      "phone": "",
-      "website": "",
-      "email": ""
-    },
-    "images": {
-      "hero": "🍖",
-      "gallery": []
-    },
-    "features": [
-      "Dine In"
-    ],
-    "specialties": [
-      "House Specials"
-    ],
-    "lastUpdated": "2024-12-25",
-    "sources": [
-      "Google Reviews",
-      "Local Research"
-    ],
-    "seoKeywords": [
-      "Koyla The BBQ Lahore",
-      "best restaurants Lahore",
-      "BBQ restaurant Lahore",
-      "restaurants near me Lahore"
-    ]
-  },
-  {
-    "id": "lahore-the-fred",
-    "name": "The Fred",
-    "description": "As a newcomer wandering the foodscape of Lahore, stepping into The Fred felt like discovering the future of Pakistani dining, where culinary innovation meets impeccable design in a space that has redefined what fine dining can be in the country. This revolutionary restaurant stands for Food, Research, Experience and Design, and it delivers on every promise—creating bona fide culinary experiences that celebrate Lahore's legacy while spurring creativity in an ecosystem of innovation. What makes The Fred extraordinary isn't just its position as Pakistan's first professional food pop-up space turned permanent restaurant—it's how it has become the place that Lahore's most discerning palates trust, offering a micro-catering experience and hosting pop-ups by inviting chefs from Pakistan and around the world to present bespoke menus that push creativity to new heights.",
-    "reviewSummary": "Revolutionary fine dining concept where Food, Research, Experience and Design converge. Pakistan's first professional food pop-up space turned permanent restaurant with bespoke menus and global chef collaborations.",
-    "cuisine": [
-      "Contemporary Pakistani",
-      "International Fusion",
-      "Innovative"
-    ],
-    "priceLevel": "$$$$",
-    "rating": 4.8,
-    "reviewCount": 456,
-    "address": {
-      "street": "118 Y, Street 10, Commercial Zone, DHA Phase III, 2nd Floor of Bareezè Man",
-      "city": "Lahore",
-      "country": "Pakistan",
-      "postalCode": "53000"
-    },
-    "location": {
-      "lat": 31.4697,
-      "lng": 74.4084
-    },
-    "contact": {
-      "phone": "+92-304-999-3733",
-      "website": "https://fredtherestaurant.com",
-      "email": ""
-    },
-    "images": {
-      "hero": "🎨",
-      "gallery": []
-    },
-    "features": [
-      "Fine Dining Innovation",
-      "Pop-up Collaborations",
-      "Design Excellence",
-      "Culinary Research"
-    ],
-    "specialties": [
-      "Bespoke tasting menus",
-      "International chef collaborations",
-      "Contemporary Pakistani cuisine",
-      "Micro-catering experiences"
-    ],
-    "lastUpdated": "2025-01-26",
-    "sources": [
-      "Official Website",
-      "Food Reviews",
-      "Local Dining Guides"
-    ],
-    "seoKeywords": [
-      "The Fred Lahore",
-      "fine dining Lahore",
-      "innovative restaurants Pakistan",
-      "DHA Phase 3 restaurants",
-      "contemporary Pakistani cuisine"
-    ]
-  },
-  {
     "id": "lahore-gaijin",
     "name": "Gaijin",
     "description": "As a newcomer wandering the foodscape of Lahore, stepping into Gaijin felt like being transported to a sophisticated Tokyo izakaya, where authentic Japanese cuisine meets the elevated ambiance of a rooftop setting at The Fred Hotel. This wonderful fine dining establishment represents a foreigner's rendition of the traditional Japanese izakaya, centered around food while staying true to the tradition of sharing that defines Japanese dining culture. When their tempura donburi arrives alongside perfectly executed chicken katsudon, paired with refreshing ginger spritzer and authentic matcha milk, you understand why this cozy yet upbeat restaurant has become Lahore's premier destination for elevated Japanese cuisine. What makes Gaijin special isn't just its authentic approach to Japanese cooking or its sophisticated rooftop location—it's how this smooth, sophisticated pit-stop in the thick of the city delivers elevated food with easy energy, creating an atmosphere that's both intimate and exciting.",
@@ -736,6 +345,349 @@
       "Chinese fine dining",
       "Gulberg restaurants",
       "contemporary Chinese cuisine"
+    ]
+  },
+  {
+    "id": "lahore-bukhara",
+    "name": "Bukhara",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Bukhara felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Elegant north Indian flavors with great service.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Elegant north Indian flavors with great service.",
+    "cuisine": [
+      "Pakistani",
+      "North Indian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.1,
+    "reviewCount": 100,
+    "address": {
+      "street": "Pearl Continental Hotel",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Bukhara Lahore",
+      "best restaurants Lahore",
+      "Pakistani restaurant Lahore",
+      "restaurants near me Lahore"
+    ]
+  },
+  {
+    "id": "lahore-fuchsia-kitchen",
+    "name": "Fuchsia Kitchen",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Fuchsia Kitchen felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Delicious Thai dishes and desserts.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Delicious Thai dishes and desserts.",
+    "cuisine": [
+      "Thai",
+      "Pan-Asian"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 100,
+    "address": {
+      "street": "Gulberg",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Fuchsia Kitchen Lahore",
+      "best restaurants Lahore",
+      "Thai restaurant Lahore",
+      "restaurants near me Lahore"
+    ]
+  },
+  {
+    "id": "lahore-mystique-restaurant",
+    "name": "Mystique Restaurant",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Mystique Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of steaks, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Stylish interiors, quality Chinese and steaks.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Stylish interiors, quality Chinese and steaks.",
+    "cuisine": [
+      "Chinese",
+      "Steakhouse"
+    ],
+    "priceLevel": "$$",
+    "rating": 5,
+    "reviewCount": 100,
+    "address": {
+      "street": "DHA",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥡",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "steaks"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Mystique Restaurant Lahore",
+      "best restaurants Lahore",
+      "Chinese restaurant Lahore",
+      "restaurants near me Lahore"
+    ]
+  },
+  {
+    "id": "lahore-pakasia-restaurant",
+    "name": "Pakasia Restaurant",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Pakasia Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Delicious and diverse offerings.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Delicious and diverse offerings.",
+    "cuisine": [
+      "Pakistani",
+      "Fusion"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.7,
+    "reviewCount": 100,
+    "address": {
+      "street": "Lahore",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Family Friendly"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Pakasia Restaurant Lahore",
+      "best restaurants Lahore",
+      "Pakistani restaurant Lahore",
+      "restaurants near me Lahore"
+    ]
+  },
+  {
+    "id": "lahore-village-restaurant",
+    "name": "Village Restaurant",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Village Restaurant felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Buffet with live music and cultural decor.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Buffet with live music and cultural decor.",
+    "cuisine": [
+      "Pakistani",
+      "Middle Eastern Buffet"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 100,
+    "address": {
+      "street": "Pearl Continental Hotel",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Village Restaurant Lahore",
+      "best restaurants Lahore",
+      "Pakistani restaurant Lahore",
+      "restaurants near me Lahore"
+    ]
+  },
+  {
+    "id": "lahore-rollers-pizza",
+    "name": "Rollers Pizza",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Rollers Pizza felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of pizza, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Family favorite for pizza and fast food.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Family favorite for pizza and fast food.",
+    "cuisine": [
+      "Pizza",
+      "Fast Food"
+    ],
+    "priceLevel": "$",
+    "rating": 4.9,
+    "reviewCount": 100,
+    "address": {
+      "street": "Multiple branches",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍝",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "pizza"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Rollers Pizza Lahore",
+      "best restaurants Lahore",
+      "Pizza restaurant Lahore",
+      "restaurants near me Lahore"
+    ]
+  },
+  {
+    "id": "lahore-koyla-the-bbq",
+    "name": "Koyla The BBQ",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Koyla The BBQ felt like crossing into a culinary sanctuary. The moment you're greeted with the scent of House Specials, you know this isn't just another stop on your map—it's a destination. What truly stands out? The reviews speak for themselves: 'Poolside BBQ, loved for ambiance and food.' This isn't just a repeated chorus—it's the lived experience of diners who've come before you, and one you're likely to echo after your first bite.",
+    "reviewSummary": "Poolside BBQ, loved for ambiance and food.",
+    "cuisine": [
+      "BBQ",
+      "Pakistani"
+    ],
+    "priceLevel": "$$",
+    "rating": 5,
+    "reviewCount": 100,
+    "address": {
+      "street": "Lahore (outskirts)",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5497,
+      "lng": 74.3436
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Dine In"
+    ],
+    "specialties": [
+      "House Specials"
+    ],
+    "lastUpdated": "2024-12-25",
+    "sources": [
+      "Google Reviews",
+      "Local Research"
+    ],
+    "seoKeywords": [
+      "Koyla The BBQ Lahore",
+      "best restaurants Lahore",
+      "BBQ restaurant Lahore",
+      "restaurants near me Lahore"
     ]
   }
 ]

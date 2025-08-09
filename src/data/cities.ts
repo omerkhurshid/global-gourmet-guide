@@ -49,7 +49,7 @@ export const cities: City[] = [
       "traditional food Lahore"
     ],
     featuredRestaurants: ["lahore-haveli-restaurant", "lahore-the-fred", "lahore-gaijin"],
-    totalRestaurants: 13
+    totalRestaurants: 11
   },
   {
     id: "new-york-usa",
@@ -74,7 +74,7 @@ export const cities: City[] = [
       "fine dining NYC"
     ],
     featuredRestaurants: ["new-york-semma", "new-york-le-bernardin", "new-york-eleven-madison-park"],
-    totalRestaurants: 12
+    totalRestaurants: 15
   },
   {
     id: "karachi-pakistan",

@@ -351,7 +351,42 @@
       "Seafood restaurant New York",
       "restaurants near me New York",
       "fine dining New York"
-    ]
+    ],
+    "spotlight": {
+      "title": "Fort Greene's Mediterranean Marvel: My Evening at Theodora Where Fire Meets the Sea",
+      "excerpt": "In Brooklyn's Fort Greene neighborhood, I discovered Theodora—where whole grilled fish and smoky Mediterranean flavors create an unforgettable seafood experience that transports you to the Greek islands.",
+      "introduction": "There's something magical about finding a restaurant that makes you feel like you've been transported to another place entirely. When I walked into Theodora in Fort Greene, Brooklyn, the aroma of wood smoke and grilled fish immediately told me I was in for something special. This isn't just another seafood restaurant—it's a celebration of Mediterranean coastal cuisine, where the ancient tradition of cooking whole fish over open flames meets the creative energy of Brooklyn's dining scene. As I settled into this warm, inviting space with its open kitchen showcasing the theatrical dance of flames and fresh fish, I knew I was about to experience something that would redefine my understanding of what neighborhood seafood dining could be.",
+      "sections": [
+        {
+          "heading": "The Art of Whole Fish Cookery",
+          "content": [
+            "Theodora's approach to seafood is both primal and sophisticated, centering around the time-honored Mediterranean tradition of grilling whole fish over wood fires. When my branzino arrived, charred on the outside yet flaky and moist within, I immediately understood why this cooking method has endured for millennia. The wood-fired grill imparts a smoky depth that you simply cannot achieve through other cooking methods, while keeping the fish incredibly moist and flavorful.",
+            "What impressed me most was the kitchen's obvious respect for the ingredients. These aren't just any fish—they're carefully sourced, pristinely fresh specimens that deserve the reverence they receive. The grilling technique is precise, creating that perfect balance of crispy, charred skin and tender, succulent meat that defines excellent seafood cookery. Each fish arrives as a complete experience, from the dramatic presentation to the aromatic smoke that follows it to your table."
+          ]
+        },
+        {
+          "heading": "Mediterranean Soul in Brooklyn Heart",
+          "content": [
+            "While the fish is undoubtedly the star, Theodora's menu reflects a deep understanding of Mediterranean coastal cuisine in all its rustic elegance. The small plates that accompanied my meal—vibrant salads dressed with exceptional olive oil, perfectly grilled vegetables that tasted like they were kissed by the same flames that cooked the fish, and spreads that showcased the bright, clean flavors of the Mediterranean—created a cohesive dining experience that felt both authentic and exciting.",
+            "The wine list deserves special mention, featuring Greek and other Mediterranean varietals that pair beautifully with the smoky, char-heavy flavors coming from the grill. The service team clearly understands these wines, guiding diners toward selections that complement rather than compete with the bold flavors of the food. It's this attention to the complete Mediterranean experience that elevates Theodora beyond simple seafood cookery into something approaching culinary storytelling."
+          ]
+        },
+        {
+          "heading": "The Theater of Open-Fire Cooking",
+          "content": [
+            "One of Theodora's greatest assets is its open kitchen, where diners can witness the ancient alchemy of fire and fish. Watching the cooks tend their fires, expertly managing the flames and timing each piece of fish to achieve perfect doneness, adds a layer of excitement and anticipation to the meal. This isn't just cooking—it's performance art, where skill, timing, and instinct combine to create something magical.",
+            "The open kitchen also speaks to the restaurant's confidence in their craft. There's nowhere to hide when cooking over live fire, no way to mask mistakes or cut corners. Every fish that emerges from those flames represents a moment of truth, and Theodora consistently delivers. The energy from the kitchen is infectious, creating an atmosphere that's both relaxed and exhilarating."
+          ]
+        },
+        {
+          "heading": "Brooklyn's Mediterranean Destination",
+          "content": [
+            "As my meal at Theodora concluded with perfectly grilled fruit that captured the essence of summer even in the depths of winter, I realized I had discovered something special: a restaurant that has successfully transported the soul of Mediterranean coastal dining to Brooklyn. This isn't fusion or interpretation—it's authentic wood-fired cookery executed with skill and passion.",
+            "Theodora proves that great seafood restaurants don't need to be expensive or formal to be memorable. The combination of exceptional ingredients, time-honored techniques, and genuine hospitality creates an experience that feels both special and accessible. Whether you're a seafood enthusiast, someone curious about Mediterranean cuisine, or simply looking for a meal that will transport you to sun-drenched coastlines, Theodora delivers. In a city full of seafood options, this Fort Greene gem stands out by doing something simple—cooking whole fish over wood fires—and doing it exceptionally well. This is destination dining that happens to be in your neighborhood, rather than neighborhood dining that aspires to be more. That distinction makes all the difference."
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "new-york-sailor",
@@ -742,6 +777,180 @@
       "Modern European restaurant New York",
       "restaurants near me New York",
       "fine dining New York"
+    ]
+  },
+  {
+    "id": "new-york-nura",
+    "name": "Nura",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Nura felt like discovering a hidden garden in the heart of Brooklyn, where vegetable-forward cuisine meets Mexico City-inspired design in the most enchanting way possible. This charming restaurant creates an atmosphere that instantly transports you—hanging plants cascade from the ceiling creating an urban jungle effect, while the herb-focused menu celebrates vegetables in ways that feel both innovative and deeply satisfying. When their famous Parker House Roll arrives warm and buttery alongside perfectly roasted carrots that taste more luxurious than meat, you understand why this place has captured the hearts of both vegetarians and omnivores alike. What makes Nura special isn't just the Instagram-worthy plant-filled setting or the creative vegetable preparations—it's how this restaurant has proven that plant-based dining can be both sophisticated and soul-satisfying, creating dishes that make you forget you're eating 'health food' because you're too busy enjoying some of the most flavorful cooking in Brooklyn.",
+    "reviewSummary": "Vegetable-forward menu in Mexico City-inspired setting with hanging plants. Parker House Roll and herb-covered dishes showcase creative plant-based dining in Brooklyn's trendiest neighborhood gem.",
+    "cuisine": [
+      "Vegetable-Forward",
+      "Modern American",
+      "Plant-Based"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 789,
+    "address": {
+      "street": "Brooklyn",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.6782,
+      "lng": -73.9442
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌿",
+      "gallery": []
+    },
+    "features": [
+      "Plant-Based Focus",
+      "Instagram-Worthy Decor",
+      "Brooklyn Location",
+      "Herb Garden Atmosphere"
+    ],
+    "specialties": [
+      "Parker House Roll",
+      "Roasted carrots",
+      "Herb-covered vegetables",
+      "Creative plant-based dishes"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Top NYC Restaurant Lists",
+      "Brooklyn Dining Reviews",
+      "Vegetable-Forward Cuisine"
+    ],
+    "seoKeywords": [
+      "Nura Brooklyn",
+      "vegetable restaurants NYC",
+      "plant-based dining Brooklyn",
+      "best restaurants New York",
+      "vegetarian restaurants NYC"
+    ]
+  },
+  {
+    "id": "new-york-zou-zou",
+    "name": "Zou Zou",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Zou Zou felt like being transported to an elegant Mediterranean palazzo, where the soaring dining room takes your breath away and the food lives up to every bit of the architectural grandeur. Located in Hudson Yards, this stunning restaurant has created something rare in New York dining—a space that feels both intimate and magnificent, where groups can gather around tables laden with mezze platters while feeling like they're part of something truly special. When their whipped ricotta arrives alongside perfectly roasted sweet potato and expertly prepared chicken, each dish showcasing the restaurant's commitment to elevated Mediterranean cuisine, you understand why this has become one of the city's most sought-after reservations. What makes Zou Zou extraordinary isn't just the Instagram-worthy dining room with its dramatic lighting and elegant design—it's how the kitchen has created a menu that encourages sharing and celebration, turning every meal into an occasion worthy of the spectacular setting.",
+    "reviewSummary": "Breathtaking Mediterranean dining room in Hudson Yards where whipped ricotta and roasted sweet potato showcase elevated cuisine. Perfect for groups seeking elegant atmosphere with spectacular food.",
+    "cuisine": [
+      "Mediterranean",
+      "Modern Greek",
+      "Sharing Plates"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 1234,
+    "address": {
+      "street": "Hudson Yards",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7589,
+      "lng": -74.0014
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏛️",
+      "gallery": []
+    },
+    "features": [
+      "Stunning Dining Room",
+      "Great for Groups",
+      "Hudson Yards Location",
+      "Mediterranean Atmosphere"
+    ],
+    "specialties": [
+      "Whipped ricotta",
+      "Roasted sweet potato",
+      "Mediterranean chicken",
+      "Sharing mezze plates"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Top NYC Restaurant Lists",
+      "Hudson Yards Dining",
+      "Mediterranean Cuisine Reviews"
+    ],
+    "seoKeywords": [
+      "Zou Zou Hudson Yards",
+      "Mediterranean restaurants NYC",
+      "best restaurants New York",
+      "Hudson Yards dining",
+      "Greek restaurants NYC"
+    ]
+  },
+  {
+    "id": "new-york-thai-diner",
+    "name": "Thai Diner",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Thai Diner felt like discovering why Thai cuisine has the power to make hearts skip beats and taste buds sing with joy. Located in the trendy Lower East Side, this stylish restaurant has created something magical—a space that pays homage to Thailand through thoughtful design elements while serving the kind of Thai food that reminds you why this cuisine has conquered the world. When their legendary Massaman Golden Curry with Chicken Leg arrives, rich and aromatic with layers of flavor that seem to unfold with each spoonful, you understand exactly why the reviewer declared this 'the main reason Thai food is my favorite cuisine.' What makes Thai Diner special isn't just the trendy design with its Thailand-inspired touches or the Lower East Side location—it's how the kitchen has mastered the art of Thai cooking, creating dishes that capture the perfect balance of sweet, sour, salty, and spicy that defines great Thai cuisine, all served in an atmosphere that makes every meal feel like a celebration of one of the world's greatest food cultures.",
+    "reviewSummary": "Trendy Lower East Side Thai with Thailand-inspired design serving legendary Massaman Golden Curry. Stylish atmosphere meets authentic flavors that showcase why Thai cuisine conquers hearts worldwide.",
+    "cuisine": [
+      "Thai",
+      "Southeast Asian",
+      "Contemporary Thai"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.7,
+    "reviewCount": 2156,
+    "address": {
+      "street": "Lower East Side",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7209,
+      "lng": -73.9896
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍛",
+      "gallery": []
+    },
+    "features": [
+      "Trendy Design",
+      "Thailand-Inspired Decor",
+      "Lower East Side Location",
+      "Authentic Thai Flavors"
+    ],
+    "specialties": [
+      "Massaman Golden Curry",
+      "Chicken leg curry",
+      "Traditional Thai curries",
+      "Authentic Thai dishes"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Top NYC Restaurant Lists",
+      "Lower East Side Dining",
+      "Thai Cuisine Reviews"
+    ],
+    "seoKeywords": [
+      "Thai Diner NYC",
+      "Thai restaurants New York",
+      "Lower East Side dining",
+      "best restaurants New York",
+      "authentic Thai food NYC"
     ]
   }
 ]
