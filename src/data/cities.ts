@@ -127,6 +127,81 @@ export const cities: City[] = [
     totalRestaurants: 20
   },
   {
+    id: "nice-france",
+    name: "Nice",
+    country: "France",
+    description: "The jewel of the French Riviera, where Mediterranean cuisine meets Michelin-starred excellence. From traditional Niçoise specialties to innovative fine dining, discover the culinary treasures of the Côte d'Azur.",
+    heroImage: "/images/cities/nice-hero.jpg",
+    coordinates: {
+      lat: 43.7102,
+      lng: 7.2620
+    },
+    seoTitle: "Best Restaurants in Nice | Top French Riviera Dining Guide",
+    seoDescription: "Discover Nice's best restaurants and Mediterranean cuisine. Find top-rated dining spots on the French Riviera, from Michelin stars to local bistros.",
+    seoKeywords: [
+      "restaurants Nice",
+      "best restaurants Nice",
+      "French Riviera dining",
+      "Mediterranean cuisine Nice",
+      "Michelin star Nice",
+      "Niçoise cuisine",
+      "Côte d'Azur restaurants",
+      "fine dining Nice"
+    ],
+    featuredRestaurants: ["nice-flaveur", "nice-la-petite-maison"],
+    totalRestaurants: 10
+  },
+  {
+    id: "lyon-france",
+    name: "Lyon",
+    country: "France", 
+    description: "France's gastronomic capital, where traditional bouchons meet innovative Michelin-starred cuisine. From Paul Bocuse's legendary restaurant to trendy bistros, Lyon offers the complete spectrum of French culinary excellence.",
+    heroImage: "/images/cities/lyon-hero.jpg",
+    coordinates: {
+      lat: 45.7640,
+      lng: 4.8357
+    },
+    seoTitle: "Best Restaurants in Lyon | France's Gastronomic Capital",
+    seoDescription: "Discover Lyon's best restaurants from traditional bouchons to Michelin stars. Your guide to dining in France's gastronomic capital.",
+    seoKeywords: [
+      "restaurants Lyon",
+      "best restaurants Lyon",
+      "bouchon Lyon",
+      "Lyon gastronomy",
+      "Paul Bocuse Lyon",
+      "French cuisine Lyon",
+      "Michelin star Lyon",
+      "traditional French food"
+    ],
+    featuredRestaurants: ["lyon-paul-bocuse", "lyon-tetedoie"],
+    totalRestaurants: 10
+  },
+  {
+    id: "strasbourg-france",
+    name: "Strasbourg",
+    country: "France",
+    description: "Where French finesse meets Germanic heartiness in Alsatian cuisine. Experience traditional winstubs, Michelin-starred innovation, and the unique flavors of this historic crossroads city.",
+    heroImage: "/images/cities/strasbourg-hero.jpg",
+    coordinates: {
+      lat: 48.5734,
+      lng: 7.7521
+    },
+    seoTitle: "Best Restaurants in Strasbourg | Alsatian Cuisine Guide", 
+    seoDescription: "Discover Strasbourg's best restaurants and Alsatian cuisine. From traditional winstubs to Michelin stars, explore the unique flavors of Eastern France.",
+    seoKeywords: [
+      "restaurants Strasbourg",
+      "best restaurants Strasbourg",
+      "Alsatian cuisine",
+      "winstub Strasbourg",
+      "traditional Alsatian food",
+      "Strasbourg dining",
+      "choucroute Strasbourg",
+      "baeckeoffe"
+    ],
+    featuredRestaurants: ["strasbourg-buerehiesel", "strasbourg-maison-kammerzell"],
+    totalRestaurants: 10
+  },
+  {
     id: "los-angeles-usa",
     name: "Los Angeles",
     country: "United States",
@@ -148,8 +223,8 @@ export const cities: City[] = [
       "where to eat Los Angeles",
       "LA food scene"
     ],
-    featuredRestaurants: ["los-angeles-bestia", "los-angeles-n-naka"],
-    totalRestaurants: 2
+    featuredRestaurants: ["los-angeles-providence", "los-angeles-somni"],
+    totalRestaurants: 10
   },
   {
     id: "mumbai-india",

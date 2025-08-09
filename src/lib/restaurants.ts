@@ -15,6 +15,9 @@ import houstonRestaurantsData from "@/data/restaurants/usa/houston.json"
 import sanFranciscoRestaurantsData from "@/data/restaurants/usa/san-francisco.json"
 // France restaurants
 import parisRestaurantsData from "@/data/restaurants/france/paris.json"
+import niceRestaurantsData from "@/data/restaurants/france/nice.json"
+import lyonRestaurantsData from "@/data/restaurants/france/lyon.json"
+import strasbourgRestaurantsData from "@/data/restaurants/france/strasbourg.json"
 // India restaurants
 import delhiRestaurantsData from "@/data/restaurants/india/delhi.json"
 import mumbaiRestaurantsData from "@/data/restaurants/india/mumbai.json"
@@ -33,6 +36,9 @@ export const chicagoRestaurants: Restaurant[] = chicagoRestaurantsData as Restau
 export const houstonRestaurants: Restaurant[] = houstonRestaurantsData as Restaurant[]
 export const sanFranciscoRestaurants: Restaurant[] = sanFranciscoRestaurantsData as Restaurant[]
 export const parisRestaurants: Restaurant[] = parisRestaurantsData as Restaurant[]
+export const niceRestaurants: Restaurant[] = niceRestaurantsData as Restaurant[]
+export const lyonRestaurants: Restaurant[] = lyonRestaurantsData as Restaurant[]
+export const strasbourgRestaurants: Restaurant[] = strasbourgRestaurantsData as Restaurant[]
 export const delhiRestaurants: Restaurant[] = delhiRestaurantsData as Restaurant[]
 export const mumbaiRestaurants: Restaurant[] = mumbaiRestaurantsData as Restaurant[]
 export const bangaloreRestaurants: Restaurant[] = bangaloreRestaurantsData as Restaurant[]
@@ -51,6 +57,9 @@ export const restaurantData: Record<string, Restaurant[]> = {
   houston: houstonRestaurants,
   "san-francisco": sanFranciscoRestaurants,
   paris: parisRestaurants,
+  nice: niceRestaurants,
+  lyon: lyonRestaurants,
+  strasbourg: strasbourgRestaurants,
   delhi: delhiRestaurants,
   mumbai: mumbaiRestaurants,
   bangalore: bangaloreRestaurants,

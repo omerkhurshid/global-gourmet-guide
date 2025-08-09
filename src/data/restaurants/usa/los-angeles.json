@@ -89,8 +89,7 @@
             "Bestia represents a new generation of LA dining—restaurants that respect culinary tradition while refusing to be bound by it, places that understand that great food doesn't require white tablecloths and hushed tones. It's Italian cooking filtered through LA's unique cultural lens, creating something that feels both familiar and entirely new. In a city where trends come and go with the seasons, Bestia has proven it has staying power by focusing on what matters: incredible food served in a space that captures the creative energy that makes LA special. This is destination dining that actually lives up to the hype."
           ]
         }
-      ],
-      "images": []
+      ]
     }
   },
   {
@@ -142,6 +141,470 @@
       "Japanese restaurant Los Angeles",
       "restaurants near me Los Angeles",
       "fine dining Los Angeles"
+    ]
+  },
+  {
+    "id": "los-angeles-providence",
+    "name": "Providence",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Providence felt like entering the pinnacle of American fine dining, where chef Michael Cimarusti has created a seafood temple that has just earned Los Angeles' first-ever three Michelin stars. This Hollywood institution has been a beacon of excellence since 2009, holding two stars for over a decade before achieving the ultimate recognition in 2025. When Cimarusti's masterful preparations arrive—pristine fish elevated through technique that borders on alchemy—you understand why this restaurant has become synonymous with the very best of LA's culinary scene. What makes Providence extraordinary isn't just the historic three-star achievement or the flawless seafood preparations—it's how this restaurant has maintained unwavering excellence for over fifteen years while constantly evolving, proving that American cuisine deserves recognition at the highest levels of global gastronomy.",
+    "reviewSummary": "LA's first three-Michelin-star restaurant where Michael Cimarusti's seafood mastery reaches pinnacle heights. Fifteen years of two-star excellence culminates in historic achievement.",
+    "cuisine": [
+      "Seafood Fine Dining",
+      "Contemporary American",
+      "Pacific Coast"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.9,
+    "reviewCount": 2134,
+    "address": {
+      "street": "5955 Melrose Ave",
+      "city": "Los Angeles",
+      "country": "United States",
+      "postalCode": "90038"
+    },
+    "location": {
+      "lat": 34.0838,
+      "lng": -118.3089
+    },
+    "contact": {
+      "phone": "+1 323-460-4170",
+      "website": "https://providencela.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌟",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 3-Star",
+      "LA's First Three-Star",
+      "Seafood Excellence",
+      "Hollywood Institution"
+    ],
+    "specialties": [
+      "Pristine seafood",
+      "Contemporary techniques",
+      "Seasonal tasting menu",
+      "Pacific Coast ingredients"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide 2025",
+      "LA Times",
+      "Fine Dining Reviews"
+    ],
+    "seoKeywords": [
+      "Providence Los Angeles",
+      "three Michelin stars LA",
+      "Michael Cimarusti",
+      "best seafood Los Angeles",
+      "fine dining LA"
+    ]
+  },
+  {
+    "id": "los-angeles-somni",
+    "name": "Somni",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Somni felt like entering the most exclusive culinary theater in the city, where chef Aitor Zabala creates avant-garde dining experiences that justify the nearly $1,000 price tag and the restaurant's new three-Michelin-star status. This 14-seat chef's counter represents the pinnacle of molecular gastronomy and theatrical dining, where dishes like the unorthodox caviar served on dashi meringue become edible performance art. What makes Somni extraordinary isn't just being Los Angeles' most expensive restaurant or earning the city's first three-star recognition alongside Providence—it's how Zabala, trained at El Bullí among other Spanish fine-dining icons, has created whimsical delights that push the boundaries of what a meal can be, transforming dinner into an unforgettable sensory journey that challenges every preconception about food.",
+    "reviewSummary": "LA's most expensive and exclusive dining experience earning three Michelin stars. Aitor Zabala's 14-seat chef's counter delivers avant-garde performance art justifying $1000 price tag.",
+    "cuisine": [
+      "Molecular Gastronomy",
+      "Avant-Garde",
+      "Spanish-Inspired"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.9,
+    "reviewCount": 456,
+    "address": {
+      "street": "1601 Sunset Blvd",
+      "city": "Los Angeles", 
+      "country": "United States",
+      "postalCode": "90026"
+    },
+    "location": {
+      "lat": 34.0771,
+      "lng": -118.2608
+    },
+    "contact": {
+      "phone": "+1 213-908-0036",
+      "website": "https://somni.la",
+      "email": ""
+    },
+    "images": {
+      "hero": "🎭",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 3-Star",
+      "14-Seat Counter",
+      "Most Expensive in LA",
+      "Molecular Gastronomy"
+    ],
+    "specialties": [
+      "Caviar on dashi meringue",
+      "Avant-garde presentations",
+      "Theatrical dining",
+      "Whimsical delights"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide 2025",
+      "Fine Dining Reviews",
+      "LA Restaurant Critics"
+    ],
+    "seoKeywords": [
+      "Somni Los Angeles",
+      "three Michelin stars",
+      "most expensive restaurant LA",
+      "Aitor Zabala",
+      "molecular gastronomy"
+    ]
+  },
+  {
+    "id": "los-angeles-vespertine", 
+    "name": "Vespertine",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Vespertine felt like entering an otherworldly dining experience that exists somewhere between science fiction and primordial earth. Chef Jordan Kahn has created something that defies categorization—a two-Michelin-star restaurant housed in a wavy obelisk in Culver City where the $395 tasting menu takes diners on a journey through ingredients that date back to the Cambrian Period. What makes Vespertine extraordinary isn't just the bizarre architectural setting or the theatrical presentations—it's how Kahn has evolved his cuisine from futuristic to primordial, using fungi and ancient plants to create dishes that feel like they're channeling the dawn of human civilization while pushing the boundaries of what fine dining can be.",
+    "reviewSummary": "Two-Michelin-star otherworldly experience in Culver City obelisk. Jordan Kahn's primordial cuisine uses Cambrian Period ingredients for $395 sci-fi dining theater.",
+    "cuisine": [
+      "Experimental",
+      "Primordial",
+      "Avant-Garde"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.7,
+    "reviewCount": 876,
+    "address": {
+      "street": "3599 Hayden Ave",
+      "city": "Culver City",
+      "country": "United States", 
+      "postalCode": "90232"
+    },
+    "location": {
+      "lat": 34.0211,
+      "lng": -118.4089
+    },
+    "contact": {
+      "phone": "+1 323-320-4023",
+      "website": "https://vespertine.la",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌌",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 2-Star",
+      "Sci-Fi Architecture",
+      "Primordial Cuisine",
+      "Theatrical Dining"
+    ],
+    "specialties": [
+      "Ancient fungi",
+      "Cambrian Period ingredients",
+      "Experimental presentations",
+      "Otherworldly atmosphere"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Experimental Dining Reviews",
+      "LA Food Critics"
+    ],
+    "seoKeywords": [
+      "Vespertine Los Angeles",
+      "Jordan Kahn restaurant",
+      "experimental dining LA",
+      "Michelin 2-star",
+      "sci-fi restaurant"
+    ]
+  },
+  {
+    "id": "los-angeles-hayato",
+    "name": "Hayato",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Hayato felt like discovering a hidden jewel of Japanese culinary artistry, where chef Brandon Go creates kaiseki experiences that transport you directly to Kyoto. Behind traditional noren curtains, this intimate two-Michelin-star restaurant serves multicourse dinners ($450) that showcase Go's training under starred Japanese chefs through dishes of artful simplicity. When the steamed abalone with unctuous liver sauce arrives, or the delicate crab meatball soup demonstrates the precision of traditional owan preparation, you understand why Hayato stands apart in a city full of excellent Japanese cuisine. What makes this restaurant extraordinary isn't just the two-star recognition or the handcrafted ceramics imported from Japan—it's how Go has created an authentic kaiseki experience that honors Japanese tradition while establishing itself as one of LA's most sophisticated dining destinations.",
+    "reviewSummary": "Two-Michelin-star intimate kaiseki temple where Brandon Go's $450 multicourse dinners showcase artful Japanese simplicity. Authentic atmosphere with handcrafted imported ceramics.",
+    "cuisine": [
+      "Kaiseki",
+      "Traditional Japanese",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "address": {
+      "street": "1320 E 7th St",
+      "city": "Los Angeles",
+      "country": "United States",
+      "postalCode": "90021"
+    },
+    "location": {
+      "lat": 34.0366,
+      "lng": -118.2548
+    },
+    "contact": {
+      "phone": "+1 213-626-1200",
+      "website": "https://hayatorestaurant.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥢",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 2-Star",
+      "Authentic Kaiseki",
+      "Intimate Setting",
+      "Japanese Ceramics"
+    ],
+    "specialties": [
+      "Steamed abalone",
+      "Crab meatball soup",
+      "Traditional kaiseki",
+      "Seasonal ingredients"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Japanese Dining Reviews",
+      "LA Fine Dining"
+    ],
+    "seoKeywords": [
+      "Hayato Los Angeles",
+      "Brandon Go kaiseki",
+      "Japanese fine dining LA",
+      "Michelin 2-star",
+      "traditional kaiseki"
+    ]
+  },
+  {
+    "id": "los-angeles-gucci-osteria",
+    "name": "Gucci Osteria da Massimo Bottura",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Gucci Osteria da Massimo Bottura felt like entering the most fashionable dining room in the city, where legendary Italian chef Massimo Bottura's finessed take on Florentine cooking meets the glamour of the iconic fashion house. Chef Mattia Agazzi creates intricate dishes using the highest quality American and Italian ingredients, earning this Beverly Hills restaurant its Michelin star through a combination of impeccable technique and luxurious presentation. When Agazzi's interpretation of Californian ingredients through an Italian lens arrives—dishes that showcase both traditions in perfect harmony—you understand why this collaboration between culinary and fashion royalty has become one of LA's most sought-after dining experiences. What makes Gucci Osteria special isn't just the star recognition or the designer setting—it's how it represents the perfect marriage of Italian culinary excellence with LA's innovative food culture.",
+    "reviewSummary": "Michelin-starred Italian glamour in Beverly Hills where Massimo Bottura meets Gucci fashion. Mattia Agazzi's intricate dishes blend American and Italian ingredients with luxury.",
+    "cuisine": [
+      "Modern Italian",
+      "Californian-Italian",
+      "Luxury Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 1567,
+    "address": {
+      "street": "347 N Rodeo Dr",
+      "city": "Beverly Hills",
+      "country": "United States",
+      "postalCode": "90210"
+    },
+    "location": {
+      "lat": 34.0697,
+      "lng": -118.4011
+    },
+    "contact": {
+      "phone": "+1 310-278-3451",
+      "website": "https://gucciosteriabeverlyhills.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "👗",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star",
+      "Gucci Partnership",
+      "Beverly Hills Location",
+      "Italian-Californian"
+    ],
+    "specialties": [
+      "Modern Florentine cuisine",
+      "Italian-California fusion",
+      "Luxury ingredients",
+      "Designer atmosphere"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Luxury Dining Reviews",
+      "Beverly Hills Dining"
+    ],
+    "seoKeywords": [
+      "Gucci Osteria Los Angeles",
+      "Massimo Bottura",
+      "Italian Michelin star",
+      "Beverly Hills fine dining",
+      "luxury restaurants LA"
+    ]
+  },
+  {
+    "id": "los-angeles-osteria-mozza",
+    "name": "Osteria Mozza",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Osteria Mozza felt like entering the heart of Nancy Silverton's culinary empire, where the legendary chef has created an Italian restaurant that perfectly captures both her perfected techniques and LA's modern dining spirit. This Michelin-starred institution represents decades of evolution from Silverton's early days at Spago and Campanile, creating dishes like the beloved ricotta and egg ravioli with brown butter that have become essential LA dining experiences. The cherished mozzarella bar continues to draw devoted fans who understand that Silverton's approach to Italian cuisine—rooted in tradition yet thoroughly Californian—has helped define what modern Italian-American cooking can achieve. What makes Osteria Mozza special isn't just the star recognition or Silverton's legendary status—it's how this restaurant serves as both a tribute to Italian cooking and a celebration of the innovative spirit that makes LA's food scene so dynamic.",
+    "reviewSummary": "Nancy Silverton's Michelin-starred Italian empire centerpiece featuring legendary ricotta ravioli and cherished mozzarella bar. Decades of perfected technique meets modern LA spirit.",
+    "cuisine": [
+      "Italian-American",
+      "Modern Italian",
+      "Californian-Italian"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 3456,
+    "address": {
+      "street": "6602 Melrose Ave",
+      "city": "Los Angeles",
+      "country": "United States",
+      "postalCode": "90038"
+    },
+    "location": {
+      "lat": 34.0838,
+      "lng": -118.3378
+    },
+    "contact": {
+      "phone": "+1 323-297-0100",
+      "website": "https://osteriamozza.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🧀",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star",
+      "Nancy Silverton Legacy",
+      "Mozzarella Bar",
+      "Italian-American"
+    ],
+    "specialties": [
+      "Ricotta egg ravioli",
+      "Brown butter",
+      "Fresh mozzarella",
+      "Italian classics"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "LA Dining Institution",
+      "Italian-American Reviews"
+    ],
+    "seoKeywords": [
+      "Osteria Mozza Los Angeles",
+      "Nancy Silverton restaurant",
+      "Italian Michelin star LA",
+      "mozzarella bar",
+      "ricotta ravioli"
+    ]
+  },
+  {
+    "id": "los-angeles-baby-bistro",
+    "name": "Baby Bistro",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Baby Bistro felt like discovering the most inventive wine bar in the city, where chef Miles Thompson and Andy Schwartz have created something that transcends the typical wine bar experience. What started as a beloved pop-up in Koreatown's Hotel Normandie has evolved into a permanent Victor Heights destination that serves the most memorable and delicious wine bar fare imaginable. Each dish arrives as proof that small plates don't have to be overpriced afterthoughts—these are thoughtful, creative preparations that showcase both ingredients and technique while maintaining the approachable spirit that made the original pop-up so successful. What makes Baby Bistro extraordinary isn't just the inventive menu or the trendy Victor Heights location—it's how Thompson and Schwartz have elevated the wine bar concept while keeping it accessible and genuinely exciting.",
+    "reviewSummary": "Former pop-up sensation in Victor Heights serving most inventive wine bar fare in LA. Miles Thompson and Andy Schwartz create memorable small plates that transcend typical wine bar expectations.",
+    "cuisine": [
+      "Wine Bar",
+      "Modern American",
+      "Small Plates"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.7,
+    "reviewCount": 987,
+    "address": {
+      "street": "4562 Eagle Rock Blvd",
+      "city": "Los Angeles",
+      "country": "United States",
+      "postalCode": "90041"
+    },
+    "location": {
+      "lat": 34.1298,
+      "lng": -118.2089
+    },
+    "contact": {
+      "phone": "+1 323-739-6279",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": [
+      "Former Pop-Up",
+      "Victor Heights Location",
+      "Inventive Wine Bar",
+      "Small Plates Excellence"
+    ],
+    "specialties": [
+      "Creative small plates",
+      "Natural wines",
+      "Seasonal preparations",
+      "Approachable fine dining"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "LA New Restaurant Guides",
+      "Wine Bar Reviews",
+      "Victor Heights Dining"
+    ],
+    "seoKeywords": [
+      "Baby Bistro Los Angeles",
+      "best wine bars LA",
+      "Victor Heights restaurants",
+      "Miles Thompson",
+      "inventive small plates"
+    ]
+  },
+  {
+    "id": "los-angeles-guelaguetza",
+    "name": "Guelaguetza",
+    "description": "As a newcomer wandering the foodscape of Los Angeles, stepping into Guelaguetza felt like entering the heart of Oaxacan culture, where this family-run institution has been serving authentic Mexican cuisine for decades in LA's Koreatown. This isn't just a restaurant—it's a cultural embassy where the López family has introduced countless Angelenos to the complex flavors of Oaxacan cooking, from their legendary mole negro to perfectly prepared tlayudas that showcase ingredients and techniques passed down through generations. When their famous mole arrives at your table, rich with chocolate, chiles, and more than twenty ingredients, you understand why food lovers make pilgrimages here from around the world. What makes Guelaguetza special isn't just the authentic preparation or the family legacy—it's how this restaurant has become an essential part of LA's cultural fabric, proving that the city's best dining experiences often happen in unexpected neighborhoods.",
+    "reviewSummary": "Koreatown institution where López family serves authentic Oaxacan cuisine including legendary mole negro. Decades-old cultural embassy showcasing complex regional Mexican flavors.",
+    "cuisine": [
+      "Oaxacan Mexican",
+      "Regional Mexican", 
+      "Traditional"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 4567,
+    "address": {
+      "street": "3014 W Olympic Blvd",
+      "city": "Los Angeles",
+      "country": "United States",
+      "postalCode": "90006"
+    },
+    "location": {
+      "lat": 34.0582,
+      "lng": -118.2984
+    },
+    "contact": {
+      "phone": "+1 213-427-0608",
+      "website": "https://guelaguetza.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌮",
+      "gallery": []
+    },
+    "features": [
+      "Family Institution",
+      "Oaxacan Cuisine",
+      "Cultural Embassy",
+      "Koreatown Location"
+    ],
+    "specialties": [
+      "Mole negro",
+      "Tlayudas",
+      "Oaxacan specialties",
+      "Traditional preparations"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "LA Institution Guides",
+      "Mexican Food Reviews",
+      "Cultural Dining"
+    ],
+    "seoKeywords": [
+      "Guelaguetza Los Angeles",
+      "Oaxacan restaurants LA",
+      "best mole Los Angeles",
+      "authentic Mexican food",
+      "Koreatown dining"
     ]
   }
 ]

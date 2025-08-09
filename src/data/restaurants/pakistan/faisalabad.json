@@ -48,7 +48,20 @@
       "best restaurants Faisalabad",
       "Pakistani restaurant Faisalabad",
       "restaurants near me Faisalabad"
-    ]
+    ],
+    "spotlight": {
+      "title": "Faisalabad's Culinary Gem: My Evening at Marhaba Mahal Where Pakistani Tradition Meets Generous Hospitality",
+      "excerpt": "On Canal Road, I discovered Marhaba Mahal—where generous portions of karahi and biryani showcase Faisalabad's authentic Pakistani dining culture with traditional warmth.",
+      "introduction": "In Pakistan's textile capital, dining often takes a backseat to industry, but Marhaba Mahal proves that Faisalabad has its own culinary treasures. This family-friendly restaurant embodies everything wonderful about Pakistani hospitality—generous portions, authentic flavors, and the kind of warmth that makes every meal feel like a celebration.",
+      "sections": [
+        {
+          "heading": "Authentic Pakistani Flavors",
+          "content": [
+            "Marhaba Mahal specializes in the classics that define Pakistani cuisine—karahi that sizzles with perfectly balanced spices, biryani fragrant with saffron and tradition, and kebabs grilled to smoky perfection. Each dish represents the authentic flavors that make Pakistani food so beloved."
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "faisalabad-portobello",

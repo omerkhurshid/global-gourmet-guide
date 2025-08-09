@@ -113,7 +113,49 @@
       "garlic butter crab Mumbai",
       "coastal restaurants Mumbai",
       "Fort dining Mumbai"
-    ]
+    ],
+    "spotlight": {
+      "title": "Mumbai's Seafood Temple: My Night at Trishna Where Coastal India Meets Culinary Excellence",
+      "excerpt": "In Mumbai's Fort district, I discovered Trishna—where the bounty of the Arabian Sea is transformed into transcendent experiences through generations of coastal cooking wisdom and masterful technique.",
+      "introduction": "Everyone told me Trishna was a must-visit in Mumbai, but nothing prepared me for the magic that happens when centuries-old coastal cooking traditions meet absolute culinary mastery. Located in the historic Fort district, this legendary seafood restaurant doesn't rely on fancy décor or elaborate presentations—instead, it lets the pristine catch from the Arabian Sea and the skilled hands in the kitchen do all the talking. As I settled into this no-frills dining room where the focus is entirely on the food, I realized I was about to experience what many consider the pinnacle of coastal Indian cuisine. What followed was an evening that redefined my understanding of how simple ingredients, when treated with respect and expertise, can create flavors that are both deeply traditional and surprisingly sophisticated.",
+      "sections": [
+        {
+          "heading": "Where the Sea Meets the Shore",
+          "content": [
+            "Trishna's approach to seafood is rooted in the coastal traditions of Western India, where fishing communities have perfected the art of cooking the daily catch for generations. The restaurant's philosophy is simple yet profound: start with the freshest possible seafood, treat it with respect, and let traditional techniques bring out its natural flavors. There are no molecular gastronomy tricks here, no fusion experiments—just pure, honest cooking that honors both the ingredient and the tradition.",
+            "The menu reads like a love letter to India's coastline, featuring dishes that have been passed down through generations of coastal cooks. From the spice-rubbed fish that captures the essence of beach-side grilling to the delicate preparations that showcase the natural sweetness of shellfish, every dish tells the story of a culinary tradition that has evolved over centuries to achieve perfection. This isn't just seafood—it's the distillation of coastal India's culinary soul."
+          ]
+        },
+        {
+          "heading": "The Legendary Garlic Butter Crab",
+          "content": [
+            "If there's one dish that defines Trishna, it's the garlic butter crab—a preparation so perfect it has achieved legendary status among Mumbai's food lovers. When this masterpiece arrives at your table, you understand immediately why people make pilgrimages here. The crab is sweet and succulent, swimming in a butter sauce that's been elevated by aromatic garlic and just the right amount of spice to create complexity without overwhelming the delicate shellfish.",
+            "What makes this dish extraordinary isn't just the quality of the crab or the skill in the preparation—it's how the chefs have created a sauce that enhances rather than masks the natural flavors. Each bite delivers the ocean's sweetness followed by the warm embrace of perfectly balanced garlic and butter, creating a flavor experience that's both indulgent and surprisingly refined. It's the kind of dish that converts skeptics and creates lifelong devotees, proving that sometimes the simplest concepts executed with absolute mastery yield the most memorable results."
+          ]
+        },
+        {
+          "heading": "Coastal Spices and Time-Honored Techniques",
+          "content": [
+            "Beyond the famous crab, Trishna's menu showcases the incredible diversity of coastal Indian cuisine. The fish curries demonstrate how different spice blends can completely transform the same base ingredient, creating dishes that range from fiery and intense to subtle and aromatic. The prawns are treated with the reverence they deserve, whether grilled to perfection or simmered in coconut-based curries that capture the essence of tropical coastlines.",
+            "What sets Trishna apart is the kitchen's deep understanding of how spices work with seafood. These aren't the heavy, complex spice blends of North Indian cuisine—instead, they're carefully calibrated combinations that complement rather than compete with the natural flavors of the sea. Kokum adds tartness, coconut brings richness, green chilies provide heat, and aromatic spices like fennel and black mustard seeds contribute layers of complexity that unfold with each bite."
+          ]
+        },
+        {
+          "heading": "No-Frills Excellence",
+          "content": [
+            "Trishna's greatest strength might be its complete lack of pretension. This isn't a restaurant trying to impress you with elaborate presentations or trendy concepts. The dining room is simple, the service is straightforward, and the focus remains laser-sharp on delivering exceptional seafood prepared with skill and care. It's a refreshing reminder that great restaurants don't need gimmicks when they have great food.",
+            "The service team understands that their role is to facilitate your relationship with the food, not to become the star of the show. They're knowledgeable about the menu and happy to guide newcomers through the offerings, but they do so with efficiency rather than theatrics. This approach creates an atmosphere where you can focus entirely on the flavors and textures that make each dish special, without distraction or pretense."
+          ]
+        },
+        {
+          "heading": "A Mumbai Essential",
+          "content": [
+            "As my meal at Trishna concluded with a dessert that somehow managed to incorporate coastal flavors into something sweet and satisfying, I understood why this restaurant has achieved legendary status. In a city known for its incredible street food and diverse dining scene, Trishna represents something special—the elevation of regional cuisine to its highest form while maintaining complete authenticity to its roots.",
+            "This isn't just one of Mumbai's best seafood restaurants—it's a cultural institution that preserves and celebrates the coastal cooking traditions that are such an important part of India's culinary heritage. For anyone who loves seafood, appreciates authentic regional cuisine, or wants to understand what coastal Indian cooking can achieve at its pinnacle, Trishna is absolutely essential. The garlic butter crab alone is worth the trip to Mumbai, but what you'll discover is a restaurant that offers so much more—a complete immersion in the flavors, traditions, and techniques that make coastal Indian cuisine one of the world's great seafood cultures."
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "mumbai-peshawri",

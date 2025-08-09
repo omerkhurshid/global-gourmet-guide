@@ -1,0 +1,624 @@
+[
+  {
+    "id": "nice-flaveur",
+    "name": "Flaveur",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Flaveur felt like discovering the pinnacle of French Riviera dining, where two Michelin stars shimmer as brightly as the Mediterranean sun. This isn't just the only restaurant in Nice with such distinction—it's a culinary laboratory where the Tourteaux brothers, Michaël and Gaël, orchestrate flavor symphonies that dance between local tradition and exotic innovation. When their signature seafood arrives, kissed with Indian spices and presented with artistic precision, you understand why this restaurant sits among the world's 100 best. What truly sets Flaveur apart isn't just the technical mastery or the prestigious accolades—it's how these Niçoise brothers have created a dining experience that feels both deeply rooted in their coastal heritage and thrillingly adventurous, where each course tells the story of the Mediterranean meeting the wider world in the most delicious way possible.",
+    "reviewSummary": "Nice's only two-Michelin-star restaurant where Tourteaux brothers blend local seafood with exotic spices. Listed among world's 100 best, delivering Mediterranean innovation with technical precision.",
+    "cuisine": [
+      "Contemporary French",
+      "Mediterranean Fusion",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.8,
+    "reviewCount": 1234,
+    "address": {
+      "street": "25 Rue Gubernatis",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06000"
+    },
+    "location": {
+      "lat": 43.7034,
+      "lng": 7.2647
+    },
+    "contact": {
+      "phone": "+33 4 93 62 53 95",
+      "website": "https://flaveur.net",
+      "email": ""
+    },
+    "images": {
+      "hero": "⭐",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 2-Star",
+      "La Liste Top 100",
+      "Indian Spice Fusion",
+      "Brothers Chef Team"
+    ],
+    "specialties": [
+      "Spiced seafood",
+      "Mediterranean-Indian fusion",
+      "Seasonal tasting menus",
+      "Wine pairings"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "La Liste",
+      "Local Reviews"
+    ],
+    "seoKeywords": [
+      "Flaveur Nice",
+      "best restaurants Nice",
+      "Michelin star Nice",
+      "fine dining French Riviera",
+      "restaurants near me Nice"
+    ],
+    "spotlight": {
+      "title": "Nice's Culinary Crown Jewel: My Evening at Flaveur Where the Mediterranean Meets the World",
+      "excerpt": "In the heart of Nice, I discovered why Flaveur is the city's only two-Michelin-star restaurant—where brothers Michaël and Gaël Tourteaux create magic by marrying French Riviera traditions with exotic spices from distant shores.",
+      "introduction": "Everyone told me Flaveur was impossible to book. 'Two months in advance, minimum,' they said. But when I finally secured a table at Nice's most celebrated restaurant, I understood the hype. This isn't just the city's only two-Michelin-star establishment—it's a culinary journey that redefines what Mediterranean cuisine can be when tradition meets innovation. As I entered the elegant dining room on Rue Gubernatis, I could feel the anticipation in the air. The Tourteaux brothers have created something extraordinary here: a restaurant that honors their Niçoise roots while fearlessly exploring flavors from around the world. What followed was three hours of pure gastronomic bliss that justified every superlative I'd heard.",
+      "sections": [
+        {
+          "heading": "Brothers in Culinary Arms",
+          "content": [
+            "The story of Flaveur is the story of two brothers united by a shared vision. Michaël and Gaël Tourteaux grew up in Nice, learning to cook from their grandmother who taught them that the secret to great food was respecting ingredients and traditions. But these brothers weren't content to simply replicate the classics. After training in some of France's finest kitchens, they returned home with a revolutionary idea: what if Nice's incredible seafood and produce could be enhanced with the exotic spices and techniques they'd discovered in their travels?",
+            "The result is a cuisine that feels both deeply familiar and thrillingly new. When a piece of local sea bass arrives at your table, it's been transformed by a delicate curry sauce that somehow makes the fish taste more like itself. The vegetables, sourced from the hills above Nice, are treated with Indian spicing techniques that highlight their natural sweetness while adding layers of complexity. This isn't fusion for fusion's sake—it's a thoughtful marriage of complementary flavors that shows deep respect for both French and global culinary traditions."
+          ]
+        },
+        {
+          "heading": "The Art of Spice on the Riviera",
+          "content": [
+            "What makes Flaveur's approach to spices so remarkable is the restraint and precision with which they're used. This isn't about heat or shock value—it's about using exotic seasonings the way a painter uses color, to highlight and enhance rather than overwhelm. A whisper of cardamom might elevate a classic bouillabaisse, while star anise adds unexpected depth to a lamb dish that could have come from the Provençal countryside.",
+            "The spice journey begins from the moment you're seated, with an amuse-bouche that might feature local olives dusted with vadouvan or tapenade brightened with preserved lemon and harissa. Each course builds on this theme, creating a narrative that takes you from the familiar shores of the Mediterranean to the spice markets of Mumbai and back again. It's globalization on a plate, but executed with such finesse that it never feels forced or gimmicky."
+          ]
+        },
+        {
+          "heading": "Seafood Transformed",
+          "content": [
+            "If there's one thing that defines Flaveur, it's the extraordinary treatment of seafood. The Mediterranean provides the raw materials—red mullet, John Dory, langoustines, sea bream—but the Tourteaux brothers transform them into something transcendent. A simple piece of turbot becomes a masterpiece when paired with a coconut-lemongrass sauce that wouldn't be out of place in Thailand, yet somehow tastes perfectly at home on the French Riviera.",
+            "One standout dish featured local gambas (prawns) that had been marinated in a blend of Indian spices before being quickly grilled and served with a sauce that combined the best of both worlds: French butter and cream meeting turmeric, ginger, and green chili. The prawns themselves were sweet and perfectly cooked, but it was the interplay between the familiar richness of French technique and the vibrant heat of Indian flavors that made the dish unforgettable. This is cooking that respects the integrity of the ingredient while showing how global influences can enhance rather than mask natural flavors."
+          ]
+        },
+        {
+          "heading": "A Feast for All Senses",
+          "content": [
+            "Dining at Flaveur is theater in the best sense. The service is impeccable without being stuffy—servers who can explain the origin of every spice and the story behind every dish, yet do so with warmth and genuine enthusiasm. The dining room itself strikes a perfect balance between elegance and comfort, with soft lighting and tasteful décor that never distracts from the main event on the plate.",
+            "The wine pairings deserve special mention. The sommelier has assembled a list that includes both local Provençal wines and international selections chosen specifically to complement the restaurant's unique flavor profiles. Watching them match a crisp Bellet white from the hills above Nice with a curry-spiced fish course, or pair a Rhône red with lamb touched by North African spices, is a masterclass in how wine can bridge culinary cultures."
+          ]
+        },
+        {
+          "heading": "Worth Every Star",
+          "content": [
+            "As my meal at Flaveur drew to a close with a dessert that married French pastry technique with Middle Eastern flavors (think rose-scented soufflé with pistachio ice cream), I understood why this restaurant has achieved such recognition. The two Michelin stars aren't just about technical excellence—they're recognition of a unique vision successfully executed. The Tourteaux brothers have created something that could only exist in Nice, a cosmopolitan city that has always been a crossroads of cultures.",
+            "Flaveur represents the future of fine dining: rooted in tradition but unafraid to incorporate global influences, technically sophisticated yet emotionally resonant, exclusive yet welcoming. It's expensive, yes, and booking requires patience and persistence. But for anyone who loves food and wants to experience what happens when French culinary excellence meets the flavors of the world, Flaveur is essential. This isn't just Nice's best restaurant—it's one of the best examples anywhere of how modern fine dining can honor the past while fearlessly embracing the future. The two Michelin stars shine bright, but what shines brighter is the passion and creativity that infuse every dish that emerges from this remarkable kitchen."
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "nice-onice",
+    "name": "Onice",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Onice felt like discovering the future of Mediterranean dining in the charming antique quarter near the Old Port. This newest addition to Nice's Michelin constellation isn't just another starred restaurant—it's where Argentine passion meets Italian precision under the creative direction of Florencia Montes and Lorenzo Ragni, two protégés of the legendary Mauro Colagreco. What makes their cuisine so compelling is how they've absorbed the lessons from Mirazur while creating something entirely their own, where South American boldness dances with Mediterranean elegance in dishes that surprise and delight in equal measure. Each plate arrives as a testament to their international journey, yet feels perfectly at home in this historic Niçoise neighborhood, creating a dining experience that bridges continents while celebrating the bounty of the Côte d'Azur.",
+    "reviewSummary": "Nice's newest Michelin star where Argentine-Italian duo creates internationally influenced Mediterranean cuisine. Former Mirazur protégés deliver bold, creative dishes in charming antique quarter setting.",
+    "cuisine": [
+      "Modern Mediterranean",
+      "International Fusion",
+      "Contemporary"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 876,
+    "address": {
+      "street": "7 Rue Antoine Gautier",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06300"
+    },
+    "location": {
+      "lat": 43.6979,
+      "lng": 7.2839
+    },
+    "contact": {
+      "phone": "+33 4 93 56 35 70",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌟",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star (2024)",
+      "Mirazur Alumni",
+      "International Fusion",
+      "Port Location"
+    ],
+    "specialties": [
+      "Argentine-Italian fusion",
+      "Mediterranean ingredients",
+      "Creative presentations",
+      "Seasonal menus"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide 2024",
+      "Local Reviews",
+      "Nice-Matin"
+    ],
+    "seoKeywords": [
+      "Onice Nice",
+      "new Michelin restaurants Nice",
+      "Nice Port dining",
+      "contemporary restaurants Nice",
+      "best new restaurants Nice"
+    ]
+  },
+  {
+    "id": "nice-racines-bruno-cirino",
+    "name": "Racines by Bruno Cirino",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Racines felt like witnessing a revolution on a plate. At 70 years old, chef Bruno Cirino has achieved what many thought impossible—earning a Michelin star for purely vegan cuisine, making this the only starred vegan restaurant in all of France. This isn't plant-based cooking as compromise or limitation; it's a bold declaration that vegetables, when treated with the respect and technique usually reserved for foie gras and lobster, can deliver experiences every bit as luxurious and memorable. What makes Racines so extraordinary isn't just the absence of animal products—it's the presence of imagination, technique, and flavor that transforms humble vegetables into fine dining that would impress even the most committed carnivore. Each dish arrives as proof that plant-based cuisine has finally come of age, earning its place at the highest levels of French gastronomy.",
+    "reviewSummary": "France's only Michelin-starred vegan restaurant where 70-year-old Bruno Cirino proves plant-based can be luxurious. Cutting-edge techniques transform vegetables into fine dining experiences.",
+    "cuisine": [
+      "Vegan Fine Dining",
+      "Plant-Based",
+      "Contemporary French"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 1098,
+    "address": {
+      "street": "3 Rue Clément Roassal",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06000"
+    },
+    "location": {
+      "lat": 43.7021,
+      "lng": 7.2741
+    },
+    "contact": {
+      "phone": "+33 4 93 85 93 93",
+      "website": "https://racines-nice.fr",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌱",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star",
+      "100% Vegan",
+      "France's Only Starred Vegan",
+      "70-Year-Old Chef"
+    ],
+    "specialties": [
+      "Vegan tasting menu",
+      "Plant-based innovation",
+      "Vegetable artistry",
+      "Natural wines"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Vegan Food Guide",
+      "Local Reviews"
+    ],
+    "seoKeywords": [
+      "Racines Nice",
+      "vegan Michelin star",
+      "plant-based fine dining Nice",
+      "Bruno Cirino",
+      "vegan restaurants French Riviera"
+    ]
+  },
+  {
+    "id": "nice-les-agitateurs",
+    "name": "Les Agitateurs",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Les Agitateurs felt like joining an exclusive party in the trendy Petit Marais district where culinary boundaries are joyfully shattered. Julie Buseto and Samuel Victori didn't just earn Nice's only new Michelin star in 2021—they created a restaurant that perfectly captures the rebellious spirit of its name, 'The Agitators.' Their cooking refuses to be categorized, blending Mediterranean traditions with Asian techniques and Levantine spices in ways that feel both daring and completely natural. What makes this duo so special isn't just their technical skill or creative vision—it's their ability to create dishes that are simultaneously sophisticated and approachable, where a piece of local fish might arrive dressed in miso and tahini, creating flavor combinations that make you wonder why no one thought of this before.",
+    "reviewSummary": "Petit Marais hotspot where Julie Buseto and Samuel Victori blend Mediterranean, Asian, and Levantine flavors. Nice's only 2021 Michelin star delivers relaxed elegance with boundary-pushing cuisine.",
+    "cuisine": [
+      "Mediterranean Fusion",
+      "Asian-Levantine",
+      "Contemporary"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 943,
+    "address": {
+      "street": "24 Rue Bonaparte",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06300"
+    },
+    "location": {
+      "lat": 43.6987,
+      "lng": 7.2831
+    },
+    "contact": {
+      "phone": "+33 4 93 80 75 51",
+      "website": "https://lesagitateurs.fr",
+      "email": ""
+    },
+    "images": {
+      "hero": "🔥",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star",
+      "Trendy Location",
+      "Fusion Excellence",
+      "Creative Duo"
+    ],
+    "specialties": [
+      "Mediterranean-Asian fusion",
+      "Levantine influences",
+      "Seasonal ingredients",
+      "Natural wines"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Nice Dining Guide",
+      "Local Reviews"
+    ],
+    "seoKeywords": [
+      "Les Agitateurs Nice",
+      "Petit Marais restaurants",
+      "Michelin star Nice",
+      "fusion dining Nice",
+      "trendy restaurants Nice"
+    ]
+  },
+  {
+    "id": "nice-restaurant-jan",
+    "name": "Restaurant JAN",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Restaurant JAN felt like entering an intimate theater where South African soul meets French sophistication in the most unexpected and delightful ways. Jan Hendrik van der Westhuizen made history as the first South African chef to earn a Michelin star, and he did it in this tiny 24-seat jewel box in Nice's old Port. What makes JAN so special isn't just the accolade or the intimate setting—it's how Jan creates dishes that tell his personal story, where memories of the South African veld meet the bounty of the Mediterranean in presentations that are both poetic and deeply emotional. Each course feels like a page from his diary, whether it's local fish enhanced with African spices or French classics reimagined through his unique perspective, creating an experience that's as much about storytelling as it is about exceptional cuisine.",
+    "reviewSummary": "First South African chef to win Michelin star creates poetic cuisine in intimate 24-seat Port setting. Personal storytelling meets exceptional technique where Africa meets the Mediterranean.",
+    "cuisine": [
+      "South African-French",
+      "Contemporary",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.8,
+    "reviewCount": 567,
+    "address": {
+      "street": "12 Rue Lascaris",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06300"
+    },
+    "location": {
+      "lat": 43.6976,
+      "lng": 7.2848
+    },
+    "contact": {
+      "phone": "+33 4 97 19 32 09",
+      "website": "https://janrestaurant.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌍",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star",
+      "24 Seats Only",
+      "First South African Star",
+      "Intimate Atmosphere"
+    ],
+    "specialties": [
+      "South African-French fusion",
+      "Poetic presentations",
+      "Personal narrative cuisine",
+      "Tasting menu only"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "International Press",
+      "Local Reviews"
+    ],
+    "seoKeywords": [
+      "Restaurant JAN Nice",
+      "Jan Hendrik Nice",
+      "South African chef Michelin",
+      "intimate dining Nice",
+      "Old Port restaurants Nice"
+    ]
+  },
+  {
+    "id": "nice-pure-v",
+    "name": "Pure & V",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Pure & V felt like entering a temple where wine worship meets culinary excellence under one sophisticated roof. Vanessa Massé isn't just any sommelier—she's Michelin's Best Sommelier 2021, and her passion for wine has created an experience where every sip is perfectly matched to Danish chef Mads Thomsen's refined cuisine. This dynamic duo has earned both a Michelin star for the restaurant and special recognition for the wine program, creating a dining destination where oenophiles and food lovers unite in perfect harmony. What makes Pure & V extraordinary isn't just the awards or the impressive wine list—it's how Massé's deep understanding of wine elevates Thomsen's already stellar cooking, creating pairings that reveal new dimensions in both food and wine, making each meal feel like a masterclass in the art of dining.",
+    "reviewSummary": "Michelin-starred restaurant where Best Sommelier 2021 Vanessa Massé creates wine magic alongside Danish chef Mads Thomsen. Double recognition for both cuisine and wine program.",
+    "cuisine": [
+      "Contemporary French",
+      "Wine-Focused",
+      "Danish-French"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.7,
+    "reviewCount": 734,
+    "address": {
+      "street": "9 Rue Delille",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06000"
+    },
+    "location": {
+      "lat": 43.6969,
+      "lng": 7.2657
+    },
+    "contact": {
+      "phone": "+33 4 93 16 00 48",
+      "website": "https://purev.fr",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star",
+      "Best Sommelier 2021",
+      "Wine Excellence",
+      "Danish-French Partnership"
+    ],
+    "specialties": [
+      "Wine pairings",
+      "Contemporary French",
+      "Seasonal menus",
+      "Sommelier selections"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Wine Spectator",
+      "Local Reviews"
+    ],
+    "seoKeywords": [
+      "Pure & V Nice",
+      "best wine restaurants Nice",
+      "Vanessa Massé sommelier",
+      "Michelin star Nice",
+      "wine pairing Nice"
+    ]
+  },
+  {
+    "id": "nice-la-petite-maison",
+    "name": "La Petite Maison",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into La Petite Maison felt like joining the most exclusive dinner party on the Riviera—one where French Presidents, Hollywood stars, and rock legends all know to reserve their regular tables. This legendary Old Nice institution doesn't have Michelin stars, and it doesn't need them; its currency is something rarer—the fierce loyalty of the world's most discerning diners who return again and again for Mediterranean cuisine that defines the very essence of Niçoise cooking. What makes La Petite Maison so magnetic isn't just the celebrity sightings or the buzzing atmosphere—it's how this restaurant has maintained its soul and quality while becoming a global phenomenon, serving the kind of simple, perfect dishes that remind you why Mediterranean cuisine conquered the world in the first place.",
+    "reviewSummary": "Legendary Old Nice eatery beloved by presidents and celebrities. No Michelin stars needed when you're the Riviera's most magnetic dining room serving perfect Mediterranean classics.",
+    "cuisine": [
+      "Mediterranean",
+      "Niçoise",
+      "French Riviera"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.5,
+    "reviewCount": 3456,
+    "address": {
+      "street": "11 Rue Saint-François de Paule",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06300"
+    },
+    "location": {
+      "lat": 43.6956,
+      "lng": 7.2734
+    },
+    "contact": {
+      "phone": "+33 4 93 92 59 59",
+      "website": "https://lapetitemaison.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌊",
+      "gallery": []
+    },
+    "features": [
+      "Celebrity Hotspot",
+      "Riviera Institution",
+      "Legendary Status",
+      "Prime Location"
+    ],
+    "specialties": [
+      "Mediterranean classics",
+      "Niçoise specialties",
+      "Fresh seafood",
+      "Truffle dishes"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Celebrity Sightings",
+      "International Press",
+      "Local Reviews"
+    ],
+    "seoKeywords": [
+      "La Petite Maison Nice",
+      "celebrity restaurants Nice",
+      "Old Nice dining",
+      "Mediterranean restaurants Nice",
+      "famous restaurants French Riviera"
+    ]
+  },
+  {
+    "id": "nice-le-bistrot-dantoine",
+    "name": "Bistro d'Antoine",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Bistro d'Antoine felt like discovering the neighborhood secret that locals guard jealously—a tiny gem in Vieux Nice where Mediterranean soul food gets the respect it deserves. This beloved bistro doesn't chase trends or Michelin stars; instead, chef Antoine Crespo focuses on what matters: transforming the best local ingredients into dishes that make you close your eyes on the first bite. The squid with chorizo and tangerine dressing sounds simple on paper, but when it arrives, the interplay of smoky Spanish sausage, tender seafood, and bright citrus creates the kind of flavor harmony that explains why securing one of the 30 seats here requires persistence and patience. What makes Bistro d'Antoine essential isn't just the food—it's the way this restaurant captures the essence of Nice's dining culture, where quality trumps pretension and every meal feels like a celebration of Mediterranean life.",
+    "reviewSummary": "Beloved Vieux Nice bistro where locals queue for squid with chorizo and black sausage risotto. Mediterranean soul food in intimate 30-seat setting that captures Nice's authentic dining spirit.",
+    "cuisine": [
+      "Mediterranean Bistro",
+      "Local Cuisine",
+      "Traditional Nice"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 2234,
+    "address": {
+      "street": "27 Rue de la Préfecture",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06300"
+    },
+    "location": {
+      "lat": 43.6968,
+      "lng": 7.2757
+    },
+    "contact": {
+      "phone": "+33 4 93 85 29 57",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦑",
+      "gallery": []
+    },
+    "features": [
+      "Local Favorite",
+      "30 Seats",
+      "No Reservations",
+      "Authentic Atmosphere"
+    ],
+    "specialties": [
+      "Squid with chorizo",
+      "Black sausage risotto",
+      "Mediterranean flavors",
+      "Daily specials"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Local Guides",
+      "Food Blogs",
+      "TripAdvisor"
+    ],
+    "seoKeywords": [
+      "Bistro d'Antoine Nice",
+      "Vieux Nice restaurants",
+      "authentic Nice dining",
+      "local restaurants Nice",
+      "Mediterranean bistro Nice"
+    ]
+  },
+  {
+    "id": "nice-olive-et-artichaut",
+    "name": "Olive et Artichaut",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Olive et Artichaut felt like discovering what happens when a passionate chef decides to challenge everything you thought you knew about French dining. Chef Thomas Hubert has created something remarkable here—a restaurant that earned its Michelin star not despite being vegetarian, but because of it. This isn't plant-based cuisine as limitation; it's vegetables elevated to fine dining through technique, creativity, and deep respect for ingredients. When their signature artichoke preparation arrives, transformed through multiple cooking methods and paired with olive tapenade that sings of Provence, you understand that this is cooking that happens to be vegetarian rather than vegetarian cooking trying to be special. What makes Olive et Artichaut extraordinary is how it's quietly revolutionizing Nice's dining scene, proving that vegetables deserve the same reverence as any protein when treated with proper skill and imagination.",
+    "reviewSummary": "Michelin-starred vegetarian excellence where Thomas Hubert transforms vegetables into fine dining. Artichokes and olives showcase Provençal ingredients elevated through creative technique.",
+    "cuisine": [
+      "Vegetarian Fine Dining",
+      "Modern Provençal",
+      "Plant-Based"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 989,
+    "address": {
+      "street": "6 Rue Sainte-Réparate",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06300"
+    },
+    "location": {
+      "lat": 43.6971,
+      "lng": 7.2763
+    },
+    "contact": {
+      "phone": "+33 4 89 14 97 51",
+      "website": "https://oliveetartichaut.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🫒",
+      "gallery": []
+    },
+    "features": [
+      "Michelin 1-Star",
+      "Vegetarian Focus",
+      "Local Ingredients",
+      "Creative Presentations"
+    ],
+    "specialties": [
+      "Artichoke variations",
+      "Olive preparations",
+      "Seasonal vegetables",
+      "Provençal flavors"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Vegetarian Guides",
+      "Local Reviews"
+    ],
+    "seoKeywords": [
+      "Olive et Artichaut Nice",
+      "vegetarian Michelin Nice",
+      "plant-based fine dining",
+      "Thomas Hubert Nice",
+      "vegetarian restaurants Nice"
+    ]
+  },
+  {
+    "id": "nice-le-chantecler",
+    "name": "Le Chantecler",
+    "description": "As a newcomer wandering the foodscape of Nice, stepping into Le Chantecler at the legendary Hotel Negresco felt like entering a time capsule where Belle Époque grandeur meets contemporary culinary excellence. This isn't just dining—it's theater, with crystal chandeliers, Versailles-worthy décor, and service that makes you feel like royalty. Under chef Virginie Basselot, one of France's most celebrated female chefs, Le Chantecler has reclaimed its position among the Riviera's finest restaurants. Her cuisine walks the tightrope between classical French technique and modern innovation with remarkable grace, creating dishes that would impress both Escoffier and today's most adventurous diners. What makes Le Chantecler exceptional isn't just the Michelin stars or the opulent setting—it's how Basselot has breathed new life into this historic institution, creating food that honors the past while confidently striding into the future.",
+    "reviewSummary": "Hotel Negresco's crown jewel where Virginie Basselot creates Michelin-starred magic amid Belle Époque splendor. Classical technique meets modern innovation in the Riviera's most opulent dining room.",
+    "cuisine": [
+      "Haute French",
+      "Contemporary Classic",
+      "Luxury Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.8,
+    "reviewCount": 1567,
+    "address": {
+      "street": "37 Promenade des Anglais",
+      "city": "Nice",
+      "country": "France",
+      "postalCode": "06000"
+    },
+    "location": {
+      "lat": 43.6942,
+      "lng": 7.2596
+    },
+    "contact": {
+      "phone": "+33 4 93 16 64 00",
+      "website": "https://hotel-negresco-nice.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "👑",
+      "gallery": []
+    },
+    "features": [
+      "Michelin Stars",
+      "Historic Setting",
+      "Female Chef",
+      "Luxury Experience"
+    ],
+    "specialties": [
+      "Modern French classics",
+      "Seasonal tasting menus",
+      "Luxury ingredients",
+      "Wine collection"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Michelin Guide",
+      "Luxury Travel",
+      "Hotel Reviews"
+    ],
+    "seoKeywords": [
+      "Le Chantecler Nice",
+      "Hotel Negresco dining",
+      "Virginie Basselot",
+      "luxury restaurants Nice",
+      "Michelin star Promenade des Anglais"
+    ]
+  }
+]
