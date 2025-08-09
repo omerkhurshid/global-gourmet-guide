@@ -1,5 +1,19 @@
 @import "tailwindcss";
 
+/* Critical CSS - Inline this in production for better performance */
+.critical-path {
+  font-display: swap;
+  contain: layout style;
+}
+
+/* Optimize font loading */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+
 :root {
   --background: #FAF8F5;
   --foreground: #000000;

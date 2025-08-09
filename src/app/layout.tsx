@@ -1,18 +1,39 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import dynamic from "next/dynamic";
 import "./globals.css";
 import { Navigation } from "@/components/features/navigation";
-import { Footer } from "@/components/features/footer";
-import { ConsentBanner } from "@/components/features/consent-banner";
-import { AdSenseScript } from "@/components/features/adsense";
-import { GoogleAnalytics } from "@/components/features/analytics";
-import { Analytics } from '@vercel/analytics/react';
 import { StructuredData } from "@/components/seo/structured-data";
+import { ResourceHints } from "@/components/performance/resource-hints";
+import { ServiceWorkerRegistration } from "@/components/performance/service-worker";
 import { generateHomepageSEO } from "@/lib/seo";
+
+// Dynamic imports for non-critical components to reduce initial bundle size
+const Footer = dynamic(() => import("@/components/features/footer").then(mod => ({ default: mod.Footer })), {
+  ssr: true
+});
+
+const ConsentBanner = dynamic(() => import("@/components/features/consent-banner").then(mod => ({ default: mod.ConsentBanner })), {
+  ssr: false
+});
+
+const AdSenseScript = dynamic(() => import("@/components/features/adsense").then(mod => ({ default: mod.AdSenseScript })), {
+  ssr: false
+});
+
+const GoogleAnalytics = dynamic(() => import("@/components/features/analytics").then(mod => ({ default: mod.GoogleAnalytics })), {
+  ssr: false
+});
+
+const Analytics = dynamic(() => import('@vercel/analytics/react').then(mod => ({ default: mod.Analytics })), {
+  ssr: false
+});
 
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin"],
+  preload: true,
+  display: 'swap',
 });
 
 const seoData = generateHomepageSEO();
@@ -84,6 +105,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
+        <ResourceHints />
         <AdSenseScript />
         <GoogleAnalytics />
       </head>
@@ -96,6 +118,7 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
         <ConsentBanner />
+        <ServiceWorkerRegistration />
         <Analytics />
       </body>
     </html>

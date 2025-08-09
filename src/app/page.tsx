@@ -1,12 +1,19 @@
 import Link from "next/link"
 import Image from "next/image"
+import dynamic from "next/dynamic"
 import { ArrowRight, MapPin, Utensils } from "lucide-react"
-import { SearchBar } from "@/components/features/search-bar"
-import { RestaurantCard } from "@/components/features/restaurant-card"
-import { AdSenseAd } from "@/components/features/adsense"
-import { Button } from "@/components/ui/button"
 import { cities } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
+
+// Dynamic imports for non-critical components
+const SearchBar = dynamic(() => import("@/components/features/search-bar").then(mod => ({ default: mod.SearchBar })), {
+  loading: () => <div className="w-full h-12 bg-gray-100 animate-pulse rounded-lg"></div>
+})
+
+const AdSenseAd = dynamic(() => import("@/components/features/adsense").then(mod => ({ default: mod.AdSenseAd })), {
+  ssr: false,
+  loading: () => <div className="w-full h-24 bg-gray-100 animate-pulse rounded"></div>
+})
 
 // Updated: Force deployment with terracotta color scheme
 export default function Home() {
@@ -118,8 +125,11 @@ export default function Home() {
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-300"
                             priority={city.name === "New York" || city.name === "London"}
+                            loading={city.name === "New York" || city.name === "London" ? "eager" : "lazy"}
                             sizes="(max-width: 768px) 50vw, (max-width: 1200px) 33vw, 16vw"
-                            quality={85}
+                            quality={75}
+                            placeholder="blur"
+                            blurDataURL="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAIAAoDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAv/xAAhEAACAQMDBQAAAAAAAAAAAAABAgMABAUGIWGRkqGx0f/EABUBAQEAAAAAAAAAAAAAAAAAAAMF/8QAGhEAAgIDAAAAAAAAAAAAAAAAAAECEgMRkf/aAAwDAQACEQMRAD8AltJagyeH0AthI5xdrLcNM91BF5pX2HaH9bcfaSXWGaRmknyJckliyjqTzSlT54b6bk+h0R//2Q=="
                           />
                           <div className="absolute top-2 right-2 bg-white px-2 py-1 text-xs font-bold text-black" style={{letterSpacing: '0.08em'}}>
                             {city.totalRestaurants}

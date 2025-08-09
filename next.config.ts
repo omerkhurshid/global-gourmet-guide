@@ -18,11 +18,78 @@ const nextConfig: NextConfig = {
   
   experimental: {
     optimizePackageImports: ['lucide-react'],
+    webVitalsAttribution: ['CLS', 'LCP'],
+  },
+  
+  // Performance optimizations
+  compiler: {
+    removeConsole: process.env.NODE_ENV === 'production',
+  },
+  
+  // Bundle analyzer and optimization
+  webpack: (config, { buildId, dev, isServer, defaultLoaders, webpack }) => {
+    // Bundle splitting optimization
+    if (!isServer) {
+      config.optimization.splitChunks = {
+        chunks: 'all',
+        cacheGroups: {
+          vendor: {
+            test: /[\\/]node_modules[\\/]/,
+            name: 'vendors',
+            chunks: 'all',
+            enforce: true,
+          },
+          common: {
+            name: 'common',
+            minChunks: 2,
+            chunks: 'all',
+            enforce: true,
+          },
+        },
+      };
+    }
+    
+    // Tree shaking optimization
+    config.optimization.usedExports = true;
+    config.optimization.sideEffects = false;
+    
+    return config;
   },
   
   // SEO and Performance optimizations
   headers: async () => [
     {
+      // Static assets caching
+      source: '/_next/static/(.*)',
+      headers: [
+        {
+          key: 'Cache-Control',
+          value: 'public, max-age=31536000, immutable'
+        }
+      ]
+    },
+    {
+      // Images caching
+      source: '/images/(.*)',
+      headers: [
+        {
+          key: 'Cache-Control',
+          value: 'public, max-age=31536000, immutable'
+        }
+      ]
+    },
+    {
+      // API routes caching
+      source: '/api/(.*)',
+      headers: [
+        {
+          key: 'Cache-Control',
+          value: 'public, max-age=3600, stale-while-revalidate=86400'
+        }
+      ]
+    },
+    {
+      // General pages caching
       source: '/(.*)',
       headers: [
         {
@@ -39,7 +106,7 @@ const nextConfig: NextConfig = {
         },
         {
           key: 'Cache-Control',
-          value: 'public, max-age=31536000, immutable'
+          value: 'public, max-age=3600, stale-while-revalidate=86400'
         }
       ]
     }
