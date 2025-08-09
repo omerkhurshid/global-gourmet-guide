@@ -6,27 +6,12 @@ import { Navigation } from "@/components/features/navigation";
 import { StructuredData } from "@/components/seo/structured-data";
 import { ResourceHints } from "@/components/performance/resource-hints";
 import { ServiceWorkerRegistration } from "@/components/performance/service-worker";
+import { ConsentBanner, AdSenseScript, GoogleAnalytics, AnalyticsComponent } from "@/components/performance/client-components";
 import { generateHomepageSEO } from "@/lib/seo";
 
-// Dynamic imports for non-critical components to reduce initial bundle size
+// Dynamic imports for SSR-compatible components only
 const Footer = dynamic(() => import("@/components/features/footer").then(mod => ({ default: mod.Footer })), {
   ssr: true
-});
-
-const ConsentBanner = dynamic(() => import("@/components/features/consent-banner").then(mod => ({ default: mod.ConsentBanner })), {
-  ssr: false
-});
-
-const AdSenseScript = dynamic(() => import("@/components/features/adsense").then(mod => ({ default: mod.AdSenseScript })), {
-  ssr: false
-});
-
-const GoogleAnalytics = dynamic(() => import("@/components/features/analytics").then(mod => ({ default: mod.GoogleAnalytics })), {
-  ssr: false
-});
-
-const Analytics = dynamic(() => import('@vercel/analytics/react').then(mod => ({ default: mod.Analytics })), {
-  ssr: false
 });
 
 const inter = Inter({
@@ -119,7 +104,7 @@ export default function RootLayout({
         <Footer />
         <ConsentBanner />
         <ServiceWorkerRegistration />
-        <Analytics />
+        <AnalyticsComponent />
       </body>
     </html>
   );

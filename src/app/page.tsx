@@ -1,19 +1,9 @@
 import Link from "next/link"
 import Image from "next/image"
-import dynamic from "next/dynamic"
 import { ArrowRight, MapPin, Utensils } from "lucide-react"
 import { cities } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
-
-// Dynamic imports for non-critical components
-const SearchBar = dynamic(() => import("@/components/features/search-bar").then(mod => ({ default: mod.SearchBar })), {
-  loading: () => <div className="w-full h-12 bg-gray-100 animate-pulse rounded-lg"></div>
-})
-
-const AdSenseAd = dynamic(() => import("@/components/features/adsense").then(mod => ({ default: mod.AdSenseAd })), {
-  ssr: false,
-  loading: () => <div className="w-full h-24 bg-gray-100 animate-pulse rounded"></div>
-})
+import { AdSenseAd, SearchBar } from "@/components/performance/client-components"
 
 // Updated: Force deployment with terracotta color scheme
 export default function Home() {
