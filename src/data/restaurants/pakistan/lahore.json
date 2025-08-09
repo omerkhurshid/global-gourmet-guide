@@ -563,5 +563,179 @@
       "BBQ restaurant Lahore",
       "restaurants near me Lahore"
     ]
+  },
+  {
+    "id": "lahore-the-fred",
+    "name": "The Fred",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into The Fred felt like discovering the future of Pakistani dining, where culinary innovation meets impeccable design in a space that has redefined what fine dining can be in the country. This revolutionary restaurant stands for Food, Research, Experience and Design, and it delivers on every promise—creating bona fide culinary experiences that celebrate Lahore's legacy while spurring creativity in an ecosystem of innovation. What makes The Fred extraordinary isn't just its position as Pakistan's first professional food pop-up space turned permanent restaurant—it's how it has become the place that Lahore's most discerning palates trust, offering a micro-catering experience and hosting pop-ups by inviting chefs from Pakistan and around the world to present bespoke menus that push creativity to new heights.",
+    "reviewSummary": "Revolutionary fine dining concept where Food, Research, Experience and Design converge. Pakistan's first professional food pop-up space turned permanent restaurant with bespoke menus and global chef collaborations.",
+    "cuisine": [
+      "Contemporary Pakistani",
+      "International Fusion",
+      "Innovative"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.8,
+    "reviewCount": 456,
+    "address": {
+      "street": "118 Y, Street 10, Commercial Zone, DHA Phase III, 2nd Floor of Bareezè Man",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": "53000"
+    },
+    "location": {
+      "lat": 31.4697,
+      "lng": 74.4084
+    },
+    "contact": {
+      "phone": "+92-304-999-3733",
+      "website": "https://fredtherestaurant.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🎨",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining Innovation",
+      "Pop-up Collaborations",
+      "Design Excellence",
+      "Culinary Research"
+    ],
+    "specialties": [
+      "Bespoke tasting menus",
+      "International chef collaborations",
+      "Contemporary Pakistani cuisine",
+      "Micro-catering experiences"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Official Website",
+      "Food Reviews",
+      "Local Dining Guides"
+    ],
+    "seoKeywords": [
+      "The Fred Lahore",
+      "fine dining Lahore",
+      "innovative restaurants Pakistan",
+      "DHA Phase 3 restaurants",
+      "contemporary Pakistani cuisine"
+    ]
+  },
+  {
+    "id": "lahore-gaijin",
+    "name": "Gaijin",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Gaijin felt like being transported to a sophisticated Tokyo izakaya, where authentic Japanese cuisine meets the elevated ambiance of a rooftop setting at The Fred Hotel. This wonderful fine dining establishment represents a foreigner's rendition of the traditional Japanese izakaya, centered around food while staying true to the tradition of sharing that defines Japanese dining culture. When their tempura donburi arrives alongside perfectly executed chicken katsudon, paired with refreshing ginger spritzer and authentic matcha milk, you understand why this cozy yet upbeat restaurant has become Lahore's premier destination for elevated Japanese cuisine. What makes Gaijin special isn't just its authentic approach to Japanese cooking or its sophisticated rooftop location—it's how this smooth, sophisticated pit-stop in the thick of the city delivers elevated food with easy energy, creating an atmosphere that's both intimate and exciting.",
+    "reviewSummary": "Sophisticated rooftop Japanese izakaya at Fred Hotel serving authentic cuisine with cozy fine dining ambiance. Tempura donburi and in-house nama chocolate showcase elevated Japanese dining in Lahore.",
+    "cuisine": [
+      "Japanese",
+      "Izakaya",
+      "Asian Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 234,
+    "address": {
+      "street": "85 D, Ghalib Rd Block D1 Gulberg III, The Fred Hotel",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "contact": {
+      "phone": "+92 320 9993701",
+      "website": "https://www.thefredhotel.com/gaijin",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏮",
+      "gallery": []
+    },
+    "features": [
+      "Rooftop Location",
+      "Authentic Japanese",
+      "Fine Dining",
+      "Cozy Ambiance"
+    ],
+    "specialties": [
+      "Tempura donburi",
+      "Chicken katsudon",
+      "Ginger spritzer",
+      "In-house nama chocolate"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Restaurant Reviews",
+      "TripAdvisor",
+      "Local Food Blogs"
+    ],
+    "seoKeywords": [
+      "Gaijin Lahore",
+      "Japanese restaurant Lahore",
+      "izakaya Gulberg",
+      "Fred Hotel dining",
+      "authentic Japanese cuisine"
+    ]
+  },
+  {
+    "id": "lahore-dan-dan",
+    "name": "Dan Dan",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Dan Dan felt like discovering a culinary revolution in the heart of Gulberg, where contemporary Chinese cuisine gets the bold, spicy treatment it deserves in Pakistan's first authentic hotpot destination. This refined Chinese restaurant has created something unique in Lahore's dining scene: an elegant yet dimly lit setting that's perfect for romantic evenings while serving pan-Asian cuisine that pushes flavor boundaries with dishes like their signature dan dan chicken and exceptional laksa prawn. When their famous hotpot arrives—the first of its kind in Lahore—alongside perfectly balanced Shanghai beef noodles, you understand why this restaurant has earned a reputation as one of the best in the city. What makes Dan Dan extraordinary isn't just the introduction of hotpot culture to Lahore or the amazingly awesome ambiance and architecture—it's how this intimate setting delivers fine dining vibes that are quite rare in Pakistan, with very trained and humble staff ensuring every dish is absolutely delicious.",
+    "reviewSummary": "Contemporary Chinese fine dining introducing Lahore's first hotpot experience. Dan dan chicken and laksa prawn showcase bold pan-Asian flavors in elegant dimly lit setting perfect for romantic dining.",
+    "cuisine": [
+      "Contemporary Chinese",
+      "Pan-Asian",
+      "Hotpot Specialist"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 567,
+    "address": {
+      "street": "49-L, Gulberg II",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "contact": {
+      "phone": "03208888142",
+      "website": "https://dandan.pk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍲",
+      "gallery": []
+    },
+    "features": [
+      "First Hotpot in Lahore",
+      "Contemporary Chinese",
+      "Romantic Ambiance",
+      "Fine Dining Vibes"
+    ],
+    "specialties": [
+      "Authentic hotpot",
+      "Dan dan chicken",
+      "Laksa prawn",
+      "Shanghai beef noodles"
+    ],
+    "lastUpdated": "2025-01-26",
+    "sources": [
+      "Customer Reviews",
+      "Foodpanda Ratings",
+      "Local Dining Guides"
+    ],
+    "seoKeywords": [
+      "Dan Dan Lahore",
+      "hotpot restaurant Lahore",
+      "Chinese fine dining",
+      "Gulberg restaurants",
+      "contemporary Chinese cuisine"
+    ]
   }
 ]

@@ -48,8 +48,8 @@ export const cities: City[] = [
       "Food Street Lahore",
       "traditional food Lahore"
     ],
-    featuredRestaurants: ["butt-karahi-lahore", "haveli-restaurant-lahore", "cooco-den-lahore"],
-    totalRestaurants: 20
+    featuredRestaurants: ["lahore-haveli-restaurant", "lahore-the-fred", "lahore-gaijin"],
+    totalRestaurants: 13
   },
   {
     id: "new-york-usa",
