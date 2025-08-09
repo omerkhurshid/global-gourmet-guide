@@ -27,13 +27,13 @@ export function RestaurantCard({
         restaurant.spotlight 
           ? "border-2 border-[#b07968] shadow-lg shadow-[#b07968]/20 hover:shadow-xl hover:shadow-[#b07968]/30" 
           : "border border-gray-200 hover:border-[#b07968]"
-      }`}>
-        <div className="p-8">
+      } overflow-hidden`}>
+        <div className="p-4 sm:p-6 md:p-8">
           {/* Header Section */}
           <div className="mb-6">
             <div className="flex items-start justify-between mb-4">
-              <div className="flex-1">
-                <h3 className="text-2xl font-black mb-2 uppercase tracking-wide group-hover:text-[#8b6355] transition-colors" style={{color: '#8b6355'}}>
+              <div className="flex-1 min-w-0 pr-2">
+                <h3 className="text-xl sm:text-2xl font-black mb-2 uppercase tracking-wide group-hover:text-[#8b6355] transition-colors break-words" style={{color: '#8b6355'}}>
                   {restaurant.name}
                 </h3>
                 <div className="text-sm mb-3 uppercase tracking-wide" style={{color: '#b07968'}}>
@@ -47,8 +47,8 @@ export function RestaurantCard({
             </div>
             
             {/* Rating and Features */}
-            <div className="flex items-center justify-between text-sm mb-4">
-              <div className="flex items-center space-x-6">
+            <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between text-sm mb-4 gap-2">
+              <div className="flex items-center space-x-4 sm:space-x-6">
                 <div className="flex items-center">
                   <Star className="w-4 h-4 text-yellow-400 fill-current mr-1" />
                   <span className="font-black mr-2" style={{color: '#8b6355'}}>{formatRating(restaurant.rating)}</span>
@@ -76,12 +76,12 @@ export function RestaurantCard({
           
           {/* Description */}
           <div className="mb-6">
-            <p className="text-sm leading-relaxed mb-3" style={{color: '#8b6355'}}>
+            <p className="text-sm leading-relaxed mb-3 break-words hyphens-auto" style={{color: '#8b6355'}}>
               {restaurant.description}
             </p>
             {restaurant.reviewSummary && (
               <div className="border-l-4 pl-4 mb-4" style={{borderColor: '#e6d1c9'}}>
-                <p className="text-sm leading-relaxed italic" style={{color: '#b07968'}}>
+                <p className="text-sm leading-relaxed italic break-words hyphens-auto" style={{color: '#b07968'}}>
                   {restaurant.reviewSummary}
                 </p>
               </div>
@@ -123,10 +123,10 @@ export function RestaurantCard({
           )}
 
           {/* Footer */}
-          <div className="flex items-center justify-between pt-4 border-t" style={{borderColor: '#f3e8e4'}}>
-            <div className="flex items-center text-sm" style={{color: '#b07968'}}>
-              <MapPin className="w-4 h-4 mr-1" />
-              <span className="uppercase tracking-wide">
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between pt-4 border-t gap-2" style={{borderColor: '#f3e8e4'}}>
+            <div className="flex items-center text-sm min-w-0" style={{color: '#b07968'}}>
+              <MapPin className="w-4 h-4 mr-1 flex-shrink-0" />
+              <span className="uppercase tracking-wide truncate">
                 {formatAddress(restaurant.address)}
               </span>
             </div>
@@ -163,17 +163,17 @@ export function RestaurantCard({
             </div>
           </div>
         
-        <div className="p-6">
-            <h3 className="text-xl font-bold text-gray-900 mb-2">
+        <div className="p-4 sm:p-6">
+            <h3 className="text-lg sm:text-xl font-bold text-gray-900 mb-2 break-words">
               {restaurant.name}
             </h3>
           
-          <p className="text-gray-600 text-sm mb-3 line-clamp-2">
+          <p className="text-gray-600 text-sm mb-3 line-clamp-2 break-words">
             {restaurant.description}
           </p>
           
           {restaurant.reviewSummary && (
-            <p className="text-gray-700 text-sm mb-3 italic border-l-4 border-blue-200 pl-3">
+            <p className="text-gray-700 text-sm mb-3 italic border-l-4 border-blue-200 pl-3 break-words">
               "{restaurant.reviewSummary}"
             </p>
           )}
@@ -187,8 +187,8 @@ export function RestaurantCard({
             </div>
           </div>
           
-          <div className="flex items-center text-sm text-gray-600 mb-4">
-            <MapPin className="w-4 h-4 mr-1" />
+          <div className="flex items-center text-sm text-gray-600 mb-4 min-w-0">
+            <MapPin className="w-4 h-4 mr-1 flex-shrink-0" />
             <span className="truncate">{formatAddress(restaurant.address)}</span>
           </div>
           
@@ -203,8 +203,8 @@ export function RestaurantCard({
             ))}
           </div>
           
-          <div className="flex items-center justify-between">
-            <Button variant="default" size="sm" asChild>
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-2">
+            <Button variant="default" size="sm" asChild className="w-full sm:w-auto">
               <Link href={restaurantUrl}>
                 View Details
               </Link>
@@ -246,18 +246,18 @@ export function RestaurantCard({
           </div>
         </div>
       
-      <div className="p-6">
-          <h3 className="text-xl font-bold text-gray-900 mb-2">
+      <div className="p-4 sm:p-6">
+          <h3 className="text-lg sm:text-xl font-bold text-gray-900 mb-2 break-words">
             {restaurant.name}
           </h3>
         
-        <p className="text-gray-600 text-sm mb-4 line-clamp-2 leading-relaxed">
+        <p className="text-gray-600 text-sm mb-4 line-clamp-2 leading-relaxed break-words">
           {restaurant.description}
         </p>
         
         {restaurant.reviewSummary && (
           <div className="bg-gray-50 rounded-lg p-3 mb-4">
-            <p className="text-sm text-gray-700 italic">"{restaurant.reviewSummary}"</p>
+            <p className="text-sm text-gray-700 italic break-words">"{restaurant.reviewSummary}"</p>
           </div>
         )}
         
@@ -269,9 +269,9 @@ export function RestaurantCard({
             </span>
             <span className="text-sm text-gray-500 ml-1">({restaurant.reviewCount})</span>
           </div>
-          <div className="flex items-center text-sm text-gray-500">
-            <MapPin className="w-4 h-4 mr-1" />
-            <span className="truncate max-w-32">{restaurant.address.city}</span>
+          <div className="flex items-center text-sm text-gray-500 min-w-0">
+            <MapPin className="w-4 h-4 mr-1 flex-shrink-0" />
+            <span className="truncate max-w-24 sm:max-w-32">{restaurant.address.city}</span>
           </div>
         </div>
         
@@ -286,8 +286,8 @@ export function RestaurantCard({
           ))}
         </div>
         
-        <div className="flex items-center justify-between pt-2 border-t border-gray-100">
-          <Button variant="default" size="sm" asChild className="bg-orange-600 hover:bg-orange-700">
+        <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between pt-2 border-t border-gray-100 gap-2">
+          <Button variant="default" size="sm" asChild className="bg-orange-600 hover:bg-orange-700 w-full sm:w-auto">
             <Link href={restaurantUrl}>
               View Details
             </Link>

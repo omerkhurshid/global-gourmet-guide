@@ -2,7 +2,7 @@ import { Metadata } from "next"
 
 export const metadata: Metadata = {
   title: "About us | Global Gourmet Guide - A Food Blogger's Journey",
-  description: "Discover the story behind Global Gourmet Guide - from a world-traveling food blogger's childhood adventures to curating 146 exceptional restaurants across 11 cities worldwide.",
+  description: "Discover the story behind Global Gourmet Guide - from a world-traveling food blogger's childhood adventures to curating 160 exceptional restaurants across 18 cities worldwide.",
   keywords: "about us, food blogger, restaurant guide, culinary journey, global cuisine, travel experiences",
 }
 
@@ -133,11 +133,11 @@ export default function AboutPage() {
           {/* Stats Grid */}
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 mb-16">
             <div className="text-center">
-              <div className="text-5xl md:text-6xl font-black mb-4" style={{color: '#b07968'}}>146</div>
+              <div className="text-5xl md:text-6xl font-black mb-4" style={{color: '#b07968'}}>160</div>
               <div className="text-sm uppercase tracking-wide" style={{color: '#8b6355'}}>Curated Restaurants</div>
             </div>
             <div className="text-center">
-              <div className="text-5xl md:text-6xl font-black mb-4" style={{color: '#b07968'}}>11</div>
+              <div className="text-5xl md:text-6xl font-black mb-4" style={{color: '#b07968'}}>18</div>
               <div className="text-sm uppercase tracking-wide" style={{color: '#8b6355'}}>Cities Covered</div>
             </div>
             <div className="text-center">
@@ -153,7 +153,7 @@ export default function AboutPage() {
           <div className="prose prose-lg max-w-4xl mx-auto">
             <div style={{color: '#5a453e', lineHeight: '1.8'}} className="text-base md:text-lg">
               <p className="mb-8">
-                What started as a personal project has evolved into a comprehensive guide featuring 146 exceptional restaurants across 11 cities and 5 countries. From the Michelin-starred temples of gastronomy in Paris to the vibrant street food scenes of Karachi, from the innovative fusion restaurants of Los Angeles to the traditional BBQ joints of Peshawar, our guide represents the full spectrum of global dining excellence.
+                What started as a personal project has evolved into a comprehensive guide featuring 160 exceptional restaurants across 18 cities and 5 countries. From the Michelin-starred temples of gastronomy in Paris to the vibrant street food scenes of Karachi, from the innovative fusion restaurants of Los Angeles to the traditional BBQ joints of Peshawar, our guide represents the full spectrum of global dining excellence.
               </p>
 
               <p className="mb-8">

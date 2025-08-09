@@ -74,7 +74,7 @@ export const cities: City[] = [
       "fine dining NYC"
     ],
     featuredRestaurants: ["new-york-semma", "new-york-le-bernardin", "new-york-eleven-madison-park"],
-    totalRestaurants: 15
+    totalRestaurants: 16
   },
   {
     id: "karachi-pakistan",
@@ -99,7 +99,7 @@ export const cities: City[] = [
       "BBQ Karachi"
     ],
     featuredRestaurants: [],
-    totalRestaurants: 20
+    totalRestaurants: 11
   },
   {
     id: "paris-france",

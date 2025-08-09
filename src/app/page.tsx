@@ -52,11 +52,11 @@ export default function Home() {
           {/* Minimal Stats */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center">
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">178</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">160</div>
               <div className="text-xs text-black uppercase" style={{letterSpacing: '0.15em'}}>RESTAURANTS</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">15</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">18</div>
               <div className="text-xs text-black uppercase" style={{letterSpacing: '0.15em'}}>CITIES</div>
             </div>
             <div>
