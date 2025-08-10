@@ -1,0 +1,301 @@
+[
+  {
+    "id": "cambridge-midsummer-house",
+    "name": "Midsummer House",
+    "slug": "midsummer-house",
+    "cuisine": "Modern British",
+    "priceRange": "£££££",
+    "rating": 4.9,
+    "description": "Cambridge's only two-Michelin-starred restaurant set in an elegant Victorian villa overlooking Midsummer Common. Chef Daniel Clifford creates exceptional modern British cuisine with innovative techniques and the finest seasonal ingredients.",
+    "address": "Midsummer Common, Cambridge CB4 1HA",
+    "phone": "+44 1223 369299",
+    "website": "https://www.midsummerhouse.co.uk",
+    "coordinates": {
+      "lat": 52.2159,
+      "lng": 0.1318
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "12:00-13:30, 19:00-21:30",
+      "thursday": "12:00-13:30, 19:00-21:30",
+      "friday": "12:00-13:30, 19:00-21:30",
+      "saturday": "12:00-13:30, 19:00-21:30",
+      "sunday": "12:00-13:30, 19:00-21:30"
+    },
+    "features": ["Two Michelin Stars", "Fine Dining", "Victorian Villa", "Tasting Menu"],
+    "spotlight": true,
+    "images": ["/images/restaurants/cambridge/midsummer-house-1.jpg"]
+  },
+  {
+    "id": "cambridge-restaurant-alimentum",
+    "name": "Restaurant Alimentum",
+    "slug": "restaurant-alimentum",
+    "cuisine": "Modern European",
+    "priceRange": "££££",
+    "rating": 4.6,
+    "description": "An award-winning fine dining restaurant offering modern European cuisine with creative presentation. Known for its innovative approach to seasonal British ingredients and exceptional service.",
+    "address": "152-154 Hills Road, Cambridge CB2 8PB",
+    "phone": "+44 1223 413000",
+    "website": "https://www.restaurantalimentum.co.uk",
+    "coordinates": {
+      "lat": 52.1936,
+      "lng": 0.1347
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "18:30-21:30",
+      "wednesday": "18:30-21:30",
+      "thursday": "18:30-21:30",
+      "friday": "12:00-13:30, 18:30-21:30",
+      "saturday": "12:00-13:30, 18:30-21:30",
+      "sunday": "Closed"
+    },
+    "features": ["Award Winning", "Creative Presentation", "Seasonal Menu", "Fine Dining"],
+    "spotlight": true,
+    "images": ["/images/restaurants/cambridge/alimentum-1.jpg"]
+  },
+  {
+    "id": "cambridge-cambridge-chop-house",
+    "name": "Cambridge Chop House",
+    "slug": "cambridge-chop-house",
+    "cuisine": "British",
+    "priceRange": "£££",
+    "rating": 4.3,
+    "description": "A traditional English chophouse serving the finest British beef, game, and seasonal produce. Located in the heart of Cambridge with views of King's College Chapel, offering classic British dining.",
+    "address": "1 Kings Parade, Cambridge CB2 1SJ",
+    "phone": "+44 1223 359506",
+    "website": "https://www.cambridgechophouse.com",
+    "coordinates": {
+      "lat": 52.2048,
+      "lng": 0.1165
+    },
+    "openingHours": {
+      "monday": "12:00-14:30, 18:00-21:30",
+      "tuesday": "12:00-14:30, 18:00-21:30",
+      "wednesday": "12:00-14:30, 18:00-21:30",
+      "thursday": "12:00-14:30, 18:00-21:30",
+      "friday": "12:00-14:30, 18:00-22:00",
+      "saturday": "12:00-22:00",
+      "sunday": "12:00-21:00"
+    },
+    "features": ["Traditional Chophouse", "Kings College Views", "British Beef", "Historic Location"],
+    "images": ["/images/restaurants/cambridge/chop-house-1.jpg"]
+  },
+  {
+    "id": "cambridge-the-pint-shop",
+    "name": "The Pint Shop",
+    "slug": "the-pint-shop",
+    "cuisine": "Gastropub",
+    "priceRange": "££",
+    "rating": 4.2,
+    "description": "A modern gastropub specializing in craft beer and elevated pub food. Known for its extensive selection of ales, innovative small plates, and relaxed atmosphere near the university.",
+    "address": "10 Peas Hill, Cambridge CB2 3PP",
+    "phone": "+44 1223 352293",
+    "website": "https://www.pintshop.co.uk",
+    "coordinates": {
+      "lat": 52.2058,
+      "lng": 0.1188
+    },
+    "openingHours": {
+      "monday": "12:00-23:00",
+      "tuesday": "12:00-23:00",
+      "wednesday": "12:00-23:00",
+      "thursday": "12:00-23:00",
+      "friday": "12:00-00:00",
+      "saturday": "10:00-00:00",
+      "sunday": "10:00-22:30"
+    },
+    "features": ["Craft Beer", "Small Plates", "Modern Gastropub", "University Location"],
+    "images": ["/images/restaurants/cambridge/pint-shop-1.jpg"]
+  },
+  {
+    "id": "cambridge-loch-fyne",
+    "name": "Loch Fyne Cambridge",
+    "slug": "loch-fyne",
+    "cuisine": "Seafood",
+    "priceRange": "£££",
+    "rating": 4.1,
+    "description": "Specializing in fresh Scottish seafood and oysters, Loch Fyne offers a menu focused on sustainable fish and shellfish. Known for their oyster bar and traditional fish dishes.",
+    "address": "37 Trumpington Street, Cambridge CB2 1QY",
+    "phone": "+44 1223 362433",
+    "website": "https://www.lochfyne.com",
+    "coordinates": {
+      "lat": 52.2017,
+      "lng": 0.1186
+    },
+    "openingHours": {
+      "monday": "12:00-22:00",
+      "tuesday": "12:00-22:00",
+      "wednesday": "12:00-22:00",
+      "thursday": "12:00-22:00",
+      "friday": "12:00-22:30",
+      "saturday": "12:00-22:30",
+      "sunday": "12:00-21:30"
+    },
+    "features": ["Scottish Seafood", "Oyster Bar", "Sustainable Fish", "Fresh Shellfish"],
+    "images": ["/images/restaurants/cambridge/loch-fyne-1.jpg"]
+  },
+  {
+    "id": "cambridge-fitzbillies",
+    "name": "Fitzbillies",
+    "slug": "fitzbillies",
+    "cuisine": "British",
+    "priceRange": "££",
+    "rating": 4.4,
+    "description": "A Cambridge institution since 1922, famous for their legendary Chelsea buns and traditional afternoon tea. Also serves modern British cuisine in a charming historic setting.",
+    "address": "52 Trumpington Street, Cambridge CB2 1RG",
+    "phone": "+44 1223 352500",
+    "website": "https://www.fitzbillies.com",
+    "coordinates": {
+      "lat": 52.2006,
+      "lng": 0.1191
+    },
+    "openingHours": {
+      "monday": "08:00-18:00",
+      "tuesday": "08:00-18:00",
+      "wednesday": "08:00-18:00",
+      "thursday": "08:00-18:00",
+      "friday": "08:00-18:00",
+      "saturday": "08:00-18:00",
+      "sunday": "09:00-17:00"
+    },
+    "features": ["Historic Bakery", "Chelsea Buns", "Afternoon Tea", "Cambridge Institution"],
+    "images": ["/images/restaurants/cambridge/fitzbillies-1.jpg"]
+  },
+  {
+    "id": "cambridge-cote-cambridge",
+    "name": "Côte Cambridge",
+    "slug": "cote-cambridge",
+    "cuisine": "French",
+    "priceRange": "££",
+    "rating": 4.0,
+    "description": "A French brasserie offering classic French dishes in a relaxed setting. Features traditional favorites like coq au vin, steak frites, and an extensive French wine list.",
+    "address": "21-24 Bridge Street, Cambridge CB2 1UJ",
+    "phone": "+44 1223 311053",
+    "website": "https://www.cote.co.uk",
+    "coordinates": {
+      "lat": 52.2086,
+      "lng": 0.1174
+    },
+    "openingHours": {
+      "monday": "09:00-22:00",
+      "tuesday": "09:00-22:00",
+      "wednesday": "09:00-22:00",
+      "thursday": "09:00-22:00",
+      "friday": "09:00-22:30",
+      "saturday": "09:00-22:30",
+      "sunday": "09:00-21:30"
+    },
+    "features": ["French Brasserie", "Classic Dishes", "French Wine", "All Day Dining"],
+    "images": ["/images/restaurants/cambridge/cote-1.jpg"]
+  },
+  {
+    "id": "cambridge-sala-thong",
+    "name": "Sala Thong",
+    "slug": "sala-thong",
+    "cuisine": "Thai",
+    "priceRange": "££",
+    "rating": 4.3,
+    "description": "Authentic Thai restaurant serving traditional dishes from all regions of Thailand. Known for its spicy curries, fresh ingredients, and warm hospitality in a cozy setting.",
+    "address": "35 Newnham Road, Cambridge CB3 9EY",
+    "phone": "+44 1223 323178",
+    "website": "https://www.salathong.co.uk",
+    "coordinates": {
+      "lat": 52.1981,
+      "lng": 0.1089
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "18:00-22:30",
+      "wednesday": "18:00-22:30",
+      "thursday": "18:00-22:30",
+      "friday": "18:00-23:00",
+      "saturday": "18:00-23:00",
+      "sunday": "18:00-22:00"
+    },
+    "features": ["Authentic Thai", "Regional Specialties", "Spicy Curries", "Cozy Atmosphere"],
+    "images": ["/images/restaurants/cambridge/sala-thong-1.jpg"]
+  },
+  {
+    "id": "cambridge-urban-shed",
+    "name": "Urban Shed",
+    "slug": "urban-shed",
+    "cuisine": "Modern British",
+    "priceRange": "££",
+    "rating": 4.1,
+    "description": "A trendy eatery focusing on locally sourced ingredients and modern British comfort food. Popular for brunch, lunch, and casual dining with a focus on sustainability.",
+    "address": "62 Regent Street, Cambridge CB2 1DP",
+    "phone": "+44 1223 367373",
+    "website": "https://www.urbanshed.com",
+    "coordinates": {
+      "lat": 52.2062,
+      "lng": 0.1231
+    },
+    "openingHours": {
+      "monday": "08:00-16:00",
+      "tuesday": "08:00-16:00",
+      "wednesday": "08:00-16:00",
+      "thursday": "08:00-16:00",
+      "friday": "08:00-16:00",
+      "saturday": "09:00-16:00",
+      "sunday": "09:00-15:00"
+    },
+    "features": ["Locally Sourced", "Sustainable", "Modern British", "Brunch Specialist"],
+    "images": ["/images/restaurants/cambridge/urban-shed-1.jpg"]
+  },
+  {
+    "id": "cambridge-the-oak-bistro",
+    "name": "The Oak Bistro",
+    "slug": "the-oak-bistro",
+    "cuisine": "Modern European",
+    "priceRange": "£££",
+    "rating": 4.2,
+    "description": "An intimate bistro serving modern European cuisine with Mediterranean influences. Features a carefully curated wine list and seasonal menu in a warm, welcoming atmosphere.",
+    "address": "6 Lensfield Road, Cambridge CB2 1EG",
+    "phone": "+44 1223 323361",
+    "website": "https://www.theoakbistro.co.uk",
+    "coordinates": {
+      "lat": 52.1994,
+      "lng": 0.1235
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "18:30-21:30",
+      "wednesday": "18:30-21:30",
+      "thursday": "18:30-21:30",
+      "friday": "18:30-21:30",
+      "saturday": "18:30-21:30",
+      "sunday": "Closed"
+    },
+    "features": ["Intimate Setting", "Mediterranean Influences", "Curated Wine List", "Seasonal Menu"],
+    "images": ["/images/restaurants/cambridge/oak-bistro-1.jpg"]
+  },
+  {
+    "id": "cambridge-revolution-cambridge",
+    "name": "Revolution Cambridge",
+    "slug": "revolution-cambridge",
+    "cuisine": "International",
+    "priceRange": "££",
+    "rating": 3.9,
+    "description": "A vibrant bar and restaurant offering international cuisine, creative cocktails, and live entertainment. Popular with students and young professionals for its lively atmosphere.",
+    "address": "Downing Street, Cambridge CB2 3DT",
+    "phone": "+44 1223 367200",
+    "website": "https://www.revolution-bars.co.uk",
+    "coordinates": {
+      "lat": 52.2043,
+      "lng": 0.1202
+    },
+    "openingHours": {
+      "monday": "12:00-01:00",
+      "tuesday": "12:00-01:00",
+      "wednesday": "12:00-01:00",
+      "thursday": "12:00-02:00",
+      "friday": "12:00-02:00",
+      "saturday": "12:00-02:00",
+      "sunday": "12:00-00:00"
+    },
+    "features": ["Creative Cocktails", "Live Entertainment", "Student Friendly", "Late Night"],
+    "images": ["/images/restaurants/cambridge/revolution-1.jpg"]
+  }
+]

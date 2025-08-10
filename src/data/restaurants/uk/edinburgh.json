@@ -1,0 +1,355 @@
+[
+  {
+    "id": "edinburgh-the-witchery",
+    "name": "The Witchery by the Castle",
+    "slug": "the-witchery",
+    "cuisine": "Scottish",
+    "priceRange": "£££££",
+    "rating": 4.7,
+    "description": "Edinburgh's most atmospheric restaurant located at the gates of Edinburgh Castle. Housed in a 16th-century building with opulent Gothic decor, serving the finest Scottish cuisine and an exceptional wine cellar.",
+    "address": "Castlehill, The Royal Mile, Edinburgh EH1 2NF",
+    "phone": "+44 131 225 5613",
+    "website": "https://www.thewitchery.com",
+    "coordinates": {
+      "lat": 55.9486,
+      "lng": -3.1928
+    },
+    "openingHours": {
+      "monday": "17:30-23:30",
+      "tuesday": "17:30-23:30",
+      "wednesday": "17:30-23:30",
+      "thursday": "17:30-23:30",
+      "friday": "17:30-23:30",
+      "saturday": "12:30-23:30",
+      "sunday": "12:30-23:30"
+    },
+    "features": ["Castle Location", "16th Century Building", "Gothic Decor", "Wine Cellar"],
+    "spotlight": true,
+    "images": ["/images/restaurants/edinburgh/witchery-1.jpg"]
+  },
+  {
+    "id": "edinburgh-restaurant-martin-wishart",
+    "name": "Restaurant Martin Wishart",
+    "slug": "restaurant-martin-wishart",
+    "cuisine": "Modern French",
+    "priceRange": "£££££",
+    "rating": 4.8,
+    "description": "Edinburgh's first Michelin-starred restaurant, offering exceptional modern French cuisine. Chef Martin Wishart creates innovative dishes using the finest Scottish ingredients with French techniques.",
+    "address": "54 The Shore, Edinburgh EH6 6RA",
+    "phone": "+44 131 553 3557",
+    "website": "https://www.martin-wishart.co.uk",
+    "coordinates": {
+      "lat": 55.9760,
+      "lng": -3.1723
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "12:00-14:00, 19:00-21:30",
+      "wednesday": "12:00-14:00, 19:00-21:30",
+      "thursday": "12:00-14:00, 19:00-21:30",
+      "friday": "12:00-14:00, 19:00-21:30",
+      "saturday": "12:00-14:00, 19:00-21:30",
+      "sunday": "Closed"
+    },
+    "features": ["Michelin Star", "Modern French", "Scottish Ingredients", "Leith Location"],
+    "spotlight": true,
+    "images": ["/images/restaurants/edinburgh/martin-wishart-1.jpg"]
+  },
+  {
+    "id": "edinburgh-the-scotch-whisky-experience",
+    "name": "The Scotch Whisky Experience Restaurant",
+    "slug": "scotch-whisky-experience",
+    "cuisine": "Scottish",
+    "priceRange": "£££",
+    "rating": 4.3,
+    "description": "Combining Scottish cuisine with whisky education, this unique restaurant offers traditional Scottish dishes paired with premium whiskies. Located on the Royal Mile with views of Edinburgh Castle.",
+    "address": "354 Castlehill, Edinburgh EH1 2NE",
+    "phone": "+44 131 220 0441",
+    "website": "https://www.scotchwhiskyexperience.co.uk",
+    "coordinates": {
+      "lat": 55.9483,
+      "lng": -3.1953
+    },
+    "openingHours": {
+      "monday": "10:00-18:30",
+      "tuesday": "10:00-18:30",
+      "wednesday": "10:00-18:30",
+      "thursday": "10:00-18:30",
+      "friday": "10:00-18:30",
+      "saturday": "10:00-18:30",
+      "sunday": "10:00-18:30"
+    },
+    "features": ["Whisky Pairing", "Royal Mile Location", "Traditional Scottish", "Castle Views"],
+    "images": ["/images/restaurants/edinburgh/whisky-experience-1.jpg"]
+  },
+  {
+    "id": "edinburgh-ondine",
+    "name": "Ondine",
+    "slug": "ondine",
+    "cuisine": "Seafood",
+    "priceRange": "££££",
+    "rating": 4.5,
+    "description": "Award-winning seafood restaurant specializing in the freshest Scottish fish and shellfish. Chef Roy Brett creates exceptional dishes celebrating Scotland's coastal waters in an elegant setting.",
+    "address": "2 George IV Bridge, Edinburgh EH1 1AD",
+    "phone": "+44 131 226 1888",
+    "website": "https://www.ondinerestaurant.co.uk",
+    "coordinates": {
+      "lat": 55.9495,
+      "lng": -3.1906
+    },
+    "openingHours": {
+      "monday": "12:00-22:00",
+      "tuesday": "12:00-22:00",
+      "wednesday": "12:00-22:00",
+      "thursday": "12:00-22:00",
+      "friday": "12:00-22:30",
+      "saturday": "12:00-22:30",
+      "sunday": "12:30-21:30"
+    },
+    "features": ["Fresh Scottish Seafood", "Award Winning", "Elegant Setting", "Central Location"],
+    "images": ["/images/restaurants/edinburgh/ondine-1.jpg"]
+  },
+  {
+    "id": "edinburgh-the-dome",
+    "name": "The Dome",
+    "slug": "the-dome",
+    "cuisine": "Modern Scottish",
+    "priceRange": "£££",
+    "rating": 4.2,
+    "description": "Set in a magnificent Georgian building with stunning architectural features, The Dome offers modern Scottish cuisine in one of Edinburgh's most beautiful dining rooms with its impressive glass dome.",
+    "address": "14 George Street, Edinburgh EH2 2PF",
+    "phone": "+44 131 624 8624",
+    "website": "https://www.thedomeedinburgh.com",
+    "coordinates": {
+      "lat": 55.9533,
+      "lng": -3.1951
+    },
+    "openingHours": {
+      "monday": "12:00-00:00",
+      "tuesday": "12:00-00:00",
+      "wednesday": "12:00-00:00",
+      "thursday": "12:00-00:00",
+      "friday": "12:00-01:00",
+      "saturday": "12:00-01:00",
+      "sunday": "12:00-00:00"
+    },
+    "features": ["Georgian Architecture", "Glass Dome", "Grand Dining Room", "George Street"],
+    "images": ["/images/restaurants/edinburgh/dome-1.jpg"]
+  },
+  {
+    "id": "edinburgh-deacon-brodie-tavern",
+    "name": "Deacon Brodie's Tavern",
+    "slug": "deacon-brodie-tavern",
+    "cuisine": "Traditional Scottish",
+    "priceRange": "££",
+    "rating": 4.0,
+    "description": "A historic pub on the Royal Mile named after Edinburgh's infamous 18th-century character. Serves traditional Scottish fare including haggis, neeps and tatties, and fresh fish and chips.",
+    "address": "435 Lawnmarket, Edinburgh EH1 2NT",
+    "phone": "+44 131 225 6531",
+    "website": "https://www.nicholsonspubs.co.uk",
+    "coordinates": {
+      "lat": 55.9490,
+      "lng": -3.1936
+    },
+    "openingHours": {
+      "monday": "10:00-01:00",
+      "tuesday": "10:00-01:00",
+      "wednesday": "10:00-01:00",
+      "thursday": "10:00-01:00",
+      "friday": "10:00-01:00",
+      "saturday": "10:00-01:00",
+      "sunday": "10:00-01:00"
+    },
+    "features": ["Historic Pub", "Royal Mile", "Traditional Scottish", "Historic Character"],
+    "images": ["/images/restaurants/edinburgh/deacon-brodie-1.jpg"]
+  },
+  {
+    "id": "edinburgh-fhior",
+    "name": "Fhior",
+    "slug": "fhior",
+    "cuisine": "Modern Scottish",
+    "priceRange": "££££",
+    "rating": 4.6,
+    "description": "A contemporary restaurant focusing on hyper-local Scottish ingredients with innovative cooking techniques. Chef Scott Smith creates unique dishes celebrating Scotland's natural larder.",
+    "address": "36 Broughton Street, Edinburgh EH1 3SB",
+    "phone": "+44 131 477 5000",
+    "website": "https://www.fhior.com",
+    "coordinates": {
+      "lat": 55.9572,
+      "lng": -3.1889
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "18:30-21:30",
+      "thursday": "18:30-21:30",
+      "friday": "18:30-21:30",
+      "saturday": "18:30-21:30",
+      "sunday": "Closed"
+    },
+    "features": ["Hyper-Local Ingredients", "Innovative Techniques", "Contemporary", "Scottish Larder"],
+    "images": ["/images/restaurants/edinburgh/fhior-1.jpg"]
+  },
+  {
+    "id": "edinburgh-howies",
+    "name": "Howies",
+    "slug": "howies",
+    "cuisine": "Modern Scottish",
+    "priceRange": "£££",
+    "rating": 4.1,
+    "description": "A beloved Edinburgh institution serving modern Scottish cuisine with an emphasis on local produce. Known for its warm atmosphere and consistent quality across multiple locations.",
+    "address": "10-14 Victoria Street, Edinburgh EH1 2HG",
+    "phone": "+44 131 225 1721",
+    "website": "https://www.howies.uk.com",
+    "coordinates": {
+      "lat": 55.9479,
+      "lng": -3.1920
+    },
+    "openingHours": {
+      "monday": "12:00-22:00",
+      "tuesday": "12:00-22:00",
+      "wednesday": "12:00-22:00",
+      "thursday": "12:00-22:00",
+      "friday": "12:00-22:30",
+      "saturday": "12:00-22:30",
+      "sunday": "12:00-21:30"
+    },
+    "features": ["Edinburgh Institution", "Local Produce", "Warm Atmosphere", "Victoria Street"],
+    "images": ["/images/restaurants/edinburgh/howies-1.jpg"]
+  },
+  {
+    "id": "edinburgh-amber-restaurant",
+    "name": "Amber Restaurant",
+    "slug": "amber-restaurant",
+    "cuisine": "Scottish",
+    "priceRange": "£££",
+    "rating": 4.3,
+    "description": "Located in the Scotch Whisky Heritage Centre, Amber specializes in modern Scottish cuisine paired with premium whiskies. Features stunning views of Edinburgh Castle and the Royal Mile.",
+    "address": "354 Castlehill, Edinburgh EH1 2NE",
+    "phone": "+44 131 477 8477",
+    "website": "https://www.amber-restaurant.co.uk",
+    "coordinates": {
+      "lat": 55.9483,
+      "lng": -3.1953
+    },
+    "openingHours": {
+      "monday": "12:00-21:30",
+      "tuesday": "12:00-21:30",
+      "wednesday": "12:00-21:30",
+      "thursday": "12:00-21:30",
+      "friday": "12:00-22:00",
+      "saturday": "12:00-22:00",
+      "sunday": "12:00-21:30"
+    },
+    "features": ["Castle Views", "Whisky Pairing", "Heritage Centre", "Royal Mile"],
+    "images": ["/images/restaurants/edinburgh/amber-1.jpg"]
+  },
+  {
+    "id": "edinburgh-the-devil-advocate",
+    "name": "The Devil's Advocate",
+    "slug": "the-devil-advocate",
+    "cuisine": "Scottish",
+    "priceRange": "££",
+    "rating": 4.2,
+    "description": "A cozy basement bar and restaurant serving Scottish comfort food with an extensive whisky selection. Known for its intimate atmosphere and expertly crafted cocktails.",
+    "address": "9 Advocates Close, Edinburgh EH1 1ND",
+    "phone": "+44 131 225 4465",
+    "website": "https://www.devilsadvocateedinburgh.co.uk",
+    "coordinates": {
+      "lat": 55.9499,
+      "lng": -3.1902
+    },
+    "openingHours": {
+      "monday": "12:00-01:00",
+      "tuesday": "12:00-01:00",
+      "wednesday": "12:00-01:00",
+      "thursday": "12:00-01:00",
+      "friday": "12:00-01:00",
+      "saturday": "12:00-01:00",
+      "sunday": "12:00-01:00"
+    },
+    "features": ["Basement Bar", "Whisky Selection", "Intimate Atmosphere", "Scottish Comfort Food"],
+    "images": ["/images/restaurants/edinburgh/devils-advocate-1.jpg"]
+  },
+  {
+    "id": "edinburgh-castle-terrace",
+    "name": "Castle Terrace",
+    "slug": "castle-terrace",
+    "cuisine": "Modern European",
+    "priceRange": "££££",
+    "rating": 4.7,
+    "description": "A Michelin-starred restaurant offering modern European cuisine with Scottish influences. Chef Dominic Jack creates sophisticated dishes using the finest local ingredients.",
+    "address": "33-35 Castle Terrace, Edinburgh EH1 2EL",
+    "phone": "+44 131 229 1222",
+    "website": "https://www.castleterrace.com",
+    "coordinates": {
+      "lat": 55.9470,
+      "lng": -3.2014
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "12:00-14:00, 18:30-21:30",
+      "wednesday": "12:00-14:00, 18:30-21:30",
+      "thursday": "12:00-14:00, 18:30-21:30",
+      "friday": "12:00-14:00, 18:30-21:30",
+      "saturday": "12:00-14:00, 18:30-21:30",
+      "sunday": "Closed"
+    },
+    "features": ["Michelin Star", "Modern European", "Scottish Influences", "Fine Dining"],
+    "images": ["/images/restaurants/edinburgh/castle-terrace-1.jpg"]
+  },
+  {
+    "id": "edinburgh-timberyard",
+    "name": "Timberyard",
+    "slug": "timberyard",
+    "cuisine": "Modern Scottish",
+    "priceRange": "££££",
+    "rating": 4.4,
+    "description": "Set in a converted warehouse, Timberyard offers innovative Scottish cuisine with a focus on sustainability and local foraging. Known for its unique atmosphere and creative approach to seasonal ingredients.",
+    "address": "10 Lady Lawson Street, Edinburgh EH3 9DS",
+    "phone": "+44 131 221 1222",
+    "website": "https://www.timberyard.co",
+    "coordinates": {
+      "lat": 55.9456,
+      "lng": -3.2048
+    },
+    "openingHours": {
+      "monday": "Closed",
+      "tuesday": "Closed",
+      "wednesday": "18:00-21:30",
+      "thursday": "18:00-21:30",
+      "friday": "18:00-21:30",
+      "saturday": "18:00-21:30",
+      "sunday": "Closed"
+    },
+    "features": ["Converted Warehouse", "Sustainable", "Local Foraging", "Innovative Cuisine"],
+    "images": ["/images/restaurants/edinburgh/timberyard-1.jpg"]
+  },
+  {
+    "id": "edinburgh-mother-india",
+    "name": "Mother India",
+    "slug": "mother-india",
+    "cuisine": "Indian",
+    "priceRange": "££",
+    "rating": 4.2,
+    "description": "Authentic Indian cuisine serving traditional dishes from various regions of India. Popular for its flavorful curries, tandoor specialties, and warm hospitality in a cozy setting.",
+    "address": "3-5 Infirmary Street, Edinburgh EH1 1LT",
+    "phone": "+44 131 524 9801",
+    "website": "https://www.motherindia.co.uk",
+    "coordinates": {
+      "lat": 55.9500,
+      "lng": -3.1850
+    },
+    "openingHours": {
+      "monday": "17:30-23:00",
+      "tuesday": "17:30-23:00",
+      "wednesday": "17:30-23:00",
+      "thursday": "17:30-23:00",
+      "friday": "17:30-23:30",
+      "saturday": "17:30-23:30",
+      "sunday": "17:30-23:00"
+    },
+    "features": ["Authentic Indian", "Regional Specialties", "Tandoor Dishes", "Warm Hospitality"],
+    "images": ["/images/restaurants/edinburgh/mother-india-1.jpg"]
+  }
+]

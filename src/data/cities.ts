@@ -468,6 +468,84 @@ export const cities: City[] = [
     ],
     featuredRestaurants: ["bangalore-karavalli", "bangalore-mtr", "bangalore-toit"],
     totalRestaurants: 6
+  },
+  {
+    id: "oxford-uk",
+    name: "Oxford",
+    country: "United Kingdom", 
+    description: "The famous university city offers a sophisticated dining scene blending traditional English fare with international cuisines. From historic pubs to modern gastropubs and fine dining establishments, Oxford caters to students, academics, and food lovers alike.",
+    tagline: "Academic excellence meets culinary sophistication in England's historic university town.",
+    heroImage: "/images/cities/oxford-hero.jpg",
+    coordinates: {
+      lat: 51.7520,
+      lng: -1.2577
+    },
+    seoTitle: "Best Restaurants in Oxford | Top Dining Spots Near University",
+    seoDescription: "Discover Oxford's best restaurants from traditional pubs to fine dining. Find top-rated places to eat near Oxford University and city center.",
+    seoKeywords: [
+      "restaurants Oxford",
+      "best restaurants Oxford",
+      "Oxford dining",
+      "restaurants near Oxford University",
+      "gastropubs Oxford",
+      "fine dining Oxford",
+      "where to eat Oxford",
+      "Oxford food guide"
+    ],
+    featuredRestaurants: ["oxford-le-manoir-aux-quat-saisons", "oxford-cherwell-boathouse"],
+    totalRestaurants: 12
+  },
+  {
+    id: "cambridge-uk", 
+    name: "Cambridge",
+    country: "United Kingdom",
+    description: "Home to one of the world's oldest universities, Cambridge combines academic tradition with a vibrant food scene. Enjoy riverside dining, traditional tea rooms, innovative gastropubs, and restaurants serving cuisine from around the world.",
+    tagline: "Where academic tradition meets innovative dining along the River Cam.",
+    heroImage: "/images/cities/cambridge-hero.jpg",
+    coordinates: {
+      lat: 52.2053,
+      lng: 0.1218
+    },
+    seoTitle: "Best Restaurants in Cambridge | Top University City Dining",
+    seoDescription: "Discover Cambridge's best restaurants near the university. From traditional tea rooms to modern dining, find top-rated places to eat in this historic city.",
+    seoKeywords: [
+      "restaurants Cambridge",
+      "best restaurants Cambridge", 
+      "Cambridge dining",
+      "restaurants near Cambridge University",
+      "riverside dining Cambridge",
+      "tea rooms Cambridge",
+      "where to eat Cambridge",
+      "Cambridge food guide"
+    ],
+    featuredRestaurants: ["cambridge-midsummer-house", "cambridge-restaurant-alimentum"],
+    totalRestaurants: 11
+  },
+  {
+    id: "edinburgh-uk",
+    name: "Edinburgh", 
+    country: "United Kingdom",
+    description: "Scotland's capital city offers a rich culinary heritage featuring traditional Scottish fare alongside international cuisine. From whisky bars and traditional pubs to Michelin-starred establishments and modern Scottish restaurants, Edinburgh's food scene reflects its historic charm and cultural vibrancy.",
+    tagline: "Scotland's capital where traditional Highland cuisine meets modern culinary innovation.",
+    heroImage: "/images/cities/edinburgh-hero.jpg", 
+    coordinates: {
+      lat: 55.9533,
+      lng: -3.1883
+    },
+    seoTitle: "Best Restaurants in Edinburgh | Top Scottish Dining Spots",
+    seoDescription: "Discover Edinburgh's best restaurants featuring traditional Scottish cuisine and international dining. Find top-rated places to eat in Scotland's capital.",
+    seoKeywords: [
+      "restaurants Edinburgh",
+      "best restaurants Edinburgh",
+      "Edinburgh dining", 
+      "Scottish restaurants Edinburgh",
+      "whisky bars Edinburgh",
+      "fine dining Edinburgh",
+      "where to eat Edinburgh",
+      "Edinburgh food guide"
+    ],
+    featuredRestaurants: ["edinburgh-the-witchery", "edinburgh-restaurant-martin-wishart"],
+    totalRestaurants: 13
   }
 ];
 

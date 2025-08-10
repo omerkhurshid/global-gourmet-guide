@@ -63,11 +63,11 @@ export default function Home() {
           {/* Enhanced Stats with Location Context */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center mb-16">
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">160</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">196</div>
               <div className={`text-xs text-black uppercase ${styles.statsNumber}`}>RESTAURANTS</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">18</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">21</div>
               <div className={`text-xs text-black uppercase ${styles.statsNumber}`}>CITIES</div>
             </div>
             <div>
