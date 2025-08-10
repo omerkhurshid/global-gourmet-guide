@@ -48,8 +48,7 @@ export default function Home() {
               NEAR YOU
             </h2>
             <p className={`text-sm sm:text-base text-black max-w-2xl mx-auto mb-16 leading-relaxed tracking-wide px-4 ${styles.heroDescription}`}>
-              Curated dining experiences<br />
-              in top cities worldwide
+              Find the best restaurants near you with expert reviews and recommendations from 160+ top dining spots across 18 cities worldwide. Discover amazing local restaurants, from fine dining to hidden gems.
             </p>
           </div>
           
