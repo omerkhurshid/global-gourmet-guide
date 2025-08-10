@@ -22,6 +22,7 @@ export function Navigation() {
         <div className="flex justify-between items-center h-20">
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-3">
+            <Logo size="lg" />
             <div className="text-black leading-tight">
               <div className="text-xl font-black" style={{letterSpacing: '-0.02em'}}>GLOBAL GOURMET GUIDE</div>
             </div>
