@@ -120,11 +120,11 @@ export default function Home() {
         <div className={styles.mainContent}>
           {/* Main Content Area */}
           <div className={styles.contentArea}>
-            <div className="text-center mb-20">
-              <h2 className={`text-5xl md:text-7xl font-black text-black mb-6 ${styles.sectionTitle}`}>
+            <div className="text-center mb-16">
+              <h2 className={`text-4xl md:text-5xl font-black text-black mb-4 ${styles.sectionTitleReduced}`}>
                 EXPLORE CITIES
               </h2>
-              <div className="w-24 h-px mx-auto mb-6 bg-black"></div>
+              <div className="w-20 h-px mx-auto mb-4 bg-black"></div>
               <p className={`text-sm max-w-xl mx-auto ${styles.sectionDescription}`}>
                 TOP CULINARY DESTINATIONS WORLDWIDE
               </p>
@@ -135,6 +135,15 @@ export default function Home() {
 
           {/* Featured Sidebar */}
           <div className={styles.sidebar}>
+            <div className="mb-8">
+              <h2 className={`font-black text-center mb-4 ${styles.featuredSectionTitle}`}>
+                FEATURED DESTINATIONS
+              </h2>
+              <div className="w-16 h-px mx-auto bg-gray-400"></div>
+              <p className="text-xs text-gray-500 text-center mt-3 uppercase tracking-wide">
+                Curated picks & spotlights
+              </p>
+            </div>
             <FeaturedSidebar />
           </div>
         </div>
