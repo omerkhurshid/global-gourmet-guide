@@ -155,7 +155,7 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
           Discover More
         </h3>
         <p className="text-xs text-gray-300 leading-tight">
-          Explore 196+ curated restaurants across 21 cities worldwide
+          Explore 173+ curated restaurants across 21 cities worldwide
         </p>
       </div>
     </div>

@@ -1,6 +1,9 @@
 import { Restaurant } from "@/data/types"
 // UK restaurants
 import londonRestaurantsData from "@/data/restaurants/uk/london.json"
+import oxfordRestaurantsData from "@/data/restaurants/uk/oxford.json"
+import cambridgeRestaurantsData from "@/data/restaurants/uk/cambridge.json"
+import edinburghRestaurantsData from "@/data/restaurants/uk/edinburgh.json"
 // Pakistani restaurants
 import lahoreRestaurantsData from "@/data/restaurants/pakistan/lahore.json"
 import karachiRestaurantsData from "@/data/restaurants/pakistan/karachi.json"
@@ -25,6 +28,9 @@ import bangaloreRestaurantsData from "@/data/restaurants/india/bangalore.json"
 
 // Type assertion to ensure the imported JSON matches our Restaurant interface
 export const londonRestaurants: Restaurant[] = londonRestaurantsData as Restaurant[]
+export const oxfordRestaurants: Restaurant[] = oxfordRestaurantsData as Restaurant[]
+export const cambridgeRestaurants: Restaurant[] = cambridgeRestaurantsData as Restaurant[]
+export const edinburghRestaurants: Restaurant[] = edinburghRestaurantsData as Restaurant[]
 export const lahoreRestaurants: Restaurant[] = lahoreRestaurantsData as Restaurant[]
 export const karachiRestaurants: Restaurant[] = karachiRestaurantsData as Restaurant[]
 export const faisalabadRestaurants: Restaurant[] = faisalabadRestaurantsData as Restaurant[]
@@ -46,6 +52,9 @@ export const bangaloreRestaurants: Restaurant[] = bangaloreRestaurantsData as Re
 // Map city slugs to restaurant data
 export const restaurantData: Record<string, Restaurant[]> = {
   london: londonRestaurants,
+  oxford: oxfordRestaurants,
+  cambridge: cambridgeRestaurants,
+  edinburgh: edinburghRestaurants,
   lahore: lahoreRestaurants,
   karachi: karachiRestaurants,
   faisalabad: faisalabadRestaurants,

@@ -1,328 +1,191 @@
 [
   {
     "id": "oxford-le-manoir-aux-quat-saisons",
-    "name": "Le Manoir aux Quat'Saisons", 
-    "slug": "le-manoir-aux-quat-saisons",
-    "cuisine": "French",
-    "priceRange": "£££££",
-    "rating": 4.8,
+    "name": "Le Manoir aux Quat'Saisons",
     "description": "Raymond Blanc's legendary two-Michelin-starred restaurant set in a beautiful manor house with stunning gardens. An unforgettable fine dining experience featuring contemporary French cuisine with the finest seasonal ingredients.",
-    "address": "Church Road, Great Milton, Oxford OX44 7PD",
-    "phone": "+44 1844 278881",
-    "website": "https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons",
-    "coordinates": {
+    "reviewSummary": "Two Michelin stars aren't just accolades—they're a testament to Raymond Blanc's extraordinary vision where French culinary excellence meets English countryside charm in perfect harmony.",
+    "cuisine": ["Modern French", "Fine Dining"],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 892,
+    "address": {
+      "street": "Church Road, Great Milton",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX44 7PD"
+    },
+    "location": {
       "lat": 51.7234,
       "lng": -1.1489
     },
-    "openingHours": {
-      "monday": "19:30-21:30",
-      "tuesday": "19:30-21:30", 
-      "wednesday": "12:30-14:00, 19:30-21:30",
-      "thursday": "12:30-14:00, 19:30-21:30",
-      "friday": "12:30-14:00, 19:30-21:30",
-      "saturday": "12:30-14:00, 19:30-21:30",
-      "sunday": "12:30-14:00, 19:30-21:30"
+    "contact": {
+      "phone": "+44 1844 278881",
+      "website": "https://www.belmond.com/hotels/europe/uk/oxfordshire/belmond-le-manoir-aux-quat-saisons",
+      "email": ""
     },
-    "features": ["Fine Dining", "Michelin Starred", "Garden Dining", "Private Dining"],
-    "spotlight": true,
-    "images": ["/images/restaurants/oxford/le-manoir-1.jpg"]
+    "images": {
+      "hero": "🏰",
+      "gallery": []
+    },
+    "features": ["Two Michelin Stars", "Garden Dining", "Manor House", "Raymond Blanc"],
+    "specialties": ["Contemporary French cuisine", "Seasonal ingredients", "Garden-to-table", "Tasting menus"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Michelin Guide", "Local Research"],
+    "seoKeywords": ["Le Manoir Oxford", "Raymond Blanc", "Michelin starred Oxford", "fine dining Oxford"],
+    "spotlight": {
+      "title": "Two Michelin Stars in the English Countryside",
+      "excerpt": "Raymond Blanc's culinary masterpiece combines French technique with English garden beauty.",
+      "introduction": "Nestled in the Oxfordshire countryside, Le Manoir aux Quat'Saisons represents the pinnacle of fine dining excellence.",
+      "sections": [
+        {
+          "heading": "Culinary Excellence",
+          "content": ["Two Michelin stars showcase exceptional French cuisine", "Seasonal menus featuring garden-fresh ingredients"]
+        }
+      ],
+      "locations": ["Great Milton", "Oxford"],
+      "menuHighlights": {
+        "Signature": "Garden-to-table French cuisine"
+      },
+      "tips": ["Book well in advance", "Consider the tasting menu", "Explore the beautiful gardens"],
+      "finalVerdict": "A truly exceptional fine dining experience that justifies its legendary reputation.",
+      "author": "Restaurant Guide",
+      "publishDate": "2025-01-10"
+    }
   },
   {
     "id": "oxford-cherwell-boathouse",
     "name": "Cherwell Boathouse",
-    "slug": "cherwell-boathouse", 
-    "cuisine": "Modern British",
-    "priceRange": "£££",
-    "rating": 4.5,
     "description": "An iconic Oxford restaurant situated on the banks of the River Cherwell, offering modern British cuisine with French influences. Famous for its romantic setting and excellent Sunday lunch overlooking the water.",
-    "address": "Bardwell Road, Oxford OX2 6ST",
-    "phone": "+44 1865 552746",
-    "website": "https://www.cherwellboathouse.co.uk",
-    "coordinates": {
+    "reviewSummary": "Riverside dining at its finest, where modern British cuisine meets romantic Oxford charm in one of the city's most beloved settings.",
+    "cuisine": ["Modern British", "European"],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 456,
+    "address": {
+      "street": "Bardwell Road",
+      "city": "Oxford", 
+      "country": "United Kingdom",
+      "postalCode": "OX2 6ST"
+    },
+    "location": {
       "lat": 51.7669,
       "lng": -1.2684
     },
-    "openingHours": {
-      "monday": "Closed",
-      "tuesday": "18:00-22:00",
-      "wednesday": "18:00-22:00", 
-      "thursday": "18:00-22:00",
-      "friday": "18:00-22:00",
-      "saturday": "12:00-14:30, 18:00-22:00",
-      "sunday": "12:00-15:00, 18:00-21:30"
+    "contact": {
+      "phone": "+44 1865 552746",
+      "website": "https://www.cherwellboathouse.co.uk",
+      "email": ""
     },
-    "features": ["Riverside Dining", "Romantic", "Sunday Lunch", "Private Dining"],
-    "spotlight": true,
-    "images": ["/images/restaurants/oxford/cherwell-boathouse-1.jpg"]
+    "images": {
+      "hero": "🚣",
+      "gallery": []
+    },
+    "features": ["Riverside Dining", "Romantic Setting", "Sunday Lunch", "Oxford Icon"],
+    "specialties": ["Modern British cuisine", "Sunday roasts", "River views", "Seasonal menus"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Local Guide", "Oxford Tourism"],
+    "seoKeywords": ["Cherwell Boathouse Oxford", "riverside dining Oxford", "romantic restaurants Oxford", "Sunday lunch Oxford"]
   },
   {
     "id": "oxford-gees-restaurant",
     "name": "Gee's Restaurant",
-    "slug": "gees-restaurant",
-    "cuisine": "Modern European", 
-    "priceRange": "£££",
-    "rating": 4.3,
     "description": "Housed in a beautiful Victorian conservatory, Gee's offers modern European cuisine in a unique glass-roofed setting. Known for its elegant atmosphere and seasonal menu featuring locally sourced ingredients.",
-    "address": "61 Banbury Road, Oxford OX2 6PE",
-    "phone": "+44 1865 553540",
-    "website": "https://www.gees-restaurant.co.uk",
-    "coordinates": {
+    "reviewSummary": "Victorian elegance meets contemporary dining in Oxford's most beautiful glass conservatory restaurant.",
+    "cuisine": ["Modern European", "British"],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 623,
+    "address": {
+      "street": "61 Banbury Road",
+      "city": "Oxford",
+      "country": "United Kingdom", 
+      "postalCode": "OX2 6PE"
+    },
+    "location": {
       "lat": 51.7625,
       "lng": -1.2589
     },
-    "openingHours": {
-      "monday": "12:00-14:30, 18:00-22:00",
-      "tuesday": "12:00-14:30, 18:00-22:00",
-      "wednesday": "12:00-14:30, 18:00-22:00",
-      "thursday": "12:00-14:30, 18:00-22:00",
-      "friday": "12:00-14:30, 18:00-22:30",
-      "saturday": "12:00-14:30, 18:00-22:30", 
-      "sunday": "12:00-16:00, 18:00-21:30"
+    "contact": {
+      "phone": "+44 1865 553540",
+      "website": "https://www.gees-restaurant.co.uk",
+      "email": ""
     },
-    "features": ["Victorian Conservatory", "Seasonal Menu", "Local Ingredients", "Special Occasions"],
-    "images": ["/images/restaurants/oxford/gees-1.jpg"]
+    "images": {
+      "hero": "🏛️",
+      "gallery": []
+    },
+    "features": ["Victorian Conservatory", "Glass Roof", "Local Ingredients", "Historic Setting"],
+    "specialties": ["Modern European cuisine", "Seasonal menus", "Conservatory dining", "Local produce"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Restaurant Guide", "Oxford Dining"],
+    "seoKeywords": ["Gees Restaurant Oxford", "Victorian conservatory dining", "glass roof restaurant Oxford", "modern European Oxford"]
   },
   {
     "id": "oxford-the-oxford-kitchen",
     "name": "The Oxford Kitchen",
-    "slug": "the-oxford-kitchen",
-    "cuisine": "Modern British",
-    "priceRange": "£££",
-    "rating": 4.4,
     "description": "A contemporary restaurant in the heart of Oxford offering modern British cuisine with innovative twists. The open kitchen creates an engaging dining experience with seasonal menus and expertly crafted dishes.",
-    "address": "215 Banbury Road, Summertown, Oxford OX2 7HQ",
-    "phone": "+44 1865 511149", 
-    "website": "https://www.theoxfordkitchen.co.uk",
-    "coordinates": {
+    "reviewSummary": "Innovative modern British cuisine served with theatrical flair in an engaging open kitchen setting.",
+    "cuisine": ["Modern British", "Contemporary"],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 389,
+    "address": {
+      "street": "215 Banbury Road, Summertown",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX2 7HQ"
+    },
+    "location": {
       "lat": 51.7738,
       "lng": -1.2565
     },
-    "openingHours": {
-      "monday": "Closed",
-      "tuesday": "18:00-21:30",
-      "wednesday": "18:00-21:30",
-      "thursday": "18:00-21:30",
-      "friday": "18:00-22:00",
-      "saturday": "12:00-14:00, 18:00-22:00",
-      "sunday": "12:00-15:00"
+    "contact": {
+      "phone": "+44 1865 511149",
+      "website": "https://www.theoxfordkitchen.co.uk",
+      "email": ""
     },
-    "features": ["Open Kitchen", "Seasonal Menu", "Contemporary", "Local Ingredients"],
-    "images": ["/images/restaurants/oxford/oxford-kitchen-1.jpg"]
+    "images": {
+      "hero": "👨‍🍳",
+      "gallery": []
+    },
+    "features": ["Open Kitchen", "Contemporary Dining", "Seasonal Menu", "Summertown Location"],
+    "specialties": ["Modern British cuisine", "Open kitchen experience", "Seasonal ingredients", "Innovative presentations"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Oxford Guide", "Restaurant Reviews"],
+    "seoKeywords": ["Oxford Kitchen restaurant", "open kitchen Oxford", "modern British Summertown", "contemporary dining Oxford"]
   },
   {
     "id": "oxford-kazbar",
     "name": "Kazbar",
-    "slug": "kazbar",
-    "cuisine": "Tapas",
-    "priceRange": "££", 
-    "rating": 4.2,
     "description": "A vibrant tapas bar bringing Spanish flavors to Oxford with an extensive selection of authentic tapas, paella, and Spanish wines. Known for its lively atmosphere and excellent sharing plates.",
-    "address": "25-27 Cowley Road, Oxford OX4 1HP",
-    "phone": "+44 1865 202920",
-    "website": "https://www.kazbar.co.uk",
-    "coordinates": {
+    "reviewSummary": "Authentic Spanish tapas culture thrives in Oxford's most vibrant Mediterranean dining destination.",
+    "cuisine": ["Spanish", "Tapas"],
+    "priceLevel": "$",
+    "rating": 4.2,
+    "reviewCount": 567,
+    "address": {
+      "street": "25-27 Cowley Road",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX4 1HP"
+    },
+    "location": {
       "lat": 51.7461,
       "lng": -1.2397
     },
-    "openingHours": {
-      "monday": "17:30-23:00",
-      "tuesday": "17:30-23:00",
-      "wednesday": "17:30-23:00",
-      "thursday": "17:30-23:00", 
-      "friday": "17:30-00:30",
-      "saturday": "12:00-00:30",
-      "sunday": "12:00-22:30"
+    "contact": {
+      "phone": "+44 1865 202920",
+      "website": "https://www.kazbar.co.uk",
+      "email": ""
     },
-    "features": ["Tapas", "Spanish Wines", "Vibrant Atmosphere", "Sharing Plates"],
-    "images": ["/images/restaurants/oxford/kazbar-1.jpg"]
-  },
-  {
-    "id": "oxford-atomic-burger",
-    "name": "Atomic Burger",
-    "slug": "atomic-burger",
-    "cuisine": "American",
-    "priceRange": "££",
-    "rating": 4.3,
-    "description": "Oxford's most unique burger joint with an atomic-age theme and creative burger combinations. Popular with students and locals for its quirky decor, milkshakes, and generous portions.",
-    "address": "92 Cowley Road, Oxford OX4 1JE",
-    "phone": "+44 1865 790855",
-    "website": "https://www.atomicburger.co.uk",
-    "coordinates": {
-      "lat": 51.7447,
-      "lng": -1.2365
+    "images": {
+      "hero": "🥘",
+      "gallery": []
     },
-    "openingHours": {
-      "monday": "12:00-22:00",
-      "tuesday": "12:00-22:00",
-      "wednesday": "12:00-22:00",
-      "thursday": "12:00-22:00",
-      "friday": "12:00-23:00",
-      "saturday": "12:00-23:00",
-      "sunday": "12:00-21:00"
-    },
-    "features": ["Quirky Theme", "Creative Burgers", "Milkshakes", "Student Friendly"],
-    "images": ["/images/restaurants/oxford/atomic-burger-1.jpg"]
-  },
-  {
-    "id": "oxford-the-rickety-press",
-    "name": "The Rickety Press",
-    "slug": "the-rickety-press",
-    "cuisine": "Gastropub",
-    "priceRange": "££",
-    "rating": 4.1,
-    "description": "A popular gastropub on Cranham Street offering excellent British comfort food, craft beers, and a warm welcoming atmosphere. Known for its Sunday roasts and seasonal British menu.",
-    "address": "67 Cranham Street, Oxford OX2 6DE",
-    "phone": "+44 1865 424581",
-    "website": "https://www.thericketypress.com", 
-    "coordinates": {
-      "lat": 51.7598,
-      "lng": -1.2601
-    },
-    "openingHours": {
-      "monday": "17:00-23:00",
-      "tuesday": "17:00-23:00",
-      "wednesday": "17:00-23:00",
-      "thursday": "17:00-23:00",
-      "friday": "17:00-23:00",
-      "saturday": "12:00-23:00",
-      "sunday": "12:00-22:30"
-    },
-    "features": ["Sunday Roast", "Craft Beer", "British Comfort Food", "Cozy Atmosphere"],
-    "images": ["/images/restaurants/oxford/rickety-press-1.jpg"]
-  },
-  {
-    "id": "oxford-arbequina",
-    "name": "Arbequina",
-    "slug": "arbequina",
-    "cuisine": "Spanish",
-    "priceRange": "£££",
-    "rating": 4.4,
-    "description": "An authentic Spanish restaurant offering traditional Andalusian cuisine with modern presentation. Features an excellent selection of Spanish wines and sherries alongside classic dishes like paella and jamón ibérico.",
-    "address": "31 Walton Street, Oxford OX2 6AA",
-    "phone": "+44 1865 792777",
-    "website": "https://www.arbequina.co.uk",
-    "coordinates": {
-      "lat": 51.7575,
-      "lng": -1.2634
-    },
-    "openingHours": {
-      "monday": "Closed",
-      "tuesday": "18:00-22:00",
-      "wednesday": "18:00-22:00",
-      "thursday": "18:00-22:00",
-      "friday": "18:00-22:30",
-      "saturday": "18:00-22:30",
-      "sunday": "12:00-15:00"
-    },
-    "features": ["Authentic Spanish", "Wine Selection", "Paella", "Intimate Setting"],
-    "images": ["/images/restaurants/oxford/arbequina-1.jpg"]
-  },
-  {
-    "id": "oxford-the-eagle-and-child", 
-    "name": "The Eagle and Child",
-    "slug": "the-eagle-and-child",
-    "cuisine": "Traditional British",
-    "priceRange": "££",
-    "rating": 4.0,
-    "description": "Historic pub famous as the meeting place of J.R.R. Tolkien and C.S. Lewis's 'Inklings' group. Offers traditional British pub fare in a setting steeped in literary history.",
-    "address": "49 St Giles, Oxford OX1 3LU", 
-    "phone": "+44 1865 302925",
-    "website": "https://www.nicholsonspubs.co.uk/restaurants/oxfordshire/theeagleandchildoxford",
-    "coordinates": {
-      "lat": 51.7556,
-      "lng": -1.2589
-    },
-    "openingHours": {
-      "monday": "11:00-23:00",
-      "tuesday": "11:00-23:00",
-      "wednesday": "11:00-23:00",
-      "thursday": "11:00-23:00",
-      "friday": "11:00-23:00",
-      "saturday": "11:00-23:00",
-      "sunday": "12:00-22:30"
-    },
-    "features": ["Historic Pub", "Literary Heritage", "Traditional Atmosphere", "Pub Food"],
-    "images": ["/images/restaurants/oxford/eagle-child-1.jpg"]
-  },
-  {
-    "id": "oxford-edamame",
-    "name": "edamame",
-    "slug": "edamame",
-    "cuisine": "Japanese", 
-    "priceRange": "££",
-    "rating": 4.2,
-    "description": "A contemporary Japanese restaurant offering fresh sushi, sashimi, and modern Japanese dishes. Popular for its lunch sets, bento boxes, and authentic flavors in a minimalist setting.",
-    "address": "15 Holywell Street, Oxford OX1 3SA",
-    "phone": "+44 1865 246916",
-    "website": "https://www.edamame.co.uk",
-    "coordinates": {
-      "lat": 51.7536,
-      "lng": -1.2523
-    },
-    "openingHours": {
-      "monday": "12:00-14:30, 18:00-22:00",
-      "tuesday": "12:00-14:30, 18:00-22:00", 
-      "wednesday": "12:00-14:30, 18:00-22:00",
-      "thursday": "12:00-14:30, 18:00-22:00",
-      "friday": "12:00-14:30, 18:00-22:30",
-      "saturday": "12:00-14:30, 18:00-22:30",
-      "sunday": "18:00-21:30"
-    },
-    "features": ["Fresh Sushi", "Bento Boxes", "Minimalist Design", "Authentic Japanese"],
-    "images": ["/images/restaurants/oxford/edamame-1.jpg"]
-  },
-  {
-    "id": "oxford-purple-turtle",
-    "name": "The Purple Turtle",
-    "slug": "purple-turtle",
-    "cuisine": "International", 
-    "priceRange": "£",
-    "rating": 3.9,
-    "description": "A laid-back bar and eatery popular with students, offering international comfort food, cocktails, and live music. Known for its relaxed atmosphere and affordable prices.",
-    "address": "57-58 High Street, Oxford OX1 4AS",
-    "phone": "+44 1865 247783",
-    "website": "https://www.purpleturtle.co.uk",
-    "coordinates": {
-      "lat": 51.7520,
-      "lng": -1.2544
-    },
-    "openingHours": {
-      "monday": "12:00-02:00",
-      "tuesday": "12:00-02:00",
-      "wednesday": "12:00-02:00",
-      "thursday": "12:00-02:00",
-      "friday": "12:00-02:00",
-      "saturday": "12:00-02:00",
-      "sunday": "12:00-00:00"
-    },
-    "features": ["Live Music", "Cocktails", "Student Friendly", "Late Night"],
-    "images": ["/images/restaurants/oxford/purple-turtle-1.jpg"]
-  },
-  {
-    "id": "oxford-quod-restaurant",
-    "name": "Quod Restaurant & Bar",
-    "slug": "quod-restaurant",
-    "cuisine": "Modern European",
-    "priceRange": "£££",
-    "rating": 4.1,
-    "description": "A stylish brasserie-style restaurant located in the Old Bank Hotel, offering modern European cuisine in an elegant setting. Popular for business lunches and special occasions with its sophisticated atmosphere.",
-    "address": "92-94 High Street, Oxford OX1 4BJ",
-    "phone": "+44 1865 202505",
-    "website": "https://www.quod.co.uk",
-    "coordinates": {
-      "lat": 51.7519,
-      "lng": -1.2542
-    },
-    "openingHours": {
-      "monday": "07:00-22:00",
-      "tuesday": "07:00-22:00",
-      "wednesday": "07:00-22:00",
-      "thursday": "07:00-22:00",
-      "friday": "07:00-22:30",
-      "saturday": "08:00-22:30",
-      "sunday": "08:00-21:30"
-    },
-    "features": ["Hotel Restaurant", "Business Dining", "Elegant Setting", "All Day Dining"],
-    "images": ["/images/restaurants/oxford/quod-1.jpg"]
+    "features": ["Spanish Tapas", "Lively Atmosphere", "Spanish Wines", "Cowley Road"],
+    "specialties": ["Authentic tapas", "Paella", "Spanish wines", "Sharing plates"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Spanish Restaurant Guide", "Oxford Dining"],
+    "seoKeywords": ["Kazbar Oxford", "Spanish tapas Oxford", "Cowley Road restaurants", "paella Oxford"]
   }
 ]
