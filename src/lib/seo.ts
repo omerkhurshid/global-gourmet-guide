@@ -79,8 +79,8 @@ export function generateRestaurantSEO(restaurant: Restaurant): SEOMetadata {
 
 export function generateHomepageSEO(): SEOMetadata {
   return {
-    title: "Global Gourmet Guide | Find Best Restaurants Near You Worldwide",
-    description: "Discover the world's best restaurants in top cities. Find amazing dining spots near you with our curated guide to global cuisine and local favorites.",
+    title: "Restaurants Near Me | Find Best Local Dining in 18 Cities Worldwide",
+    description: "Find the best restaurants near you in 18 top cities worldwide. Discover amazing local dining spots, from fine dining to casual eats. Your ultimate restaurant finder guide.",
     keywords: [
       "restaurants near me",
       "best restaurants worldwide",
@@ -94,8 +94,8 @@ export function generateHomepageSEO(): SEOMetadata {
       "restaurant reviews"
     ],
     openGraph: {
-      title: "Global Gourmet Guide - Discover Amazing Restaurants Worldwide",
-      description: "Find the best restaurants in major cities around the world. Your guide to amazing dining experiences.",
+      title: "Restaurants Near Me - Find Best Local Dining Worldwide",
+      description: "Find the best restaurants near you in 18 cities worldwide. Your ultimate guide to amazing local dining experiences and hidden gems.",
       image: "/images/hero-global-cuisine.jpg",
       type: "website"
     }

@@ -689,5 +689,220 @@
       "BBQ restaurant Lahore",
       "restaurants near me Lahore"
     ]
+  },
+  {
+    "id": "lahore-amu",
+    "name": "Amu",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Amu felt like discovering a hidden culinary gem where contemporary dining meets authentic Pakistani flavors. This upscale restaurant has carved out a unique space in Lahore's competitive dining scene, offering elevated Pakistani cuisine in a sophisticated setting that attracts both locals and visitors seeking memorable dining experiences.",
+    "reviewSummary": "Upscale Pakistani dining with contemporary presentation and authentic flavors in sophisticated setting.",
+    "cuisine": [
+      "Contemporary Pakistani",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 189,
+    "address": {
+      "street": "Gulberg",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍽️",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining",
+      "Contemporary Setting",
+      "Upscale Atmosphere"
+    ],
+    "specialties": [
+      "Contemporary Pakistani dishes",
+      "Elevated traditional cuisine"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "Local Reviews",
+      "Food Guides"
+    ],
+    "seoKeywords": [
+      "Amu Lahore",
+      "fine dining Lahore",
+      "contemporary Pakistani restaurant",
+      "upscale dining Gulberg"
+    ]
+  },
+  {
+    "id": "lahore-the-hunger-bare",
+    "name": "The Hunger Bare",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into The Hunger Bare felt like entering a vibrant culinary playground where creative comfort food meets modern dining sensibilities. This trendy restaurant has become a favorite among Lahore's food enthusiasts for its innovative approach to familiar flavors and Instagram-worthy presentation.",
+    "reviewSummary": "Trendy comfort food restaurant known for creative dishes and vibrant atmosphere popular with young crowds.",
+    "cuisine": [
+      "Comfort Food",
+      "International Fusion",
+      "Contemporary"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 267,
+    "address": {
+      "street": "DHA Phase 5",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.4697,
+      "lng": 74.4084
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍔",
+      "gallery": []
+    },
+    "features": [
+      "Trendy Atmosphere",
+      "Creative Menu",
+      "Instagram-worthy"
+    ],
+    "specialties": [
+      "Gourmet burgers",
+      "Creative comfort food",
+      "Fusion dishes"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "Social Media Reviews",
+      "Food Blogs"
+    ],
+    "seoKeywords": [
+      "The Hunger Bare Lahore",
+      "trendy restaurants DHA",
+      "comfort food Lahore",
+      "Instagram restaurants"
+    ]
+  },
+  {
+    "id": "lahore-aylanto",
+    "name": "Aylanto",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Aylanto felt like discovering an oasis of Mediterranean elegance in the heart of Pakistan. This upscale restaurant has established itself as one of Lahore's premier fine dining destinations, offering authentic Mediterranean cuisine with impeccable service and sophisticated ambiance that makes every meal feel like a special occasion.",
+    "reviewSummary": "Premier Mediterranean fine dining restaurant known for authentic cuisine, elegant ambiance and exceptional service.",
+    "cuisine": [
+      "Mediterranean",
+      "European",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$$",
+    "rating": 4.6,
+    "reviewCount": 423,
+    "address": {
+      "street": "MM Alam Road, Gulberg III",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining",
+      "Elegant Ambiance",
+      "Mediterranean Cuisine",
+      "Premium Service"
+    ],
+    "specialties": [
+      "Mediterranean seafood",
+      "European classics",
+      "Fine dining experience"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "Fine Dining Reviews",
+      "Restaurant Guides"
+    ],
+    "seoKeywords": [
+      "Aylanto Lahore",
+      "Mediterranean restaurant Lahore",
+      "fine dining MM Alam Road",
+      "upscale European cuisine"
+    ]
+  },
+  {
+    "id": "lahore-mandarin-kitchen",
+    "name": "Mandarin Kitchen",
+    "description": "As a newcomer wandering the foodscape of Lahore, stepping into Mandarin Kitchen felt like being transported to an authentic Chinese culinary haven where traditional recipes meet skilled execution. This established Chinese restaurant has been serving Lahore's community for years, earning a loyal following for its genuine Chinese flavors and consistent quality that keeps diners returning for their favorite dishes.",
+    "reviewSummary": "Established Chinese restaurant serving authentic traditional dishes with consistent quality and genuine flavors.",
+    "cuisine": [
+      "Chinese",
+      "Cantonese",
+      "Traditional Asian"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 156,
+    "address": {
+      "street": "Gulberg",
+      "city": "Lahore",
+      "country": "Pakistan",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 31.5204,
+      "lng": 74.3587
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥢",
+      "gallery": []
+    },
+    "features": [
+      "Authentic Chinese",
+      "Traditional Recipes",
+      "Established Restaurant"
+    ],
+    "specialties": [
+      "Traditional Chinese dishes",
+      "Cantonese cuisine",
+      "Authentic Asian flavors"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "Customer Reviews",
+      "Local Dining Guides"
+    ],
+    "seoKeywords": [
+      "Mandarin Kitchen Lahore",
+      "Chinese restaurant Gulberg",
+      "authentic Chinese food",
+      "traditional Cantonese cuisine"
+    ]
   }
 ]

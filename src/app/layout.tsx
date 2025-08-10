@@ -97,7 +97,14 @@ export default function RootLayout({
       <body className={`${inter.variable} font-sans antialiased bg-gray-50`}>
         <StructuredData 
           type="website" 
-          data={{}} 
+          data={{
+            name: "Restaurants Near Me",
+            url: "https://restaurantsnearme.tech",
+            description: "Find the best restaurants near you in 18 cities worldwide. Discover amazing local dining spots, from fine dining to casual eats.",
+            totalRestaurants: 160,
+            totalCities: 18,
+            totalCountries: 5
+          }} 
         />
         <Navigation />
         <main>{children}</main>

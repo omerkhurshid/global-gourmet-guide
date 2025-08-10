@@ -5,6 +5,7 @@ import { CityHero } from "@/components/features/city-hero"
 import { RestaurantCard } from "@/components/features/restaurant-card"
 import { AdSenseAd } from "@/components/features/adsense"
 import { Button } from "@/components/ui/button"
+import { Breadcrumb, generateCityBreadcrumb } from "@/components/features/breadcrumb"
 import { cities } from "@/data/cities"
 import { generateCitySEO } from "@/lib/seo"
 import { generateCitySlug } from "@/lib/utils"
@@ -96,6 +97,10 @@ export default async function CityPage({ params }: CityPageProps) {
       {/* Restaurant Listings */}
       <section className="py-24">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Breadcrumb Navigation */}
+          <div className="mb-8">
+            <Breadcrumb items={generateCityBreadcrumb(city.name)} />
+          </div>
           {/* Section Header */}
           <div className="mb-16 text-center">
             <h2 className="text-4xl md:text-6xl font-black text-black mb-6 tracking-tight uppercase">

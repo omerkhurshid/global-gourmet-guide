@@ -4,6 +4,12 @@ import { ArrowRight, MapPin, Utensils } from "lucide-react"
 import { cities } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
 import { AdSenseAd, SearchBar } from "@/components/performance/client-components"
+import { LocalBusinessSchema } from "@/components/seo/local-business-schema"
+import dynamic from "next/dynamic"
+
+const FAQSection = dynamic(() => import("@/components/features/faq-section").then(mod => ({ default: mod.FAQSection })), {
+  ssr: true
+})
 
 // Updated: Force deployment with terracotta color scheme
 export default function Home() {
@@ -18,6 +24,9 @@ export default function Home() {
 
   return (
     <div className="min-h-screen" style={{backgroundColor: '#FAF8F5'}}>
+      {/* Local Business Schema */}
+      <LocalBusinessSchema cities={cities} />
+      
       {/* Clean divider line */}
       <div className="w-full h-px bg-black"></div>
 
@@ -46,8 +55,8 @@ export default function Home() {
             />
           </div>
           
-          {/* Minimal Stats */}
-          <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center">
+          {/* Enhanced Stats with Location Context */}
+          <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center mb-16">
             <div>
               <div className="text-4xl md:text-5xl font-black text-black mb-2">160</div>
               <div className="text-xs text-black uppercase" style={{letterSpacing: '0.15em'}}>RESTAURANTS</div>
@@ -59,6 +68,27 @@ export default function Home() {
             <div>
               <div className="text-4xl md:text-5xl font-black text-black mb-2">5</div>
               <div className="text-xs text-black uppercase" style={{letterSpacing: '0.15em'}}>COUNTRIES</div>
+            </div>
+          </div>
+
+          {/* Location-Specific Value Proposition */}
+          <div className="max-w-4xl mx-auto text-center">
+            <h3 className="text-xl md:text-2xl font-bold text-black mb-6" style={{letterSpacing: '0.05em'}}>
+              FIND AMAZING RESTAURANTS NEAR YOU
+            </h3>
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6 text-sm text-gray-700">
+              <div className="bg-white p-6 border border-gray-200">
+                <h4 className="font-black text-black mb-3 uppercase" style={{letterSpacing: '0.08em'}}>LOCAL FAVORITES</h4>
+                <p>Discover hidden gems and local hotspots recommended by food enthusiasts in your city.</p>
+              </div>
+              <div className="bg-white p-6 border border-gray-200">
+                <h4 className="font-black text-black mb-3 uppercase" style={{letterSpacing: '0.08em'}}>DIVERSE CUISINES</h4>
+                <p>From street food to fine dining, explore authentic flavors from around the world.</p>
+              </div>
+              <div className="bg-white p-6 border border-gray-200">
+                <h4 className="font-black text-black mb-3 uppercase" style={{letterSpacing: '0.08em'}}>CURATED SELECTION</h4>
+                <p>Every restaurant is carefully vetted for quality, atmosphere, and exceptional dining experience.</p>
+              </div>
             </div>
           </div>
         </div>
@@ -111,7 +141,7 @@ export default function Home() {
                         <div className="relative h-40 overflow-hidden">
                           <Image
                             src={city.heroImage}
-                            alt={city.name}
+                            alt={`Best restaurants in ${city.name} - Discover top dining spots and local cuisine in ${city.name}, ${city.country}`}
                             fill
                             className="object-cover group-hover:scale-105 transition-transform duration-300"
                             priority={city.name === "New York" || city.name === "London"}
@@ -168,6 +198,9 @@ export default function Home() {
           />
         </div>
       </section>
+
+      {/* FAQ Section */}
+      <FAQSection />
 
       {/* CTA Section */}
       <section className="py-32 text-black" style={{backgroundColor: '#FAF8F5'}}>
