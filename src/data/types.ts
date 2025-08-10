@@ -65,6 +65,7 @@ export interface City {
   name: string;
   country: string;
   description: string;
+  tagline: string; // Short one-liner for city tiles
   heroImage: string;
   coordinates: {
     lat: number;

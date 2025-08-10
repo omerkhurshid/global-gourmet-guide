@@ -6,6 +6,7 @@ export const cities: City[] = [
     name: "London",
     country: "United Kingdom",
     description: "A culinary capital offering everything from traditional British fare to innovative international cuisine. Discover Michelin-starred restaurants, historic pubs, and vibrant food markets.",
+    tagline: "From historic pubs to Michelin stars, London's dining scene reigns supreme.",
     heroImage: "/images/cities/london-hero.jpg",
     coordinates: {
       lat: 51.5074,
@@ -31,6 +32,7 @@ export const cities: City[] = [
     name: "Lahore",
     country: "Pakistan",
     description: "The cultural and culinary heart of Pakistan, famous for its rich Mughlai cuisine, traditional BBQ, and vibrant food street culture. Experience authentic flavors and centuries-old recipes.",
+    tagline: "Pakistan's food capital where Mughlai flavors and street food culture thrive.",
     heroImage: "/images/cities/lahore-hero.jpg",
     coordinates: {
       lat: 31.5497,
@@ -56,6 +58,7 @@ export const cities: City[] = [
     name: "New York",
     country: "United States",
     description: "The ultimate dining destination with cuisines from every corner of the world. From iconic delis to Michelin-starred establishments, NYC offers unparalleled culinary diversity.",
+    tagline: "The world's culinary playground where every cuisine finds its perfect expression.",
     heroImage: "/images/cities/new-york-hero.jpg",
     coordinates: {
       lat: 40.7128,
@@ -81,6 +84,7 @@ export const cities: City[] = [
     name: "Karachi",
     country: "Pakistan", 
     description: "Pakistan's largest city and commercial hub, offering a diverse food scene with the best biryani, seafood, and street food. Experience the flavors of this vibrant coastal metropolis.",
+    tagline: "Coastal flavors meet legendary biryani in Pakistan's bustling metropolis.",
     heroImage: "/images/cities/karachi-hero.jpg",
     coordinates: {
       lat: 24.8607,
@@ -106,6 +110,7 @@ export const cities: City[] = [
     name: "Paris",
     country: "France",
     description: "The world's culinary capital, home to legendary bistros, patisseries, and Michelin-starred restaurants. Experience the art of French dining and discover why Paris sets the global standard for cuisine.",
+    tagline: "Where culinary artistry was born and continues to set global standards.",
     heroImage: "/images/cities/paris-hero.jpg",
     coordinates: {
       lat: 48.8566,
@@ -131,6 +136,7 @@ export const cities: City[] = [
     name: "Nice",
     country: "France",
     description: "The jewel of the French Riviera, where Mediterranean cuisine meets Michelin-starred excellence. From traditional Niçoise specialties to innovative fine dining, discover the culinary treasures of the Côte d'Azur.",
+    tagline: "French Riviera elegance meets Mediterranean sunshine on every plate.",
     heroImage: "/images/cities/nice-hero.jpg",
     coordinates: {
       lat: 43.7102,
@@ -156,6 +162,7 @@ export const cities: City[] = [
     name: "Lyon",
     country: "France", 
     description: "France's gastronomic capital, where traditional bouchons meet innovative Michelin-starred cuisine. From Paul Bocuse's legendary restaurant to trendy bistros, Lyon offers the complete spectrum of French culinary excellence.",
+    tagline: "France's gastronomic capital where bouchon traditions meet culinary innovation.",
     heroImage: "/images/cities/lyon-hero.jpg",
     coordinates: {
       lat: 45.7640,
@@ -181,6 +188,7 @@ export const cities: City[] = [
     name: "Strasbourg",
     country: "France",
     description: "Where French finesse meets Germanic heartiness in Alsatian cuisine. Experience traditional winstubs, Michelin-starred innovation, and the unique flavors of this historic crossroads city.",
+    tagline: "French elegance meets Germanic tradition in Europe's culinary crossroads.",
     heroImage: "/images/cities/strasbourg-hero.jpg",
     coordinates: {
       lat: 48.5734,
@@ -206,6 +214,7 @@ export const cities: City[] = [
     name: "Los Angeles",
     country: "United States",
     description: "A dynamic food scene reflecting the city's diversity, from food trucks to celebrity chef restaurants. Experience innovative California cuisine, authentic ethnic foods, and trendy dining spots.",
+    tagline: "California's diverse culinary landscape from food trucks to celebrity chefs.",
     heroImage: "/images/cities/los-angeles-hero.jpg",
     coordinates: {
       lat: 34.0522,
@@ -231,6 +240,7 @@ export const cities: City[] = [
     name: "Mumbai",
     country: "India",
     description: "India's financial capital offers an incredible street food scene alongside fine dining. From iconic vada pav to upscale restaurants, Mumbai's food culture is diverse and vibrant.",
+    tagline: "Street food paradise where vada pav meets world-class fine dining.",
     heroImage: "/images/cities/mumbai-hero.jpg",
     coordinates: {
       lat: 19.0760,
@@ -256,6 +266,7 @@ export const cities: City[] = [
     name: "Delhi",
     country: "India",
     description: "India's capital is a paradise for food lovers, offering everything from Mughlai cuisine to contemporary Indian fare. Experience the rich culinary heritage of Old Delhi and modern dining in New Delhi.",
+    tagline: "Where Mughlai heritage meets contemporary Indian culinary innovation.",
     heroImage: "/images/cities/delhi-hero.jpg",
     coordinates: {
       lat: 28.6139,
@@ -281,6 +292,7 @@ export const cities: City[] = [
     name: "Faisalabad",
     country: "Pakistan",
     description: "Pakistan's textile capital offers a growing food scene with traditional Punjabi cuisine, modern restaurants, and family-friendly dining spots. Experience authentic Pakistani flavors in this industrial hub.",
+    tagline: "Traditional Punjabi flavors in Pakistan's bustling industrial heartland.",
     heroImage: "/images/cities/faisalabad-hero.jpg",
     coordinates: {
       lat: 31.4504,
@@ -306,6 +318,7 @@ export const cities: City[] = [
     name: "Peshawar",
     country: "Pakistan",
     description: "The historic city of Peshawar offers authentic Pashtun cuisine, famous chappal kebabs, and traditional Afghan-influenced dishes. Experience the rich culinary heritage of Pakistan's ancient city.",
+    tagline: "Ancient Silk Road flavors with legendary chappal kebabs and Afghan influences.",
     heroImage: "/images/cities/peshawar-hero.jpg",
     coordinates: {
       lat: 34.0151,
@@ -331,6 +344,7 @@ export const cities: City[] = [
     name: "Gujranwala",
     country: "Pakistan",
     description: "Known as the city of wrestlers, Gujranwala offers hearty Punjabi cuisine, traditional BBQ, and family-style dining. Experience authentic Pakistani flavors in this historic Punjabi city.",
+    tagline: "Hearty Punjabi cuisine in the legendary city of champions.",
     heroImage: "/images/cities/gujranwala-hero.jpg",
     coordinates: {
       lat: 32.1877,
@@ -356,6 +370,7 @@ export const cities: City[] = [
     name: "Chicago",
     country: "United States",
     description: "America's culinary playground where innovation meets tradition. From molecular gastronomy at Michelin-starred temples to neighborhood gems serving creative fusion, Chicago's diverse food scene reflects the city's immigrant heritage and bold spirit.",
+    tagline: "Bold culinary innovation meets deep-dish tradition in the Windy City.",
     heroImage: "/images/cities/chicago-hero.jpg",
     coordinates: {
       lat: 41.8781,
@@ -381,6 +396,7 @@ export const cities: City[] = [
     name: "Houston",
     country: "United States",
     description: "A sprawling culinary landscape where Texas BBQ meets global flavors. Houston's diverse population has created an incredible food scene featuring everything from legendary barbecue joints to upscale Mexican and innovative Asian cuisine.",
+    tagline: "Texas BBQ tradition meets global culinary diversity in Space City.",
     heroImage: "/images/cities/houston-hero.jpg",
     coordinates: {
       lat: 29.7604,
@@ -406,6 +422,7 @@ export const cities: City[] = [
     name: "San Francisco",
     country: "United States",
     description: "California's culinary capital where innovation and sustainability drive an extraordinary dining scene. From Michelin-starred temples of gastronomy to experimental communal dining, San Francisco pushes culinary boundaries while celebrating local ingredients.",
+    tagline: "Where culinary innovation meets sustainability in the Golden State.",
     heroImage: "/images/cities/san-francisco-hero.jpg",
     coordinates: {
       lat: 37.7749,
@@ -431,6 +448,7 @@ export const cities: City[] = [
     name: "Bangalore",
     country: "India",
     description: "India's Silicon Valley combines tech innovation with incredible culinary diversity. From traditional South Indian breakfast spots to craft breweries and fine dining, Bangalore's food scene reflects its cosmopolitan character and young energy.",
+    tagline: "Tech innovation meets South Indian tradition in India's Silicon Valley.",
     heroImage: "/images/cities/bangalore-hero.jpg",
     coordinates: {
       lat: 12.9716,

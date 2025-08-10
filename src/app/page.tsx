@@ -157,7 +157,8 @@ export default function Home() {
                         </div>
                         
                         <div className="p-4">
-                          <h4 className="text-sm font-black text-center text-black" style={{letterSpacing: '0.1em'}}>{city.name.toUpperCase()}</h4>
+                          <h4 className="text-sm font-black text-center text-black mb-2" style={{letterSpacing: '0.1em'}}>{city.name.toUpperCase()}</h4>
+                          <p className="text-xs text-gray-600 text-center leading-tight" style={{letterSpacing: '0.02em'}}>{city.tagline}</p>
                         </div>
                       </div>
                     </Link>
