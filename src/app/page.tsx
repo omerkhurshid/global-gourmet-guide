@@ -14,7 +14,6 @@ const FAQSection = dynamic(() => import("@/components/features/faq-section").the
 })
 
 const CityGrid = dynamic(() => import("@/components/features/city-grid").then(mod => ({ default: mod.CityGrid })), {
-  ssr: false,
   loading: () => <div className="animate-pulse bg-gray-200 h-96 rounded"></div>
 })
 
