@@ -84,7 +84,26 @@
     "specialties": ["Modern British cuisine", "Sunday roasts", "River views", "Seasonal menus"],
     "lastUpdated": "2025-01-10",
     "sources": ["Local Guide", "Oxford Tourism"],
-    "seoKeywords": ["Cherwell Boathouse Oxford", "riverside dining Oxford", "romantic restaurants Oxford", "Sunday lunch Oxford"]
+    "seoKeywords": ["Cherwell Boathouse Oxford", "riverside dining Oxford", "romantic restaurants Oxford", "Sunday lunch Oxford"],
+    "spotlight": {
+      "title": "Romance on the River: A Perfect Day at Cherwell Boathouse",
+      "excerpt": "Oxford's most romantic dining destination combines riverside magic with exceptional modern British cuisine.",
+      "introduction": "Cherwell Boathouse represents everything magical about Oxford dining, where romance and cuisine unite.",
+      "sections": [
+        {
+          "heading": "Riverside Romance",
+          "content": ["Stunning River Cherwell views create perfect romantic ambiance", "Punters gliding by add to the quintessentially Oxford atmosphere"]
+        }
+      ],
+      "locations": ["Bardwell Road", "Oxford"],
+      "menuHighlights": {
+        "Signature": "Modern British cuisine with riverside views"
+      },
+      "tips": ["Book riverside tables well in advance", "Perfect for special occasions", "Lovely Sunday lunch setting"],
+      "finalVerdict": "Oxford's most romantic dining experience with exceptional food and magical riverside views.",
+      "author": "Oxford Guide",
+      "publishDate": "2025-01-10"
+    }
   },
   {
     "id": "oxford-gees-restaurant",
@@ -157,7 +176,7 @@
   {
     "id": "oxford-kazbar",
     "name": "Kazbar",
-    "description": "A vibrant tapas bar bringing Spanish flavors to Oxford with an extensive selection of authentic tapas, paella, and Spanish wines. Known for its lively atmosphere and excellent sharing plates.",
+    "description": "Stepping into Kazbar feels like discovering a hidden corner of Andalusia right in the heart of Oxford's vibrant Cowley Road. This isn't just another tapas bar—it's a passionate celebration of Spanish culture where every small plate tells a story of sun-drenched villages and time-honored traditions. The moment you settle in, you're transported by the authentic buzz of Spanish conversation, the clink of glasses filled with excellent Rioja, and the intoxicating aroma of garlic, paprika, and olive oil that fills the air. The patatas bravas arrive crispy and golden, topped with a sauce that has just the right amount of heat to make you reach for your glass of Tempranillo. Each dish feels like a small revelation of authentic Spanish flavors, prepared with the kind of care and attention that makes you understand why tapas culture has conquered the world.",
     "reviewSummary": "Authentic Spanish tapas culture thrives in Oxford's most vibrant Mediterranean dining destination.",
     "cuisine": ["Spanish", "Tapas"],
     "priceLevel": "$",
@@ -191,7 +210,7 @@
   {
     "id": "oxford-the-trout-inn",
     "name": "The Trout Inn",
-    "description": "A historic riverside inn dating back to 1133, offering traditional British cuisine in a stunning Thames-side setting. Famous for its peacocks roaming the garden and connections to literary figures like Lewis Carroll.",
+    "description": "The Trout Inn isn't just a restaurant—it's a living piece of English history where nearly 900 years of stories echo through every stone wall and every bend of the Thames that flows peacefully past your table. As you walk through the ancient doorway, you're following in the footsteps of literary giants like Lewis Carroll and countless scholars who found inspiration in this magical riverside sanctuary. The peacocks that roam the gardens aren't just decoration—they're the living embodiment of the whimsical English countryside spirit that makes this place so enchanting. Sitting on the terrace with a pint of proper English ale, watching the river flow and the peacocks strut, while savoring hearty British classics like their legendary fish and chips, you understand why this place has been capturing hearts for nearly a millennium. This is England at its most romantic and timeless.",
     "reviewSummary": "Historic charm meets riverside dining at this 900-year-old inn, where literary legends once gathered and peacocks still roam the enchanting gardens.",
     "cuisine": ["Traditional British", "Gastropub"],
     "priceLevel": "$$",
@@ -225,7 +244,7 @@
   {
     "id": "oxford-quod-restaurant",
     "name": "Quod Restaurant & Bar",
-    "description": "A stylish brasserie in the heart of Oxford's city center, offering modern European cuisine in a sophisticated setting. Located in the historic Old Bank Hotel with an elegant interior and excellent wine selection.",
+    "description": "Quod Restaurant & Bar embodies everything sophisticated about Oxford dining, where the historic grandeur of the Old Bank Hotel creates the perfect backdrop for modern European cuisine that feels both cosmopolitan and comfortingly familiar. The moment you enter this elegant High Street establishment, you're struck by the perfect balance of historic architecture and contemporary style—exposed brick walls and soaring ceilings create an atmosphere that whispers of Oxford's scholarly traditions while embracing the energy of modern city life. The menu reads like a love letter to European culinary traditions, with each dish executed with the kind of precision and flair that makes business lunches feel celebratory and romantic dinners utterly unforgettable. Whether you're enjoying a perfectly prepared coq au vin or their signature beef tenderloin, accompanied by wines from their carefully curated selection, every meal feels like a sophisticated journey through Europe's finest culinary traditions.",
     "reviewSummary": "Sophisticated city center dining where modern European cuisine meets elegant hotel ambiance in Oxford's premier brasserie.",
     "cuisine": ["Modern European", "Brasserie"],
     "priceLevel": "$$",
@@ -259,7 +278,7 @@
   {
     "id": "oxford-atomic-burger",
     "name": "Atomic Burger",
-    "description": "A quirky American-style diner with a rock and pop culture theme, serving gourmet burgers and milkshakes. Known for its fun atmosphere, vintage decor, and creative burger combinations.",
+    "description": "Atomic Burger is where nostalgia meets culinary creativity in the most delightfully unexpected way, transforming the simple American burger into an art form that pays homage to rock 'n' roll culture. Walking into this Cowley Road institution feels like stepping into a time machine that's been lovingly curated by music obsessives—vintage album covers line the walls, classic rock anthems provide the soundtrack, and every burger is named after a legendary song or artist. But don't let the playful theme fool you; these aren't novelty burgers but serious culinary creations. The 'Smells Like Teen Spirit' burger arrives as a towering masterpiece of perfectly seasoned beef, aged cheddar, and house-made sauces that create flavor combinations worthy of their musical namesakes. Paired with one of their legendary thick milkshakes and served in an atmosphere that celebrates everything joyful about rock culture, each meal becomes a celebration of both great music and exceptional comfort food.",
     "reviewSummary": "Rock 'n' roll meets gourmet burgers in Oxford's most fun dining destination, where vintage vibes and creative combinations create an unforgettable experience.",
     "cuisine": ["American", "Burgers"],
     "priceLevel": "$",
@@ -293,7 +312,7 @@
   {
     "id": "oxford-pierre-victoire",
     "name": "Pierre Victoire",
-    "description": "A cozy French bistro bringing authentic Parisian flavors to Oxford. Known for its traditional French cooking, intimate atmosphere, and excellent wine list featuring both classic and boutique French wines.",
+    "description": "Pierre Victoire is where Oxford discovers its Parisian soul, tucked away on charming Little Clarendon Street like a well-kept secret shared only among true Francophiles. This intimate bistro doesn't just serve French food—it recreates the very essence of Parisian dining culture, where every meal unfolds at a leisurely pace and conversation flows as freely as the excellent wines. The cozy interior, with its warm lighting and closely set tables, creates the kind of intimacy that makes strangers feel like old friends and transforms simple dinners into memorable evenings. The coq au vin arrives bubbling with rich, wine-dark sauce that speaks of hours of patient preparation, while the cheese selection represents a carefully curated journey through France's finest fromageries. Each dish is prepared with the kind of attention to traditional technique that transports you directly to a small bistro on a quiet Parisian side street, making this little corner of Oxford feel authentically, unmistakably French.",
     "reviewSummary": "Authentic French bistro charm flourishes in Oxford, where traditional Parisian cuisine and intimate ambiance create a perfect slice of France.",
     "cuisine": ["French", "Bistro"],
     "priceLevel": "$$",
@@ -327,7 +346,7 @@
   {
     "id": "oxford-dirty-bones",
     "name": "Dirty Bones",
-    "description": "A vibrant American-style restaurant serving comfort food with a modern twist. Famous for their mac 'n' cheese, bone marrow dishes, and creative cocktails in a lively, industrial-chic setting.",
+    "description": "Dirty Bones brings the soul of American comfort food to Oxford with an energy and creativity that makes every visit feel like a celebration. This isn't your typical American restaurant—it's a bold reimagining of what comfort food can be when treated with respect, creativity, and a healthy dose of rock 'n' roll attitude. The industrial-chic setting, with its exposed pipes and urban edge, creates the perfect backdrop for dishes that take familiar American classics and elevate them to unexpected heights. The legendary mac 'n' cheese isn't just a side dish here—it's a creamy, indulgent masterpiece that would make any Southern grandmother proud, while their bone marrow dishes showcase a commitment to nose-to-tail cooking that's both adventurous and deeply satisfying. Paired with their creative cocktails that blend classic American spirits with unexpected ingredients, every meal becomes an exploration of comfort food that's been reimagined for the modern palate.",
     "reviewSummary": "American comfort food gets a modern makeover in this vibrant Oxford hotspot, where mac 'n' cheese dreams meet cocktail culture.",
     "cuisine": ["American", "Comfort Food"],
     "priceLevel": "$$",
@@ -361,7 +380,7 @@
   {
     "id": "oxford-zheng-oxford",
     "name": "Zheng Oxford",
-    "description": "An authentic Chinese restaurant offering traditional Sichuan and Cantonese cuisine. Known for its hand-pulled noodles, dim sum, and spicy Sichuan dishes prepared by experienced Chinese chefs.",
+    "description": "Zheng Oxford is where authentic Chinese culinary traditions flourish in the heart of England's most scholarly city, bringing the fiery passion of Sichuan cooking and the refined elegance of Cantonese cuisine to discerning Oxford diners. Walking into this St Aldates establishment, you're immediately struck by the authenticity—this isn't fusion or adaptation, but the real thing, prepared by chefs who understand that true Chinese cooking requires patience, skill, and an unwavering respect for tradition. The hand-pulled noodles are made fresh throughout the day, each strand a testament to centuries of technique, while the Sichuan dishes arrive with the kind of complex heat that builds slowly on your palate, revealing layers of flavor that most Western interpretations never achieve. The mapo tofu delivers that perfect balance of silky texture and tingling spice that defines great Sichuan cooking, while the Cantonese dim sum represents the more delicate side of Chinese cuisine, with each dumpling crafted with precision and care."
     "reviewSummary": "Authentic Chinese flavors flourish in Oxford, where traditional Sichuan fire meets Cantonese finesse in expertly crafted dishes.",
     "cuisine": ["Chinese", "Sichuan"],
     "priceLevel": "$$",

@@ -55,7 +55,7 @@
   {
     "id": "cambridge-restaurant-alimentum",
     "name": "Restaurant Alimentum",
-    "description": "An award-winning fine dining restaurant offering modern European cuisine with creative presentation. Known for its innovative approach to seasonal British ingredients and exceptional service.",
+    "description": "Restaurant Alimentum is where culinary artistry meets scientific precision, creating a dining experience that feels distinctly Cambridge in its intellectual approach to flavor. This award-winning establishment doesn't just serve modern European cuisine—it crafts edible masterpieces that challenge and delight in equal measure. Each dish arrives as a small revelation, where familiar ingredients are transformed through innovative techniques that push the boundaries of what's possible on a plate. The seasonal British ingredients are treated with reverence and creativity, resulting in presentations that are as visually stunning as they are delicious. This is sophisticated dining that engages your mind as much as your palate, perfectly suited to a city that values both tradition and innovation.",
     "reviewSummary": "Award-winning fine dining that showcases the very best of modern European cuisine with creative British influences.",
     "cuisine": ["Modern European", "British"],
     "priceLevel": "$$",
@@ -157,7 +157,7 @@
   {
     "id": "cambridge-the-eagle",
     "name": "The Eagle",
-    "description": "A historic pub where DNA was discovered, offering traditional British fare in a setting steeped in scientific history. Famous for its WWII airmen signatures on the ceiling and classic pub atmosphere.",
+    "description": "The Eagle isn't just a pub—it's a living museum where scientific history was made and continues to inspire every pint pulled and every plate served. This is where Watson and Crick announced their discovery of DNA's structure, making it quite possibly the most intellectually significant pub in the world. The RAF room, with its ceiling covered in signatures from WWII airmen, creates an atmosphere thick with stories of courage, discovery, and the kind of conversations that change the world. The traditional British fare—hearty fish and chips, proper Sunday roasts, and perfectly kept ales—feels particularly meaningful in this historic setting, where you're dining in the footsteps of Nobel Prize winners and war heroes. Every meal here connects you to centuries of Cambridge intellectual tradition.",
     "reviewSummary": "Where scientific discovery meets traditional pub culture, this historic Cambridge institution offers more than just great food—it's a living piece of history.",
     "cuisine": ["Traditional British", "Pub Food"],
     "priceLevel": "$",
@@ -186,12 +186,31 @@
     "specialties": ["Fish and chips", "Traditional pub fare", "Real ales", "Historic atmosphere"],
     "lastUpdated": "2025-01-10",
     "sources": ["Cambridge History", "Historic Pubs"],
-    "seoKeywords": ["The Eagle Cambridge", "DNA pub Cambridge", "historic pub Cambridge", "Bene't Street restaurants"]
+    "seoKeywords": ["The Eagle Cambridge", "DNA pub Cambridge", "historic pub Cambridge", "Bene't Street restaurants"],
+    "spotlight": {
+      "title": "Where DNA Was Discovered: Dining at The Eagle",
+      "excerpt": "Cambridge's most historic pub combines scientific legacy with traditional British fare.",
+      "introduction": "The Eagle represents the intersection of science, history, and hospitality in Cambridge.",
+      "sections": [
+        {
+          "heading": "Scientific Legacy",
+          "content": ["Watson and Crick announced DNA discovery here", "RAF room with WWII airmen signatures adds historical depth"]
+        }
+      ],
+      "locations": ["Bene't Street", "Cambridge"],
+      "menuHighlights": {
+        "Signature": "Traditional British pub fare with historic atmosphere"
+      },
+      "tips": ["Visit the RAF room upstairs", "Look for the DNA plaque", "Perfect for history enthusiasts"],
+      "finalVerdict": "A living museum where scientific history meets exceptional pub tradition.",
+      "author": "Cambridge History Guide",
+      "publishDate": "2025-01-10"
+    }
   },
   {
     "id": "cambridge-the-pint-shop",
     "name": "The Pint Shop",
-    "description": "A modern gastropub offering craft beers and innovative British cuisine. Known for its extensive beer selection, charcuterie boards, and contemporary take on pub classics.",
+    "description": "The Pint Shop represents everything exciting about modern pub culture, where traditional British hospitality meets contemporary culinary innovation in the heart of Cambridge. This isn't just another gastropub—it's a celebration of craft beer culture and modern British cuisine that transforms familiar comfort food into something extraordinary. The extensive selection of craft beers, from local Cambridge brewers to innovative makers from across the UK, creates the perfect pairing for their elevated pub classics. The charcuterie boards are works of art featuring carefully selected British and European cured meats, while their innovative takes on traditional dishes remind you why pub food can be among the most satisfying cuisine when done with care and creativity. The atmosphere buzzes with the energy of locals, students, and visitors who all appreciate exceptional quality in a relaxed setting.",
     "reviewSummary": "Modern gastropub excellence where craft beer culture meets innovative British cuisine in Cambridge's most contemporary pub setting.",
     "cuisine": ["Modern British", "Gastropub"],
     "priceLevel": "$$",
@@ -225,7 +244,7 @@
   {
     "id": "cambridge-smokeworks",
     "name": "Smokeworks",
-    "description": "A barbecue restaurant specializing in American-style smoked meats and craft cocktails. Features a relaxed atmosphere with exposed brick walls and communal dining tables.",
+    "description": "Smokeworks brings the soul of American barbecue tradition to Cambridge with a dedication to slow-cooking perfection that would make any pitmaster proud. This isn't just about smoky meats—it's about patience, technique, and the kind of low-and-slow cooking philosophy that transforms tough cuts into tender revelations. The exposed brick walls and communal tables create an atmosphere that celebrates the social nature of barbecue culture, where sharing plates and making new friends over exceptional food feels natural and encouraged. The brisket arrives with that perfect pink smoke ring that serious barbecue lovers recognize as a mark of authentic technique, while the pulled pork melts in your mouth with layers of smoky complexity. Paired with craft cocktails that complement rather than compete with the bold flavors, this is comfort food elevated to an art form.",
     "reviewSummary": "American barbecue tradition meets British hospitality in Cambridge's premier smokehouse, where slow-cooked perfection defines every dish.",
     "cuisine": ["American", "Barbecue"],
     "priceLevel": "$$",
@@ -259,7 +278,7 @@
   {
     "id": "cambridge-the-cambridge-wine-merchants",
     "name": "The Cambridge Wine Merchants",
-    "description": "A wine bar and restaurant offering an extensive selection of wines paired with Mediterranean-inspired small plates. Features a cozy atmosphere perfect for wine lovers and intimate dining.",
+    "description": "The Cambridge Wine Merchants is where oenophiles discover their paradise, a intimate sanctuary where exceptional wines meet Mediterranean-inspired cuisine in perfect harmony. This isn't just a wine bar—it's a carefully curated journey through the world's finest vineyards, where each bottle tells a story and every glass is an education in terroir, tradition, and craftsmanship. The cozy atmosphere, with its warm lighting and intimate seating, creates the perfect environment for exploration and conversation, whether you're discovering a new favorite varietal or sharing a special bottle with someone important. The Mediterranean small plates are designed to complement rather than compete with the wines, featuring fresh ingredients and simple preparations that enhance the drinking experience. This is where wine lovers gather to celebrate their passion in an atmosphere that feels both sophisticated and welcoming.",
     "reviewSummary": "Wine enthusiasts find paradise in this intimate Cambridge venue, where Mediterranean flavors perfectly complement an exceptional wine selection.",
     "cuisine": ["Mediterranean", "Wine Bar"],
     "priceLevel": "$$",
@@ -293,7 +312,7 @@
   {
     "id": "cambridge-loch-fyne",
     "name": "Loch Fyne",
-    "description": "A Scottish seafood restaurant specializing in fresh fish and shellfish. Known for its sustainable sourcing, traditional Scottish preparations, and elegant dining room atmosphere.",
+    "description": "Loch Fyne brings the wild beauty of Scotland's coastal waters to Cambridge, where sustainable seafood meets traditional Scottish preparation methods in an elegant dining room that honors both the ingredients and their heritage. This isn't just about fresh fish—it's about understanding the story behind every catch, from the cold waters where it swam to the skilled hands that prepared it with time-honored Scottish techniques. The restaurant's commitment to sustainable sourcing means that every dish connects you to the health of Scotland's marine ecosystems, while the traditional preparations showcase centuries of Scottish culinary wisdom. The fresh oysters arrive tasting of the sea itself, while the smoked salmon represents generations of Scottish smoking expertise. Each meal feels like a celebration of Scotland's maritime bounty, prepared with respect for tradition and environment alike.",
     "reviewSummary": "Scottish seafood excellence reaches Cambridge, where sustainable sourcing meets traditional preparations in elegant surroundings.",
     "cuisine": ["Scottish", "Seafood"],
     "priceLevel": "$$",
@@ -327,7 +346,7 @@
   {
     "id": "cambridge-cote-cambridge",
     "name": "Côte Cambridge",
-    "description": "A French brasserie bringing authentic Parisian dining to Cambridge. Features classic French dishes, an all-day menu, and a sophisticated yet relaxed atmosphere.",
+    "description": "Côte Cambridge captures the timeless elegance of Parisian brasserie culture, where classic French dishes are prepared with the kind of consistency and care that makes each visit feel like a small vacation to France. This isn't fusion or interpretation—it's authentic French cooking that respects tradition while embracing the conviviality that makes brasserie dining so universally beloved. The all-day menu means you can indulge in a leisurely French breakfast, a proper business lunch, or a romantic dinner, each service maintaining the same commitment to authentic flavors and impeccable presentation. The steak frites arrives exactly as it should—perfectly cooked beef with golden, crispy frites that transport you directly to the streets of Paris, while the bouillabaisse showcases the depth and complexity that defines great French cooking. The sophisticated yet relaxed atmosphere creates the perfect backdrop for both intimate conversations and lively celebrations.",
     "reviewSummary": "Authentic French brasserie culture thrives in Cambridge, where Parisian classics meet British hospitality in sophisticated surroundings.",
     "cuisine": ["French", "Brasserie"],
     "priceLevel": "$$",
@@ -361,7 +380,7 @@
   {
     "id": "cambridge-nandos-cambridge",
     "name": "Nando's Cambridge",
-    "description": "A popular Portuguese-style chicken restaurant famous for its flame-grilled peri-peri chicken. Offers a casual dining experience with various spice levels and healthy options.",
+    "description": "Nando's Cambridge brings the vibrant flavors of Portuguese flame-grilled chicken to the historic university city, where peri-peri spice meets casual dining in an atmosphere that celebrates the joy of good food shared with friends. This isn't just fast-casual dining—it's a celebration of Portuguese culinary tradition, where each chicken is flame-grilled to perfection and basted with peri-peri sauce that ranges from mild and aromatic to fiery and challenging. The various spice levels mean everyone can find their perfect heat, while the commitment to quality sourcing and healthy preparation methods makes indulgence feel virtuous. The butterfly chicken arrives glistening and fragrant, with that distinctive char that only open-flame grilling can achieve, while the legendary chips provide the perfect accompaniment to the boldly spiced bird. This is comfort food that brings people together over shared plates and animated discussions about who can handle the hottest sauce."
     "reviewSummary": "Portuguese flame-grilled perfection comes to Cambridge, where peri-peri spice levels satisfy every palate in this casual dining favorite.",
     "cuisine": ["Portuguese", "Casual Dining"],
     "priceLevel": "$",

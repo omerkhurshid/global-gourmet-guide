@@ -89,7 +89,7 @@
   {
     "id": "edinburgh-ondine",
     "name": "Ondine",
-    "description": "Award-winning seafood restaurant specializing in the freshest Scottish fish and shellfish. Chef Roy Brett creates exceptional dishes celebrating Scotland's coastal waters in an elegant setting.",
+    "description": "Ondine is where Scotland's magnificent coastal bounty reaches its absolute pinnacle, transforming the finest Scottish seafood into culinary poetry that celebrates the wild beauty of Scotland's waters. Chef Roy Brett has created something extraordinary here—a restaurant that doesn't just serve fresh fish, but tells the complete story of Scotland's maritime heritage through every perfectly prepared dish. The moment the Isle of Skye langoustines arrive at your table, their sweet meat glistening and perfectly cooked, you understand that this isn't just seafood—it's a love letter to the cold, clean waters that surround Scotland. The Shetland mussels, plump and briny, taste of the North Sea itself, while the daily catch specials showcase the skills of both Scotland's fishermen and Brett's exceptional kitchen team. Each meal feels like a celebration of everything magnificent about Scottish coastal cuisine.",
     "reviewSummary": "Scotland's coastal bounty reaches its peak at Ondine, where Roy Brett's expertise transforms the finest Scottish seafood into culinary art.",
     "cuisine": ["Seafood", "Scottish"],
     "priceLevel": "$$",
@@ -157,7 +157,7 @@
   {
     "id": "edinburgh-number-one-restaurant",
     "name": "Number One Restaurant",
-    "description": "Edinburgh's only Michelin-starred hotel restaurant, located in The Balmoral Hotel. Chef Jeff Bland creates exceptional modern Scottish cuisine with French influences in elegant surroundings.",
+    "description": "Number One Restaurant stands as the crown jewel of Edinburgh hotel dining, where Chef Jeff Bland has created a Michelin-starred sanctuary that represents the very best of what happens when Scottish ingredients meet French culinary technique. Located within the legendary Balmoral Hotel, this intimate dining room embodies understated luxury, where every detail has been carefully considered to create an atmosphere that feels both grand and welcoming. The menu reads like a love letter to Scottish terroir, with each dish showcasing the finest ingredients from Scotland's larders and waters, transformed through classical French techniques into something truly transcendent. The Borders lamb arrives perfectly pink and tender, its natural flavors enhanced rather than masked, while the Scottish lobster is treated with the kind of respect and skill that justifies every accolade this restaurant has earned. This is destination dining that makes you proud of Scottish cuisine.",
     "reviewSummary": "Michelin-starred excellence at The Balmoral, where modern Scottish cuisine reaches extraordinary heights with French finesse and Scottish pride.",
     "cuisine": ["Modern Scottish", "Fine Dining"],
     "priceLevel": "$$$",
@@ -191,7 +191,7 @@
   {
     "id": "edinburgh-the-scotch-whisky-experience",
     "name": "Amber Restaurant",
-    "description": "Located within The Scotch Whisky Experience, offering modern Scottish cuisine with an extensive whisky selection. Features panoramic views over Edinburgh and whisky-paired dining experiences.",
+    "description": "Amber Restaurant offers the most uniquely Scottish dining experience imaginable, where exceptional modern Scottish cuisine meets the world's most comprehensive whisky education in a setting that overlooks the ancient beauty of Edinburgh. This isn't just dinner—it's an immersion into the very soul of Scottish culture, where each dish has been carefully crafted to complement the extensive whisky collection that represents centuries of Scottish distilling heritage. The panoramic views over Edinburgh create a backdrop that reminds you why this city has inspired poets and writers for generations, while the whisky-paired dining experiences offer a masterclass in how Scotland's national drink can enhance and elevate food. The Highland beef, aged to perfection, pairs beautifully with a rich, sherried Speyside malt, creating flavor combinations that showcase the genius of Scottish terroir. Every meal here becomes an education in what makes Scottish cuisine and whisky culture so special.",
     "reviewSummary": "Where Scottish cuisine meets whisky expertise, offering panoramic Edinburgh views with perfectly paired dining experiences.",
     "cuisine": ["Modern Scottish", "Whisky Bar"],
     "priceLevel": "$$",
@@ -225,7 +225,7 @@
   {
     "id": "edinburgh-fishers-bistro",
     "name": "Fishers Bistro",
-    "description": "A popular seafood restaurant in the heart of Edinburgh, known for fresh Scottish fish and shellfish. Offers a relaxed atmosphere with maritime decor and an excellent selection of wines.",
+    "description": "Fishers Bistro embodies the casual elegance of Scottish seafood dining, where the daily catch from Scotland's pristine waters is prepared with care and served in an atmosphere that celebrates the country's maritime heritage. This beloved Edinburgh institution doesn't need to shout about its quality—the freshness of the Shetland scallops and the perfect preparation of locally caught haddock speak volumes about the kitchen's commitment to showcasing Scottish seafood at its finest. The maritime decor isn't just themed decoration but a genuine celebration of Scotland's relationship with the sea, creating an atmosphere that feels both sophisticated and comfortably unpretentious. The wine selection has been carefully chosen to complement the clean, fresh flavors of the seafood, while the location in Leith adds an authentic dockside atmosphere that reminds you of Edinburgh's important maritime history. This is Scottish seafood dining as it should be—honest, fresh, and utterly delicious.",
     "reviewSummary": "Scottish seafood shines in this beloved Edinburgh bistro, where fresh catches meet relaxed maritime charm in the city center.",
     "cuisine": ["Scottish", "Seafood"],
     "priceLevel": "$$",
@@ -259,7 +259,7 @@
   {
     "id": "edinburgh-the-grain-store",
     "name": "The Grain Store",
-    "description": "A popular restaurant and bar offering modern Scottish cuisine in a converted Victorian building. Known for its relaxed atmosphere, extensive whisky selection, and hearty Scottish dishes.",
+    "description": "The Grain Store perfectly captures the evolution of Scottish dining, where traditional Victorian architecture houses modern Scottish cuisine that honors the past while embracing contemporary culinary techniques. This converted Victorian building creates an atmosphere that feels both historic and vibrantly current, where exposed stone walls and original architectural details provide the perfect backdrop for dishes that celebrate Scotland's incredible larder. The extensive whisky selection reads like a geography lesson in Scottish distilling, featuring bottles from every region and representing centuries of whisky-making tradition. The hearty Scottish dishes—think perfectly cooked haggis with a modern presentation, or Highland venison with seasonal vegetables—showcase how traditional Scottish cuisine can be elevated without losing its soul. The relaxed atmosphere encourages lingering over drams and conversation, creating the kind of dining experience that makes you understand why Scottish hospitality is legendary worldwide.",
     "reviewSummary": "Victorian charm meets modern Scottish cuisine in this beloved Edinburgh institution, where hearty dishes and fine whiskies create perfect harmony.",
     "cuisine": ["Modern Scottish", "Contemporary"],
     "priceLevel": "$$",
@@ -293,7 +293,7 @@
   {
     "id": "edinburgh-the-outsider",
     "name": "The Outsider",
-    "description": "A contemporary restaurant offering eclectic international cuisine with stunning views over Edinburgh Castle. Known for its creative dishes, relaxed atmosphere, and panoramic terrace.",
+    "description": "The Outsider offers one of Edinburgh's most spectacular dining experiences, where creative international cuisine meets breathtaking views of Edinburgh Castle in a setting that perfectly captures the cosmopolitan spirit of Scotland's capital. The panoramic terrace provides what might be the city's finest castle views, creating a backdrop that makes every meal feel like a special occasion. The eclectic international menu reflects Edinburgh's position as a global city, with dishes that draw inspiration from around the world while maintaining a focus on fresh, local ingredients and creative presentation. The relaxed atmosphere encourages you to linger over your meal, savoring both the food and the incredible views that unfold before you. Whether you're enjoying Asian-inspired dishes or Mediterranean-influenced preparations, each plate reflects the kitchen's commitment to creative, quality cooking that matches the spectacular setting.",
     "reviewSummary": "International flavors meet Edinburgh castle views in this contemporary restaurant, where creative cuisine and stunning vistas create memorable dining.",
     "cuisine": ["International", "Contemporary"],
     "priceLevel": "$$",
@@ -327,7 +327,7 @@
   {
     "id": "edinburgh-howies-restaurant",
     "name": "Howies Restaurant",
-    "description": "A Scottish restaurant celebrating local produce and traditional recipes with modern presentation. Features seasonal menus, local ingredients, and a warm, welcoming atmosphere.",
+    "description": "Howies Restaurant represents the heart and soul of modern Scottish dining, where traditional recipes meet contemporary presentation in a warm, welcoming atmosphere that makes you feel like you've been invited into someone's home. This beloved Edinburgh institution has built its reputation on celebrating the incredible bounty of Scottish produce, with seasonal menus that change to showcase the very best of what Scotland's farms, fields, and waters have to offer. The traditional recipes have been lovingly updated with modern techniques and presentation, creating dishes that honor Scottish culinary heritage while appealing to contemporary palates. The warm, welcoming atmosphere encourages you to relax and savor not just the exceptional food, but the genuine Scottish hospitality that makes every meal feel like a celebration of what makes Scottish dining culture so special. This is comfort food elevated to its finest expression.",
     "reviewSummary": "Scottish tradition meets contemporary presentation in this welcoming restaurant, where local produce and seasonal cooking celebrate Scotland's culinary heritage.",
     "cuisine": ["Scottish", "Traditional"],
     "priceLevel": "$$",
@@ -361,7 +361,7 @@
   {
     "id": "edinburgh-mother-india",
     "name": "Mother India",
-    "description": "An award-winning Indian restaurant offering authentic subcontinental cuisine in a vibrant setting. Known for its extensive menu, excellent service, and traditional Indian hospitality.",
+    "description": "Mother India brings the vibrant flavors and warm hospitality of the subcontinent to Edinburgh, creating an authentic Indian dining experience that has earned awards and loyal customers throughout Scotland's capital. This isn't just another curry house—it's a passionate celebration of subcontinental cuisine, where traditional recipes have been preserved and perfected, creating dishes that transport you directly to the bustling markets and family kitchens of India. The extensive menu reads like a journey through India's diverse regional cuisines, from the rich, creamy curries of the north to the fiery, coconut-based dishes of the south. The traditional Indian hospitality is evident in every aspect of the service, where staff treat diners like honored guests rather than mere customers. The vibrant setting creates an atmosphere that celebrates the joy and conviviality that defines Indian dining culture, making every meal feel like a festival of flavor and friendship."
     "reviewSummary": "Authentic Indian flavors flourish in Edinburgh, where traditional subcontinental cuisine meets Scottish hospitality in this award-winning restaurant.",
     "cuisine": ["Indian", "Subcontinental"],
     "priceLevel": "$$",
