@@ -2,8 +2,8 @@
   {
     "id": "oxford-le-manoir-aux-quat-saisons",
     "name": "Le Manoir aux Quat'Saisons",
-    "description": "Raymond Blanc's legendary two-Michelin-starred restaurant set in a beautiful manor house with stunning gardens. An unforgettable fine dining experience featuring contemporary French cuisine with the finest seasonal ingredients.",
-    "reviewSummary": "Two Michelin stars aren't just accolades—they're a testament to Raymond Blanc's extraordinary vision where French culinary excellence meets English countryside charm in perfect harmony.",
+    "description": "Stepping onto the grounds of Le Manoir aux Quat'Saisons feels like entering a fairy tale where culinary dreams come true. Raymond Blanc's legendary two-Michelin-starred sanctuary in the Oxfordshire countryside isn't just a restaurant—it's a pilgrimage destination for food lovers worldwide. The moment you walk through the doors of this exquisite 15th-century manor house, you're transported into a world where every detail has been meticulously crafted to create dining perfection. The magnificent gardens, where much of your meal literally grows before being transformed by Blanc's masterful team, stretch out before you like an edible landscape painting. Each dish that arrives at your table tells a story of seasons, of soil, of the passionate pursuit of culinary excellence that has defined this remarkable place for decades.",
+    "reviewSummary": "Two Michelin stars aren't just accolades here—they're a testament to Raymond Blanc's extraordinary vision where French culinary mastery meets English countryside soul, creating an unforgettable experience that lingers in your memory long after the last perfect bite.",
     "cuisine": ["Modern French", "Fine Dining"],
     "priceLevel": "$$$",
     "rating": 4.8,
@@ -55,8 +55,8 @@
   {
     "id": "oxford-cherwell-boathouse",
     "name": "Cherwell Boathouse",
-    "description": "An iconic Oxford restaurant situated on the banks of the River Cherwell, offering modern British cuisine with French influences. Famous for its romantic setting and excellent Sunday lunch overlooking the water.",
-    "reviewSummary": "Riverside dining at its finest, where modern British cuisine meets romantic Oxford charm in one of the city's most beloved settings.",
+    "description": "There's something utterly magical about dining at the Cherwell Boathouse, where the gentle lapping of the River Cherwell creates the perfect soundtrack for one of Oxford's most romantic culinary experiences. This isn't just a restaurant—it's a love letter to both the city's natural beauty and its sophisticated palate. As you settle into your table overlooking the water, watching punters glide by and willows sway in the breeze, you understand why this has been Oxford's go-to destination for special occasions for decades. The modern British menu, infused with French techniques and seasonal inspiration, feels like it was crafted specifically for this enchanting riverside setting. Each dish arrives with the kind of thoughtful presentation that makes you pause, breathe, and truly savor not just the flavors, but the entire experience of being in this special corner of Oxford.",
+    "reviewSummary": "Riverside dining at its absolute finest, where modern British cuisine meets the romantic soul of Oxford, creating magical moments that make you fall in love with both the food and the city all over again.",
     "cuisine": ["Modern British", "European"],
     "priceLevel": "$$",
     "rating": 4.5,
@@ -89,8 +89,8 @@
   {
     "id": "oxford-gees-restaurant",
     "name": "Gee's Restaurant",
-    "description": "Housed in a beautiful Victorian conservatory, Gee's offers modern European cuisine in a unique glass-roofed setting. Known for its elegant atmosphere and seasonal menu featuring locally sourced ingredients.",
-    "reviewSummary": "Victorian elegance meets contemporary dining in Oxford's most beautiful glass conservatory restaurant.",
+    "description": "Walking into Gee's Restaurant feels like stepping into a botanical wonderland where Victorian grandeur meets contemporary culinary artistry. This isn't just dining under glass—it's an immersive experience where the stunning Victorian conservatory becomes part of your meal's story. The soaring glass ceiling floods the space with natural light, creating an almost ethereal atmosphere where you're dining inside what feels like the most elegant greenhouse in the world. The seasonal menu changes like the light filtering through those historic panes, with each dish showcasing the best of locally sourced ingredients prepared with modern European flair. There's something deeply romantic about sharing a meal surrounded by this architectural beauty, where every season brings a different quality of light and a fresh perspective on the ingredients that define this exceptional dining experience.",
+    "reviewSummary": "Victorian architectural magic meets modern culinary excellence in this breathtaking conservatory setting, where dining becomes a sensory journey through seasons, light, and exceptional European cuisine.",
     "cuisine": ["Modern European", "British"],
     "priceLevel": "$$",
     "rating": 4.3,
@@ -123,8 +123,8 @@
   {
     "id": "oxford-the-oxford-kitchen",
     "name": "The Oxford Kitchen",
-    "description": "A contemporary restaurant in the heart of Oxford offering modern British cuisine with innovative twists. The open kitchen creates an engaging dining experience with seasonal menus and expertly crafted dishes.",
-    "reviewSummary": "Innovative modern British cuisine served with theatrical flair in an engaging open kitchen setting.",
+    "description": "The Oxford Kitchen transforms dinner into theater, where the open kitchen concept becomes the star of the show and you have front-row seats to culinary artistry in action. This isn't just about watching chefs at work—it's about being part of the creative process, feeling the energy and passion that goes into every perfectly plated dish. The restaurant pulses with the kind of contemporary energy that makes modern British cuisine feel fresh and exciting again. Chef interactions with diners create an intimacy that's rare in fine dining, while the seasonal menu constantly evolves to showcase the very best of what Oxford's surrounding countryside has to offer. Each visit feels like discovering something new, whether it's an unexpected flavor combination or a novel presentation that makes you see familiar ingredients in an entirely different light.",
+    "reviewSummary": "Where modern British cuisine meets theatrical dining, creating an immersive culinary experience that engages all your senses while showcasing the artistry behind every exceptional dish.",
     "cuisine": ["Modern British", "Contemporary"],
     "priceLevel": "$$",
     "rating": 4.4,

@@ -2,8 +2,8 @@
   {
     "id": "cambridge-midsummer-house",
     "name": "Midsummer House",
-    "description": "Cambridge's only two-Michelin-starred restaurant set in an elegant Victorian villa overlooking Midsummer Common. Chef Daniel Clifford creates exceptional modern British cuisine with innovative techniques and the finest seasonal ingredients.",
-    "reviewSummary": "Two Michelin stars represent the pinnacle of Cambridge dining, where Daniel Clifford's innovative modern British cuisine reaches extraordinary heights.",
+    "description": "Midsummer House isn't just Cambridge's crown jewel—it's a culinary pilgrimage that transforms your understanding of what British cuisine can achieve. Nestled in an elegant Victorian villa that overlooks the serene Midsummer Common, this two-Michelin-starred sanctuary feels like discovering a secret garden where culinary magic happens daily. Chef Daniel Clifford has spent years perfecting an approach to modern British cuisine that's both deeply rooted in tradition and fearlessly innovative. Each tasting menu course arrives like a small work of art, where familiar British ingredients are reimagined through techniques that push the boundaries of what's possible on a plate. The service is flawlessly choreographed, the wine pairings are revelatory, and the entire experience unfolds with the kind of precision and passion that makes you understand why this restaurant has become a destination for food lovers from around the world.",
+    "reviewSummary": "Two Michelin stars shine brilliantly here, where Daniel Clifford's visionary modern British cuisine creates transcendent dining experiences that linger in your memory long after the final course.",
     "cuisine": ["Modern British", "Fine Dining"],
     "priceLevel": "$$$",
     "rating": 4.9,
@@ -89,8 +89,8 @@
   {
     "id": "cambridge-cambridge-chop-house",
     "name": "Cambridge Chop House",
-    "description": "A traditional English chophouse serving the finest British beef, game, and seasonal produce. Located in the heart of Cambridge with views of King's College Chapel, offering classic British dining.",
-    "reviewSummary": "Traditional English chophouse dining with unbeatable views of King's College Chapel and exceptional British cuisine.",
+    "description": "There's something profoundly moving about dining at Cambridge Chop House, where every window frames a view of King's College Chapel that has inspired scholars, poets, and dreamers for centuries. This isn't just a restaurant with great views—it's a place where the weight of Cambridge's intellectual heritage somehow makes every meal feel more significant. The traditional English chophouse concept feels perfectly at home here, with its focus on the finest British beef, carefully sourced game, and seasonal produce that celebrates the best of England's culinary traditions. As you savor expertly prepared dishes while watching the golden stone of King's College catch the changing light throughout your meal, you understand why this has become the gathering place for academics, visiting dignitaries, and anyone who wants to experience Cambridge dining at its most quintessentially British. Each bite connects you to centuries of tradition, while the quality of ingredients and preparation ensures that this historical setting never overshadows the exceptional food.",
+    "reviewSummary": "Where centuries of Cambridge history meet exceptional British cuisine, creating a dining experience that's both deeply traditional and utterly unforgettable, with King's College Chapel providing the most spectacular backdrop imaginable.",
     "cuisine": ["British", "Traditional"],
     "priceLevel": "$$",
     "rating": 4.3,
@@ -123,8 +123,8 @@
   {
     "id": "cambridge-fitzbillies",
     "name": "Fitzbillies",
-    "description": "A Cambridge institution since 1922, famous for their legendary Chelsea buns and traditional afternoon tea. Also serves modern British cuisine in a charming historic setting.",
-    "reviewSummary": "A beloved Cambridge institution where legendary Chelsea buns meet traditional afternoon tea in historic surroundings.",
+    "description": "Walking into Fitzbillies is like stepping into a beloved family recipe that's been perfected over more than a century. Since 1922, this Cambridge institution has been the keeper of culinary traditions that have comforted generations of students, locals, and visitors who understand that some things simply cannot be improved upon. The legendary Chelsea buns aren't just pastries—they're edible pieces of Cambridge history, each one made with the same devotion to craft and quality that has defined this place for over 100 years. The traditional afternoon tea service unfolds with the kind of care and attention to detail that makes you slow down, breathe deeply, and remember why some rituals are worth preserving. But Fitzbillies isn't trapped in the past; alongside those famous buns, they serve modern British cuisine that honors tradition while embracing contemporary sensibilities, creating a menu that feels both timeless and thoroughly relevant to today's Cambridge.",
+    "reviewSummary": "More than a century of Cambridge tradition lives in every Chelsea bun and afternoon tea service, creating a dining experience that connects you to the city's rich culinary heritage while serving exceptional food.",
     "cuisine": ["British", "Bakery"],
     "priceLevel": "$",
     "rating": 4.4,

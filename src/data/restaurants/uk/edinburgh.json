@@ -2,8 +2,8 @@
   {
     "id": "edinburgh-the-witchery",
     "name": "The Witchery by the Castle",
-    "description": "Edinburgh's most atmospheric restaurant located at the gates of Edinburgh Castle. Housed in a 16th-century building with opulent Gothic decor, serving the finest Scottish cuisine and an exceptional wine cellar.",
-    "reviewSummary": "Gothic glamour meets Scottish excellence in Edinburgh's most atmospheric dining destination, where 16th-century charm creates unforgettable memories.",
+    "description": "The Witchery by the Castle isn't just Edinburgh's most atmospheric restaurant—it's a portal to another world where Gothic romance meets culinary excellence in the shadow of one of Scotland's most iconic landmarks. Housed in a 16th-century building at the very gates of Edinburgh Castle, this extraordinary dining destination transforms every meal into a theatrical experience that would make even the most jaded food critic pause in wonder. The opulent Gothic decor creates an almost otherworldly ambiance, with tapestries, candlelight, and antique furnishings that tell stories of centuries past. But this isn't just about dramatic staging—the Scottish cuisine here is exceptional, showcasing the finest ingredients from Scotland's larders with a sophistication that matches the stunning setting. The wine cellar, one of Scotland's most impressive, offers bottles that perfectly complement both the food and the magical atmosphere, creating dining experiences that feel like stepping into a fairy tale where every course is a new chapter in an unforgettable story.",
+    "reviewSummary": "Gothic drama meets culinary excellence in this 16th-century masterpiece, where dining becomes theater and every meal feels like a magical journey into Edinburgh's most enchanting culinary dream.",
     "cuisine": ["Scottish", "Fine Dining"],
     "priceLevel": "$$$",
     "rating": 4.7,
@@ -55,8 +55,8 @@
   {
     "id": "edinburgh-restaurant-martin-wishart",
     "name": "Restaurant Martin Wishart",
-    "description": "Edinburgh's first Michelin-starred restaurant, offering exceptional modern French cuisine. Chef Martin Wishart creates innovative dishes using the finest Scottish ingredients with French techniques.",
-    "reviewSummary": "Edinburgh's first Michelin star shines brightly, where Martin Wishart's modern French cuisine celebrates the finest Scottish ingredients.",
+    "description": "Restaurant Martin Wishart holds a special place in Edinburgh's culinary heart as the restaurant that first brought Michelin-starred excellence to Scotland's capital, and it continues to set the standard for fine dining north of the border. Located in the historic port of Leith, this elegant restaurant represents Chef Martin Wishart's extraordinary vision of what happens when Scottish ingredients meet French culinary mastery. Each dish tells a story of terroir and technique, where the finest Scottish produce is transformed through classical French methods into something entirely transcendent. The tasting menus unfold like carefully orchestrated symphonies, with each course building upon the last to create a dining experience that justifies every accolade and award this restaurant has earned. The service is impeccably professional yet warmly Scottish, and the wine pairings showcase bottles that enhance rather than compete with the magnificent food, creating evenings that remind you why fine dining at this level remains one of life's greatest pleasures.",
+    "reviewSummary": "Edinburgh's first Michelin star continues to shine brilliantly, where Martin Wishart's mastery of French technique and Scottish ingredients creates dining experiences that define culinary excellence in Scotland.",
     "cuisine": ["Modern French", "Scottish"],
     "priceLevel": "$$$",
     "rating": 4.8,
@@ -123,8 +123,8 @@
   {
     "id": "edinburgh-deacon-brodie-tavern",
     "name": "Deacon Brodie's Tavern",
-    "description": "A historic pub on the Royal Mile named after Edinburgh's infamous 18th-century character. Serves traditional Scottish fare including haggis, neeps and tatties, and fresh fish and chips.",
-    "reviewSummary": "Step into Edinburgh's colorful history at this Royal Mile institution, where traditional Scottish fare meets the legend of Deacon Brodie.",
+    "description": "Deacon Brodie's Tavern is where Edinburgh's dark history comes alive over plates of hearty Scottish comfort food that would make even the tavern's notorious namesake feel at home. Named after William Brodie, the 18th-century Edinburgh councillor who led a double life as a gentleman by day and burglar by night (and who inspired Dr. Jekyll and Mr. Hyde), this Royal Mile institution embraces its colorful past while serving up some of the most satisfying traditional Scottish fare in the city. The atmosphere is thick with stories and history, where every creaking floorboard and flickering light seems to whisper tales of old Edinburgh's most infamous characters. The haggis, neeps, and tatties arrive with the kind of authentic Scottish pride that makes you understand why these dishes have sustained Scots through centuries of Highland winters, while the fish and chips are crispy, golden perfection that would satisfy any weary traveler walking the Royal Mile's ancient stones.",
+    "reviewSummary": "Where Edinburgh's most infamous historical character lives on through exceptional traditional Scottish fare, creating a dining experience that's equal parts delicious food and captivating local history.",
     "cuisine": ["Traditional Scottish", "Pub Food"],
     "priceLevel": "$",
     "rating": 4.0,
