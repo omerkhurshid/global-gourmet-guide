@@ -153,5 +153,243 @@
     "lastUpdated": "2025-01-10",
     "sources": ["Cambridge History", "Local Institution"],
     "seoKeywords": ["Fitzbillies Cambridge", "Chelsea buns Cambridge", "afternoon tea Cambridge", "Cambridge institution bakery"]
+  },
+  {
+    "id": "cambridge-the-eagle",
+    "name": "The Eagle",
+    "description": "A historic pub where DNA was discovered, offering traditional British fare in a setting steeped in scientific history. Famous for its WWII airmen signatures on the ceiling and classic pub atmosphere.",
+    "reviewSummary": "Where scientific discovery meets traditional pub culture, this historic Cambridge institution offers more than just great food—it's a living piece of history.",
+    "cuisine": ["Traditional British", "Pub Food"],
+    "priceLevel": "$",
+    "rating": 4.1,
+    "reviewCount": 3456,
+    "address": {
+      "street": "8 Bene't Street",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "postalCode": "CB2 3QN"
+    },
+    "location": {
+      "lat": 52.2040,
+      "lng": 0.1188
+    },
+    "contact": {
+      "phone": "+44 1223 505020",
+      "website": "https://www.eagle-cambridge.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🧬",
+      "gallery": []
+    },
+    "features": ["Historic Pub", "DNA Discovery", "WWII History", "Scientific Heritage"],
+    "specialties": ["Fish and chips", "Traditional pub fare", "Real ales", "Historic atmosphere"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Cambridge History", "Historic Pubs"],
+    "seoKeywords": ["The Eagle Cambridge", "DNA pub Cambridge", "historic pub Cambridge", "Bene't Street restaurants"]
+  },
+  {
+    "id": "cambridge-the-pint-shop",
+    "name": "The Pint Shop",
+    "description": "A modern gastropub offering craft beers and innovative British cuisine. Known for its extensive beer selection, charcuterie boards, and contemporary take on pub classics.",
+    "reviewSummary": "Modern gastropub excellence where craft beer culture meets innovative British cuisine in Cambridge's most contemporary pub setting.",
+    "cuisine": ["Modern British", "Gastropub"],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 2187,
+    "address": {
+      "street": "10 Peas Hill",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "postalCode": "CB2 3PP"
+    },
+    "location": {
+      "lat": 52.2052,
+      "lng": 0.1194
+    },
+    "contact": {
+      "phone": "+44 1223 352293",
+      "website": "https://www.thepintshop.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍺",
+      "gallery": []
+    },
+    "features": ["Craft Beer", "Modern Gastropub", "Charcuterie", "Contemporary Design"],
+    "specialties": ["Craft beer selection", "Charcuterie boards", "Modern pub classics", "Weekend brunch"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Gastropub Guide", "Cambridge Dining"],
+    "seoKeywords": ["Pint Shop Cambridge", "craft beer Cambridge", "gastropub Cambridge", "Peas Hill restaurants"]
+  },
+  {
+    "id": "cambridge-smokeworks",
+    "name": "Smokeworks",
+    "description": "A barbecue restaurant specializing in American-style smoked meats and craft cocktails. Features a relaxed atmosphere with exposed brick walls and communal dining tables.",
+    "reviewSummary": "American barbecue tradition meets British hospitality in Cambridge's premier smokehouse, where slow-cooked perfection defines every dish.",
+    "cuisine": ["American", "Barbecue"],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 1876,
+    "address": {
+      "street": "2 Free School Lane",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "postalCode": "CB2 3QA"
+    },
+    "location": {
+      "lat": 52.2043,
+      "lng": 0.1178
+    },
+    "contact": {
+      "phone": "+44 1223 361263",
+      "website": "https://www.smokeworks.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥩",
+      "gallery": []
+    },
+    "features": ["American BBQ", "Smoked Meats", "Craft Cocktails", "Communal Dining"],
+    "specialties": ["Smoked brisket", "Pulled pork", "Ribs", "Craft cocktails"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["BBQ Guide", "American Food Cambridge"],
+    "seoKeywords": ["Smokeworks Cambridge", "BBQ Cambridge", "American restaurant Cambridge", "smoked meats Cambridge"]
+  },
+  {
+    "id": "cambridge-the-cambridge-wine-merchants",
+    "name": "The Cambridge Wine Merchants",
+    "description": "A wine bar and restaurant offering an extensive selection of wines paired with Mediterranean-inspired small plates. Features a cozy atmosphere perfect for wine lovers and intimate dining.",
+    "reviewSummary": "Wine enthusiasts find paradise in this intimate Cambridge venue, where Mediterranean flavors perfectly complement an exceptional wine selection.",
+    "cuisine": ["Mediterranean", "Wine Bar"],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 987,
+    "address": {
+      "street": "7-9 King Edward Street",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "postalCode": "CB1 1LH"
+    },
+    "location": {
+      "lat": 52.2058,
+      "lng": 0.1201
+    },
+    "contact": {
+      "phone": "+44 1223 568989",
+      "website": "https://www.cambridgewinemerchants.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": ["Wine Selection", "Mediterranean Food", "Intimate Setting", "Wine Tastings"],
+    "specialties": ["Wine pairings", "Mediterranean tapas", "Cheese boards", "Wine tastings"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Wine Guide", "Cambridge Wine"],
+    "seoKeywords": ["Cambridge Wine Merchants", "wine bar Cambridge", "Mediterranean Cambridge", "wine tasting Cambridge"]
+  },
+  {
+    "id": "cambridge-loch-fyne",
+    "name": "Loch Fyne",
+    "description": "A Scottish seafood restaurant specializing in fresh fish and shellfish. Known for its sustainable sourcing, traditional Scottish preparations, and elegant dining room atmosphere.",
+    "reviewSummary": "Scottish seafood excellence reaches Cambridge, where sustainable sourcing meets traditional preparations in elegant surroundings.",
+    "cuisine": ["Scottish", "Seafood"],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 1543,
+    "address": {
+      "street": "37 Trumpington Street",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "postalCode": "CB2 1QY"
+    },
+    "location": {
+      "lat": 52.2018,
+      "lng": 0.1189
+    },
+    "contact": {
+      "phone": "+44 1223 362433",
+      "website": "https://www.lochfyne.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🐟",
+      "gallery": []
+    },
+    "features": ["Scottish Seafood", "Sustainable Sourcing", "Fresh Fish", "Elegant Dining"],
+    "specialties": ["Scottish salmon", "Fresh oysters", "Fish and chips", "Seafood platters"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Seafood Guide", "Scottish Restaurants"],
+    "seoKeywords": ["Loch Fyne Cambridge", "seafood Cambridge", "Scottish restaurant Cambridge", "fresh fish Cambridge"]
+  },
+  {
+    "id": "cambridge-cote-cambridge",
+    "name": "Côte Cambridge",
+    "description": "A French brasserie bringing authentic Parisian dining to Cambridge. Features classic French dishes, an all-day menu, and a sophisticated yet relaxed atmosphere.",
+    "reviewSummary": "Authentic French brasserie culture thrives in Cambridge, where Parisian classics meet British hospitality in sophisticated surroundings.",
+    "cuisine": ["French", "Brasserie"],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 2145,
+    "address": {
+      "street": "21-24 Bridge Street",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "postalCode": "CB2 1UJ"
+    },
+    "location": {
+      "lat": 52.2082,
+      "lng": 0.1196
+    },
+    "contact": {
+      "phone": "+44 1223 311053",
+      "website": "https://www.cote.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥐",
+      "gallery": []
+    },
+    "features": ["French Brasserie", "All-day Menu", "Parisian Style", "Bridge Street"],
+    "specialties": ["French classics", "Steak frites", "Bouillabaisse", "French wines"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["French Restaurant Guide", "Cambridge Dining"],
+    "seoKeywords": ["Cote Cambridge", "French brasserie Cambridge", "Bridge Street restaurants", "French food Cambridge"]
+  },
+  {
+    "id": "cambridge-nandos-cambridge",
+    "name": "Nando's Cambridge",
+    "description": "A popular Portuguese-style chicken restaurant famous for its flame-grilled peri-peri chicken. Offers a casual dining experience with various spice levels and healthy options.",
+    "reviewSummary": "Portuguese flame-grilled perfection comes to Cambridge, where peri-peri spice levels satisfy every palate in this casual dining favorite.",
+    "cuisine": ["Portuguese", "Casual Dining"],
+    "priceLevel": "$",
+    "rating": 4.1,
+    "reviewCount": 2987,
+    "address": {
+      "street": "33-34 St Andrew's Street",
+      "city": "Cambridge",
+      "country": "United Kingdom",
+      "postalCode": "CB2 3AR"
+    },
+    "location": {
+      "lat": 52.2063,
+      "lng": 0.1214
+    },
+    "contact": {
+      "phone": "+44 1223 361692",
+      "website": "https://www.nandos.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🐔",
+      "gallery": []
+    },
+    "features": ["Peri-peri Chicken", "Flame Grilled", "Casual Dining", "Healthy Options"],
+    "specialties": ["Peri-peri chicken", "Flame-grilled dishes", "Portuguese sides", "Spicy options"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Casual Dining Guide", "Portuguese Food"],
+    "seoKeywords": ["Nandos Cambridge", "peri-peri chicken Cambridge", "Portuguese Cambridge", "casual dining Cambridge"]
   }
 ]

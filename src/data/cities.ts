@@ -493,7 +493,7 @@ export const cities: City[] = [
       "Oxford food guide"
     ],
     featuredRestaurants: ["oxford-le-manoir-aux-quat-saisons", "oxford-cherwell-boathouse"],
-    totalRestaurants: 5
+    totalRestaurants: 11
   },
   {
     id: "cambridge-uk", 
@@ -519,7 +519,7 @@ export const cities: City[] = [
       "Cambridge food guide"
     ],
     featuredRestaurants: ["cambridge-midsummer-house", "cambridge-restaurant-alimentum"],
-    totalRestaurants: 4
+    totalRestaurants: 11
   },
   {
     id: "edinburgh-uk",
@@ -545,7 +545,7 @@ export const cities: City[] = [
       "Edinburgh food guide"
     ],
     featuredRestaurants: ["edinburgh-the-witchery", "edinburgh-restaurant-martin-wishart"],
-    totalRestaurants: 4
+    totalRestaurants: 11
   }
 ];
 

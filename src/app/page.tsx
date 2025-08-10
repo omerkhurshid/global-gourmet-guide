@@ -63,7 +63,7 @@ export default function Home() {
           {/* Enhanced Stats with Location Context */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center mb-16">
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">173</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">193</div>
               <div className={`text-xs text-black uppercase ${styles.statsNumber}`}>RESTAURANTS</div>
             </div>
             <div>

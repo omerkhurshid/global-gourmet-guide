@@ -187,5 +187,209 @@
     "lastUpdated": "2025-01-10",
     "sources": ["Spanish Restaurant Guide", "Oxford Dining"],
     "seoKeywords": ["Kazbar Oxford", "Spanish tapas Oxford", "Cowley Road restaurants", "paella Oxford"]
+  },
+  {
+    "id": "oxford-the-trout-inn",
+    "name": "The Trout Inn",
+    "description": "A historic riverside inn dating back to 1133, offering traditional British cuisine in a stunning Thames-side setting. Famous for its peacocks roaming the garden and connections to literary figures like Lewis Carroll.",
+    "reviewSummary": "Historic charm meets riverside dining at this 900-year-old inn, where literary legends once gathered and peacocks still roam the enchanting gardens.",
+    "cuisine": ["Traditional British", "Gastropub"],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 1847,
+    "address": {
+      "street": "195 Godstow Road, Wolvercote",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX2 8PN"
+    },
+    "location": {
+      "lat": 51.7853,
+      "lng": -1.3089
+    },
+    "contact": {
+      "phone": "+44 1865 510930",
+      "website": "https://www.thetroutinn.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦚",
+      "gallery": []
+    },
+    "features": ["Historic Inn", "Riverside Setting", "Peacock Garden", "Literary Connection"],
+    "specialties": ["Sunday roasts", "Fish and chips", "Real ales", "Thames-side dining"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Historic Pubs Guide", "Oxford Tourism"],
+    "seoKeywords": ["Trout Inn Oxford", "riverside dining Oxford", "historic pub Oxford", "Wolvercote restaurants"]
+  },
+  {
+    "id": "oxford-quod-restaurant",
+    "name": "Quod Restaurant & Bar",
+    "description": "A stylish brasserie in the heart of Oxford's city center, offering modern European cuisine in a sophisticated setting. Located in the historic Old Bank Hotel with an elegant interior and excellent wine selection.",
+    "reviewSummary": "Sophisticated city center dining where modern European cuisine meets elegant hotel ambiance in Oxford's premier brasserie.",
+    "cuisine": ["Modern European", "Brasserie"],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 1156,
+    "address": {
+      "street": "92-94 High Street",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX1 4BJ"
+    },
+    "location": {
+      "lat": 51.7515,
+      "lng": -1.2544
+    },
+    "contact": {
+      "phone": "+44 1865 202505",
+      "website": "https://www.quod.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": ["City Center", "Hotel Restaurant", "Wine Bar", "Modern Brasserie"],
+    "specialties": ["Modern European cuisine", "Wine selection", "Business dining", "Pre-theater meals"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Oxford Guide", "Hotel Restaurants"],
+    "seoKeywords": ["Quod Oxford", "High Street restaurants Oxford", "modern European Oxford", "business dining Oxford"]
+  },
+  {
+    "id": "oxford-atomic-burger",
+    "name": "Atomic Burger",
+    "description": "A quirky American-style diner with a rock and pop culture theme, serving gourmet burgers and milkshakes. Known for its fun atmosphere, vintage decor, and creative burger combinations.",
+    "reviewSummary": "Rock 'n' roll meets gourmet burgers in Oxford's most fun dining destination, where vintage vibes and creative combinations create an unforgettable experience.",
+    "cuisine": ["American", "Burgers"],
+    "priceLevel": "$",
+    "rating": 4.3,
+    "reviewCount": 2341,
+    "address": {
+      "street": "96 Cowley Road",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX4 1JE"
+    },
+    "location": {
+      "lat": 51.7441,
+      "lng": -1.2356
+    },
+    "contact": {
+      "phone": "+44 1865 790855",
+      "website": "https://www.atomicburger.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍔",
+      "gallery": []
+    },
+    "features": ["Rock Theme", "Vintage Decor", "Milkshakes", "Fun Atmosphere"],
+    "specialties": ["Gourmet burgers", "Thick milkshakes", "Rock-themed food", "Vegetarian options"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Burger Guide", "Oxford Casual Dining"],
+    "seoKeywords": ["Atomic Burger Oxford", "best burgers Oxford", "American diner Oxford", "Cowley Road burgers"]
+  },
+  {
+    "id": "oxford-pierre-victoire",
+    "name": "Pierre Victoire",
+    "description": "A cozy French bistro bringing authentic Parisian flavors to Oxford. Known for its traditional French cooking, intimate atmosphere, and excellent wine list featuring both classic and boutique French wines.",
+    "reviewSummary": "Authentic French bistro charm flourishes in Oxford, where traditional Parisian cuisine and intimate ambiance create a perfect slice of France.",
+    "cuisine": ["French", "Bistro"],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 687,
+    "address": {
+      "street": "9 Little Clarendon Street",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX1 2HP"
+    },
+    "location": {
+      "lat": 51.7580,
+      "lng": -1.2634
+    },
+    "contact": {
+      "phone": "+44 1865 316616",
+      "website": "https://www.pierrevictoire.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥖",
+      "gallery": []
+    },
+    "features": ["Authentic French", "Intimate Bistro", "French Wines", "Little Clarendon Street"],
+    "specialties": ["French bistro classics", "Coq au vin", "French wines", "Intimate dining"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["French Restaurant Guide", "Oxford Dining"],
+    "seoKeywords": ["Pierre Victoire Oxford", "French bistro Oxford", "Little Clarendon Street", "authentic French Oxford"]
+  },
+  {
+    "id": "oxford-dirty-bones",
+    "name": "Dirty Bones",
+    "description": "A vibrant American-style restaurant serving comfort food with a modern twist. Famous for their mac 'n' cheese, bone marrow dishes, and creative cocktails in a lively, industrial-chic setting.",
+    "reviewSummary": "American comfort food gets a modern makeover in this vibrant Oxford hotspot, where mac 'n' cheese dreams meet cocktail culture.",
+    "cuisine": ["American", "Comfort Food"],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 1456,
+    "address": {
+      "street": "3 Golden Cross, Cornmarket Street",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX1 3EU"
+    },
+    "location": {
+      "lat": 51.7529,
+      "lng": -1.2575
+    },
+    "contact": {
+      "phone": "+44 1865 690036",
+      "website": "https://www.dirtybones.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🧀",
+      "gallery": []
+    },
+    "features": ["American Comfort Food", "Creative Cocktails", "Industrial Chic", "Central Location"],
+    "specialties": ["Mac 'n' cheese", "Bone marrow dishes", "Cocktails", "Brunch"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["American Food Guide", "Oxford Restaurants"],
+    "seoKeywords": ["Dirty Bones Oxford", "American food Oxford", "mac and cheese Oxford", "cocktails Oxford"]
+  },
+  {
+    "id": "oxford-zheng-oxford",
+    "name": "Zheng Oxford",
+    "description": "An authentic Chinese restaurant offering traditional Sichuan and Cantonese cuisine. Known for its hand-pulled noodles, dim sum, and spicy Sichuan dishes prepared by experienced Chinese chefs.",
+    "reviewSummary": "Authentic Chinese flavors flourish in Oxford, where traditional Sichuan fire meets Cantonese finesse in expertly crafted dishes.",
+    "cuisine": ["Chinese", "Sichuan"],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 934,
+    "address": {
+      "street": "82 St Aldates",
+      "city": "Oxford",
+      "country": "United Kingdom",
+      "postalCode": "OX1 1RA"
+    },
+    "location": {
+      "lat": 51.7495,
+      "lng": -1.2565
+    },
+    "contact": {
+      "phone": "+44 1865 242888",
+      "website": "https://www.zhengoxford.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍜",
+      "gallery": []
+    },
+    "features": ["Authentic Chinese", "Hand-pulled Noodles", "Sichuan Specialist", "Traditional Cooking"],
+    "specialties": ["Hand-pulled noodles", "Sichuan hot pot", "Dim sum", "Peking duck"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Chinese Restaurant Guide", "Oxford Asian Dining"],
+    "seoKeywords": ["Zheng Oxford", "Chinese restaurant Oxford", "Sichuan food Oxford", "authentic Chinese Oxford"]
   }
 ]

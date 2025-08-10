@@ -153,5 +153,243 @@
     "lastUpdated": "2025-01-10",
     "sources": ["Edinburgh History", "Royal Mile Guide"],
     "seoKeywords": ["Deacon Brodie Edinburgh", "Royal Mile pubs", "traditional Scottish food", "Edinburgh historic pubs"]
+  },
+  {
+    "id": "edinburgh-number-one-restaurant",
+    "name": "Number One Restaurant",
+    "description": "Edinburgh's only Michelin-starred hotel restaurant, located in The Balmoral Hotel. Chef Jeff Bland creates exceptional modern Scottish cuisine with French influences in elegant surroundings.",
+    "reviewSummary": "Michelin-starred excellence at The Balmoral, where modern Scottish cuisine reaches extraordinary heights with French finesse and Scottish pride.",
+    "cuisine": ["Modern Scottish", "Fine Dining"],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 856,
+    "address": {
+      "street": "1 Princes Street",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "postalCode": "EH2 2EQ"
+    },
+    "location": {
+      "lat": 55.9530,
+      "lng": -3.1894
+    },
+    "contact": {
+      "phone": "+44 131 557 6727",
+      "website": "https://www.roccofortehotels.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "⭐",
+      "gallery": []
+    },
+    "features": ["Michelin Star", "Hotel Restaurant", "Princes Street", "Fine Dining"],
+    "specialties": ["Modern Scottish cuisine", "Michelin-starred dining", "Scottish ingredients", "Fine dining experience"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Michelin Guide", "Edinburgh Fine Dining"],
+    "seoKeywords": ["Number One Edinburgh", "Michelin star Edinburgh", "Balmoral restaurant", "fine dining Edinburgh"]
+  },
+  {
+    "id": "edinburgh-the-scotch-whisky-experience",
+    "name": "Amber Restaurant",
+    "description": "Located within The Scotch Whisky Experience, offering modern Scottish cuisine with an extensive whisky selection. Features panoramic views over Edinburgh and whisky-paired dining experiences.",
+    "reviewSummary": "Where Scottish cuisine meets whisky expertise, offering panoramic Edinburgh views with perfectly paired dining experiences.",
+    "cuisine": ["Modern Scottish", "Whisky Bar"],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 1247,
+    "address": {
+      "street": "354 Castlehill, Royal Mile",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "postalCode": "EH1 2NE"
+    },
+    "location": {
+      "lat": 55.9484,
+      "lng": -3.1935
+    },
+    "contact": {
+      "phone": "+44 131 477 8477",
+      "website": "https://www.scotchwhiskyexperience.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥃",
+      "gallery": []
+    },
+    "features": ["Whisky Experience", "City Views", "Royal Mile", "Whisky Pairings"],
+    "specialties": ["Whisky pairings", "Modern Scottish cuisine", "Panoramic views", "Whisky selection"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Whisky Guide", "Edinburgh Tourism"],
+    "seoKeywords": ["Amber Restaurant Edinburgh", "whisky restaurant Edinburgh", "Royal Mile dining", "whisky pairing Edinburgh"]
+  },
+  {
+    "id": "edinburgh-fishers-bistro",
+    "name": "Fishers Bistro",
+    "description": "A popular seafood restaurant in the heart of Edinburgh, known for fresh Scottish fish and shellfish. Offers a relaxed atmosphere with maritime decor and an excellent selection of wines.",
+    "reviewSummary": "Scottish seafood shines in this beloved Edinburgh bistro, where fresh catches meet relaxed maritime charm in the city center.",
+    "cuisine": ["Scottish", "Seafood"],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 2156,
+    "address": {
+      "street": "1 The Shore",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "postalCode": "EH6 6QW"
+    },
+    "location": {
+      "lat": 55.9762,
+      "lng": -3.1718
+    },
+    "contact": {
+      "phone": "+44 131 554 5666",
+      "website": "https://www.fishers-restaurant.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🦞",
+      "gallery": []
+    },
+    "features": ["Seafood Specialist", "Maritime Decor", "The Shore", "Wine Selection"],
+    "specialties": ["Fresh Scottish fish", "Shellfish", "Seafood platters", "Maritime atmosphere"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Seafood Guide", "Edinburgh Dining"],
+    "seoKeywords": ["Fishers Bistro Edinburgh", "seafood Edinburgh", "The Shore restaurants", "Scottish fish Edinburgh"]
+  },
+  {
+    "id": "edinburgh-the-grain-store",
+    "name": "The Grain Store",
+    "description": "A popular restaurant and bar offering modern Scottish cuisine in a converted Victorian building. Known for its relaxed atmosphere, extensive whisky selection, and hearty Scottish dishes.",
+    "reviewSummary": "Victorian charm meets modern Scottish cuisine in this beloved Edinburgh institution, where hearty dishes and fine whiskies create perfect harmony.",
+    "cuisine": ["Modern Scottish", "Contemporary"],
+    "priceLevel": "$$",
+    "rating": 4.2,
+    "reviewCount": 1789,
+    "address": {
+      "street": "30 Victoria Street",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "postalCode": "EH1 2JW"
+    },
+    "location": {
+      "lat": 55.9497,
+      "lng": -3.1922
+    },
+    "contact": {
+      "phone": "+44 131 225 7635",
+      "website": "https://www.grainstore-restaurant.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏠",
+      "gallery": []
+    },
+    "features": ["Victorian Building", "Whisky Selection", "Victoria Street", "Scottish Cuisine"],
+    "specialties": ["Modern Scottish dishes", "Whisky selection", "Hearty portions", "Victorian atmosphere"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Scottish Restaurant Guide", "Edinburgh Dining"],
+    "seoKeywords": ["Grain Store Edinburgh", "Victoria Street restaurants", "modern Scottish Edinburgh", "whisky bar Edinburgh"]
+  },
+  {
+    "id": "edinburgh-the-outsider",
+    "name": "The Outsider",
+    "description": "A contemporary restaurant offering eclectic international cuisine with stunning views over Edinburgh Castle. Known for its creative dishes, relaxed atmosphere, and panoramic terrace.",
+    "reviewSummary": "International flavors meet Edinburgh castle views in this contemporary restaurant, where creative cuisine and stunning vistas create memorable dining.",
+    "cuisine": ["International", "Contemporary"],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 1654,
+    "address": {
+      "street": "15-16 George IV Bridge",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "postalCode": "EH1 1EE"
+    },
+    "location": {
+      "lat": 55.9493,
+      "lng": -3.1912
+    },
+    "contact": {
+      "phone": "+44 131 226 3131",
+      "website": "https://www.theoutsider.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🏰",
+      "gallery": []
+    },
+    "features": ["Castle Views", "International Cuisine", "Terrace Dining", "Contemporary Style"],
+    "specialties": ["International dishes", "Castle views", "Creative cuisine", "Outdoor terrace"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Edinburgh Restaurants", "International Dining"],
+    "seoKeywords": ["The Outsider Edinburgh", "castle view restaurant Edinburgh", "George IV Bridge dining", "international cuisine Edinburgh"]
+  },
+  {
+    "id": "edinburgh-howies-restaurant",
+    "name": "Howies Restaurant",
+    "description": "A Scottish restaurant celebrating local produce and traditional recipes with modern presentation. Features seasonal menus, local ingredients, and a warm, welcoming atmosphere.",
+    "reviewSummary": "Scottish tradition meets contemporary presentation in this welcoming restaurant, where local produce and seasonal cooking celebrate Scotland's culinary heritage.",
+    "cuisine": ["Scottish", "Traditional"],
+    "priceLevel": "$$",
+    "rating": 4.1,
+    "reviewCount": 1423,
+    "address": {
+      "street": "10-14 Victoria Street",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "postalCode": "EH1 2HG"
+    },
+    "location": {
+      "lat": 55.9495,
+      "lng": -3.1925
+    },
+    "contact": {
+      "phone": "+44 131 225 1721",
+      "website": "https://www.howies.uk.com",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥘",
+      "gallery": []
+    },
+    "features": ["Scottish Tradition", "Local Produce", "Seasonal Menu", "Victoria Street"],
+    "specialties": ["Traditional Scottish dishes", "Local ingredients", "Seasonal cooking", "Warm atmosphere"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Scottish Dining", "Traditional Restaurants"],
+    "seoKeywords": ["Howies Edinburgh", "traditional Scottish food", "Victoria Street Edinburgh", "local produce Edinburgh"]
+  },
+  {
+    "id": "edinburgh-mother-india",
+    "name": "Mother India",
+    "description": "An award-winning Indian restaurant offering authentic subcontinental cuisine in a vibrant setting. Known for its extensive menu, excellent service, and traditional Indian hospitality.",
+    "reviewSummary": "Authentic Indian flavors flourish in Edinburgh, where traditional subcontinental cuisine meets Scottish hospitality in this award-winning restaurant.",
+    "cuisine": ["Indian", "Subcontinental"],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 2345,
+    "address": {
+      "street": "3-5 Infirmary Street",
+      "city": "Edinburgh",
+      "country": "United Kingdom",
+      "postalCode": "EH1 1LT"
+    },
+    "location": {
+      "lat": 55.9507,
+      "lng": -3.1842
+    },
+    "contact": {
+      "phone": "+44 131 524 9801",
+      "website": "https://www.motherindia.co.uk",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍛",
+      "gallery": []
+    },
+    "features": ["Award Winning", "Authentic Indian", "Traditional Hospitality", "Extensive Menu"],
+    "specialties": ["Authentic curries", "Traditional tandoor", "Vegetarian options", "Indian hospitality"],
+    "lastUpdated": "2025-01-10",
+    "sources": ["Indian Restaurant Guide", "Edinburgh Curry"],
+    "seoKeywords": ["Mother India Edinburgh", "Indian restaurant Edinburgh", "authentic curry Edinburgh", "Infirmary Street Indian"]
   }
 ]
