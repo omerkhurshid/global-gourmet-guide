@@ -1,0 +1,129 @@
+/* Homepage Styles Module */
+
+/* Layout */
+.container {
+  background-color: #FAF8F5;
+}
+
+.backgroundLight {
+  background-color: #F5F3F0;
+}
+
+.backgroundMain {
+  background-color: #FAF8F5;
+}
+
+.dividerLine {
+  width: 100%;
+  height: 1px;
+  background-color: black;
+}
+
+/* Typography */
+.heroTitle {
+  letter-spacing: -0.04em;
+}
+
+.heroSubtitle {
+  letter-spacing: -0.03em;
+}
+
+.heroDescription {
+  letter-spacing: 0.08em;
+}
+
+.sectionTitle {
+  letter-spacing: -0.03em;
+}
+
+.sectionDescription {
+  letter-spacing: 0.08em;
+}
+
+.countryTitle {
+  letter-spacing: 0.08em;
+}
+
+.cityName {
+  letter-spacing: 0.1em;
+}
+
+.cityTagline {
+  letter-spacing: 0.02em;
+}
+
+.restaurantCount {
+  letter-spacing: 0.08em;
+}
+
+.statsNumber {
+  letter-spacing: 0.15em;
+}
+
+.valuePropositionTitle {
+  letter-spacing: 0.05em;
+}
+
+.valuePropositionHeading {
+  letter-spacing: 0.08em;
+}
+
+.adLabel {
+  letter-spacing: 0.08em;
+}
+
+.ctaTitle {
+  letter-spacing: -0.03em;
+}
+
+.ctaDescription {
+  letter-spacing: 0.08em;
+}
+
+/* Main Layout Grid */
+.mainContent {
+  display: flex;
+  gap: 2rem;
+  max-width: 90rem;
+  margin: 0 auto;
+  padding: 0 1rem;
+}
+
+.contentArea {
+  flex: 1;
+  min-width: 0;
+}
+
+.sidebar {
+  width: 24rem;
+  flex-shrink: 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 1024px) {
+  .mainContent {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    width: 100%;
+    order: 2;
+  }
+  
+  .contentArea {
+    order: 1;
+  }
+}
+
+@media (max-width: 768px) {
+  .mainContent {
+    gap: 1rem;
+    padding: 0 1rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .mainContent {
+    padding: 0 0.5rem;
+  }
+}
