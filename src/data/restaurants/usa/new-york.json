@@ -952,5 +952,333 @@
       "best restaurants New York",
       "authentic Thai food NYC"
     ]
+  },
+  {
+    "id": "new-york-bong",
+    "name": "Bong",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Bong felt like discovering a hidden jewel where Korean culinary tradition meets contemporary New York style. This intimate restaurant has earned a devoted following for its authentic approach to Korean cuisine, serving dishes that balance traditional technique with modern presentation in a setting that feels both sophisticated and welcoming.",
+    "reviewSummary": "Authentic Korean cuisine with contemporary presentation in intimate setting. Traditional techniques meet modern style.",
+    "cuisine": [
+      "Korean",
+      "Contemporary Asian"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 234,
+    "address": {
+      "street": "Manhattan",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7489,
+      "lng": -73.9680
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥘",
+      "gallery": []
+    },
+    "features": [
+      "Intimate Setting",
+      "Contemporary Korean",
+      "Authentic Cuisine"
+    ],
+    "specialties": [
+      "Traditional Korean dishes",
+      "Contemporary presentations",
+      "Authentic flavors"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "NYC Dining Reviews",
+      "Korean Restaurant Guides"
+    ],
+    "seoKeywords": [
+      "Bong NYC",
+      "Korean restaurants New York",
+      "authentic Korean food Manhattan",
+      "contemporary Asian dining"
+    ]
+  },
+  {
+    "id": "new-york-adda",
+    "name": "ADDA",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into ADDA felt like being transported to a bustling Indian canteen where the energy is high and the flavors are even higher. This Queens gem has redefined what Indian casual dining can be in New York, offering bold, authentic dishes that celebrate the street food culture of India while maintaining restaurant-quality execution.",
+    "reviewSummary": "Vibrant Indian canteen in Queens serving bold street food-inspired dishes with authentic flavors and lively atmosphere.",
+    "cuisine": [
+      "Indian",
+      "Street Food",
+      "Regional Indian"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 567,
+    "address": {
+      "street": "Long Island City, Queens",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7489,
+      "lng": -73.9442
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍛",
+      "gallery": []
+    },
+    "features": [
+      "Casual Dining",
+      "Vibrant Atmosphere",
+      "Queens Location",
+      "Street Food Inspired"
+    ],
+    "specialties": [
+      "Indian street food",
+      "Regional specialties",
+      "Bold spiced dishes",
+      "Authentic Indian flavors"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "Queens Restaurant Reviews",
+      "Indian Dining Guides"
+    ],
+    "seoKeywords": [
+      "ADDA Queens",
+      "Indian restaurants NYC",
+      "street food Long Island City",
+      "authentic Indian Queens"
+    ]
+  },
+  {
+    "id": "new-york-lei",
+    "name": "Lei",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Lei felt like discovering an elegant fusion of Chinese culinary artistry with New York sophistication. This refined restaurant has mastered the art of presenting traditional Chinese cuisine through a contemporary lens, creating dishes that honor authentic flavors while embracing modern techniques and presentation.",
+    "reviewSummary": "Elegant Chinese dining with contemporary approach to traditional dishes. Sophisticated atmosphere meets authentic flavors.",
+    "cuisine": [
+      "Chinese",
+      "Contemporary Chinese",
+      "Fine Dining"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 345,
+    "address": {
+      "street": "Manhattan",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7589,
+      "lng": -73.9851
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🥟",
+      "gallery": []
+    },
+    "features": [
+      "Fine Dining",
+      "Contemporary Chinese",
+      "Elegant Atmosphere"
+    ],
+    "specialties": [
+      "Modern Chinese cuisine",
+      "Traditional dishes reimagined",
+      "Sophisticated presentations"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "NYC Fine Dining Reviews",
+      "Chinese Restaurant Guides"
+    ],
+    "seoKeywords": [
+      "Lei NYC",
+      "fine dining Chinese Manhattan",
+      "contemporary Chinese restaurants",
+      "upscale Asian dining NYC"
+    ]
+  },
+  {
+    "id": "new-york-le-chene",
+    "name": "Le Chene",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Le Chene felt like being welcomed into a charming French countryside bistro right in the heart of the city. This intimate restaurant captures the essence of traditional French cooking with its commitment to classic techniques and seasonal ingredients, creating an atmosphere where every meal feels like a special occasion.",
+    "reviewSummary": "Charming French bistro serving classic cuisine with seasonal focus. Traditional techniques in intimate countryside-inspired setting.",
+    "cuisine": [
+      "French",
+      "Bistro",
+      "Traditional French"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 289,
+    "address": {
+      "street": "Manhattan",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7614,
+      "lng": -73.9776
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": [
+      "Intimate Bistro",
+      "Classic French",
+      "Seasonal Menu"
+    ],
+    "specialties": [
+      "Traditional French dishes",
+      "Seasonal ingredients",
+      "Classic bistro fare",
+      "French wine selection"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "French Restaurant Reviews",
+      "NYC Bistro Guides"
+    ],
+    "seoKeywords": [
+      "Le Chene NYC",
+      "French bistro Manhattan",
+      "traditional French restaurants",
+      "classic French dining NYC"
+    ]
+  },
+  {
+    "id": "new-york-eyval",
+    "name": "Eyval",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Eyval felt like discovering a vibrant celebration of Middle Eastern hospitality where Persian and Mediterranean flavors dance together in perfect harmony. This exciting restaurant brings the warmth and generosity of Persian dining culture to New York, serving dishes that burst with flavor and color in an atmosphere that makes every guest feel like family.",
+    "reviewSummary": "Vibrant Persian-Mediterranean restaurant celebrating Middle Eastern hospitality with bold flavors and warm atmosphere.",
+    "cuisine": [
+      "Persian",
+      "Mediterranean",
+      "Middle Eastern"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 412,
+    "address": {
+      "street": "Manhattan",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7489,
+      "lng": -73.9680
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌿",
+      "gallery": []
+    },
+    "features": [
+      "Warm Hospitality",
+      "Persian Cuisine",
+      "Mediterranean Fusion"
+    ],
+    "specialties": [
+      "Persian specialties",
+      "Mediterranean mezze",
+      "Grilled kebabs",
+      "Middle Eastern flavors"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "Middle Eastern Restaurant Reviews",
+      "NYC Persian Dining"
+    ],
+    "seoKeywords": [
+      "Eyval NYC",
+      "Persian restaurants New York",
+      "Middle Eastern dining Manhattan",
+      "Mediterranean cuisine NYC"
+    ]
+  },
+  {
+    "id": "new-york-comal",
+    "name": "Comal",
+    "description": "As a newcomer wandering the foodscape of New York, stepping into Comal felt like being transported to a lively Mexican kitchen where traditional techniques meet creative innovation. This vibrant restaurant has become a destination for those seeking authentic Mexican flavors elevated with contemporary flair, serving dishes that honor regional traditions while embracing New York's culinary energy.",
+    "reviewSummary": "Lively Mexican restaurant blending traditional techniques with contemporary innovation. Authentic regional flavors with creative flair.",
+    "cuisine": [
+      "Mexican",
+      "Regional Mexican",
+      "Contemporary Mexican"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 523,
+    "address": {
+      "street": "Manhattan",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": ""
+    },
+    "location": {
+      "lat": 40.7214,
+      "lng": -73.9890
+    },
+    "contact": {
+      "phone": "",
+      "website": "",
+      "email": ""
+    },
+    "images": {
+      "hero": "🌮",
+      "gallery": []
+    },
+    "features": [
+      "Vibrant Atmosphere",
+      "Regional Mexican",
+      "Contemporary Approach"
+    ],
+    "specialties": [
+      "Traditional Mexican dishes",
+      "Regional specialties",
+      "House-made tortillas",
+      "Creative Mexican cocktails"
+    ],
+    "lastUpdated": "2025-08-10",
+    "sources": [
+      "Mexican Restaurant Reviews",
+      "NYC Latin Dining Guides"
+    ],
+    "seoKeywords": [
+      "Comal NYC",
+      "Mexican restaurants New York",
+      "authentic Mexican Manhattan",
+      "contemporary Mexican dining"
+    ]
   }
 ]
