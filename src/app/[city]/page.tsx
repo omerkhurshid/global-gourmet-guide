@@ -6,6 +6,8 @@ import { RestaurantCard } from "@/components/features/restaurant-card"
 import { AdSenseAd } from "@/components/features/adsense"
 import { Button } from "@/components/ui/button"
 import { Breadcrumb, generateCityBreadcrumb } from "@/components/features/breadcrumb"
+import { FAQSchema } from "@/components/seo/faq-schema"
+import { BreadcrumbSchema } from "@/components/seo/breadcrumb-schema"
 import { cities } from "@/data/cities"
 import { generateCitySEO } from "@/lib/seo"
 import { generateCitySlug } from "@/lib/utils"
@@ -74,8 +76,17 @@ export default async function CityPage({ params }: CityPageProps) {
   const spotlightRestaurants = allRestaurants.filter(restaurant => restaurant.spotlight)
   const regularRestaurants = allRestaurants.filter(restaurant => !restaurant.spotlight)
 
+  const breadcrumbItems = [
+    { name: 'Home', url: 'https://restaurantsnearme.tech' },
+    { name: city.name, url: `https://restaurantsnearme.tech/${citySlug}` }
+  ]
+
   return (
     <div className="bg-gray-50 min-h-screen">
+      {/* SEO Schema */}
+      <FAQSchema type="city" cityName={city.name} />
+      <BreadcrumbSchema items={breadcrumbItems} />
+      
       {/* City Hero */}
       <CityHero city={city} />
 

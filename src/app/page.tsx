@@ -5,6 +5,7 @@ import { cities } from "@/data/cities"
 import { generateCitySlug } from "@/lib/utils"
 import { AdSenseAd, SearchBar } from "@/components/performance/client-components"
 import { LocalBusinessSchema } from "@/components/seo/local-business-schema"
+import { FAQSchema } from "@/components/seo/faq-schema"
 import { FeaturedSidebar } from "@/components/features/featured-sidebar"
 import dynamic from "next/dynamic"
 import styles from "./HomePage.module.css"
@@ -30,8 +31,9 @@ export default function Home() {
 
   return (
     <div className={`min-h-screen ${styles.container}`}>
-      {/* Local Business Schema */}
+      {/* SEO Schema */}
       <LocalBusinessSchema cities={cities} />
+      <FAQSchema type="homepage" />
       
       {/* Clean divider line */}
       <div className={styles.dividerLine}></div>

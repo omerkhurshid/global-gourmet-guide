@@ -1,7 +1,7 @@
 import Script from 'next/script'
 
 interface StructuredDataProps {
-  type: 'website' | 'restaurant' | 'city'
+  type: 'website' | 'restaurant' | 'city' | 'article'
   data: any
 }
 
@@ -104,7 +104,30 @@ export function StructuredData({ type, data }: StructuredDataProps) {
           "priceRange": data.priceLevel,
           "servesCuisine": data.cuisine,
           "telephone": data.contact.phone,
-          "openingHours": "Mo-Su 11:00-23:00"
+          "url": data.contact.website,
+          "openingHours": data.openingHours || "Mo-Su 11:00-23:00",
+          "hasMenu": data.menuHighlights ? {
+            "@type": "Menu",
+            "hasMenuSection": Object.entries(data.menuHighlights).map(([section, items]) => ({
+              "@type": "MenuSection",
+              "name": section,
+              "description": items
+            }))
+          } : undefined,
+          "review": data.spotlight ? {
+            "@type": "Review",
+            "author": {
+              "@type": "Person",
+              "name": data.spotlight.author
+            },
+            "reviewRating": {
+              "@type": "Rating",
+              "ratingValue": data.rating,
+              "bestRating": 5
+            },
+            "reviewBody": data.spotlight.excerpt,
+            "datePublished": data.spotlight.publishDate
+          } : undefined
         }
 
       case 'city':
@@ -129,6 +152,43 @@ export function StructuredData({ type, data }: StructuredDataProps) {
               }
             }
           }))
+        }
+
+      case 'article':
+        return {
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "headline": data.title,
+          "description": data.excerpt,
+          "author": {
+            "@type": "Person",
+            "name": data.author
+          },
+          "datePublished": data.publishDate,
+          "dateModified": data.publishDate,
+          "publisher": {
+            "@type": "Organization",
+            "name": "Restaurants Near Me",
+            "logo": {
+              "@type": "ImageObject",
+              "url": "https://restaurantsnearme.tech/logo.png"
+            }
+          },
+          "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": data.url
+          },
+          "articleSection": "Restaurant Reviews",
+          "wordCount": data.wordCount || 1000,
+          "image": data.image || "https://restaurantsnearme.tech/logo.png",
+          "about": {
+            "@type": "Restaurant",
+            "name": data.restaurantName,
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": data.cityName
+            }
+          }
         }
 
       default:
