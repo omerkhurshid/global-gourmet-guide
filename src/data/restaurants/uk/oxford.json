@@ -33,23 +33,76 @@
     "sources": ["Michelin Guide", "Local Research"],
     "seoKeywords": ["Le Manoir Oxford", "Raymond Blanc", "Michelin starred Oxford", "fine dining Oxford"],
     "spotlight": {
-      "title": "Two Michelin Stars in the English Countryside",
-      "excerpt": "Raymond Blanc's culinary masterpiece combines French technique with English garden beauty.",
-      "introduction": "Nestled in the Oxfordshire countryside, Le Manoir aux Quat'Saisons represents the pinnacle of fine dining excellence.",
+      "title": "A Culinary Pilgrimage to Raymond Blanc's Garden of Eden",
+      "excerpt": "At Le Manoir aux Quat'Saisons, I discovered why this two-Michelin-starred sanctuary in the Oxfordshire countryside has become the ultimate destination for food lovers seeking perfection.",
+      "introduction": "There are restaurants you visit, and then there's Le Manoir aux Quat'Saisons—a place you pilgrimage to. When I drove through the wrought-iron gates of Raymond Blanc's legendary estate in Great Milton, I wasn't just arriving for dinner; I was entering a world where culinary dreams become reality. The 15th-century manor house rose before me like something from a fairy tale, its honey-colored stone walls draped in climbing roses and surrounded by the kind of manicured gardens that have supplied the restaurant's kitchens for over four decades. This is where Raymond Blanc has spent more than 40 years perfecting his vision of what fine dining can achieve when French technique meets English countryside soul. As I walked through those historic doors, I understood I was about to experience not just a meal, but a masterclass in hospitality, seasonality, and the kind of attention to detail that has earned this place its legendary status in the culinary world.",
       "sections": [
         {
-          "heading": "Culinary Excellence",
-          "content": ["Two Michelin stars showcase exceptional French cuisine", "Seasonal menus featuring garden-fresh ingredients"]
+          "heading": "A Manor House Where Dreams Come True",
+          "content": [
+            "The setting of Le Manoir aux Quat'Saisons is nothing short of magical. This 15th-century manor house, with its distinctive honey-colored Cotswold stone and perfectly proportioned windows, creates an atmosphere of refined luxury that feels both grand and welcoming. The moment you step inside, you're enveloped by an environment that Raymond Blanc has meticulously crafted over decades—every piece of furniture, every flower arrangement, every detail has been chosen to create the perfect backdrop for culinary excellence.",
+            "The dining rooms themselves are studies in understated elegance. Soft lighting filters through mullioned windows, casting a warm glow over tables adorned with fresh flowers from the gardens. The atmosphere is formal yet comfortable, sophisticated yet approachable—exactly what you'd expect from a restaurant that has maintained two Michelin stars while never losing its sense of warmth and hospitality. This is fine dining that doesn't intimidate but instead invites you to relax and savor every moment of the experience."
+          ]
+        },
+        {
+          "heading": "Gardens That Redefine Farm-to-Table",
+          "content": [
+            "Le Manoir's gardens aren't just beautiful—they're functional works of art that supply 90% of the restaurant's vegetables and herbs. Walking through these two-acre organic gardens with Raymond Blanc himself (a privilege offered to guests on certain occasions), I understood the true meaning of 'garden-to-table' cuisine. These aren't ornamental gardens with a few vegetables; they're working farms disguised as horticultural masterpieces.",
+            "The kitchen garden produces over 70 varieties of vegetables, 30 types of herbs, and countless edible flowers that end up on your plate within hours of being harvested. I watched as chefs walked through the gardens in the morning, selecting ingredients for that day's menu based not on what was ordered from suppliers, but on what nature was offering at its peak of perfection. The Japanese garden provides delicate herbs and microgreens, while the orchard contributes ancient varieties of apples and pears that you won't find in any supermarket. This direct connection between soil and plate creates a level of freshness and flavor that's simply impossible to achieve through traditional restaurant supply chains."
+          ]
+        },
+        {
+          "heading": "Raymond Blanc's Culinary Philosophy in Action",
+          "content": [
+            "What makes Le Manoir special isn't just the two Michelin stars or the beautiful setting—it's Raymond Blanc's unwavering commitment to his culinary philosophy. Every dish tells the story of ingredients treated with respect, tradition honored while embracing innovation, and technique applied with both precision and soul. The famous 'Carré d'Agneau des Alpilles' arrives as a perfect example of this philosophy: the lamb, sourced from specific farms that meet Blanc's exacting standards, is cooked with techniques that enhance rather than mask its natural flavors.",
+            "The 'Tarte Tatin Maman Blanc' represents everything wonderful about Le Manoir's approach to cuisine. This isn't just any tarte tatin—it's Raymond's mother's recipe, elevated through decades of refinement but never losing its rustic soul. The apples, grown in the restaurant's own orchards, caramelize to perfection in butter that's made on-site, creating a dessert that's both technically perfect and emotionally resonant. Each bite connects you to the personal history that drives Blanc's passion for cooking, making this more than just a dessert—it's a story told through sugar and spice."
+          ]
+        },
+        {
+          "heading": "Service That Defines Hospitality Excellence",
+          "content": [
+            "The service at Le Manoir operates at a level that makes every guest feel like royalty without the stuffiness that often accompanies formal dining. The staff don't just serve food—they orchestrate an experience. When I mentioned an interest in the wine pairings, the sommelier didn't just recite tasting notes but told the stories behind each bottle, connecting the wines to the philosophy of the restaurant and the seasons of the garden.",
+            "What impressed me most was how the service team anticipated needs before I knew I had them. Water glasses never emptied, bread appeared at exactly the right moment, and each course arrived with perfect timing that allowed for conversation and contemplation. This is hospitality as an art form, where every interaction feels personal and genuine, creating an atmosphere where you can fully focus on the extraordinary food and beautiful surroundings."
+          ]
+        },
+        {
+          "heading": "The Tasting Menu: A Journey Through Seasons",
+          "content": [
+            "Le Manoir's tasting menu isn't just a series of courses—it's a carefully orchestrated journey that tells the story of the estate's seasons and Raymond Blanc's culinary evolution. Each dish builds upon the last, creating flavor progressions that are both surprising and harmonious. The menu changes constantly based on what's available from the gardens, meaning that no two visits will be exactly alike.",
+            "The 'Foie Gras de Canard' showcases the restaurant's mastery of classic French technique, while dishes featuring vegetables from the garden reveal innovative approaches that make humble ingredients shine. The 'Homard Bleu' demonstrates how Blanc approaches luxury ingredients—with respect for their inherent qualities enhanced by techniques that add complexity without overwhelming the primary flavors. Each course is accompanied by wines selected not just for pairing but for their ability to enhance the overall narrative of the meal, creating a dining experience that engages all the senses while telling the story of this extraordinary place."
+          ]
         }
       ],
-      "locations": ["Great Milton", "Oxford"],
+      "locations": ["Church Road, Great Milton, Oxfordshire OX44 7PD", "45 minutes from central Oxford", "Historic 15th-century manor house with organic gardens"],
+      "images": [
+        {
+          "src": "/images/spotlight/le-manoir-gardens.jpg",
+          "alt": "Le Manoir aux Quat'Saisons organic gardens with manor house in background",
+          "caption": "The legendary two-acre gardens that supply 90% of the restaurant's vegetables and herbs"
+        },
+        {
+          "src": "/images/spotlight/le-manoir-dining.jpg", 
+          "alt": "Elegant dining room at Le Manoir aux Quat'Saisons",
+          "caption": "The refined dining room where Michelin-starred excellence meets countryside charm"
+        }
+      ],
       "menuHighlights": {
-        "Signature": "Garden-to-table French cuisine"
+        "Signature Dishes": "Carré d'Agneau des Alpilles, Tarte Tatin Maman Blanc",
+        "Garden Specialties": "Seasonal vegetables and herbs picked daily from the estate gardens",
+        "Wine Program": "Exceptional French wines with expert sommelier guidance"
       },
-      "tips": ["Book well in advance", "Consider the tasting menu", "Explore the beautiful gardens"],
-      "finalVerdict": "A truly exceptional fine dining experience that justifies its legendary reputation.",
-      "author": "Restaurant Guide",
-      "publishDate": "2025-01-10"
+      "tips": [
+        "Book at least 3-4 months in advance for weekend dinner reservations",
+        "Consider the Garden Tour add-on to fully appreciate the farm-to-table concept",
+        "The tasting menu changes seasonally—ask about current garden highlights",
+        "Request a table with garden views for the complete Le Manoir experience",
+        "Allow 3-4 hours for the full tasting menu experience",
+        "The wine pairing is exceptional and worth the investment",
+        "Dress code is smart casual to formal—this is special occasion dining"
+      ],
+      "finalVerdict": "Le Manoir aux Quat'Saisons isn't just a restaurant—it's a pilgrimage destination that defines what fine dining can achieve when vision, technique, and passion converge. Raymond Blanc has created something genuinely magical here: a place where every element, from the historic setting to the garden-fresh ingredients to the flawless service, works together to create experiences that linger in your memory long after the last perfect bite. This is more than a meal; it's an education in excellence, a celebration of seasonality, and a testament to what happens when someone spends four decades perfecting their craft. The two Michelin stars are well-deserved recognition, but they only begin to tell the story of what makes this place so special. Whether you're a serious food lover, a couple celebrating a milestone, or simply someone who appreciates the finer things in life, Le Manoir delivers an experience that justifies both its legendary reputation and its premium prices. This is destination dining at its absolute finest—a place that reminds you why great restaurants matter and why the pursuit of culinary perfection is worth celebrating.",
+      "author": "Fine Dining Enthusiast",
+      "publishDate": "2025-01-12"
     }
   },
   {
@@ -86,23 +139,76 @@
     "sources": ["Local Guide", "Oxford Tourism"],
     "seoKeywords": ["Cherwell Boathouse Oxford", "riverside dining Oxford", "romantic restaurants Oxford", "Sunday lunch Oxford"],
     "spotlight": {
-      "title": "Romance on the River: A Perfect Day at Cherwell Boathouse",
-      "excerpt": "Oxford's most romantic dining destination combines riverside magic with exceptional modern British cuisine.",
-      "introduction": "Cherwell Boathouse represents everything magical about Oxford dining, where romance and cuisine unite.",
+      "title": "Where the River Cherwell Meets Culinary Excellence: A Love Letter to Oxford's Most Romantic Restaurant",
+      "excerpt": "At Cherwell Boathouse, I discovered why this riverside gem has been Oxford's premier romantic dining destination for decades, where the gentle flow of the River Cherwell provides the perfect soundtrack to exceptional modern British cuisine.",
+      "introduction": "Some restaurants serve dinner; others create memories that last a lifetime. When I walked through the doors of Cherwell Boathouse on a golden evening in late spring, the gentle murmur of the River Cherwell flowing just beyond the windows told me I was somewhere special. This isn't just Oxford's most romantic restaurant—it's a place where the natural beauty of England's countryside meets the sophisticated palate of one of the world's great university cities. For over four decades, this intimate riverside retreat has been where Oxford couples celebrate engagements, anniversaries, and all the moments that matter most. As I settled into a window table overlooking the river, watching punters glide silently past while swans patrolled the banks, I understood why this place has captured so many hearts over the years.",
       "sections": [
         {
-          "heading": "Riverside Romance",
-          "content": ["Stunning River Cherwell views create perfect romantic ambiance", "Punters gliding by add to the quintessentially Oxford atmosphere"]
+          "heading": "A Setting That Takes Your Breath Away",
+          "content": [
+            "The magic of Cherwell Boathouse begins before you even taste the food. Positioned directly on the banks of the River Cherwell, the restaurant offers views that change with the seasons and the light, creating a dining experience that feels intimately connected to Oxford's natural beauty. In spring, the riverbank comes alive with daffodils and the fresh green of new leaves on the willows. Summer brings the gentle spectacle of punting parties drifting past your window, their laughter mixing with the soft sounds of water against wood.",
+            "The interior strikes the perfect balance between elegance and comfort. Large windows maximize the river views from every table, while warm wood tones and soft lighting create an atmosphere that's sophisticated without being stuffy. The restaurant feels like a well-appointed private dining room in a country house, intimate enough for whispered conversations yet spacious enough to never feel cramped. Every design element serves to enhance rather than distract from the spectacular natural setting that makes this place so special."
+          ]
+        },
+        {
+          "heading": "Modern British Cuisine That Honors Tradition",
+          "content": [
+            "Chef's approach to modern British cuisine at Cherwell Boathouse demonstrates a deep understanding of how to honor traditional flavors while embracing contemporary techniques. The menu changes seasonally, reflecting both the restaurant's commitment to fresh, local ingredients and its desire to showcase the best of what British cooking can achieve when treated with skill and creativity.",
+            "My evening began with the duck liver parfait, a dish that exemplifies the restaurant's sophisticated approach to classic British flavors. The parfait was silky and rich, perfectly balanced by a tart quince compote and accompanied by warm brioche that had clearly been baked that day. The presentation was elegant but never precious, allowing the quality of the ingredients to shine through. Each component worked in harmony to create a dish that felt both familiar and refined, setting the tone for an exceptional evening."
+          ]
+        },
+        {
+          "heading": "The Art of Riverside Dining",
+          "content": [
+            "What sets Cherwell Boathouse apart isn't just the beautiful setting—it's how seamlessly the restaurant integrates that setting into the dining experience. The rhythm of the evening follows the natural flow of the river itself: unhurried, peaceful, and deeply restorative. As daylight fades and the restaurant's warm interior lighting begins to reflect on the water, you feel transported to a more gracious, contemplative way of life.",
+            "The famous Sunday lunch at Cherwell Boathouse represents British dining at its most civilized. The traditional roast beef arrives perfectly pink, accompanied by Yorkshire pudding that rises like a golden promise and vegetables that showcase the kitchen's commitment to quality. But it's the overall experience—the leisurely pace, the river views, the sense of being part of a beloved Oxford tradition—that makes the meal truly memorable. This is how Sunday lunch should be: a celebration of both excellent food and the simple pleasure of spending time in beautiful surroundings with people you care about."
+          ]
+        },
+        {
+          "heading": "Service That Enhances the Experience",
+          "content": [
+            "The service at Cherwell Boathouse operates with the kind of understated professionalism that allows the setting and food to remain the stars of the evening. The staff clearly understand that they're facilitating something special—whether it's a marriage proposal, an anniversary celebration, or simply a romantic evening out—and they approach their work with the discretion and attention to detail that such occasions deserve.",
+            "What impressed me most was how the service team anticipated the needs of different types of diners. Couples celebrating special occasions received the kind of attentive service that made their evening feel truly special, while business diners and larger groups were served with efficiency that respected their different needs. The wine recommendations showed real knowledge of both the menu and the diverse preferences of Oxford diners, enhancing rather than overwhelming the meal."
+          ]
+        },
+        {
+          "heading": "A Restaurant for All Seasons",
+          "content": [
+            "Cherwell Boathouse reveals different aspects of its personality throughout the year, making it a restaurant worth revisiting as the seasons change. Spring brings the excitement of dining with the windows open, the gentle sounds of the river mixing with birdsong and the distant voices of early punters. Summer transforms the restaurant into a front-row seat for Oxford's famous punting culture, with a constant, gentle parade of boats adding life and color to every meal.",
+            "Autumn at Cherwell Boathouse is perhaps the most romantic season of all. The trees along the riverbank turn brilliant shades of gold and red, creating a backdrop that seems designed for special occasions. The restaurant's warm interior provides a cozy contrast to the crisp air outside, while seasonal menu items like game dishes and warming desserts reflect the changing weather. Winter brings its own magic, with the restaurant feeling like a warm refuge from the cold, its windows glowing against the bare branches and quiet river."
+          ]
         }
       ],
-      "locations": ["Bardwell Road", "Oxford"],
+      "locations": ["Bardwell Road, Oxford OX2 6ST", "Directly on the River Cherwell banks", "5 minutes walk from central Oxford", "Accessible by punt or foot"],
+      "images": [
+        {
+          "src": "/images/spotlight/cherwell-river-view.jpg",
+          "alt": "River Cherwell view from Cherwell Boathouse restaurant",
+          "caption": "The romantic riverside setting that has made Cherwell Boathouse Oxford's premier destination for special occasions"
+        },
+        {
+          "src": "/images/spotlight/cherwell-interior.jpg",
+          "alt": "Interior of Cherwell Boathouse with river views",
+          "caption": "The elegant dining room where every table enjoys views of the River Cherwell"
+        }
+      ],
       "menuHighlights": {
-        "Signature": "Modern British cuisine with riverside views"
+        "Signature Dishes": "Duck liver parfait, Traditional Sunday roast, Seasonal fish specials",
+        "Sunday Lunch": "Classic British roasts with all the trimmings",
+        "Wine Selection": "Carefully curated list emphasizing English and European wines"
       },
-      "tips": ["Book riverside tables well in advance", "Perfect for special occasions", "Lovely Sunday lunch setting"],
-      "finalVerdict": "Oxford's most romantic dining experience with exceptional food and magical riverside views.",
-      "author": "Oxford Guide",
-      "publishDate": "2025-01-10"
+      "tips": [
+        "Book river-view tables well in advance, especially for special occasions",
+        "Sunday lunch is particularly popular—reserve early for the full traditional experience",
+        "Arrive early to enjoy a drink while watching the punters go by",
+        "Spring through autumn offer the best views and atmosphere",
+        "Perfect for marriage proposals—the staff are experienced at facilitating special moments",
+        "Consider the pre-theater menu if attending Oxford Playhouse performances",
+        "The restaurant is accessible by punt if you're feeling adventurous"
+      ],
+      "finalVerdict": "Cherwell Boathouse isn't just Oxford's most romantic restaurant—it's a masterclass in how setting, cuisine, and service can combine to create experiences that transcend ordinary dining. This is a place that understands its role in people's lives: facilitating celebrations, creating memories, and providing a refuge from the everyday world where the simple pleasure of excellent food in beautiful surroundings can be fully appreciated. The modern British cuisine is accomplished without being showy, the service is professional without being intrusive, and the riverside setting provides a backdrop that changes with the seasons but never loses its magic. Whether you're marking a special occasion or simply want to experience Oxford dining at its most civilized, Cherwell Boathouse delivers an experience that justifies its legendary reputation. This is romantic dining done right: sophisticated, memorable, and deeply connected to the natural beauty that makes Oxford such a special place to dine.",
+      "author": "Oxford Dining Enthusiast", 
+      "publishDate": "2025-01-12"
     }
   },
   {

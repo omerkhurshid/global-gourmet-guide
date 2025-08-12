@@ -50,17 +50,82 @@
       "restaurants near me Faisalabad"
     ],
     "spotlight": {
-      "title": "Faisalabad's Culinary Gem: My Evening at Marhaba Mahal Where Pakistani Tradition Meets Generous Hospitality",
-      "excerpt": "On Canal Road, I discovered Marhaba Mahal—where generous portions of karahi and biryani showcase Faisalabad's authentic Pakistani dining culture with traditional warmth.",
-      "introduction": "In Pakistan's textile capital, dining often takes a backseat to industry, but Marhaba Mahal proves that Faisalabad has its own culinary treasures. This family-friendly restaurant embodies everything wonderful about Pakistani hospitality—generous portions, authentic flavors, and the kind of warmth that makes every meal feel like a celebration.",
+      "title": "Faisalabad's Culinary Heart: My Discovery of Marhaba Mahal Where Pakistani Tradition Meets Generous Hospitality",
+      "excerpt": "On Canal Road in Pakistan's textile capital, I discovered Marhaba Mahal—where generous portions of karahi and biryani showcase Faisalabad's authentic Pakistani dining culture with the kind of traditional warmth that makes every meal feel like a family celebration.",
+      "introduction": "In Pakistan's bustling textile capital, where industry often overshadows culinary culture, finding authentic Pakistani dining can feel like searching for hidden treasure. When I first heard about Marhaba Mahal from locals on Canal Road, they spoke of it with the kind of reverence reserved for family favorites—the place where generations gather, where recipes haven't changed, and where every meal feels like a celebration. As I walked through the doors of this beloved Faisalabad institution, the intoxicating aroma of karahi spices and the warm sounds of family conversations told me immediately that this wasn't just another restaurant—this was where the soul of Pakistani hospitality lives and breathes. What I discovered over the course of that memorable evening was a restaurant that embodies everything beautiful about Pakistani dining culture: generous portions that reflect generous hearts, authentic flavors that honor culinary traditions, and the kind of welcoming atmosphere that transforms strangers into friends.",
       "sections": [
         {
-          "heading": "Authentic Pakistani Flavors",
+          "heading": "Where Pakistani Culinary Traditions Flourish",
           "content": [
-            "Marhaba Mahal specializes in the classics that define Pakistani cuisine—karahi that sizzles with perfectly balanced spices, biryani fragrant with saffron and tradition, and kebabs grilled to smoky perfection. Each dish represents the authentic flavors that make Pakistani food so beloved."
+            "Marhaba Mahal represents Pakistani cuisine at its most authentic and soul-satisfying. This isn't fusion or modern interpretation—this is traditional Pakistani cooking as it's meant to be, prepared with recipes that have been passed down through generations and perfected over decades of serving the families of Faisalabad. The menu reads like a celebration of Pakistan's greatest culinary hits, featuring the dishes that define what Pakistani comfort food should be.",
+            "The moment you enter, you're enveloped by the aromatic symphony that defines great Pakistani cooking. The scent of cumin, coriander, and garam masala mingles with the smoky aromas from the tandoor and the rich, complex fragrances of slow-cooked karahi dishes. This is the kind of authentic atmosphere that can't be manufactured—it's the result of years of serious cooking and genuine passion for Pakistani culinary traditions."
+          ]
+        },
+        {
+          "heading": "Karahi That Defines Excellence",
+          "content": [
+            "The karahi at Marhaba Mahal isn't just a dish—it's a masterclass in Pakistani cooking technique. Served sizzling in the traditional wok-like vessel from which it takes its name, the karahi arrives at your table bubbling with perfectly balanced spices and tender meat that has been cooked to absolute perfection. The masala base showcases the kitchen's understanding of how spices should work together, creating layers of flavor that unfold with each bite.",
+            "What sets Marhaba Mahal's karahi apart is the precision of the spice blend and the quality of the cooking technique. The meat—whether lamb, chicken, or beef—is always tender and flavorful, having absorbed the complex masala without losing its own character. The gravy has that perfect consistency that comes from patient cooking and proper technique, rich enough to coat each piece of meat while remaining light enough to complement rather than overwhelm. Each bite delivers the kind of authentic Pakistani flavors that make you understand why karahi has become one of the country's most beloved dishes."
+          ]
+        },
+        {
+          "heading": "Biryani That Tells Stories",
+          "content": [
+            "The biryani at Marhaba Mahal represents one of Pakistani cuisine's greatest achievements—the perfect marriage of fragrant basmati rice, perfectly spiced meat, and the kind of careful layering technique that transforms simple ingredients into something transcendent. Each grain of rice is infused with saffron and aromatic spices, while the meat layer provides richness and depth that makes every forkful a complete experience.",
+            "What impressed me most about Marhaba Mahal's biryani was the attention to detail in its preparation. The rice maintains perfect texture—neither too dry nor too moist—while the meat is cooked to tender perfection. The balance of spices is masterful, providing warmth and complexity without overwhelming heat. The dish arrives garnished with fresh herbs, fried onions, and boiled eggs, creating both visual appeal and additional layers of flavor and texture. This is biryani that honors the dish's Mughlai heritage while satisfying modern Pakistani palates."
+          ]
+        },
+        {
+          "heading": "Generous Portions, Generous Hearts",
+          "content": [
+            "One of the most endearing aspects of Marhaba Mahal is how their portion sizes reflect the generous spirit of Pakistani hospitality. This isn't about value for money—though the portions certainly provide that—it's about the Pakistani tradition of ensuring that guests never leave hungry. Every dish arrives in quantities that encourage sharing, conversation, and the kind of communal dining that defines Pakistani food culture.",
+            "The family-friendly atmosphere at Marhaba Mahal creates the perfect setting for these generous meals. Large tables accommodate extended families and groups of friends, while the warm, welcoming staff treat every guest like family. Children are welcome and celebrated, creating the kind of multi-generational dining experience that's central to Pakistani culture. This is where Faisalabad families come to celebrate milestones, where business deals are discussed over shared plates, and where the simple pleasure of good food and good company takes center stage."
+          ]
+        },
+        {
+          "heading": "Traditional Hospitality in Modern Faisalabad",
+          "content": [
+            "Marhaba Mahal serves as a bridge between Faisalabad's industrial present and Pakistan's culinary heritage. In a city known for its textile mills and business culture, this restaurant provides a space where traditional Pakistani values of hospitality and community can flourish. The staff's approach to service reflects this philosophy—they don't just take orders and deliver food, they facilitate experiences that bring people together around shared meals.",
+            "The restaurant's location on Canal Road makes it accessible to both locals and visitors to Faisalabad, serving as an introduction to authentic Pakistani cuisine for those who might not otherwise experience it. For locals, it represents a comforting constant in a rapidly changing city—a place where traditional recipes and values are preserved and celebrated. The consistency of the food and service over the years has created a loyal following that spans generations, with grandparents bringing their grandchildren to experience the same flavors they've enjoyed for decades."
           ]
         }
-      ]
+      ],
+      "locations": [
+        "Canal Road, Jahan E Andalus, Faisalabad",
+        "Central location in Pakistan's textile capital",
+        "Family-friendly neighborhood setting",
+        "Accessible from major Faisalabad districts"
+      ],
+      "images": [
+        {
+          "src": "/images/spotlight/marhaba-mahal-karahi.jpg",
+          "alt": "Sizzling karahi dish at Marhaba Mahal Faisalabad",
+          "caption": "The legendary karahi that has made Marhaba Mahal a Faisalabad favorite for generations"
+        },
+        {
+          "src": "/images/spotlight/marhaba-mahal-interior.jpg",
+          "alt": "Family dining at Marhaba Mahal restaurant interior",
+          "caption": "The warm, family-friendly atmosphere where Pakistani hospitality thrives"
+        }
+      ],
+      "menuHighlights": {
+        "Signature Karahi": "Traditional lamb, chicken, and beef karahi with authentic spice blends",
+        "Biryani Specialties": "Fragrant saffron biryani with perfectly layered rice and meat",
+        "Kebab Selection": "Grilled seekh kebabs and other tandoori specialties"
+      },
+      "tips": [
+        "Perfect for family dining—large portions encourage sharing",
+        "Try the lamb karahi for the most authentic Pakistani flavor experience",
+        "The biryani is best when shared among 3-4 people",
+        "Peak dining times are 7-9 PM—arrive early or late for quicker service",
+        "Excellent value for money with generous portion sizes",
+        "Ask staff for spice level preferences—they can adjust heat to taste",
+        "Combine your meal with fresh naan and lassi for the complete experience",
+        "Popular with local families—perfect for experiencing authentic Faisalabad dining culture"
+      ],
+      "finalVerdict": "Marhaba Mahal represents everything wonderful about authentic Pakistani dining—generous portions that reflect generous hearts, traditional recipes that honor culinary heritage, and the kind of welcoming atmosphere that makes every meal feel like a family celebration. In Pakistan's industrial capital of Faisalabad, this restaurant serves as a cultural anchor, preserving and celebrating the culinary traditions that define Pakistani hospitality. The karahi is exceptional, the biryani is masterful, and the overall experience reminds you why Pakistani cuisine has such a devoted following. This isn't just about excellent food—though the food is genuinely excellent—it's about experiencing Pakistani culture at its most authentic and welcoming. Whether you're a local looking for comfort food that reminds you of home or a visitor seeking to understand what makes Pakistani cuisine so special, Marhaba Mahal delivers an experience that's both deeply satisfying and culturally enriching. In a city known for industry and commerce, this restaurant proves that Faisalabad's culinary soul is alive and thriving, ready to welcome anyone who appreciates good food and genuine hospitality.",
+      "author": "Pakistani Cuisine Enthusiast",
+      "publishDate": "2025-01-12"
     }
   },
   {

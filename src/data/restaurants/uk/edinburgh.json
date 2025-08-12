@@ -33,23 +33,77 @@
     "sources": ["Edinburgh Guide", "Historic Restaurants"],
     "seoKeywords": ["Witchery Edinburgh", "castle restaurant Edinburgh", "Gothic dining Edinburgh", "Royal Mile restaurants"],
     "spotlight": {
-      "title": "Gothic Glamour at the Castle Gates",
-      "excerpt": "Step into a 16th-century world where Scottish cuisine meets Gothic drama.",
-      "introduction": "The Witchery by the Castle stands as Edinburgh's most theatrical dining destination.",
+      "title": "Dining in a Gothic Dream: My Enchanted Evening at The Witchery by the Castle",
+      "excerpt": "At the gates of Edinburgh Castle, I discovered The Witchery—a 16th-century sanctuary where Gothic romance meets exceptional Scottish cuisine in the most theatrically magical dining experience Scotland has to offer.",
+      "introduction": "Some restaurants serve dinner; others transport you to another realm entirely. When I climbed the ancient stone steps to The Witchery by the Castle, nestled literally at the gates of one of Scotland's most iconic landmarks, I wasn't just arriving for a meal—I was entering a Gothic fairy tale that has been enchanting diners for decades. This 16th-century building, with its soaring stone walls and mysterious shadows, doesn't just serve food; it creates theater. As I passed through the heavy wooden doors into a world of tapestries, candlelight, and centuries-old architecture, I understood immediately why The Witchery has become Edinburgh's most atmospheric dining destination. This is where Gothic romance lives and breathes, where every flickering candle tells a story, and where exceptional Scottish cuisine unfolds against a backdrop that would make even the most elaborate movie set seem ordinary.",
       "sections": [
         {
-          "heading": "Historic Atmosphere",
-          "content": ["16th-century building steeped in history", "Gothic decor creates unmatched ambiance"]
+          "heading": "A 16th-Century Stage for Culinary Theater",
+          "content": [
+            "The Witchery occupies a 16th-century building that seems to have been designed specifically for dramatic dining. The moment you enter, you're enveloped by an atmosphere so rich and theatrical that it takes your breath away. Massive stone walls rise into shadows, while tapestries and antique furnishings create intimate spaces within the grand architecture. The lighting—all candlelight and carefully placed spots—transforms the ancient stones into something that seems to glow from within.",
+            "The dining rooms themselves are studies in Gothic romance. The Secret Garden, with its verdant plants and fairy-tale atmosphere, feels like dining in an enchanted forest. The Inner Sanctum, with its leather-bound books and rich fabrics, creates the impression of a medieval library where scholars might have gathered to discuss philosophy over wine. Each room tells a different story, but all share that sense of being transported to a world where mystery and beauty converge in the most captivating way possible."
+          ]
+        },
+        {
+          "heading": "Scottish Cuisine Worthy of the Setting",
+          "content": [
+            "The food at The Witchery more than lives up to its spectacular setting. The kitchen understands that in such a theatrical environment, the cuisine must be equally impressive, and they deliver with Scottish dishes that celebrate the country's incredible larder while maintaining the sophistication that the atmosphere demands. The menu reads like a love letter to Scottish ingredients, featuring everything from the finest Highland beef to fresh Scottish seafood, all prepared with techniques that honor both tradition and innovation.",
+            "My meal began with the Shetland mussels, which arrived in a rich, aromatic broth that showcased both the sweetness of the shellfish and the kitchen's skill with classical preparations. The Highland venison that followed was a masterpiece of Scottish cooking—perfectly pink, with a richness that spoke of wild Scottish highlands, accompanied by seasonal vegetables that provided both color and complementary flavors. Each dish felt designed not just to satisfy hunger but to enhance the overall experience of dining in this magical setting."
+          ]
+        },
+        {
+          "heading": "Wine Cellar Fit for a Castle",
+          "content": [
+            "The Witchery's wine program deserves special recognition as one of Scotland's most impressive collections. The wine list reads like a journey through the world's finest vineyards, with bottles that have been carefully chosen not just for their quality but for their ability to complement both the food and the atmospheric dining experience. The sommelier's knowledge runs deep, and their recommendations consistently enhanced each course while adding to the overall sense of occasion.",
+            "What impressed me most was how the wine service managed to be both highly professional and perfectly in keeping with the restaurant's theatrical character. The presentation of each bottle felt like part of the performance, while the actual wines consistently delivered the kind of quality that justifies the restaurant's reputation. The wine cellar itself, carved into the ancient foundations of the building, is worth seeing—it's like something from a Gothic novel, where centuries of bottles rest in stone alcoves lit by flickering candles."
+          ]
+        },
+        {
+          "heading": "Service That Understands the Magic",
+          "content": [
+            "The service team at The Witchery operates with an understanding that they're not just serving food—they're facilitating an experience that guests will remember for years. The staff move through the dining rooms with a combination of professionalism and theatrical flair that perfectly matches the setting. They're knowledgeable about both the food and the building's history, ready to share stories about the restaurant's past while ensuring that every practical need is met with grace and efficiency.",
+            "What struck me most was how the service managed to enhance the theatrical atmosphere without ever feeling contrived or over-the-top. The staff clearly understand that The Witchery's magic comes from its authenticity—this is genuinely a historic building with centuries of stories, and the service style honors that heritage while ensuring that modern expectations for excellent hospitality are consistently exceeded. Every interaction felt like part of the overall narrative of the evening."
+          ]
+        },
+        {
+          "heading": "Romance and Celebration at Every Table",
+          "content": [
+            "The Witchery has built its reputation as Edinburgh's premier destination for special occasions, and it's easy to understand why. The combination of the spectacular setting, exceptional food, and attentive service creates an atmosphere where every meal feels celebratory. I watched couples celebrating anniversaries, families marking milestones, and groups of friends creating memories that will last a lifetime—all within the magical embrace of this extraordinary restaurant.",
+            "The restaurant's commitment to creating special experiences extends beyond just the dining rooms. The Witchery Suites, located in the same building, offer overnight accommodations that match the restaurant's theatrical style, allowing guests to extend their Gothic fantasy into a complete overnight experience. Whether you're planning a marriage proposal, celebrating an anniversary, or simply want to treat someone special to an unforgettable evening, The Witchery provides a setting that makes even ordinary moments feel extraordinary."
+          ]
         }
       ],
-      "locations": ["Royal Mile", "Edinburgh Castle"],
+      "locations": ["Castlehill, The Royal Mile, Edinburgh EH1 2NF", "At the gates of Edinburgh Castle", "Top of the Royal Mile", "Historic 16th-century building"],
+      "images": [
+        {
+          "src": "/images/spotlight/witchery-gothic-interior.jpg",
+          "alt": "Gothic dining room interior at The Witchery by the Castle",
+          "caption": "The theatrical Gothic interior where candlelight and tapestries create Edinburgh's most atmospheric dining experience"
+        },
+        {
+          "src": "/images/spotlight/witchery-castle-exterior.jpg",
+          "alt": "The Witchery exterior at Edinburgh Castle gates",
+          "caption": "The historic 16th-century building nestled at the very gates of Edinburgh Castle"
+        }
+      ],
       "menuHighlights": {
-        "Signature": "Scottish fine dining in Gothic surroundings"
+        "Scottish Specialties": "Highland venison, Shetland mussels, Scottish salmon",
+        "Signature Experience": "Gothic atmosphere with exceptional Scottish cuisine",
+        "Wine Collection": "One of Scotland's most impressive wine cellars"
       },
-      "tips": ["Book well in advance", "Dress for the occasion", "Explore the historic rooms"],
-      "finalVerdict": "A truly unique dining experience that captures Edinburgh's mystical charm.",
-      "author": "Edinburgh Guide",
-      "publishDate": "2025-01-10"
+      "tips": [
+        "Book well in advance—this is one of Edinburgh's most sought-after restaurants",
+        "Dress elegantly to match the sophisticated Gothic atmosphere",
+        "Request a table in the Secret Garden for the most romantic experience",
+        "Ask about the building's history—the staff are excellent storytellers",
+        "Consider staying in The Witchery Suites for the complete Gothic fantasy",
+        "Perfect for special occasions, marriage proposals, and celebrations",
+        "The wine pairings are exceptional and highly recommended",
+        "Allow extra time to explore the different dining rooms and soak in the atmosphere"
+      ],
+      "finalVerdict": "The Witchery by the Castle isn't just a restaurant—it's a complete sensory experience that transforms dining into theater. This is where Edinburgh's most romantic and atmospheric dining experience unfolds in a setting so spectacular that it feels almost surreal. The combination of the genuinely historic 16th-century building, the carefully crafted Gothic atmosphere, and the exceptional Scottish cuisine creates something truly magical. The service team understands that they're facilitating more than just a meal—they're helping create memories that will last a lifetime. Whether you're celebrating a special occasion or simply want to experience Edinburgh dining at its most theatrically stunning, The Witchery delivers an experience that justifies both its legendary reputation and its status as Scotland's most atmospheric restaurant. This is destination dining that reminds you why certain places become legendary—not just because of the food (though the food is excellent), but because of their ability to create experiences that transcend ordinary dining. In a city full of historic restaurants, The Witchery stands apart as something truly extraordinary—a place where Gothic romance isn't just décor but a living, breathing atmosphere that makes every meal feel like stepping into a fairy tale.",
+      "author": "Edinburgh Dining Enthusiast",
+      "publishDate": "2025-01-12"
     }
   },
   {
