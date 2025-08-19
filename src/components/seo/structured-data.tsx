@@ -63,10 +63,16 @@ export function StructuredData({ type, data }: StructuredDataProps) {
             "name": "Global Restaurant Directory",
             "description": `Comprehensive database of ${data.totalRestaurants || 160} restaurants across ${data.totalCities || 18} cities in ${data.totalCountries || 5} countries.`,
             "url": "https://restaurantsnearme.tech",
+            "creator": {
+              "@type": "Organization",
+              "name": "Restaurants Near Me",
+              "url": "https://restaurantsnearme.tech"
+            },
             "publisher": {
               "@type": "Organization",
               "name": "Restaurants Near Me"
             },
+            "license": "https://creativecommons.org/licenses/by/4.0/",
             "distribution": {
               "@type": "DataDownload",
               "encodingFormat": "text/html",
