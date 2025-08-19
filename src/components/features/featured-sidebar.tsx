@@ -1,6 +1,6 @@
 import Link from "next/link"
 import Image from "next/image"
-import { MapPin, Star } from "lucide-react"
+import { MapPin, Star, BookOpen } from "lucide-react"
 
 interface FeaturedSidebarProps {
   className?: string
@@ -60,6 +60,26 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
       description: "Contemporary Pakistani dining where traditional flavors meet sophisticated presentation.",
       cuisine: "Contemporary Pakistani",
       rating: 4.5
+    }
+  ]
+
+  // Featured blog posts
+  const featuredBlogPosts = [
+    {
+      title: "Summer Dining: Best Outdoor Restaurants in London",
+      slug: "london-summer-outdoor-dining",
+      description: "Discover London's most spectacular rooftop terraces, hidden gardens, and canal-side dining spots.",
+      city: "London",
+      publishDate: "August 19, 2024",
+      readTime: "8 min read"
+    },
+    {
+      title: "Summer Dining: Best Outdoor Restaurants in New York",
+      slug: "nyc-summer-outdoor-dining", 
+      description: "From Brooklyn Bridge views to Manhattan rooftops, explore NYC's finest al fresco dining.",
+      city: "New York",
+      publishDate: "August 19, 2024",
+      readTime: "8 min read"
     }
   ]
 
@@ -142,6 +162,41 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
                 </p>
                 <p className="text-xs text-gray-600 leading-tight line-clamp-2">
                   {restaurant.description}
+                </p>
+              </div>
+            </Link>
+          ))}
+        </div>
+      </div>
+
+      {/* Featured Blog Posts Section */}
+      <div className="bg-white border border-gray-200 p-6">
+        <div className="flex items-center mb-6">
+          <BookOpen className="w-5 h-5 mr-2 text-blue-600" />
+          <h3 className="text-lg font-black uppercase tracking-wide text-black">
+            Latest Guides
+          </h3>
+        </div>
+        
+        <div className="space-y-4">
+          {featuredBlogPosts.map((post) => (
+            <Link
+              key={post.slug}
+              href={`/blog/${post.slug}`}
+              className="group block border-l-4 border-blue-200 hover:border-blue-500 transition-colors pl-4"
+            >
+              <div>
+                <h4 className="font-black text-sm text-black group-hover:underline leading-tight mb-2">
+                  {post.title.toUpperCase()}
+                </h4>
+                <p className="text-xs text-gray-500 mb-2">
+                  {post.city} • {post.readTime}
+                </p>
+                <p className="text-xs text-gray-600 leading-tight line-clamp-2 mb-2">
+                  {post.description}
+                </p>
+                <p className="text-xs text-gray-400">
+                  {post.publishDate}
                 </p>
               </div>
             </Link>
