@@ -66,29 +66,31 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
   // Featured blog posts
   const featuredBlogPosts = [
     {
+      title: "Korean Food Revolution: Best Korean Restaurants in NYC 2025",
+      slug: "korean-food-revolution-nyc",
+      description: "NYC's Korean food revolution! From authentic BBQ in K-Town to modern Korean fusion in Brooklyn.",
+      city: "New York City",
+      publishDate: "August 20, 2024",
+      readTime: "12 min read",
+      featured: true,
+      trending: true
+    },
+    {
+      title: "Pakistani-Korean Fusion: Where East Meets East in Lahore",
+      slug: "pakistani-korean-fusion-lahore",
+      description: "Revolutionary Pakistani-Korean fusion creating unique dishes like kimchi karahi and bulgogi biryani.",
+      city: "Lahore",
+      publishDate: "August 20, 2024",
+      readTime: "10 min read",
+      trending: true
+    },
+    {
       title: "Free Food on GCSE Results Day 2025",
       slug: "gcse-free-food",
       description: "Complete UK guide to free meals and treats for GCSE students across London, Oxford, Cambridge & Edinburgh.",
       city: "UK Wide",
       publishDate: "August 19, 2024",
-      readTime: "10 min read",
-      featured: true
-    },
-    {
-      title: "Summer Dining: Best Outdoor Restaurants in London",
-      slug: "london-summer-outdoor-dining",
-      description: "Discover London's most spectacular rooftop terraces, hidden gardens, and canal-side dining spots.",
-      city: "London",
-      publishDate: "August 19, 2024",
-      readTime: "8 min read"
-    },
-    {
-      title: "Summer Dining: Best Outdoor Restaurants in New York",
-      slug: "nyc-summer-outdoor-dining", 
-      description: "From Brooklyn Bridge views to Manhattan rooftops, explore NYC's finest al fresco dining.",
-      city: "New York",
-      publishDate: "August 19, 2024",
-      readTime: "8 min read"
+      readTime: "10 min read"
     }
   ]
 
@@ -195,14 +197,19 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
               className={`group block border-l-4 transition-colors pl-4 ${
                 post.featured 
                   ? 'border-purple-400 hover:border-purple-600' 
-                  : 'border-blue-200 hover:border-blue-500'
+                  : post.trending
+                    ? 'border-orange-400 hover:border-orange-600'
+                    : 'border-blue-200 hover:border-blue-500'
               }`}
             >
               <div>
                 <h4 className="font-black text-sm text-black group-hover:underline leading-tight mb-2">
                   {post.title.toUpperCase()}
                   {post.featured && (
-                    <span className="ml-2 text-xs bg-purple-100 text-purple-700 px-2 py-0.5 rounded">NEW</span>
+                    <span className="ml-2 text-xs bg-purple-100 text-purple-700 px-2 py-0.5 rounded">FEATURED</span>
+                  )}
+                  {post.trending && !post.featured && (
+                    <span className="ml-2 text-xs bg-orange-100 text-orange-700 px-2 py-0.5 rounded">TRENDING</span>
                   )}
                 </h4>
                 <p className="text-xs text-gray-500 mb-2">

@@ -8,14 +8,64 @@ export const metadata = {
 
 const blogPosts = [
   {
+    title: "Korean Food Revolution: Best Korean Restaurants in NYC 2025",
+    slug: "korean-food-revolution-nyc",
+    description: "Discover NYC's Korean food revolution! From authentic BBQ in K-Town to modern Korean fusion in Brooklyn, explore the restaurants driving the #1 trending cuisine of 2025.",
+    city: "New York City",
+    publishDate: "August 20, 2024",
+    readTime: "12 min read",
+    excerpt: "Korean cuisine officially takes over NYC as the #1 trending international cuisine, from Koreatown classics to Brooklyn fusion innovations.",
+    featured: true,
+    trending: true
+  },
+  {
+    title: "Pakistani-Korean Fusion: Where East Truly Meets East in Lahore",
+    slug: "pakistani-korean-fusion-lahore",
+    description: "Experience the revolutionary Pakistani-Korean fusion taking Lahore by storm. Discover restaurants blending Korean techniques with Pakistani flavors, creating unique dishes like kimchi karahi and bulgogi biryani.",
+    city: "Lahore, Pakistan", 
+    publishDate: "August 20, 2024",
+    readTime: "10 min read",
+    excerpt: "Lahore pioneers unique East-meets-East fusion with kimchi karahi, bulgogi seekh kebabs, and Korean-Pakistani BBQ innovations.",
+    trending: true
+  },
+  {
+    title: "Sustainable Seafood Guide: Ocean-to-Table Dining in Karachi",
+    slug: "sustainable-seafood-karachi",
+    description: "Discover Karachi's sustainable seafood revolution! From Arabian Sea-to-table restaurants to eco-conscious fishing practices, explore how Pakistan's coastal capital is leading sustainable dining.",
+    city: "Karachi, Pakistan",
+    publishDate: "August 20, 2024",
+    readTime: "11 min read", 
+    excerpt: "Karachi leads Pakistan's sustainable dining movement with ocean-to-table restaurants supporting local fishermen and Arabian Sea conservation.",
+    trending: true
+  },
+  {
+    title: "The Sake Revolution: Best Japanese Rice Wine Bars in Major US Cities",
+    slug: "sake-revolution-usa",
+    description: "Discover America's sake revolution! From premium Japanese rice wine bars in NYC to artisanal sake breweries in LA, explore the trending beverage growing 4.8% annually across major US cities.",
+    city: "USA Multi-City",
+    publishDate: "August 20, 2024",
+    readTime: "13 min read",
+    excerpt: "American sake culture explodes with 4.8% annual growth, from traditional Tokyo-style bars in NYC to innovative sake breweries in LA.",
+    trending: true
+  },
+  {
+    title: "Filipino Food Boom: Hidden Gems Across America's Food Cities",
+    slug: "filipino-food-boom-usa", 
+    description: "Discover the Filipino food revolution sweeping America! From traditional turo-turo in LA to modern Filipino fine dining in NYC, explore the #2 trending Southeast Asian cuisine making waves across major US cities.",
+    city: "USA Multi-City",
+    publishDate: "August 20, 2024",
+    readTime: "12 min read",
+    excerpt: "Filipino cuisine emerges as America's #2 trending Southeast Asian cuisine with authentic comfort food and innovative fine dining across major cities.",
+    trending: true
+  },
+  {
     title: "Free Food on GCSE Results Day 2025: Your Complete UK Guide",
     slug: "gcse-free-food",
     description: "Celebrate your GCSE results with free food! Discover where students can claim complimentary meals, desserts, and drinks across London, Oxford, Cambridge, and Edinburgh.",
     city: "UK Wide",
     publishDate: "August 19, 2024",
     readTime: "10 min read",
-    excerpt: "From free burgers at Byron to complimentary churros at Las Iguanas, here's your city-by-city guide to scoring free food on GCSE results day.",
-    featured: true
+    excerpt: "From free burgers at Byron to complimentary churros at Las Iguanas, here's your city-by-city guide to scoring free food on GCSE results day."
   },
   {
     title: "Summer Dining: Best Outdoor Restaurants and Terraces in London",
@@ -62,13 +112,22 @@ export default function BlogPage() {
             {blogPosts.map((post) => (
               <article 
                 key={post.slug}
-                className={`bg-white border-2 p-8 hover:shadow-lg transition-shadow duration-300 ${
-                  post.featured ? 'border-purple-400 relative' : 'border-gray-200'
+                className={`bg-white border-2 p-8 hover:shadow-lg transition-shadow duration-300 relative ${
+                  post.featured 
+                    ? 'border-purple-400' 
+                    : post.trending 
+                      ? 'border-orange-400' 
+                      : 'border-gray-200'
                 }`}
               >
                 {post.featured && (
                   <div className="absolute -top-3 left-8 bg-purple-600 text-white px-4 py-1 text-xs font-bold uppercase">
                     Featured Guide
+                  </div>
+                )}
+                {post.trending && !post.featured && (
+                  <div className="absolute -top-3 left-8 bg-orange-600 text-white px-4 py-1 text-xs font-bold uppercase">
+                    Trending Now
                   </div>
                 )}
                 <div className="flex items-center text-sm text-gray-500 mb-4">
