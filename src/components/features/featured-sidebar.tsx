@@ -227,14 +227,20 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
         </div>
       </div>
 
-      {/* Call to Action */}
-      <div className="bg-black text-white p-6 text-center">
-        <h3 className="font-black text-sm mb-2 uppercase tracking-wide">
-          Discover More
-        </h3>
-        <p className="text-xs text-gray-300 leading-tight">
-          Explore 193+ curated restaurants across 21 cities worldwide
-        </p>
+      {/* Blog Index Link */}
+      <div className="bg-gradient-to-r from-orange-600 to-red-600 text-white text-center">
+        <Link 
+          href="/blog"
+          className="block p-6 hover:from-orange-700 hover:to-red-700 transition-all duration-300 group"
+        >
+          <h3 className="font-black text-sm mb-2 uppercase tracking-wide group-hover:scale-105 transition-transform">
+            <BookOpen className="inline w-4 h-4 mr-2" />
+            View All Restaurant Guides
+          </h3>
+          <p className="text-xs text-orange-100 leading-tight">
+            8 comprehensive dining guides • Trending cuisines • City-by-city recommendations
+          </p>
+        </Link>
       </div>
     </div>
   )
