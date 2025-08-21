@@ -66,6 +66,15 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
   // Featured blog posts
   const featuredBlogPosts = [
     {
+      title: "Free Food on GCSE Results Day 2025",
+      slug: "gcse-free-food",
+      description: "Complete UK guide to free meals and treats for GCSE students across London, Oxford, Cambridge & Edinburgh.",
+      city: "UK Wide",
+      publishDate: "August 19, 2024",
+      readTime: "10 min read",
+      featured: true
+    },
+    {
       title: "Summer Dining: Best Outdoor Restaurants in London",
       slug: "london-summer-outdoor-dining",
       description: "Discover London's most spectacular rooftop terraces, hidden gardens, and canal-side dining spots.",
@@ -183,11 +192,18 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
             <Link
               key={post.slug}
               href={`/blog/${post.slug}`}
-              className="group block border-l-4 border-blue-200 hover:border-blue-500 transition-colors pl-4"
+              className={`group block border-l-4 transition-colors pl-4 ${
+                post.featured 
+                  ? 'border-purple-400 hover:border-purple-600' 
+                  : 'border-blue-200 hover:border-blue-500'
+              }`}
             >
               <div>
                 <h4 className="font-black text-sm text-black group-hover:underline leading-tight mb-2">
                   {post.title.toUpperCase()}
+                  {post.featured && (
+                    <span className="ml-2 text-xs bg-purple-100 text-purple-700 px-2 py-0.5 rounded">NEW</span>
+                  )}
                 </h4>
                 <p className="text-xs text-gray-500 mb-2">
                   {post.city} • {post.readTime}

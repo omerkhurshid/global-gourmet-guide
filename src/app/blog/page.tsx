@@ -8,6 +8,16 @@ export const metadata = {
 
 const blogPosts = [
   {
+    title: "Free Food on GCSE Results Day 2025: Your Complete UK Guide",
+    slug: "gcse-free-food",
+    description: "Celebrate your GCSE results with free food! Discover where students can claim complimentary meals, desserts, and drinks across London, Oxford, Cambridge, and Edinburgh.",
+    city: "UK Wide",
+    publishDate: "August 19, 2024",
+    readTime: "10 min read",
+    excerpt: "From free burgers at Byron to complimentary churros at Las Iguanas, here's your city-by-city guide to scoring free food on GCSE results day.",
+    featured: true
+  },
+  {
     title: "Summer Dining: Best Outdoor Restaurants and Terraces in London",
     slug: "london-summer-outdoor-dining",
     description: "Discover London's most spectacular rooftop terraces, hidden gardens, and canal-side dining spots perfect for summer dining.",
@@ -52,8 +62,15 @@ export default function BlogPage() {
             {blogPosts.map((post) => (
               <article 
                 key={post.slug}
-                className="bg-white border border-gray-200 p-8 hover:shadow-lg transition-shadow duration-300"
+                className={`bg-white border-2 p-8 hover:shadow-lg transition-shadow duration-300 ${
+                  post.featured ? 'border-purple-400 relative' : 'border-gray-200'
+                }`}
               >
+                {post.featured && (
+                  <div className="absolute -top-3 left-8 bg-purple-600 text-white px-4 py-1 text-xs font-bold uppercase">
+                    Featured Guide
+                  </div>
+                )}
                 <div className="flex items-center text-sm text-gray-500 mb-4">
                   <span className="font-semibold">{post.city}</span>
                   <span className="mx-2">•</span>
