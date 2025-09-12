@@ -10,6 +10,9 @@ import { pakKoreanFusionData } from "@/data/blog/pak-korean-fusion"
 import { sustainableSeafoodKarachiData } from "@/data/blog/sustainable-seafood-karachi"
 import { sakeRevolutionUSAData } from "@/data/blog/sake-revolution-usa"
 import { filipinoFoodUSAData } from "@/data/blog/filipino-food-usa"
+import { autumnFestivalFoodData } from "@/data/blog/autumn-festival-food-lahore-karachi"
+import { lahoreLateNightFoodData } from "@/data/blog/lahore-late-night-food-culture"
+import { karachiFoodRevolution2025Data } from "@/data/blog/karachi-food-revolution-2025"
 
 async function getBlogPostData(slug: string) {
   const blogDataMap: Record<string, any> = {
@@ -20,7 +23,10 @@ async function getBlogPostData(slug: string) {
     "pakistani-korean-fusion-lahore": { type: "trending", data: pakKoreanFusionData },
     "sustainable-seafood-karachi": { type: "trending", data: sustainableSeafoodKarachiData },
     "sake-revolution-usa": { type: "trending", data: sakeRevolutionUSAData },
-    "filipino-food-boom-usa": { type: "trending", data: filipinoFoodUSAData }
+    "filipino-food-boom-usa": { type: "trending", data: filipinoFoodUSAData },
+    "autumn-festival-food-lahore-karachi": { type: "trending", data: autumnFestivalFoodData },
+    "lahore-late-night-food-culture": { type: "trending", data: lahoreLateNightFoodData },
+    "karachi-food-revolution-2025": { type: "trending", data: karachiFoodRevolution2025Data }
   }
   
   return blogDataMap[slug] || null
@@ -35,7 +41,10 @@ export async function generateStaticParams() {
     { slug: 'pakistani-korean-fusion-lahore' },
     { slug: 'sustainable-seafood-karachi' },
     { slug: 'sake-revolution-usa' },
-    { slug: 'filipino-food-boom-usa' }
+    { slug: 'filipino-food-boom-usa' },
+    { slug: 'autumn-festival-food-lahore-karachi' },
+    { slug: 'lahore-late-night-food-culture' },
+    { slug: 'karachi-food-revolution-2025' }
   ]
 }
 
