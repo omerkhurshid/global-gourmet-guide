@@ -8,6 +8,37 @@ export const metadata = {
 
 const blogPosts = [
   {
+    title: "Autumn Festival Food Guide: Seasonal Celebrations in Lahore & Karachi 2025",
+    slug: "autumn-festival-food-lahore-karachi",
+    description: "Discover Pakistan's autumn festival food scene! From Defense Day celebrations to harvest festivals, explore the seasonal dishes and restaurant specials defining September dining in Lahore and Karachi.",
+    city: "Lahore & Karachi, Pakistan",
+    publishDate: "September 12, 2025",
+    readTime: "12 min read",
+    excerpt: "Experience Pakistan's autumn festival dining from Defense Day patriotic menus to traditional harvest celebrations across both cultural capitals.",
+    featured: true,
+    trending: true
+  },
+  {
+    title: "Lahore's Late-Night Food Revolution: Where the City Never Sleeps (2025 Guide)",
+    slug: "lahore-late-night-food-culture",
+    description: "Discover Lahore's legendary late-night food culture! From 24/7 street food havens to midnight fine dining, explore the restaurants keeping Pakistan's food capital alive after dark.",
+    city: "Lahore, Pakistan",
+    publishDate: "September 12, 2025",
+    readTime: "11 min read",
+    excerpt: "Lahore's nocturnal dining scene thrives after midnight with legendary food streets, 24/7 fine dining, and authentic street food culture.",
+    trending: true
+  },
+  {
+    title: "Karachi's Food Revolution 2025: New Dining Concepts Transforming the City",
+    slug: "karachi-food-revolution-2025",
+    description: "Witness Karachi's explosive food revolution! From cloud kitchens to sustainable dining and fusion experiments, discover the innovative restaurants reshaping Pakistan's economic capital's culinary landscape in 2025.",
+    city: "Karachi, Pakistan",
+    publishDate: "September 12, 2025",
+    readTime: "13 min read",
+    excerpt: "Karachi pioneers revolutionary dining concepts with tech-enabled restaurants, sustainable practices, and innovative fusion transforming Pakistani cuisine.",
+    trending: true
+  },
+  {
     title: "Korean Food Revolution: Best Korean Restaurants in NYC 2025",
     slug: "korean-food-revolution-nyc",
     description: "Discover NYC's Korean food revolution! From authentic BBQ in K-Town to modern Korean fusion in Brooklyn, explore the restaurants driving the #1 trending cuisine of 2025.",
@@ -15,7 +46,6 @@ const blogPosts = [
     publishDate: "August 20, 2024",
     readTime: "12 min read",
     excerpt: "Korean cuisine officially takes over NYC as the #1 trending international cuisine, from Koreatown classics to Brooklyn fusion innovations.",
-    featured: true,
     trending: true
   },
   {
