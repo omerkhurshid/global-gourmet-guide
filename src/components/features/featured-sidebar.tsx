@@ -66,31 +66,60 @@ export function FeaturedSidebar({ className = "" }: FeaturedSidebarProps) {
   // Featured blog posts
   const featuredBlogPosts = [
     {
-      title: "Korean Food Revolution: Best Korean Restaurants in NYC 2025",
-      slug: "korean-food-revolution-nyc",
-      description: "NYC's Korean food revolution! From authentic BBQ in K-Town to modern Korean fusion in Brooklyn.",
-      city: "New York City",
-      publishDate: "August 20, 2024",
-      readTime: "12 min read",
+      title: "Christmas Dining Magic in New York: Where Holiday Dreams Come True 2025",
+      slug: "christmas-dining-new-york-2025",
+      description: "Discover NYC's most enchanting Christmas dining from Rolf's legendary decorations to Michelin-starred holiday feasts.",
+      city: "New York",
+      publishDate: "December 15, 2025",
+      readTime: "15 min read",
       featured: true,
       trending: true
     },
     {
-      title: "Pakistani-Korean Fusion: Where East Meets East in Lahore",
-      slug: "pakistani-korean-fusion-lahore",
-      description: "Revolutionary Pakistani-Korean fusion creating unique dishes like kimchi karahi and bulgogi biryani.",
-      city: "Lahore",
-      publishDate: "August 20, 2024",
-      readTime: "10 min read",
+      title: "New Year's Eve in NYC: Where Midnight Dreams Begin at the World's Greatest Tables",
+      slug: "new-years-eve-dining-new-york-2025",
+      description: "Experience ultimate NYE dining in NYC! From Times Square views to Michelin-starred celebrations welcoming 2026.",
+      city: "New York",
+      publishDate: "December 20, 2025",
+      readTime: "16 min read",
+      featured: true,
       trending: true
     },
     {
-      title: "Free Food on GCSE Results Day 2025",
-      slug: "gcse-free-food",
-      description: "Complete UK guide to free meals and treats for GCSE students across London, Oxford, Cambridge & Edinburgh.",
-      city: "UK Wide",
-      publishDate: "August 19, 2024",
-      readTime: "10 min read"
+      title: "Christmas in London: Where Dickensian Dreams Meet Modern Culinary Magic 2025",
+      slug: "christmas-dining-london-2025",
+      description: "Explore London's enchanting Christmas dining from historic pubs to Michelin-starred feasts with British tradition.",
+      city: "London",
+      publishDate: "December 12, 2025",
+      readTime: "14 min read",
+      trending: true
+    },
+    {
+      title: "New Year's Eve in London: Where Thames-Side Toasts Welcome 2025 in Royal Style",
+      slug: "new-years-eve-dining-london-2025",
+      description: "Experience London's most elegant NYE dining with Thames views, Big Ben midnight, and British sophistication.",
+      city: "London",
+      publishDate: "December 18, 2025",
+      readTime: "15 min read",
+      trending: true
+    },
+    {
+      title: "Christmas in Los Angeles: Where Hollywood Magic Meets Holiday Dining Dreams 2025",
+      slug: "christmas-dining-los-angeles-2025",
+      description: "Discover LA's most glamorous Christmas dining from rooftop restaurants to celebrity chef holiday celebrations.",
+      city: "Los Angeles",
+      publishDate: "December 14, 2025",
+      readTime: "15 min read",
+      trending: true
+    },
+    {
+      title: "Christmas in Edinburgh: Where Scottish Tradition Meets Holiday Magic 2025",
+      slug: "christmas-dining-edinburgh-2025", 
+      description: "Discover Edinburgh's enchanting Christmas dining from historic pubs to fine dining with Highland warmth.",
+      city: "Edinburgh",
+      publishDate: "December 11, 2025",
+      readTime: "14 min read",
+      trending: true
     }
   ]
 

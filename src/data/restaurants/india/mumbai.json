@@ -388,5 +388,62 @@
       "contemporary Indian cuisine",
       "regional Indian food Mumbai"
     ]
+  },
+  {
+    "id": "mumbai-amaru",
+    "name": "Amaru",
+    "description": "Mumbai's latest dining sensation brings the exciting fusion of Japanese and Peruvian culinary traditions to the heart of Bandra. This sophisticated Nikkei cuisine restaurant showcases the beautiful marriage of two distinct food cultures, offering traditional Peruvian ceviches alongside Japanese-inspired dishes that demonstrate the historical connection between Peru and Japan. The menu features innovative combinations that feel both authentic and creative, from fresh ceviches with Japanese touches to perfectly prepared tiraditos.",
+    "reviewSummary": "Amaru represents a sophisticated new addition to Mumbai's dining scene, successfully bringing authentic Nikkei cuisine to India with dishes that honor both Japanese precision and Peruvian boldness in equal measure.",
+    "cuisine": [
+      "Nikkei", 
+      "Japanese-Peruvian Fusion",
+      "Contemporary"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 127,
+    "address": {
+      "street": "Bandra West",
+      "city": "Mumbai",
+      "country": "India", 
+      "postalCode": "400050"
+    },
+    "location": {
+      "lat": 19.0596,
+      "lng": 72.8295
+    },
+    "contact": {
+      "phone": "+91 22 2640 0000",
+      "website": "https://www.amarumumbai.com",
+      "email": "reservations@amarumumbai.com"
+    },
+    "images": {
+      "hero": "🍣",
+      "gallery": []
+    },
+    "features": [
+      "Nikkei Cuisine",
+      "Japanese-Peruvian Fusion", 
+      "Bandra Location",
+      "Opened October 2024"
+    ],
+    "specialties": [
+      "Peruvian ceviches",
+      "Japanese tiraditos",
+      "Nikkei fusion dishes",
+      "Fresh seafood preparations"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Mumbai Restaurant Openings 2024",
+      "Nikkei Cuisine Mumbai"
+    ],
+    "seoKeywords": [
+      "Amaru Mumbai",
+      "Nikkei cuisine Mumbai", 
+      "Japanese Peruvian restaurant",
+      "Bandra fine dining",
+      "fusion restaurant Mumbai"
+    ]
   }
 ]

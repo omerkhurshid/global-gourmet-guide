@@ -598,5 +598,230 @@
       "Michelin star Westminster",
       "African-British fusion"
     ]
+  },
+  {
+    "id": "london-marys",
+    "name": "Mary's",
+    "description": "Jason Atherton's bold reimagining of his flagship Pollen Street Social space brings live-fire cooking and exceptional grills to Mayfair. This sleek new restaurant showcases expert technique with perfectly executed steaks, innovative sharing plates, and an outstanding smash burger that has quickly become legendary among London food lovers. The restaurant features a sophisticated Blind Pig cocktail bar that's worth visiting separately.",
+    "reviewSummary": "Grace Dent praised Mary's as 'hugely enjoyable' in her review, highlighting chef Alex Parker's excellent dishes and exceptional grill work that proves Atherton's autumn relaunch was an unqualified success.",
+    "cuisine": [
+      "Modern British",
+      "Grill",
+      "Contemporary"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 87,
+    "address": {
+      "street": "9 Pollen Street, Mayfair",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": "W1S 1NE"
+    },
+    "location": {
+      "lat": 51.5132,
+      "lng": -0.1426
+    },
+    "contact": {
+      "phone": "+44 20 7290 7600",
+      "website": "https://www.marysrestaurant.co.uk",
+      "email": "info@marysrestaurant.co.uk"
+    },
+    "images": {
+      "hero": "🥩",
+      "gallery": []
+    },
+    "features": [
+      "Jason Atherton Restaurant",
+      "Live-fire Cooking",
+      "Cocktail Bar",
+      "Opened 2024"
+    ],
+    "specialties": [
+      "Grilled steaks",
+      "Smash burger",
+      "Sharing plates",
+      "Cocktails"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Grace Dent Review",
+      "Restaurant Research 2024"
+    ],
+    "seoKeywords": [
+      "Mary's London",
+      "Jason Atherton new restaurant",
+      "best grill restaurant Mayfair",
+      "Pollen Street restaurant"
+    ]
+  },
+  {
+    "id": "london-kiazim-old-bailey",
+    "name": "Kiazim at Old Bailey",
+    "description": "Former Oklava chef Selin Kiazim returns with this modern Turkish restaurant in the stylish new Hyde hotel. The menu showcases exceptional British ingredients prepared with Turkish techniques, featuring stone oven-baked lahmacuns, Welsh lamb kebap with dripping pide, and innovative böreks. The breakfast menu offers unique Turkish-British fusion dishes.",
+    "reviewSummary": "Selin Kiazim's highly anticipated return to London's dining scene brings her signature modern Turkish approach to the historic Old Bailey location, combining exceptional technique with premium British ingredients.",
+    "cuisine": [
+      "Modern Turkish",
+      "British-Turkish Fusion",
+      "Mediterranean"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.5,
+    "reviewCount": 62,
+    "address": {
+      "street": "Old Bailey, Hyde Hotel",
+      "city": "London",
+      "country": "United Kingdom",
+      "postalCode": "EC4M 7DB"
+    },
+    "location": {
+      "lat": 51.5154,
+      "lng": -0.1026
+    },
+    "contact": {
+      "phone": "+44 20 7842 5555",
+      "website": "https://www.hydehotels.com/dining",
+      "email": "dining@hydehotels.com"
+    },
+    "images": {
+      "hero": "🍖",
+      "gallery": []
+    },
+    "features": [
+      "Selin Kiazim Restaurant",
+      "Stone Oven Cooking",
+      "Hotel Restaurant",
+      "Opened 2024"
+    ],
+    "specialties": [
+      "Stone oven lahmacuns",
+      "Welsh lamb kebap",
+      "Turkish böreks",
+      "Modern Turkish cuisine"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Restaurant Opening News",
+      "Chef Research 2024"
+    ],
+    "seoKeywords": [
+      "Selin Kiazim restaurant London",
+      "modern Turkish cuisine London",
+      "Old Bailey restaurant",
+      "Hyde hotel dining"
+    ]
+  },
+  {
+    "id": "london-barbary-coal-drops-yard",
+    "name": "The Barbary Coal Drops Yard",
+    "description": "The highly anticipated expansion of the beloved original Barbary brings their signature Barbary Coast-inspired cuisine to the vibrant Coal Drops Yard. This larger venue features both traditional booth seating and their famous counter dining, serving elevated versions of their classics alongside exciting new dishes like duck confit cigars, monkfish tempura, and coffee rub chicken.",
+    "reviewSummary": "The first proper new Barbary since the original represents a successful expansion of their unique concept, bringing the intimate counter dining experience to a much grander King's Cross venue while maintaining the exceptional quality that made the original a London icon.",
+    "cuisine": [
+      "Middle Eastern",
+      "North African",
+      "Mediterranean"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "address": {
+      "street": "Coal Drops Yard, King's Cross",
+      "city": "London", 
+      "country": "United Kingdom",
+      "postalCode": "N1C 4DQ"
+    },
+    "location": {
+      "lat": 51.5358,
+      "lng": -0.1244
+    },
+    "contact": {
+      "phone": "+44 20 3848 1555",
+      "website": "https://www.thebarbary.co.uk",
+      "email": "coaldropsyard@thebarbary.co.uk"
+    },
+    "images": {
+      "hero": "🥙",
+      "gallery": []
+    },
+    "features": [
+      "Counter Dining",
+      "Booth Seating", 
+      "Coal Drops Yard",
+      "Opened 2024"
+    ],
+    "specialties": [
+      "Duck confit cigars",
+      "Monkfish tempura",
+      "Coffee rub chicken",
+      "Famous hashcake"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Restaurant Opening News",
+      "The Barbary Expansion 2024"
+    ],
+    "seoKeywords": [
+      "The Barbary Coal Drops Yard",
+      "King's Cross restaurants",
+      "Middle Eastern cuisine London",
+      "Barbary Coast dining"
+    ]
+  },
+  {
+    "id": "london-st-james-jeremy-king",
+    "name": "St. James",
+    "description": "Jeremy King's triumphant return to London dining brings classic European brasserie elegance to Arlington Street. This stylish restaurant captures the spirit of Le Caprice with exceptional execution, featuring timeless dishes and impeccable service. The restaurant has quickly become the new place to be seen, attracting celebrities and food lovers alike with its throwback glamour and consistently excellent food.",
+    "reviewSummary": "Giles Coren praised the food as 'just great,' while Grace Dent noted it 'ain't broke, and neither is its clientele.' Critics agree this represents Jeremy King at his finest, delivering the sophisticated brasserie experience London has been missing.",
+    "cuisine": [
+      "European Brasserie", 
+      "Classic British",
+      "Continental"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 234,
+    "address": {
+      "street": "20 Arlington Street, St. James's",
+      "city": "London",
+      "country": "United Kingdom", 
+      "postalCode": "SW1A 1RJ"
+    },
+    "location": {
+      "lat": 51.5067,
+      "lng": -0.1427
+    },
+    "contact": {
+      "phone": "+44 20 7493 7000",
+      "website": "https://www.stjamesrestaurant.co.uk",
+      "email": "reservations@stjamesrestaurant.co.uk"
+    },
+    "images": {
+      "hero": "🍾",
+      "gallery": []
+    },
+    "features": [
+      "Jeremy King Restaurant",
+      "Celebrity Hotspot",
+      "Classic Brasserie",
+      "Opened 2024"
+    ],
+    "specialties": [
+      "Classic European dishes",
+      "Brasserie specialties", 
+      "Exceptional service",
+      "Elegant atmosphere"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Giles Coren Review",
+      "Grace Dent Review",
+      "Restaurant Research 2024"
+    ],
+    "seoKeywords": [
+      "St. James restaurant London",
+      "Jeremy King new restaurant",
+      "St. James's dining",
+      "European brasserie London"
+    ]
   }
 ]

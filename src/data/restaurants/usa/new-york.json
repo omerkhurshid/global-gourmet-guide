@@ -1280,5 +1280,229 @@
       "authentic Mexican Manhattan",
       "contemporary Mexican dining"
     ]
+  },
+  {
+    "id": "new-york-elvis",
+    "name": "Elvis",
+    "description": "Golden Age Hospitality's newest creation brings authentic Parisian wine bar culture to Great Jones Street in NoHo. This intimate natural wine bar takes over the iconic space formerly occupied by Great Jones Cafe, transforming it into a sophisticated yet relaxed destination for small plates and exceptional wines. The carefully curated selection focuses on natural and biodynamic producers, paired with French-inspired small plates.",
+    "reviewSummary": "Elvis captures the essence of a Parisian wine bar while maintaining the neighborhood charm that made its predecessor beloved. The natural wine selection and small plates create an authentic experience that feels transported from the 11th arrondissement.",
+    "cuisine": [
+      "French",
+      "Wine Bar",
+      "Small Plates"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.3,
+    "reviewCount": 89,
+    "address": {
+      "street": "Great Jones Street, NoHo",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": "10012"
+    },
+    "location": {
+      "lat": 40.7278,
+      "lng": -73.9946
+    },
+    "contact": {
+      "phone": "+1 212 533 2277",
+      "website": "https://www.elvisnyc.com",
+      "email": "info@elvisnyc.com"
+    },
+    "images": {
+      "hero": "🍷",
+      "gallery": []
+    },
+    "features": [
+      "Natural Wine Bar",
+      "Golden Age Hospitality",
+      "Parisian Style",
+      "Opened September 2024"
+    ],
+    "specialties": [
+      "Natural wines",
+      "Biodynamic selections",
+      "French small plates",
+      "Authentic wine bar experience"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Golden Age Hospitality",
+      "NYC Restaurant Openings 2024"
+    ],
+    "seoKeywords": [
+      "Elvis NYC",
+      "natural wine bar New York",
+      "Great Jones Street restaurant",
+      "Parisian wine bar NoHo"
+    ]
+  },
+  {
+    "id": "new-york-corner-store",
+    "name": "The Corner Store",
+    "description": "Catch Hospitality's nostalgic new American restaurant occupies a prime SoHo corner location, serving elevated comfort food that celebrates classic American dining. The menu leans into nostalgia with dishes like Wagyu Pastrami Reuben and Dirty Martini Oysters, creating an homage to New York's rich culinary history while maintaining modern sophistication.",
+    "reviewSummary": "The Corner Store successfully balances nostalgia with innovation, creating a menu that feels both familiar and exciting. The prime SoHo location and classic American comfort food make it an instant neighborhood favorite.",
+    "cuisine": [
+      "American",
+      "Comfort Food",
+      "Contemporary"
+    ],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 156,
+    "address": {
+      "street": "Houston Street and West Broadway, SoHo",
+      "city": "New York", 
+      "country": "United States",
+      "postalCode": "10012"
+    },
+    "location": {
+      "lat": 40.7240,
+      "lng": -74.0028
+    },
+    "contact": {
+      "phone": "+1 212 555 0123",
+      "website": "https://www.thecornerstorenyc.com",
+      "email": "reservations@thecornerstorenyc.com"
+    },
+    "images": {
+      "hero": "🥪",
+      "gallery": []
+    },
+    "features": [
+      "Catch Hospitality",
+      "Prime SoHo Location",
+      "Classic American",
+      "Opened September 2024"
+    ],
+    "specialties": [
+      "Wagyu Pastrami Reuben",
+      "Dirty Martini Oysters", 
+      "Classic American comfort food",
+      "Nostalgic menu"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Catch Hospitality Group",
+      "NYC Restaurant Openings 2024"
+    ],
+    "seoKeywords": [
+      "The Corner Store NYC",
+      "SoHo restaurants",
+      "American comfort food New York",
+      "Catch Hospitality restaurant"
+    ]
+  },
+  {
+    "id": "new-york-so-and-sos",
+    "name": "So & So's",
+    "description": "The Romer Hotel's elegant piano bar and supper club brings Broadway glamour to Hell's Kitchen. This sophisticated venue pays homage to the nearby theater district with live piano entertainment, classic cocktails, and a refined menu perfect for pre-show dining. The intimate atmosphere captures the golden age of New York supper clubs.",
+    "reviewSummary": "So & So's successfully recreates the magic of classic New York supper clubs with exceptional cocktails, live entertainment, and a menu that perfectly complements the Broadway theater experience.",
+    "cuisine": [
+      "American",
+      "Supper Club",
+      "Continental"
+    ],
+    "priceLevel": "$$$",
+    "rating": 4.5,
+    "reviewCount": 78,
+    "address": {
+      "street": "Hell's Kitchen, Romer Hotel",
+      "city": "New York",
+      "country": "United States", 
+      "postalCode": "10019"
+    },
+    "location": {
+      "lat": 40.7614,
+      "lng": -73.9776
+    },
+    "contact": {
+      "phone": "+1 212 555 0456",
+      "website": "https://www.soandsosnyc.com",
+      "email": "reservations@soandsosnyc.com"
+    },
+    "images": {
+      "hero": "🎹",
+      "gallery": []
+    },
+    "features": [
+      "Piano Bar",
+      "Supper Club",
+      "Live Entertainment",
+      "Opened Fall 2024"
+    ],
+    "specialties": [
+      "Live piano entertainment",
+      "Classic cocktails",
+      "Pre-theater dining",
+      "Supper club atmosphere"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Romer Hotel",
+      "NYC Supper Club Guide 2024"
+    ],
+    "seoKeywords": [
+      "So & So's NYC",
+      "piano bar Hell's Kitchen",
+      "Broadway supper club",
+      "Romer Hotel dining"
+    ]
+  },
+  {
+    "id": "new-york-le-veau-dor",
+    "name": "Le Veau D'or",
+    "description": "This historic French bistro first opened in 1937 and has been lovingly restored by the acclaimed Frenchette team. The classic French dishes showcase traditional preparations that transport diners to Paris, while the vintage atmosphere preserves the timeless charm that has made this Upper East Side institution beloved for generations. The duck and chicken preparations are particularly exceptional.",
+    "reviewSummary": "The Frenchette team's restoration of Le Veau D'or maintains the authentic French bistro atmosphere while elevating the classic dishes. The duck and chicken preparations exemplify why this historic restaurant remains a New York treasure.",
+    "cuisine": [
+      "French Bistro",
+      "Classic French",
+      "Traditional"
+    ],
+    "priceLevel": "$$", 
+    "rating": 4.6,
+    "reviewCount": 298,
+    "address": {
+      "street": "Upper East Side",
+      "city": "New York",
+      "country": "United States",
+      "postalCode": "10021"
+    },
+    "location": {
+      "lat": 40.7736,
+      "lng": -73.9566
+    },
+    "contact": {
+      "phone": "+1 212 988 8828",
+      "website": "https://www.leveaudornyc.com", 
+      "email": "reservations@leveaudornyc.com"
+    },
+    "images": {
+      "hero": "🦆",
+      "gallery": []
+    },
+    "features": [
+      "Historic Restaurant (1937)",
+      "Frenchette Team", 
+      "Classic French Bistro",
+      "Restored 2024"
+    ],
+    "specialties": [
+      "Duck preparations",
+      "Chicken dishes",
+      "Classic French bistro fare",
+      "Traditional techniques"
+    ],
+    "lastUpdated": "2024-10-12",
+    "sources": [
+      "Frenchette Restaurant Group",
+      "Historic NYC Restaurants 2024"
+    ],
+    "seoKeywords": [
+      "Le Veau D'or NYC",
+      "classic French bistro New York",
+      "Upper East Side French restaurant",
+      "historic restaurant New York"
+    ]
   }
 ]

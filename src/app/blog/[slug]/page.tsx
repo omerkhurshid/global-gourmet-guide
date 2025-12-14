@@ -13,6 +13,19 @@ import { filipinoFoodUSAData } from "@/data/blog/filipino-food-usa"
 import { autumnFestivalFoodData } from "@/data/blog/autumn-festival-food-lahore-karachi"
 import { lahoreLateNightFoodData } from "@/data/blog/lahore-late-night-food-culture"
 import { karachiFoodRevolution2025Data } from "@/data/blog/karachi-food-revolution-2025"
+import { christmasDiningNewYork2025Data } from "@/data/blog/christmas-dining-new-york-2024"
+import { newYearsEveDiningNewYork2025Data } from "@/data/blog/new-years-eve-dining-new-york-2024"
+import { christmasDiningLondon2025Data } from "@/data/blog/christmas-dining-london-2024"
+import { newYearsEveDiningLondon2025Data } from "@/data/blog/new-years-eve-dining-london-2025"
+import { christmasDiningParis2025Data } from "@/data/blog/christmas-dining-paris-2024"
+import { christmasDiningLahore2025Data } from "@/data/blog/christmas-dining-lahore-2024"
+import { newYearsEveDiningKarachi2025Data } from "@/data/blog/new-years-eve-dining-karachi-2024"
+import { christmasDiningMumbai2025Data } from "@/data/blog/christmas-dining-mumbai-2024"
+import { christmasDiningLosAngeles2025Data } from "@/data/blog/christmas-dining-los-angeles-2025"
+import { newYearsEveDiningLosAngeles2025Data } from "@/data/blog/new-years-eve-dining-los-angeles-2025"
+import { christmasDiningChicago2025Data } from "@/data/blog/christmas-dining-chicago-2025"
+import { christmasDiningEdinburgh2025Data } from "@/data/blog/christmas-dining-edinburgh-2025"
+import { newYearsEveDiningEdinburgh2025Data } from "@/data/blog/new-years-eve-dining-edinburgh-2025"
 
 async function getBlogPostData(slug: string) {
   const blogDataMap: Record<string, any> = {
@@ -26,7 +39,20 @@ async function getBlogPostData(slug: string) {
     "filipino-food-boom-usa": { type: "trending", data: filipinoFoodUSAData },
     "autumn-festival-food-lahore-karachi": { type: "trending", data: autumnFestivalFoodData },
     "lahore-late-night-food-culture": { type: "trending", data: lahoreLateNightFoodData },
-    "karachi-food-revolution-2025": { type: "trending", data: karachiFoodRevolution2025Data }
+    "karachi-food-revolution-2025": { type: "trending", data: karachiFoodRevolution2025Data },
+    "christmas-dining-new-york-2025": { type: "trending", data: christmasDiningNewYork2025Data },
+    "new-years-eve-dining-new-york-2025": { type: "trending", data: newYearsEveDiningNewYork2025Data },
+    "christmas-dining-london-2025": { type: "trending", data: christmasDiningLondon2025Data },
+    "new-years-eve-dining-london-2025": { type: "trending", data: newYearsEveDiningLondon2025Data },
+    "christmas-dining-paris-2025": { type: "trending", data: christmasDiningParis2025Data },
+    "christmas-dining-lahore-2025": { type: "trending", data: christmasDiningLahore2025Data },
+    "new-years-eve-dining-karachi-2025": { type: "trending", data: newYearsEveDiningKarachi2025Data },
+    "christmas-dining-mumbai-2025": { type: "trending", data: christmasDiningMumbai2025Data },
+    "christmas-dining-los-angeles-2025": { type: "trending", data: christmasDiningLosAngeles2025Data },
+    "new-years-eve-dining-los-angeles-2025": { type: "trending", data: newYearsEveDiningLosAngeles2025Data },
+    "christmas-dining-chicago-2025": { type: "trending", data: christmasDiningChicago2025Data },
+    "christmas-dining-edinburgh-2025": { type: "trending", data: christmasDiningEdinburgh2025Data },
+    "new-years-eve-dining-edinburgh-2025": { type: "trending", data: newYearsEveDiningEdinburgh2025Data }
   }
   
   return blogDataMap[slug] || null
@@ -44,7 +70,20 @@ export async function generateStaticParams() {
     { slug: 'filipino-food-boom-usa' },
     { slug: 'autumn-festival-food-lahore-karachi' },
     { slug: 'lahore-late-night-food-culture' },
-    { slug: 'karachi-food-revolution-2025' }
+    { slug: 'karachi-food-revolution-2025' },
+    { slug: 'christmas-dining-new-york-2025' },
+    { slug: 'new-years-eve-dining-new-york-2025' },
+    { slug: 'christmas-dining-london-2025' },
+    { slug: 'new-years-eve-dining-london-2025' },
+    { slug: 'christmas-dining-paris-2025' },
+    { slug: 'christmas-dining-lahore-2025' },
+    { slug: 'new-years-eve-dining-karachi-2025' },
+    { slug: 'christmas-dining-mumbai-2025' },
+    { slug: 'christmas-dining-los-angeles-2025' },
+    { slug: 'new-years-eve-dining-los-angeles-2025' },
+    { slug: 'christmas-dining-chicago-2025' },
+    { slug: 'christmas-dining-edinburgh-2025' },
+    { slug: 'new-years-eve-dining-edinburgh-2025' }
   ]
 }
 
@@ -65,7 +104,13 @@ export async function generateMetadata({ params }: { params: { slug: string } })
       keywords = "GCSE results day, free food UK, student offers, restaurant deals, GCSE 2025"
       break
     case "trending":
-      keywords = `trending restaurants, ${data.city.toLowerCase()} restaurants, food trends 2025, restaurant trends`
+      if (params.slug.includes('christmas')) {
+        keywords = `Christmas dining ${data.city.toLowerCase()}, Christmas restaurants ${data.city.toLowerCase()}, holiday dining 2025, Christmas dinner, festive restaurants`
+      } else if (params.slug.includes('new-years-eve')) {
+        keywords = `New Year's Eve dining ${data.city.toLowerCase()}, NYE restaurants ${data.city.toLowerCase()}, New Year's Eve 2025, midnight dining, celebration restaurants`
+      } else {
+        keywords = `trending restaurants, ${data.city.toLowerCase()} restaurants, food trends 2025, restaurant trends`
+      }
       break
     default:
       keywords = `${data.city.toLowerCase()} restaurants, outdoor dining, summer dining, rooftop restaurants, terrace dining`
