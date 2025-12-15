@@ -1,25 +1,31 @@
 import { SEOMetadata, City, Restaurant } from "@/data/types"
 
 export function generateCitySEO(city: City): SEOMetadata {
-  const title = `Best Restaurants in ${city.name} | Top 20 Places to Eat Near You`
-  const description = `Discover the ${city.name}'s best restaurants. Find top-rated dining spots near you, from fine dining to casual eats. Your guide to where to eat in ${city.name}.`
+  const title = `${city.name}'s BEST Restaurants 2025 🍽️ | Top Rated Places Near You`
+  const description = `🏆 Discover ${city.name}'s most amazing restaurants! Local favorites, hidden gems & top-rated spots. ⭐ Real reviews from food lovers. Find your next incredible meal near you!`
   
   return {
     title,
     description,
     keywords: [
-      `restaurants ${city.name}`,
-      `best restaurants ${city.name}`,
+      `restaurants in ${city.name}`,
+      `${city.name} restaurants`,
+      `best restaurants in ${city.name}`,
+      `best restaurant ${city.name}`,
+      `top restaurants in ${city.name}`,
+      `${city.name.toLowerCase()} restaurants`,
+      `list of restaurants in ${city.name}`,
+      `restaurants near me ${city.name}`,
       `where to eat ${city.name}`,
-      `restaurants near me`,
       `good food ${city.name}`,
       `dining ${city.name}`,
       `${city.name} food guide`,
-      `top restaurants ${city.name}`
+      `restaurants ${city.name.toLowerCase()}`,
+      `best restaurants ${city.name.toLowerCase()}`
     ],
     openGraph: {
-      title: `${city.name}'s Best Restaurants - Where to Eat Guide`,
-      description: `Find the top 20 restaurants in ${city.name}. Discover amazing food near you.`,
+      title: `${city.name}'s BEST Restaurants 2025 🍽️ - Locals' Top Picks`,
+      description: `🏆 ${city.name}'s most amazing restaurants, rated by locals! Hidden gems & top spots.`,
       image: city.heroImage,
       type: 'website'
     }
@@ -79,8 +85,8 @@ export function generateRestaurantSEO(restaurant: Restaurant): SEOMetadata {
 
 export function generateHomepageSEO(): SEOMetadata {
   return {
-    title: "Restaurants Near Me | Find Best Local Dining in 18 Cities Worldwide",
-    description: "Find the best restaurants near you in 18 top cities worldwide. Discover amazing local dining spots, from fine dining to casual eats. Your ultimate restaurant finder guide.",
+    title: "🍽️ BEST Restaurants Near Me 2025 | Top Local Spots in 21 Cities",
+    description: "🏆 Find amazing restaurants near you! 193+ top-rated spots across 21 cities worldwide. Local favorites, hidden gems & must-visit places. ⭐ Real reviews, real food lovers!",
     keywords: [
       "restaurants near me",
       "best restaurants worldwide",
@@ -94,8 +100,8 @@ export function generateHomepageSEO(): SEOMetadata {
       "restaurant reviews"
     ],
     openGraph: {
-      title: "Restaurants Near Me - Find Best Local Dining Worldwide",
-      description: "Find the best restaurants near you in 18 cities worldwide. Your ultimate guide to amazing local dining experiences and hidden gems.",
+      title: "🍽️ BEST Restaurants Near Me 2025 - 193+ Top Spots!",
+      description: "🏆 Amazing restaurants in 21 cities! Local favorites & hidden gems rated by real food lovers.",
       image: "/images/hero-global-cuisine.jpg",
       type: "website"
     }
