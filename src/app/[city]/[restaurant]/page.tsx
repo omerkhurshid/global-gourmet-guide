@@ -6,6 +6,7 @@ import { Button } from "@/components/ui/button"
 import { AdSenseAd } from "@/components/features/adsense"
 import { StructuredData } from "@/components/seo/structured-data"
 import { Breadcrumbs } from "@/components/seo/breadcrumbs"
+import { RestaurantStructuredData } from "@/components/seo/restaurant-structured-data"
 import { cities } from "@/data/cities"
 import { generateCitySlug, generateRestaurantSlug, formatPrice, formatRating } from "@/lib/utils"
 import { getRestaurantsByCity } from "@/lib/restaurants"
@@ -86,6 +87,7 @@ export default async function RestaurantPage({ params }: RestaurantPageProps) {
           citySlug
         }} 
       />
+      <RestaurantStructuredData restaurant={restaurant} />
 
       {/* Header */}
       <div className="bg-white border-b" style={{borderColor: '#e6d1c9'}}>

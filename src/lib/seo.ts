@@ -33,8 +33,8 @@ export function generateCitySEO(city: City): SEOMetadata {
 }
 
 export function generateRestaurantSEO(restaurant: Restaurant): SEOMetadata {
-  const title = `${restaurant.name} - ${restaurant.address.city} | ${restaurant.cuisine.join(', ')} Restaurant`
-  const description = `Visit ${restaurant.name} in ${restaurant.address.city}. ${restaurant.description} Rated ${restaurant.rating}/5 stars. Get directions and reviews.`
+  const title = `${restaurant.name} - ${restaurant.address.city} | ⭐${restaurant.rating}/5 ${restaurant.cuisine.join(' & ')} ${restaurant.priceLevel}`
+  const description = `🍽️ ${restaurant.name}: ${restaurant.cuisine.join(' & ')} restaurant in ${restaurant.address.city} | ⭐ ${restaurant.rating}/5 (${restaurant.reviewCount} reviews) | ${restaurant.priceLevel} | ${restaurant.description.substring(0, 100)}...`
   
   return {
     title,
@@ -47,8 +47,8 @@ export function generateRestaurantSEO(restaurant: Restaurant): SEOMetadata {
       `${restaurant.address.city} dining`
     ],
     openGraph: {
-      title: `${restaurant.name} - ${restaurant.cuisine.join(', ')} in ${restaurant.address.city}`,
-      description,
+      title: `⭐${restaurant.rating}/5 ${restaurant.name} - ${restaurant.cuisine.join(' & ')} ${restaurant.priceLevel}`,
+      description: `🍽️ ${restaurant.cuisine.join(' & ')} in ${restaurant.address.city} | ${restaurant.rating}/5 stars | ${restaurant.priceLevel} pricing`,
       image: restaurant.images.hero,
       type: 'restaurant'
     },

@@ -8,6 +8,7 @@ import { Button } from "@/components/ui/button"
 import { Breadcrumb, generateCityBreadcrumb } from "@/components/features/breadcrumb"
 import { FAQSchema } from "@/components/seo/faq-schema"
 import { BreadcrumbSchema } from "@/components/seo/breadcrumb-schema"
+import { CityStructuredData } from "@/components/seo/city-structured-data"
 import { cities } from "@/data/cities"
 import { generateCitySEO } from "@/lib/seo"
 import { generateCitySlug } from "@/lib/utils"
@@ -86,6 +87,7 @@ export default async function CityPage({ params }: CityPageProps) {
       {/* SEO Schema */}
       <FAQSchema type="city" cityName={city.name} />
       <BreadcrumbSchema items={breadcrumbItems} />
+      <CityStructuredData city={city.name} restaurants={allRestaurants} />
       
       {/* City Hero */}
       <CityHero city={city} />
