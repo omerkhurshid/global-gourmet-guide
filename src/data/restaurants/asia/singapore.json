@@ -1,0 +1,251 @@
+[
+  {
+    "id": "singapore-odette",
+    "name": "Odette",
+    "description": "Odette is, by any measure, Singapore's greatest restaurant—three Michelin stars held consecutively, multiple years as Asia's #1 restaurant, and a chef, Julien Royer, whose cooking synthesises French classical rigour with an absolute commitment to Asian produce in ways that feel genuinely unprecedented. The restaurant occupies a soaring, light-filled space in the National Gallery, all blush tones and art, and the food arrives with the quiet confidence of someone who has nothing to prove and everything to share. A course of kombu-cured Hokkaido scallop arrives with seaweed butter, caviar, and citrus in a sequence of flavours that builds from delicate to deeply savoury over five or six bites. The Brittany blue lobster, when in season, is one of the finest shellfish preparations I have encountered anywhere in the world. Royer has created something that transcends the usual fine-dining framework—this is cooking that genuinely moves you.",
+    "reviewSummary": "Three Michelin stars and Asia's #1—Odette's French-Asian mastery represents Singapore's finest culinary achievement and one of the world's great dining experiences.",
+    "cuisine": ["Contemporary French", "Fine Dining", "French-Asian"],
+    "priceLevel": "$$$",
+    "rating": 4.9,
+    "reviewCount": 1642,
+    "address": {
+      "street": "1 St Andrew's Road, National Gallery Singapore, #01-04",
+      "city": "Singapore",
+      "country": "Singapore",
+      "postalCode": "178957"
+    },
+    "location": { "lat": 1.2891, "lng": 103.8510 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🥂", "gallery": [] },
+    "features": ["Michelin 3-Star", "Asia's #1 Restaurant", "National Gallery", "Chef Julien Royer"],
+    "specialties": ["Kombu-cured Hokkaido scallop", "Brittany blue lobster", "Seasonal French-Asian tasting menu"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin 3-Star", "Asia's 50 Best #1", "Local Research"],
+    "seoKeywords": ["Odette Singapore", "best restaurant Singapore", "Michelin 3 star Singapore", "fine dining Singapore"],
+    "spotlight": {
+      "title": "Three Stars in the National Gallery: Dining at Odette, Singapore's Greatest Restaurant",
+      "excerpt": "Asia's #1 restaurant for consecutive years, Odette in Singapore's National Gallery is where French classical technique meets Asian produce in the most beautiful dining room in the city. Here's why it deserves every superlative.",
+      "introduction": "Singapore has become one of Asia's most compelling dining destinations—a city where Michelin stars are now densely concentrated and where hawker culture and fine dining coexist with unusual ease. At the apex of this extraordinary food scene sits Odette, the three-Michelin-starred restaurant of French chef Julien Royer, located in the luminous surroundings of the National Gallery Singapore. I arrived with considerable expectations—this restaurant has been ranked Asia's best multiple times—and left having those expectations not merely met but exceeded in ways I had not anticipated.",
+      "sections": [
+        {
+          "heading": "The Setting: Art, Light, and Blush Tones",
+          "content": [
+            "Odette occupies a ground-floor space in the colonial National Gallery building, a former Supreme Court and City Hall converted into one of Asia's finest art museums. The restaurant itself feels like an extension of that curatorial sensibility: blush-pink tones, natural light flooding through tall windows, flowers arranged with the precision of still-life paintings, and contemporary artworks on every wall.",
+            "The room holds roughly fifty diners, arranged with enough space between tables that conversation feels private. The service team moves through it with the ease of people who have been doing this for years—attentive without hovering, warm without being theatrical."
+          ]
+        },
+        {
+          "heading": "The Food: French Classicism, Asian Ingredients",
+          "content": [
+            "Chef Julien Royer was trained in the French classical tradition but has spent significant time in Singapore, and that biographical fact is written into every plate. The techniques are unimpeachably French—precise saucing, exquisite stock work, classical pastry—but the ingredients skew decisively toward Asia. Hokkaido scallops, Singaporean herbs, Japanese kombu, Southeast Asian citrus, regional spices: the menu reads as a love letter to the continent Royer has made his home.",
+            "The signature opening course—a kombu-cured scallop with seaweed butter, citrus gel, and Oscietra caviar—is a study in building flavour through layers of marine intensity, each element amplifying the next. The scallop's natural sweetness is played against the umami depth of the kombu cure, then lifted by citrus, then anchored by the caviar's brininess. It sounds complicated because it is; it tastes simple because it is perfectly balanced.",
+            "A mid-menu course of Brittany blue lobster, when in season, is perhaps the most technically accomplished shellfish preparation I have eaten: the tail poached in butter to a temperature that leaves it barely cooked, the claw meat picked into a bisque of almost frightening concentration, served with a lobster consommé poured tableside."
+          ]
+        },
+        {
+          "heading": "The Dessert Course: Where the Kitchen Truly Shines",
+          "content": [
+            "Fine dining restaurants often disappoint at dessert—the pastry team, no matter how talented, struggles to match the drama of the savoury courses. At Odette, the desserts are revelatory. Pastry chef Sebastien Beraud produces a series of courses that feel like a separate, parallel meal: a pre-dessert of coconut sorbet with pandan gel and mango-passionfruit; a main dessert of salted caramel and Valrhona chocolate that reworks classic French patisserie through the prism of Southeast Asian flavour.",
+            "The mignardises—the small sweets served with coffee—are each individually extraordinary. A single bite of Valrhona chocolate filled with ginger and lemongrass stopped my companion mid-sentence. We spent ten minutes discussing it."
+          ]
+        },
+        {
+          "heading": "Service and Wine: The Full Experience",
+          "content": [
+            "The service at Odette is among the finest I have encountered in any restaurant at any level. The team is international, knowledgeable, and genuinely warm—not the studied warmth of training but the easy warmth of people who love what they do and where they work. The sommelier's wine list leans toward France and Burgundy in particular, with thoughtful Asian selections and a non-alcoholic pairing that is more interesting than most restaurants' full wine lists."
+          ]
+        }
+      ],
+      "locations": ["1 St Andrew's Road, National Gallery Singapore, #01-04, Singapore 178957"],
+      "menuHighlights": {
+        "Opening Courses": "Amuse-bouches, kombu-cured Hokkaido scallop",
+        "Middle Courses": "Brittany blue lobster, seasonal meat course, cheese selection",
+        "Desserts": "Pre-dessert, signature chocolate and caramel, mignardises",
+        "Wine": "French-focused list with Burgundy speciality, Asian selections, non-alcoholic pairing"
+      },
+      "tips": [
+        "Reservations open 60 days in advance via the website — set a reminder.",
+        "Request a window table for the best light during lunch service.",
+        "The lunch menu is shorter and more accessible for first-timers.",
+        "The non-alcoholic pairing is genuinely excellent — consider it if you don't drink.",
+        "Allow 3 to 3.5 hours for the full dinner tasting menu.",
+        "Smart casual dress code is enforced; no shorts or sandals.",
+        "The gallery itself is worth exploring before your reservation."
+      ],
+      "finalVerdict": "Odette is Singapore's most complete fine dining experience — technically immaculate, ingredient-driven, and emotionally resonant in ways that great restaurants always are. Chef Julien Royer has built something exceptional here: a restaurant that could hold its head up in any city in the world, but that could only have come from Singapore.",
+      "author": "Singapore Dining Explorer",
+      "publishDate": "February 1, 2025"
+    }
+  },
+  {
+    "id": "singapore-jaan-par-andre",
+    "name": "Jaan par André",
+    "description": "Chef André Chiang's return to Singapore in his restaurant above Swissôtel The Stamford is one of the great comeback stories in Asian gastronomy. Perched on the 70th floor with a view of the city that alone justifies the reservation, Jaan par André serves an 'Octaphilosophy' tasting menu built around eight elements—Salt, Texture, Memory, Pure, Terroir, South, Artisan, Unique—that represent Chiang's culinary philosophy. The cooking is cerebral and emotional simultaneously, drawing on Chiang's Taiwanese-French-Singaporean biography to produce dishes that feel personally meaningful.",
+    "reviewSummary": "Chef André Chiang's return produces Singapore's most personal and philosophically rich tasting menu, served with a 70th-floor view that is simply breathtaking.",
+    "cuisine": ["Contemporary", "French-Asian", "Tasting Menu"],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 743,
+    "address": { "street": "2 Stamford Road, Level 70, Swissôtel The Stamford", "city": "Singapore", "country": "Singapore", "postalCode": "178882" },
+    "location": { "lat": 1.2942, "lng": 103.8527 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🏙️", "gallery": [] },
+    "features": ["Michelin 2-Star", "70th Floor View", "Octaphilosophy Menu", "Chef André Chiang"],
+    "specialties": ["Octaphilosophy tasting menu", "Terroir course", "Memory dishes"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin 2-Star", "Local Research"],
+    "seoKeywords": ["Jaan Singapore", "André Chiang restaurant", "best view restaurant Singapore", "Michelin fine dining Singapore"]
+  },
+  {
+    "id": "singapore-burnt-ends",
+    "name": "Burnt Ends",
+    "description": "Dave Pynt's modern Australian barbecue restaurant has become one of Singapore's most sought-after reservations—a fact that would surprise nobody who had eaten here. Four-tonne custom-built ovens burn hardwood to produce the coals over which Pynt cooks everything: the beef sirloin that arrives with such depth it tastes like the concentrated essence of all beef ever cooked; the pork chop lacquered with house-fermented chilli; the single-bite canapes—burnt toast with smoked butter, prawn toast—that set the tone from the first moment.",
+    "reviewSummary": "Singapore's most coveted reservation—Burnt Ends' hardwood coal cooking produces some of the most intensely flavoured meat and vegetable dishes in Asia.",
+    "cuisine": ["Modern Australian BBQ", "Wood-Fire"],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 2143,
+    "address": { "street": "20 Teck Lim Road, Keong Saik", "city": "Singapore", "country": "Singapore", "postalCode": "088391" },
+    "location": { "lat": 1.2798, "lng": 103.8395 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🔥", "gallery": [] },
+    "features": ["Michelin Star", "Wood-Fire Cooking", "4-Tonne Ovens", "Walk-In Counter"],
+    "specialties": ["Coal-fired beef sirloin", "Prawn toast", "Burnt toast with smoked butter"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin Star", "Asia's 50 Best", "Local Research"],
+    "seoKeywords": ["Burnt Ends Singapore", "best BBQ Singapore", "wood fire restaurant Singapore", "Keong Saik dining"]
+  },
+  {
+    "id": "singapore-hawker-chan",
+    "name": "Liao Fan Hong Kong Soya Sauce Chicken Rice (Hawker Chan)",
+    "description": "When Chan Hon Meng's soya sauce chicken rice stall in Chinatown received a Michelin star in 2016, it became the world's most affordable Michelin-starred meal—and the queue that formed around the block showed no sign of abating. At around SGD$3 per plate, Chan's chicken is lacquered to a deep mahogany with soya sauce and dark caramel, the skin glistening and taut, the meat beneath it impossibly tender. The rice is cooked in chicken stock and served with chilli and ginger sauces that cut through the richness with precision. It is one of the world's great one-dish meals.",
+    "reviewSummary": "The world's most affordable Michelin-starred meal at approximately SGD$3—Chan's soya sauce chicken is one of food culture's most democratising, joyful stories.",
+    "cuisine": ["Singaporean Hawker", "Chinese"],
+    "priceLevel": "$",
+    "rating": 4.4,
+    "reviewCount": 18742,
+    "address": { "street": "335 Smith Street, Chinatown Complex", "city": "Singapore", "country": "Singapore", "postalCode": "050335" },
+    "location": { "lat": 1.2818, "lng": 103.8430 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍗", "gallery": [] },
+    "features": ["World's Cheapest Michelin Star", "SGD$3 Plate", "Chinatown Complex", "Iconic Queue"],
+    "specialties": ["Soya sauce chicken rice", "Char siu (BBQ pork)", "Wonton noodles"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin Star (2016-present)", "Local Research"],
+    "seoKeywords": ["Hawker Chan Singapore", "cheapest Michelin star world", "chicken rice Singapore", "Chinatown Singapore food"]
+  },
+  {
+    "id": "singapore-les-amis",
+    "name": "Les Amis",
+    "description": "One of Singapore's most enduring fine dining institutions, Les Amis has maintained three Michelin stars and its reputation as the city's most classical French restaurant for over three decades. Chef Sebastien Lepinoy's kitchen operates with Escoffier-era precision: everything is made from scratch, the wine list is one of Asia's finest (particularly deep in old Bordeaux), and the dining room's discreet luxury—polished silver, crystal glasses, immaculate white linen—creates the kind of enveloping comfort that makes you want to linger for hours.",
+    "reviewSummary": "Three decades, three Michelin stars—Les Amis is Singapore's most classical French restaurant and home to one of Asia's greatest wine cellars.",
+    "cuisine": ["Classical French", "Fine Dining"],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 1021,
+    "address": { "street": "1 Scotts Road, Shaw Centre #01-16", "city": "Singapore", "country": "Singapore", "postalCode": "228208" },
+    "location": { "lat": 1.3050, "lng": 103.8292 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍷", "gallery": [] },
+    "features": ["Michelin 3-Star", "30+ Years", "Asia's Best Wine Cellar", "Classical French"],
+    "specialties": ["Seasonal French tasting menu", "Old Bordeaux wine pairings", "Classical pastry"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin 3-Star", "Local Research"],
+    "seoKeywords": ["Les Amis Singapore", "French restaurant Singapore", "Michelin 3 star Singapore", "fine dining Orchard Road"]
+  },
+  {
+    "id": "singapore-tippling-club",
+    "name": "Tippling Club",
+    "description": "Chef Ryan Clift's Tippling Club is Singapore's most adventurous restaurant—a place where molecular gastronomy meets cocktail culture in menus that are simultaneously a dinner and a performance. The cocktail pairing programme is uniquely conceived: drinks are designed course by course to interact with each dish, sometimes mirroring flavours, sometimes providing counterpoint. The food itself is technically spectacular; a snack of 'spherified gin and tonic' dissolves on the tongue in a rush of juniper and quinine that is simultaneously food and cocktail.",
+    "reviewSummary": "Singapore's most inventive restaurant—Tippling Club's molecular gastronomy and bespoke cocktail pairings create a dining experience that is genuinely unlike anything else.",
+    "cuisine": ["Molecular Gastronomy", "Contemporary", "Cocktail Pairing"],
+    "priceLevel": "$$$",
+    "rating": 4.6,
+    "reviewCount": 834,
+    "address": { "street": "38 Tanjong Pagar Road", "city": "Singapore", "country": "Singapore", "postalCode": "088461" },
+    "location": { "lat": 1.2778, "lng": 103.8453 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🧪", "gallery": [] },
+    "features": ["Molecular Gastronomy", "Cocktail Pairing", "Creative Tasting Menu", "Chef Ryan Clift"],
+    "specialties": ["Spherified cocktails", "Creative molecular courses", "Bespoke drink pairings"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Asia's 50 Best", "Local Research"],
+    "seoKeywords": ["Tippling Club Singapore", "molecular gastronomy Singapore", "cocktail pairing dinner Singapore", "innovative restaurant Singapore"]
+  },
+  {
+    "id": "singapore-waku-ghin",
+    "name": "Waku Ghin",
+    "description": "Tetsuya Wakuda's Singapore restaurant on the second floor of Marina Bay Sands is one of the great hybrid dining experiences: a ten-course tasting menu that moves between Japanese, European, and occasionally Australian culinary traditions with a grace that reflects Wakuda's own biography. The signature dish—marinated Botan shrimp from Japan with sea urchin and Oscietra caviar—is a trinity of oceanic luxury that arrives early in the meal and casts a glow over everything that follows.",
+    "reviewSummary": "Two Michelin stars at Marina Bay Sands—Tetsuya Wakuda's Japanese-European tasting menu, especially the legendary shrimp with sea urchin and caviar, is among Asia's finest experiences.",
+    "cuisine": ["Japanese-European", "Tasting Menu", "Fine Dining"],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 1247,
+    "address": { "street": "L2-01, Casino Level 2, Marina Bay Sands", "city": "Singapore", "country": "Singapore", "postalCode": "018956" },
+    "location": { "lat": 1.2816, "lng": 103.8620 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🦐", "gallery": [] },
+    "features": ["Michelin 2-Star", "Marina Bay Sands", "Tetsuya Wakuda", "Japanese-European"],
+    "specialties": ["Botan shrimp with uni and caviar", "Japanese seasonal tasting menu", "European techniques"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin 2-Star", "Local Research"],
+    "seoKeywords": ["Waku Ghin Singapore", "Marina Bay Sands fine dining", "Tetsuya Singapore", "Japanese fine dining Singapore"]
+  },
+  {
+    "id": "singapore-maxwell-hawker",
+    "name": "Maxwell Food Centre",
+    "description": "Maxwell Food Centre in the heart of Chinatown is Singapore's most famous hawker centre—a sprawling open-air market where dozens of stalls serve the full canon of Singaporean cuisine at prices that feel almost impossibly low. Tian Tian Chicken Rice, long regarded as the finest chicken rice in the city, has its home here; the queue at peak hours winds around the stall and waits patiently, knowing that the combination of poached chicken, fragrant rice, chilli, and ginger sauce will justify every minute of it. Also excellent: the wonton noodles, the fried oyster omelette, the popiah, the char kway teow.",
+    "reviewSummary": "Singapore's most beloved hawker centre—Maxwell's Tian Tian Chicken Rice and scores of other legendary stalls represent the city's most democratic and joyful dining tradition.",
+    "cuisine": ["Singaporean Hawker", "Chinese", "Malay", "Indian"],
+    "priceLevel": "$",
+    "rating": 4.5,
+    "reviewCount": 24891,
+    "address": { "street": "1 Kadayanallur Street, Maxwell Road", "city": "Singapore", "country": "Singapore", "postalCode": "069184" },
+    "location": { "lat": 1.2803, "lng": 103.8447 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍚", "gallery": [] },
+    "features": ["Tian Tian Chicken Rice", "50+ Stalls", "UNESCO Intangible Heritage", "Open Daily"],
+    "specialties": ["Chicken rice", "Char kway teow", "Fried oyster omelette"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Singapore Tourism Board", "Local Research"],
+    "seoKeywords": ["Maxwell Food Centre Singapore", "hawker centre Singapore", "chicken rice Singapore", "Chinatown food Singapore"]
+  },
+  {
+    "id": "singapore-labyrinth",
+    "name": "Labyrinth",
+    "description": "Chef LG Han's Labyrinth is Singapore's most intellectually ambitious restaurant dedicated to celebrating local cuisine. Every dish on the tasting menu is constructed exclusively from Singaporean ingredients—some foraged, some farmed by local producers, all presented through the lens of contemporary fine dining technique. A chilli crab dish deconstructed to its purest elements—sweet crab stock, chilli foam, mantou crumb—distils the national dish into something both familiar and revelatory. Labyrinth is essential dining for anyone who wants to understand what Singaporean cuisine can mean in 2025.",
+    "reviewSummary": "Singapore's most philosophically committed restaurant—Labyrinth's exclusively local-ingredient tasting menu reframes Singaporean cuisine as fine dining worthy of the world's attention.",
+    "cuisine": ["Modern Singaporean", "Contemporary", "Tasting Menu"],
+    "priceLevel": "$$",
+    "rating": 4.6,
+    "reviewCount": 543,
+    "address": { "street": "8 Raffles Avenue, Esplanade Mall #02-23", "city": "Singapore", "country": "Singapore", "postalCode": "039802" },
+    "location": { "lat": 1.2895, "lng": 103.8556 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🦀", "gallery": [] },
+    "features": ["Michelin Star", "100% Local Ingredients", "Modern Singaporean", "Esplanade"],
+    "specialties": ["Deconstructed chilli crab", "Local foraged ingredients", "Singaporean tasting menu"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin Star", "Local Research"],
+    "seoKeywords": ["Labyrinth Singapore", "modern Singaporean restaurant", "local ingredients fine dining Singapore", "chilli crab fine dining"]
+  },
+  {
+    "id": "singapore-candlenut",
+    "name": "Candlenut",
+    "description": "Candlenut holds the distinction of being the world's only Michelin-starred Peranakan restaurant—a fact that speaks to both the rarity of this cuisine and the difficulty of executing it at this level. Chef Malcolm Lee grew up eating his grandmother's recipes and has spent his career translating that domestic mastery into the language of fine dining. The babi pongteh (slow-braised pork in soy and fermented bean paste), the kari ayam (chicken curry with blue ginger), and the dessert trio of kueh are each extraordinary in their depth and complexity.",
+    "reviewSummary": "The world's only Michelin-starred Peranakan restaurant—Candlenut's cooking bridges domestic tradition and fine dining in ways that are deeply moving and delicious.",
+    "cuisine": ["Peranakan", "Nyonya", "Fine Dining"],
+    "priceLevel": "$$",
+    "rating": 4.7,
+    "reviewCount": 1203,
+    "address": { "street": "COMO Dempsey, Block 17A Dempsey Road", "city": "Singapore", "country": "Singapore", "postalCode": "249676" },
+    "location": { "lat": 1.3033, "lng": 103.8100 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🌶️", "gallery": [] },
+    "features": ["World's Only Michelin Peranakan", "COMO Dempsey", "Heritage Recipes", "Chef Malcolm Lee"],
+    "specialties": ["Babi pongteh", "Kari ayam with blue ginger", "Traditional kueh desserts"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin Star", "Local Research"],
+    "seoKeywords": ["Candlenut Singapore", "Peranakan restaurant Singapore", "Michelin Nyonya food", "Dempsey Hill dining"]
+  }
+]

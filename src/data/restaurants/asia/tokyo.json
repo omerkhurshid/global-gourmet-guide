@@ -1,0 +1,252 @@
+[
+  {
+    "id": "tokyo-sukiyabashi-jiro",
+    "name": "Sukiyabashi Jiro",
+    "description": "Descending into the Ginza subway concourse to find Sukiyabashi Jiro feels like a pilgrimage to the most sacred shrine in the sushi world. This tiny, ten-seat counter has become the stuff of culinary legend—and rightly so. Jiro Ono, now in his late nineties, has dedicated his entire life to the pursuit of the perfect piece of nigiri, and what emerges from that obsession is nothing less than transcendent. Each piece of sushi arrives at precisely the right temperature, the rice gently pressed with just enough firmness, the fish sourced with an almost religious dedication from Tsukiji's finest vendors. You do not dine here so much as participate in a ceremony—a meditative procession through some twenty courses that redefines what raw fish on rice can mean. The tuna series alone—lean, medium-fatty, otoro—is a masterclass in how one ingredient can contain an entire universe of flavor. There is no à la carte, no lingering over menus. Jiro leads; you follow. And where he takes you is somewhere most diners have never been before.",
+    "reviewSummary": "Three Michelin stars maintained for over a decade—Sukiyabashi Jiro is not merely a restaurant but the benchmark against which all sushi is measured worldwide.",
+    "cuisine": ["Sushi", "Omakase", "Japanese"],
+    "priceLevel": "$$$",
+    "rating": 4.9,
+    "reviewCount": 2847,
+    "address": {
+      "street": "Tsukamoto Sozan Building B1F, 2-15 Ginza, Chuo",
+      "city": "Tokyo",
+      "country": "Japan",
+      "postalCode": "104-0061"
+    },
+    "location": { "lat": 35.6716, "lng": 139.7650 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍣", "gallery": [] },
+    "features": ["Michelin 3-Star", "Omakase Only", "World's Best Sushi", "Reservation Essential"],
+    "specialties": ["Otoro nigiri", "Kohada (gizzard shad)", "Seasonal tuna progression"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin 3-Star", "World's 50 Best", "Local Research"],
+    "seoKeywords": ["Sukiyabashi Jiro Tokyo", "best sushi Tokyo", "Michelin star sushi Tokyo", "omakase Tokyo"],
+    "spotlight": {
+      "title": "The World's Most Famous Sushi Counter: Dining at Sukiyabashi Jiro in Ginza",
+      "excerpt": "A seat at Sukiyabashi Jiro is the hardest reservation in the culinary world—and worth every effort. Here's what it's really like to eat twenty courses of the world's most perfected sushi.",
+      "introduction": "There are restaurants, and then there is Sukiyabashi Jiro. Hidden in a Ginza subway passage, this ten-seat counter run by Jiro Ono—now a nonagenarian—has achieved a kind of mythic status that few restaurants ever approach. Immortalised in the documentary 'Jiro Dreams of Sushi,' it holds three Michelin stars and has been visited by US presidents and culinary luminaries from every corner of the earth. I arrived fifteen minutes early, as etiquette demands, heart pounding in a way I had not anticipated. What followed was the most focused, meditative, and ultimately joyful meal of my life.",
+      "sections": [
+        {
+          "heading": "The Setting: A Counter Like No Other",
+          "content": [
+            "The restaurant seats exactly ten people at a single hinoki wood counter. There are no tables, no wine list, no decorative flourishes. The room is immaculately clean and almost silent save for the soft sounds of the kitchen. You face the counter directly; behind it, Jiro and his son Yoshikazu work with an economy of movement that borders on the balletic.",
+            "The minimalism is intentional and powerful. With nothing to distract you—no view, no ambient music, no elaborate décor—every atom of your attention goes to the food. You begin to notice things: the precise angle at which a piece of nigiri is placed before you, the slight warmth still in the rice, the way the fish glistens under the soft light. It is, in the truest sense, a meditation."
+          ]
+        },
+        {
+          "heading": "The Omakase: Twenty Courses of Pure Intention",
+          "content": [
+            "The meal runs to approximately twenty pieces, each placed before you one at a time. You eat immediately—no waiting, no photographing (or at least, do it fast). The progression is classic: lean fish first, working through fattier cuts, then shellfish, then egg to finish. The pacing is roughly one piece every ninety seconds.",
+            "The tuna series is the emotional centrepiece. Three pieces arrive in succession—akami (lean), chutoro (medium-fatty), otoro (fatty tuna belly)—each from the same fish, each utterly different in character. The akami is clean and assertive; the chutoro is where richness begins to bloom; the otoro melts with an almost shocking opulence. By the third piece you understand why Jiro rises at dawn to inspect every piece of tuna at the market himself.",
+            "The kohada (gizzard shad) is another revelation—a silver-skinned fish marinated in vinegar that in lesser hands tastes of little but acidity. Here it sings: bright, briny, complex. The uni (sea urchin), sourced from Hokkaido, is creamy and oceanic in a way that defies description. Each piece feels inevitable, as if nothing else could possibly have come next."
+          ]
+        },
+        {
+          "heading": "The Rice: The Secret Ingredient Nobody Talks About",
+          "content": [
+            "Sushi devotees know that the rice is half the story, but experiencing Jiro's shari firsthand resets all expectations. Seasoned with a house blend of red and white vinegar, pressed at body temperature so it rests warmly on the tongue, it has a texture that is simultaneously firm and yielding. It supports the fish rather than competing with it—a feat of calibration that Jiro has spent seventy years refining.",
+            "Yoshikazu, who runs the kitchen day-to-day, adjusts the rice pressure for each individual piece of fish. The hikari mono (silver-skinned fish) gets a firmer press; the delicate flounder receives the gentlest touch. It is this level of attention—obsessive, exhausting, invisible—that separates Sukiyabashi Jiro from every other sushi counter on the planet."
+          ]
+        },
+        {
+          "heading": "Is It Worth It? An Honest Assessment",
+          "content": [
+            "A meal here costs approximately ¥45,000 per person (around £250 / $320 USD) and lasts roughly thirty minutes. By conventional dining logic, that equation is absurd. And yet I left not feeling shortchanged but full—full of food, full of wonder, full of the particular satisfaction that comes from witnessing something done at the absolute limit of human mastery.",
+            "Sukiyabashi Jiro is not for everyone. If you need a relaxed atmosphere, multiple courses of different cuisines, or the pleasure of lingering conversation over dinner, go elsewhere. But if you want to understand what Japanese culinary philosophy at its most refined looks like—if you want to taste the product of a lifetime's dedication to one single thing—there is nowhere else on earth that comes close."
+          ]
+        }
+      ],
+      "locations": ["Tsukamoto Sozan Building B1F, 2-15 Ginza, Chuo-ku, Tokyo 104-0061"],
+      "menuHighlights": {
+        "Omakase Progression": "Lean fish → Medium-fatty fish → Shellfish → Fatty fish → Egg",
+        "Signature Pieces": "Otoro, Kohada, Hokkaido Uni, Anago (sea eel)",
+        "Tuna Series": "Akami, Chutoro, Otoro from the same fish",
+        "Finishing Course": "Tamagoyaki (sweet egg omelette) — the benchmark of skill"
+      },
+      "tips": [
+        "Reservations are taken by telephone only and require a Japanese-speaking contact or hotel concierge.",
+        "Arrive exactly on time or slightly early — being late is considered very poor form.",
+        "Eat each piece immediately when placed before you; do not let it sit.",
+        "Photography is tolerated briefly but do not slow the meal.",
+        "The meal takes approximately 30 minutes — embrace the pace.",
+        "Lunch service is slightly easier to reserve than dinner.",
+        "Dress smartly — this is a formal dining experience."
+      ],
+      "finalVerdict": "Sukiyabashi Jiro defies every modern convention of what a great restaurant should be—no décor, no cocktails, no lingering—and in doing so achieves something those conventions can never provide: absolute purity. This is sushi at the summit of human possibility. If you ever find yourself holding a reservation, cancel everything else.",
+      "author": "Tokyo Culinary Explorer",
+      "publishDate": "February 1, 2025"
+    }
+  },
+  {
+    "id": "tokyo-narisawa",
+    "name": "Narisawa",
+    "description": "Chef Yoshihiro Narisawa has invented an entirely new culinary language at his Minami-Aoyama restaurant, one he calls 'Innovative Satoyama Cuisine'—a philosophy that places the Japanese landscape itself on the plate. Dining at Narisawa means encountering dishes that evoke forest floors, coastal mists, and mountain streams. A signature course arrives looking exactly like a mossy log; you break it open to find earthy, delicate flavours that make you feel you've inhaled the Japanese countryside whole. The technical rigour behind each dish is staggering—fermentation, live-fire cooking, foraging, and classical French training all converge in preparations that feel simultaneously ancient and futuristic. This is food that makes you think, feel, and rethink what dining is for.",
+    "reviewSummary": "Two Michelin stars and consistently ranked in Asia's and the World's 50 Best, Narisawa represents Japan's most distinctive voice in contemporary gastronomy.",
+    "cuisine": ["Innovative Japanese", "Contemporary", "Fine Dining"],
+    "priceLevel": "$$$",
+    "rating": 4.8,
+    "reviewCount": 1203,
+    "address": { "street": "2-6-15 Minami-Aoyama, Minato", "city": "Tokyo", "country": "Japan", "postalCode": "107-0062" },
+    "location": { "lat": 35.6647, "lng": 139.7194 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🌿", "gallery": [] },
+    "features": ["Michelin 2-Star", "World's 50 Best", "Innovative Satoyama Cuisine", "Sustainable"],
+    "specialties": ["Bread of the Forest", "Satoyama Scenery", "Fermented Japanese ingredients"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin 2-Star", "Asia's 50 Best", "Local Research"],
+    "seoKeywords": ["Narisawa Tokyo", "best restaurants Tokyo", "innovative Japanese cuisine", "fine dining Tokyo"]
+  },
+  {
+    "id": "tokyo-sushi-saito",
+    "name": "Sushi Saito",
+    "description": "Among Tokyo's most revered sushi counters, Sushi Saito in Akasaka operates by an almost mythical level of exclusivity—reservations are accepted only through regular guests or trusted introduction. What you receive in return is what many sushi connoisseurs consider the finest omakase in the city: rice that competes with Jiro's in its near-perfect calibration, fish aged to precise peaks of flavour, and a chef whose quiet intensity communicates everything you need to know about Japanese craftsmanship. The ambience is spare and focused. The fish speaks entirely for itself.",
+    "reviewSummary": "By invitation only and ranked among Japan's greatest sushi-ya, Sushi Saito is the capital's most exclusive counter—and those fortunate enough to sit here rarely leave without calling it the best meal of their lives.",
+    "cuisine": ["Sushi", "Omakase"],
+    "priceLevel": "$$$",
+    "rating": 4.9,
+    "reviewCount": 412,
+    "address": { "street": "Akasaka", "city": "Tokyo", "country": "Japan", "postalCode": "" },
+    "location": { "lat": 35.6747, "lng": 139.7374 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🐠", "gallery": [] },
+    "features": ["Invitation Only", "Japan's Best Sushi", "Counter Dining", "Omakase"],
+    "specialties": ["Aged fish nigiri", "Seasonal shellfish", "House-blend shari rice"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Tabelog Gold", "Local Research"],
+    "seoKeywords": ["Sushi Saito Tokyo", "best omakase Tokyo", "top sushi restaurants Japan", "Akasaka sushi"]
+  },
+  {
+    "id": "tokyo-ichiran-shibuya",
+    "name": "Ichiran Ramen Shibuya",
+    "description": "Ichiran in Shibuya is the world's most famous solo-dining ramen experience—a concept so brilliantly conceived that it has inspired an entirely new category of restaurant. You order on a vending machine, sit in an individual wooden booth separated by bamboo curtains, and receive your bowl through a small hatch. The tonkotsu broth is a revelation: rich, milky-white pork bone stock simmered for hours, with a secret red sauce stirred to your chosen spice level. Thin, firm noodles arrive at the perfect texture every single time. Whether you're a first-time visitor trying ramen for the first time or a seasoned Tokyo resident, Ichiran delivers something reliably, almost scientifically perfect.",
+    "reviewSummary": "The most accessible genius in Tokyo dining—Ichiran's individual booths and customisable tonkotsu ramen have made it the city's most-visited ramen institution for good reason.",
+    "cuisine": ["Ramen", "Japanese"],
+    "priceLevel": "$",
+    "rating": 4.5,
+    "reviewCount": 8942,
+    "address": { "street": "1-22-7 Jinnan, Shibuya", "city": "Tokyo", "country": "Japan", "postalCode": "150-0041" },
+    "location": { "lat": 35.6617, "lng": 139.6983 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍜", "gallery": [] },
+    "features": ["Solo Dining Booths", "Customisable Broth", "24-Hour Locations", "No Reservations"],
+    "specialties": ["Tonkotsu ramen", "Red sauce (hiden no tare)", "Kaedama (extra noodles)"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["TripAdvisor #1", "Local Research"],
+    "seoKeywords": ["Ichiran ramen Tokyo", "best ramen Shibuya", "tonkotsu ramen Tokyo", "solo dining Tokyo"]
+  },
+  {
+    "id": "tokyo-den",
+    "name": "Den",
+    "description": "Chef Zaiyu Hasegawa runs one of Tokyo's most joyful restaurants, a place where Japanese kaiseki tradition meets irreverent humour and genuine warmth. Den's tasting menu regularly includes dishes served in lacquer boxes styled like Nintendo Game Boys, salads presented in a miniature garden, and the famous 'Dentucky Fried Chicken'—a chicken wing reimagined with kaiseki precision. None of this playfulness diminishes the food's seriousness: every component is sourced with obsessive care, prepared with classical technique, and served at the height of seasonal perfection. Den is proof that fine dining can be both technically magnificent and enormously fun.",
+    "reviewSummary": "Ranked in Asia's 50 Best and beloved by every food critic who visits Tokyo, Den has redefined what Japanese fine dining can feel like—rigorous, seasonal, and utterly joyful.",
+    "cuisine": ["Contemporary Japanese", "Kaiseki", "Creative"],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 876,
+    "address": { "street": "2-3-18 Jingumae, Shibuya", "city": "Tokyo", "country": "Japan", "postalCode": "150-0001" },
+    "location": { "lat": 35.6676, "lng": 139.7061 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🎎", "gallery": [] },
+    "features": ["Asia's 50 Best", "Playful Kaiseki", "Seasonal Menu", "Warm Atmosphere"],
+    "specialties": ["Dentucky Fried Chicken", "Garden Salad", "Seasonal kaiseki courses"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Asia's 50 Best", "Michelin Star", "Local Research"],
+    "seoKeywords": ["Den Tokyo restaurant", "kaiseki Tokyo", "best restaurants Tokyo 2025", "Harajuku fine dining"]
+  },
+  {
+    "id": "tokyo-torishiki",
+    "name": "Torishiki",
+    "description": "The definitive yakitori restaurant in a city of exceptional yakitori counters. Chef Yoshiteru Ikegawa has elevated humble grilled chicken to an art form, sourcing from a single farm in Yamanashi Prefecture and working through every part of the bird in a progression that reveals just how complex a single ingredient can be. The thigh, the skin, the liver, the wing tip—each skewer arrives at its precise ideal moment, cooked over binchotan charcoal with the restraint of a master calligrapher making a single brushstroke. There is a waiting list of years and seats for only ten. The reward is the best chicken you will ever eat.",
+    "reviewSummary": "A Michelin-starred counter that has turned yakitori into high art—Torishiki's years-long waiting list tells you everything you need to know.",
+    "cuisine": ["Yakitori", "Japanese"],
+    "priceLevel": "$$",
+    "rating": 4.8,
+    "reviewCount": 334,
+    "address": { "street": "Meguro", "city": "Tokyo", "country": "Japan", "postalCode": "" },
+    "location": { "lat": 35.6330, "lng": 139.7155 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍢", "gallery": [] },
+    "features": ["Michelin Star", "Years-Long Waitlist", "Binchotan Charcoal", "Single Farm Sourcing"],
+    "specialties": ["Momo (thigh)", "Liver skewer", "Tsukune (chicken meatball)"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin Star", "Local Research"],
+    "seoKeywords": ["Torishiki Tokyo", "best yakitori Tokyo", "Michelin yakitori", "Tokyo grill restaurants"]
+  },
+  {
+    "id": "tokyo-gonpachi-nishiazabu",
+    "name": "Gonpachi Nishi-Azabu",
+    "description": "The restaurant that inspired the iconic fight scene in Kill Bill, Gonpachi in Nishi-Azabu is a spectacular multi-level wooden izakaya where the setting is as dramatic as the food. Robata-grilled skewers, fresh soba, and an extensive sake list are served in a soaring traditional Japanese building that feels like stepping inside a feudal manor. The energy is electric—popular with Tokyo's creative and international crowd—and the food, while not at the rarefied heights of Tokyo's finest, is consistently excellent and enormously satisfying.",
+    "reviewSummary": "The most cinematic restaurant in Tokyo—and famous for inspiring Kill Bill—Gonpachi delivers excellent robata grilling and soba in an atmosphere that is impossible to forget.",
+    "cuisine": ["Izakaya", "Robata", "Japanese"],
+    "priceLevel": "$$",
+    "rating": 4.4,
+    "reviewCount": 4521,
+    "address": { "street": "1-13-11 Nishi-Azabu, Minato", "city": "Tokyo", "country": "Japan", "postalCode": "106-0031" },
+    "location": { "lat": 35.6582, "lng": 139.7244 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🏮", "gallery": [] },
+    "features": ["Kill Bill Setting", "Multi-Level Izakaya", "Robata Grill", "Extensive Sake List"],
+    "specialties": ["Robata skewers", "Handmade soba", "Wagyu tataki"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["TripAdvisor Certificate of Excellence", "Local Research"],
+    "seoKeywords": ["Gonpachi Tokyo", "Kill Bill restaurant Tokyo", "izakaya Nishi-Azabu", "robata grill Tokyo"]
+  },
+  {
+    "id": "tokyo-tsuta",
+    "name": "Tsuta",
+    "description": "When Tsuta became the world's first Michelin-starred ramen restaurant in 2015, it triggered a global conversation about whether ramen could qualify as fine dining. One bowl answers that question definitively. The signature shoyu soba—made with truffle oil, clam and chicken broth, and aged soy sauce—is one of Tokyo's most complex, beautiful bowls of anything. Chef Onishi's noodles are hand-crafted, his toppings (sliced pork, bamboo, menma) precisely calibrated. A queue forms from early morning; you buy a ticket, return at your designated time, and sit for one of the most illuminating thirty minutes of eating in the city.",
+    "reviewSummary": "The world's first Michelin-starred ramen—Tsuta's truffle shoyu broth proves that a bowl of noodles can operate at the very highest level of culinary achievement.",
+    "cuisine": ["Ramen", "Gourmet Japanese"],
+    "priceLevel": "$",
+    "rating": 4.6,
+    "reviewCount": 2104,
+    "address": { "street": "Sugamo", "city": "Tokyo", "country": "Japan", "postalCode": "" },
+    "location": { "lat": 35.7334, "lng": 139.7388 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍜", "gallery": [] },
+    "features": ["World's First Michelin Ramen", "Truffle Shoyu", "Ticket System", "Limited Seats"],
+    "specialties": ["Shoyu soba with truffle", "Shio (salt) ramen", "Miso ramen"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin Star (first ever ramen)", "Local Research"],
+    "seoKeywords": ["Tsuta ramen Tokyo", "Michelin ramen Tokyo", "best ramen Tokyo", "truffle ramen Japan"]
+  },
+  {
+    "id": "tokyo-tempura-kondo",
+    "name": "Tempura Kondo",
+    "description": "On the eighth floor of a Ginza building, Fumio Kondo has spent forty years perfecting tempura—and the results are staggering. His legendary sweet potato tempura, which takes forty-five minutes to prepare, arrives as a golden orb that shatters at the touch of a chopstick to reveal caramelised, steaming sweetness within. His batter is legendary in its lightness, his oil temperature managed with a precision that borders on scientific. The prawn, the lotus root, the seasonal vegetables—each tells a different story about what this ancient cooking technique can achieve in expert hands. Tempura Kondo is the argument that fried food is serious food.",
+    "reviewSummary": "Two Michelin stars and Japan's most celebrated tempura counter—Kondo's famous sweet potato alone justifies the reservation.",
+    "cuisine": ["Tempura", "Japanese Fine Dining"],
+    "priceLevel": "$$$",
+    "rating": 4.7,
+    "reviewCount": 768,
+    "address": { "street": "Ginza", "city": "Tokyo", "country": "Japan", "postalCode": "" },
+    "location": { "lat": 35.6700, "lng": 139.7649 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🍤", "gallery": [] },
+    "features": ["Michelin 2-Star", "45-Min Sweet Potato", "Ginza Location", "Counter Dining"],
+    "specialties": ["Sweet potato tempura", "Prawn tempura", "Seasonal vegetable course"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Michelin 2-Star", "Local Research"],
+    "seoKeywords": ["Tempura Kondo Tokyo", "best tempura Tokyo", "Ginza fine dining", "Michelin tempura Japan"]
+  },
+  {
+    "id": "tokyo-kawaii-monster-cafe",
+    "name": "Harajuku Gyoza Lou",
+    "description": "Tucked into a narrow Harajuku alley, Gyoza Lou has been serving Tokyo's most perfectly constructed pan-fried gyoza for decades—and the queues that stretch down the street every evening are testament to just how good they are. The pork and cabbage filling is fresh, the wrappers hand-pleated and fried in cast-iron pans to a shattering golden crust, the interior yielding and juicy. You order by the plate of six or twelve, add a cold Sapporo, and join a neighbourhood ritual that feels timeless. This is the kind of place that reminds you why simple food done perfectly is often the most satisfying food of all.",
+    "reviewSummary": "Tokyo's most beloved gyoza counter—Harajuku Gyoza Lou's straightforward, flawlessly executed dumplings have sustained a decades-long queue and a deeply loyal following.",
+    "cuisine": ["Gyoza", "Japanese"],
+    "priceLevel": "$",
+    "rating": 4.5,
+    "reviewCount": 3847,
+    "address": { "street": "Harajuku", "city": "Tokyo", "country": "Japan", "postalCode": "" },
+    "location": { "lat": 35.6696, "lng": 139.7028 },
+    "contact": { "phone": "", "website": "", "email": "" },
+    "images": { "hero": "🥟", "gallery": [] },
+    "features": ["Iconic Queue", "Pan-Fried Gyoza", "Cash Only", "No Reservations"],
+    "specialties": ["Pork and cabbage gyoza", "Shiso gyoza", "Fried rice"],
+    "lastUpdated": "2025-02-01",
+    "sources": ["Tokyo Local Favourite", "Local Research"],
+    "seoKeywords": ["Harajuku gyoza Tokyo", "best gyoza Tokyo", "Harajuku restaurants", "cheap eats Tokyo"]
+  }
+]

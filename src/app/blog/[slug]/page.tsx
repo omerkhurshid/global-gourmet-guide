@@ -26,6 +26,16 @@ import { newYearsEveDiningLosAngeles2025Data } from "@/data/blog/new-years-eve-d
 import { christmasDiningChicago2025Data } from "@/data/blog/christmas-dining-chicago-2025"
 import { christmasDiningEdinburgh2025Data } from "@/data/blog/christmas-dining-edinburgh-2025"
 import { newYearsEveDiningEdinburgh2025Data } from "@/data/blog/new-years-eve-dining-edinburgh-2025"
+import { tokyoBestRamen2025Data } from "@/data/blog/tokyo-best-ramen-2025"
+import { bangkokStreetFoodGuide2025Data } from "@/data/blog/bangkok-street-food-guide-2025"
+import { singaporeHawkerFoodGuide2025Data } from "@/data/blog/singapore-hawker-food-guide-2025"
+import { bestKoreanBBQSeoul2025Data } from "@/data/blog/best-korean-bbq-seoul-2025"
+import { hongKongDimSumGuide2025Data } from "@/data/blog/hong-kong-dim-sum-guide-2025"
+import { osakaStreetFoodGuide2025Data } from "@/data/blog/osaka-street-food-guide-2025"
+import { baliRestaurantGuide2025Data } from "@/data/blog/bali-restaurant-guide-2025"
+import { tokyoSushiOmakaseGuide2025Data } from "@/data/blog/tokyo-sushi-omakase-guide-2025"
+import { kualaLumpurFoodGuide2025Data } from "@/data/blog/kuala-lumpur-food-guide-2025"
+import { taiwanNightMarketGuide2025Data } from "@/data/blog/taiwan-night-market-guide-2025"
 
 async function getBlogPostData(slug: string) {
   const blogDataMap: Record<string, any> = {
@@ -52,7 +62,17 @@ async function getBlogPostData(slug: string) {
     "new-years-eve-dining-los-angeles-2025": { type: "trending", data: newYearsEveDiningLosAngeles2025Data },
     "christmas-dining-chicago-2025": { type: "trending", data: christmasDiningChicago2025Data },
     "christmas-dining-edinburgh-2025": { type: "trending", data: christmasDiningEdinburgh2025Data },
-    "new-years-eve-dining-edinburgh-2025": { type: "trending", data: newYearsEveDiningEdinburgh2025Data }
+    "new-years-eve-dining-edinburgh-2025": { type: "trending", data: newYearsEveDiningEdinburgh2025Data },
+    "tokyo-best-ramen-2025": { type: "trending", data: tokyoBestRamen2025Data },
+    "bangkok-street-food-guide-2025": { type: "trending", data: bangkokStreetFoodGuide2025Data },
+    "singapore-hawker-food-guide-2025": { type: "trending", data: singaporeHawkerFoodGuide2025Data },
+    "best-korean-bbq-seoul-2025": { type: "trending", data: bestKoreanBBQSeoul2025Data },
+    "hong-kong-dim-sum-guide-2025": { type: "trending", data: hongKongDimSumGuide2025Data },
+    "osaka-street-food-guide-2025": { type: "trending", data: osakaStreetFoodGuide2025Data },
+    "bali-restaurant-guide-2025": { type: "trending", data: baliRestaurantGuide2025Data },
+    "tokyo-sushi-omakase-guide-2025": { type: "trending", data: tokyoSushiOmakaseGuide2025Data },
+    "kuala-lumpur-food-guide-2025": { type: "trending", data: kualaLumpurFoodGuide2025Data },
+    "taiwan-night-market-guide-2025": { type: "trending", data: taiwanNightMarketGuide2025Data }
   }
   
   return blogDataMap[slug] || null
@@ -83,7 +103,17 @@ export async function generateStaticParams() {
     { slug: 'new-years-eve-dining-los-angeles-2025' },
     { slug: 'christmas-dining-chicago-2025' },
     { slug: 'christmas-dining-edinburgh-2025' },
-    { slug: 'new-years-eve-dining-edinburgh-2025' }
+    { slug: 'new-years-eve-dining-edinburgh-2025' },
+    { slug: 'tokyo-best-ramen-2025' },
+    { slug: 'bangkok-street-food-guide-2025' },
+    { slug: 'singapore-hawker-food-guide-2025' },
+    { slug: 'best-korean-bbq-seoul-2025' },
+    { slug: 'hong-kong-dim-sum-guide-2025' },
+    { slug: 'osaka-street-food-guide-2025' },
+    { slug: 'bali-restaurant-guide-2025' },
+    { slug: 'tokyo-sushi-omakase-guide-2025' },
+    { slug: 'kuala-lumpur-food-guide-2025' },
+    { slug: 'taiwan-night-market-guide-2025' }
   ]
 }
 
