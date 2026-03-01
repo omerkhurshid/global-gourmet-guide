@@ -1,7 +1,7 @@
 export const christmasDiningParis2025Data = {
   title: "Christmas in Paris: Where Culinary Magic Illuminates the City of Light 2025",
   city: "Paris, France",
-  publishDate: "December 14, 2025",
+  publishDate: "December 14, 2026",
   readTime: "16 min read",
   description: "Discover Paris's enchanting Christmas dining scene! From traditional réveillon celebrations to Michelin-starred holiday feasts, explore where French culinary artistry creates the world's most romantic Christmas experiences.",
   introduction: "When December snowflakes begin to dance around the Eiffel Tower and the Champs-Élysées twinkle with a million lights, Paris transforms into the most romantic Christmas destination on Earth. As someone who's wandered through the city's lamp-lit streets during countless Christmas Eves, I can tell you that there's something absolutely magical about how Parisians approach the holiday season. Christmas here isn't just a celebration – it's an art form where every meal becomes a moment of pure poetry, every bite tells a story of French culinary heritage, and every restaurant becomes a stage where the drama of French cuisine unfolds in its most beautiful act. From intimate bistros where the scent of foie gras mingles with woodsmoke to grand brasseries where champagne flows like liquid starlight, Paris creates Christmas experiences that linger in your heart long after the last church bell has chimed.",

@@ -1,7 +1,7 @@
 export const karachiFoodRevolution2025Data = {
   title: "Karachi's Food Revolution 2025: New Dining Concepts Transforming the City",
   city: "Karachi, Pakistan",
-  publishDate: "September 12, 2025",
+  publishDate: "September 12, 2026",
   readTime: "13 min read",
   description: "Witness Karachi's explosive food revolution! From cloud kitchens to sustainable dining and fusion experiments, discover the innovative restaurants reshaping Pakistan's economic capital's culinary landscape in 2025.",
   introduction: "Karachi, Pakistan's bustling economic hub, is experiencing an unprecedented culinary transformation in 2025. As the city's young population grows and international influences merge with traditional flavors, innovative restaurateurs are pioneering new dining concepts that blend global trends with local traditions. From tech-enabled cloud kitchens to sustainable seafood initiatives and bold fusion experiments, Karachi's food scene is evolving at lightning speed, establishing new standards for dining innovation across Pakistan.",

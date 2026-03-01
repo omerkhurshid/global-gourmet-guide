@@ -1,7 +1,7 @@
 export const christmasDiningLondon2025Data = {
   title: "Christmas in London: Where Dickensian Dreams Meet Modern Culinary Magic 2025",
   city: "London, United Kingdom",
-  publishDate: "December 12, 2025",
+  publishDate: "December 12, 2026",
   readTime: "14 min read",
   description: "Discover London's enchanting Christmas dining scene! From historic pubs with roaring fires to Michelin-starred Christmas feasts, explore where the city's rich traditions create the most magical holiday dining experiences in the world.",
   introduction: "There's something achingly beautiful about Christmas in London that no other city can quite capture. Perhaps it's the way the Victorian gas lamps cast golden shadows on cobblestone streets, or how the scent of mulled wine mingles with woodsmoke from ancient pub fireplaces. As someone who's wandered through London's foggy December evenings for years, I can tell you that Christmas here isn't just a season – it's a return to a world where every meal feels like it's been lifted from the pages of a Dickens novel, yet elevated with modern culinary artistry that would make Scrooge himself believe in magic again.",

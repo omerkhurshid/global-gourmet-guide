@@ -1,7 +1,7 @@
 export const newYearsEveDiningEdinburgh2025Data = {
   title: "New Year's Eve in Edinburgh: Where Hogmanay Magic Meets Midnight Celebrations 2025",
   city: "Edinburgh, United Kingdom",
-  publishDate: "December 19, 2025",
+  publishDate: "December 19, 2026",
   readTime: "15 min read",
   description: "Experience Edinburgh's legendary Hogmanay celebrations! From castle views to whisky toasts, discover how Scotland's capital creates the world's most magical New Year's Eve with Highland tradition and Scottish hospitality.",
   introduction: "There's something absolutely magical about New Year's Eve in Edinburgh that captures the ancient spirit of Hogmanay while creating the most spectacular midnight celebration in the world. As someone who's stood in Princes Street as the bells of St. Giles chimed midnight while Edinburgh Castle blazed with fireworks overhead, I can tell you that Edinburgh's approach to welcoming the new year is pure Scottish magic. Here, Hogmanay isn't just New Year's Eve – it's a celebration that connects you to centuries of Scottish tradition while creating moments so beautiful they feel like stepping into a Highland fairy tale. The city's restaurants don't just serve dinner on December 31st; they create experiences that honor both the ancient traditions of Hogmanay and the universal hope that comes with new beginnings, all served with that unmistakable Scottish warmth that makes every stranger feel like clan.",

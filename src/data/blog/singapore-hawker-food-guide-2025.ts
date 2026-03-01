@@ -1,7 +1,7 @@
 export const singaporeHawkerFoodGuide2025Data = {
   title: "Singapore Hawker Food Guide 2025: The Best Hawker Centres and What to Order",
   city: "Singapore",
-  publishDate: "February 7, 2025",
+  publishDate: "February 7, 2026",
   readTime: "12 min read",
   description: "Your complete guide to Singapore's legendary hawker centres in 2025 — from Maxwell's Tian Tian Chicken Rice to Lau Pa Sat's satay and Old Airport Road's hokkien mee. UNESCO-recognised food culture at its finest.",
   introduction: "UNESCO recognised Singapore's hawker culture as Intangible Cultural Heritage in 2020 — the first time the designation had been applied to food culture in this form. It was a recognition that the city-state's network of open-air food markets, where Chinese, Malay, Indian, and Peranakan culinary traditions coexist under one roof and evolve through daily contact, represents something genuinely unique in the world. In 2025, the hawker centre remains Singapore's most democratic and most satisfying dining institution. This guide tells you where to go and what to order.",

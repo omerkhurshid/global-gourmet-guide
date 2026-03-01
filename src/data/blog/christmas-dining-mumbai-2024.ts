@@ -1,7 +1,7 @@
 export const christmasDiningMumbai2025Data = {
   title: "Christmas in Mumbai: Where Bollywood Glamour Meets Festive Food Magic 2025",
   city: "Mumbai, India",
-  publishDate: "December 13, 2025",
+  publishDate: "December 13, 2026",
   readTime: "14 min read",
   description: "Discover Mumbai's vibrant Christmas dining scene! From colonial-era clubs to Bollywood-themed celebrations, explore how India's entertainment capital creates unforgettable holiday experiences with coastal flair and cosmopolitan charm.",
   introduction: "There's something absolutely enchanting about Christmas in Mumbai that reflects the city's unique character as India's most cosmopolitan metropolis. As someone who's wandered through the twinkling lights of Colaba during countless December evenings, I can tell you that Mumbai approaches Christmas with the same energy and creativity that makes it the heart of Indian cinema. Here, Christmas isn't just a religious holiday – it's a celebration embraced by the entire city, where restaurants transform into festive wonderlands that blend Indian warmth with international traditions. From heritage hotels serving colonial Christmas feasts to trendy restaurants creating fusion holiday menus, Mumbai proves that Christmas magic is universal when it's served with genuine Indian hospitality and the city's infectious energy.",

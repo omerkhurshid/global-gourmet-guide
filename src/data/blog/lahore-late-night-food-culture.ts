@@ -1,7 +1,7 @@
 export const lahoreLateNightFoodData = {
   title: "Lahore's Late-Night Food Revolution: Where the City Never Sleeps (2025 Guide)",
   city: "Lahore, Pakistan",
-  publishDate: "September 12, 2025",
+  publishDate: "September 12, 2026",
   readTime: "11 min read",
   description: "Discover Lahore's legendary late-night food culture! From 24/7 street food havens to midnight fine dining, explore the restaurants keeping Pakistan's food capital alive after dark.",
   introduction: "Lahore's reputation as Pakistan's food capital extends far beyond daylight hours. As the sun sets, the city transforms into a culinary wonderland where the best food often appears after midnight. From bustling food streets that come alive at 2 AM to upscale restaurants serving gourmet meals until dawn, Lahore's late-night food scene is legendary across South Asia. This nocturnal dining culture reflects the city's vibrant spirit and its residents' deep love for exceptional food at any hour.",

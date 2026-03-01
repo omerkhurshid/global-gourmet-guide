@@ -1,7 +1,7 @@
 export const kualaLumpurFoodGuide2025Data = {
   title: "Kuala Lumpur Food Guide 2025: The Best Places to Eat in Malaysia's Most Exciting City",
   city: "Kuala Lumpur",
-  publishDate: "February 22, 2025",
+  publishDate: "February 22, 2026",
   readTime: "12 min read",
   description: "The complete KL food guide for 2025 — from Dewakan's Asia's 50 Best fine dining to Jalan Alor's night market, nasi kandar legends, and the city's best rendang. Where to eat in Malaysia's capital.",
   introduction: "Kuala Lumpur is, without exaggeration, one of the world's most underrated food destinations. The city sits at the crossroads of Malaysia's extraordinary multi-cultural culinary heritage — Malay, Chinese (Cantonese, Hokkien, Teochew, Hakka), Indian (Tamil, Mamak, northern Indian), Peranakan — and has developed a food culture of staggering breadth and depth over centuries of cultural interaction. In 2025, this foundation is augmented by an ambitious fine dining scene and a night food culture that rivals Bangkok's. This guide covers all of it.",

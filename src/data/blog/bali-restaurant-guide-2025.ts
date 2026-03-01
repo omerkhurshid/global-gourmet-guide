@@ -1,7 +1,7 @@
 export const baliRestaurantGuide2025Data = {
   title: "Best Restaurants in Bali 2025: From Ubud Fine Dining to Jimbaran Beach Seafood",
   city: "Bali",
-  publishDate: "February 18, 2025",
+  publishDate: "February 18, 2026",
   readTime: "13 min read",
   description: "The complete guide to Bali's best restaurants in 2025 — Locavore's Asia's 50 Best farm-to-table, Mozaic's tropical garden dining, Seminyak beach bars, and authentic warung. Eat well across the island.",
   introduction: "Bali's restaurant scene has undergone a remarkable transformation in the past decade. The island that visitors once treated as a place to eat cheap noodles between yoga sessions now hosts one of Southeast Asia's most interesting fine dining scenes — anchored by Locavore's Asia's 50 Best recognition and multiple international accolades — alongside a genuine traditional food culture of extraordinary depth and flavour. In 2025, eating well in Bali means navigating this range: from the finest Indonesian fine dining in Ubud to the essential ceremonial food of the island's warungs. This guide covers all of it.",

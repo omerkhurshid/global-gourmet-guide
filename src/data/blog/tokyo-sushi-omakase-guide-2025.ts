@@ -1,7 +1,7 @@
 export const tokyoSushiOmakaseGuide2025Data = {
   title: "Best Sushi in Tokyo 2025: From Sukiyabashi Jiro to Hidden Neighbourhood Counters",
   city: "Tokyo",
-  publishDate: "February 20, 2025",
+  publishDate: "February 20, 2026",
   readTime: "14 min read",
   description: "The definitive guide to Tokyo's best sushi in 2025 — from Jiro's legendary Ginza counter to accessible neighbourhood omakase under $100. How to book, what to expect, and where locals eat.",
   introduction: "Tokyo has more Michelin stars than any city in the world, and the largest proportion of those stars belong to sushi restaurants. The city's sushi culture is not merely a dining option — it is a civilisation-level achievement: decades-long apprenticeships, lifelong supplier relationships, rice calibrated to body temperature and pressed with a firmness specific to each type of fish, seasonal fish aged to precise windows of flavour perfection. This guide navigates Tokyo's sushi scene across every price point and access level.",

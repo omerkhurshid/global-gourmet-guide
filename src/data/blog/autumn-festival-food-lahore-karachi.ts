@@ -1,7 +1,7 @@
 export const autumnFestivalFoodData = {
   title: "Autumn Festival Food Guide: Seasonal Celebrations in Lahore & Karachi 2025",
   city: "Lahore & Karachi, Pakistan",
-  publishDate: "September 12, 2025",
+  publishDate: "September 12, 2026",
   readTime: "12 min read",
   description: "Discover Pakistan's autumn festival food scene! From Defense Day celebrations to harvest festivals, explore the seasonal dishes and restaurant specials defining September dining in Lahore and Karachi.",
   introduction: "As September ushers in Pakistan's beautiful autumn season, both Lahore and Karachi come alive with festival celebrations and seasonal dining experiences. From Defense Day commemorations to traditional harvest festivals, this season brings unique culinary traditions that blend patriotic pride with harvest abundance. Restaurants across both cities are embracing autumn flavors while honoring Pakistan's cultural heritage.",

@@ -1,7 +1,7 @@
 export const taiwanNightMarketGuide2025Data = {
   title: "Taiwan Night Market Guide 2025: Best Night Markets in Taipei and Beyond",
   city: "Taipei",
-  publishDate: "February 25, 2025",
+  publishDate: "February 25, 2026",
   readTime: "13 min read",
   description: "The definitive guide to Taiwan's best night markets in 2025 — from Taipei's Raohe and Shilin to Tainan's Flower Night Market. What to eat, when to go, and how to navigate Asia's greatest street food tradition.",
   introduction: "Taiwan's night market culture is one of Asia's greatest food traditions — a social institution that transforms the island's cities and towns into outdoor dining rooms every evening, where stalls stretch in every direction under flickering lights and the combined aroma of everything being cooked simultaneously creates a sensory experience unlike anywhere else. Taiwan's night market food is not merely convenient: it is one of the world's most sophisticated street food cultures, where recipes have been refined over generations and individual stallholders sometimes achieve regional fame for a single dish.",

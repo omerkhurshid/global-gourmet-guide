@@ -1,7 +1,7 @@
 export const christmasDiningLahore2025Data = {
   title: "Christmas in Lahore: Where Pakistani Hospitality Meets Global Holiday Spirit 2025",
   city: "Lahore, Pakistan",
-  publishDate: "December 16, 2025",
+  publishDate: "December 16, 2026",
   readTime: "13 min read",
   description: "Discover Lahore's unique Christmas dining scene! From traditional Pakistani Christmas celebrations to international holiday menus, explore how the cultural capital embraces the season with warmth, diversity, and exceptional hospitality.",
   introduction: "There's something beautifully unexpected about Christmas in Lahore that captures the true spirit of the holiday season. As someone who's experienced the warmth of Pakistani hospitality during December celebrations, I can tell you that Lahore's approach to Christmas dining reflects the city's incredible diversity and openness. Here, Christmas isn't just celebrated by the Christian community – it's embraced by restaurants and diners of all backgrounds who understand that good food and warm hospitality are universal languages of celebration. From five-star hotels creating elaborate Christmas buffets to traditional restaurants adding festive touches to their menus, Lahore proves that Christmas spirit knows no boundaries when it's served with genuine Pakistani warmth.",

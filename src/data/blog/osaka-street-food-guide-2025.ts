@@ -1,7 +1,7 @@
 export const osakaStreetFoodGuide2025Data = {
   title: "Osaka Street Food Guide 2025: Takoyaki, Kushikatsu, Okonomiyaki and More",
   city: "Osaka",
-  publishDate: "February 15, 2025",
+  publishDate: "February 15, 2026",
   readTime: "11 min read",
   description: "The ultimate guide to Osaka street food in 2025 — from Dotonbori's famous takoyaki and okonomiyaki to Shinsekai's kushikatsu. Japan's Kitchen City earns its title.",
   introduction: "Osaka is Japan's 'Kitchen City' — the place where eating well is a civic pride, where kuidaore ('eat until you drop') is a local philosophy rather than a warning, and where the food scene combines Michelin-starred kaiseki with some of the world's most satisfying street food in a density that no other Japanese city matches. Dotonbori is the epicentre — a canal district where every street food tradition has a representative and the crowds eating on the go are as atmospheric as the food itself. But the best of Osaka's street food extends far beyond the tourist trail.",

@@ -1,7 +1,7 @@
 export const newYearsEveDiningNewYork2025Data = {
   title: "New Year's Eve in NYC: Where Midnight Dreams Begin at the World's Greatest Tables",
   city: "New York, United States",
-  publishDate: "December 20, 2025",
+  publishDate: "December 20, 2026",
   readTime: "16 min read",
   description: "Experience the ultimate New Year's Eve dining in New York! From rooftop restaurants with Times Square views to exclusive Michelin-starred celebrations, discover where the city's elite welcomes 2026 with unforgettable culinary experiences.",
   introduction: "There's something absolutely electric about New Year's Eve in New York that can't be replicated anywhere else on Earth. As someone who's celebrated countless midnight moments in this city, I can tell you that the energy is intoxicating – the entire metropolis pulses with anticipation, and nowhere is this more beautifully captured than in the restaurants that transform ordinary dining into once-in-a-lifetime celebrations. From exclusive rooftop dining with front-row seats to the world's most famous ball drop to intimate wine cellars where champagne flows like liquid stardust, New York's New Year's Eve dining scene is where dreams come true at the stroke of midnight.",

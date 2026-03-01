@@ -1,7 +1,7 @@
 export const newYearsEveDiningLondon2025Data = {
   title: "New Year's Eve in London: Where Thames-Side Toasts Welcome 2025 in Royal Style",
   city: "London, United Kingdom",
-  publishDate: "December 18, 2025",
+  publishDate: "December 18, 2026",
   readTime: "15 min read",
   description: "Experience London's most elegant New Year's Eve dining! From Thames-side restaurants with fireworks views to Michelin-starred celebrations in historic palaces, discover how the capital rings in 2025 with British sophistication and global glamour.",
   introduction: "There's something profoundly moving about watching Big Ben strike midnight while you're dining in one of the world's great cities. As someone who's celebrated countless New Year's Eves along the Thames, I can tell you that London's approach to welcoming the new year is uniquely elegant – where other cities shout, London whispers sophistication. The city's restaurants understand that New Year's Eve isn't just about the countdown; it's about creating moments of reflection, celebration, and anticipation that honor both tradition and possibility. From intimate wine cellars in medieval buildings to soaring restaurants with panoramic views of the London Eye's fireworks, the capital offers New Year's Eve dining that's as timeless as Big Ben itself.",

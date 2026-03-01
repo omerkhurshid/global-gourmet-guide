@@ -1,7 +1,7 @@
 export const hongKongDimSumGuide2025Data = {
   title: "Hong Kong Dim Sum Guide 2025: Best Yum Cha Restaurants from Michelin Stars to Hidden Gems",
   city: "Hong Kong",
-  publishDate: "February 12, 2025",
+  publishDate: "February 12, 2026",
   readTime: "12 min read",
   description: "Your complete guide to Hong Kong's best dim sum in 2025 — from Lung King Heen's world-first Chinese Michelin three stars to Tim Ho Wan's $3 char siu bao. The definitive yum cha guide.",
   introduction: "Dim sum — the Cantonese tradition of small, precisely crafted dishes served with tea as part of the yum cha (drink tea) ritual — is one of the world's great culinary arts. Hong Kong is its home and its highest expression. From the three-Michelin-starred heights of Lung King Heen, with its harbour views and exquisite craftsmanship, to the neighbourhood teahouses of Sham Shui Po where grandmothers have been eating the same table's har gow for decades, Hong Kong's dim sum scene in 2025 is the finest in the world. This guide navigates it.",

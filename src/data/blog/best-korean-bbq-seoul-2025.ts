@@ -1,7 +1,7 @@
 export const bestKoreanBBQSeoul2025Data = {
   title: "Best Korean BBQ in Seoul 2025: From Gangnam to Mapo, Where Locals Actually Eat",
   city: "Seoul",
-  publishDate: "February 10, 2025",
+  publishDate: "February 10, 2026",
   readTime: "13 min read",
   description: "The definitive guide to Seoul's best Korean BBQ in 2025 — from premium wagyu samgyeopsal in Gangnam to late-night galmaegi-sal in Mapo. Where Seoul's locals go for the real thing.",
   introduction: "Korean BBQ has conquered the world — New York, London, Sydney, Dubai all have respectable Korean BBQ restaurants. But eating Korean BBQ in Seoul is a categorically different experience: the quality of the meat is higher, the charcoal smoke more authentic, the banchan (side dishes) more numerous and more complex, and the social ritual of eating around a live grill with soju and beer fundamentally more alive. These ten restaurants represent where Seoul locals actually go for the city's greatest grill experience.",

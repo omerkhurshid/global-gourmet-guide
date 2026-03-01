@@ -1,7 +1,7 @@
 export const christmasDiningNewYork2025Data = {
   title: "Christmas Dining Magic in New York: Where Holiday Dreams Come True in 2025",
   city: "New York, United States",
-  publishDate: "December 15, 2025",
+  publishDate: "December 15, 2026",
   readTime: "15 min read",
   description: "Discover New York's most enchanting Christmas dining experiences! From Rolf's legendary decorations to Michelin-starred holiday feasts, explore where locals and visitors create magical Christmas memories in the city that never sleeps.",
   introduction: "When December snow begins to dust the sidewalks of Manhattan and the scent of roasted chestnuts fills the air, New York transforms into the world's most magical Christmas destination. As someone who's spent countless Christmas Eves wandering through the twinkling streets of the city, I can tell you that there's something absolutely spellbinding about how New York embraces the holiday spirit. The restaurants here don't just serve food during Christmas – they create experiences that stay with you forever, whether you're a lifelong New Yorker or visiting for the first time.",

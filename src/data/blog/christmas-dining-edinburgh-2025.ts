@@ -1,7 +1,7 @@
 export const christmasDiningEdinburgh2025Data = {
   title: "Christmas in Edinburgh: Where Scottish Tradition Meets Holiday Magic 2025",
   city: "Edinburgh, United Kingdom",
-  publishDate: "December 11, 2025",
+  publishDate: "December 11, 2026",
   readTime: "14 min read",
   description: "Discover Edinburgh's most enchanting Christmas dining experiences! From historic pubs with roaring fires to fine dining with castle views, explore how Scotland's capital creates unforgettable holiday magic with Highland warmth and culinary excellence.",
   introduction: "There's something profoundly moving about Christmas in Edinburgh that connects you to centuries of Scottish tradition while embracing the warmth of modern celebration. As someone who's wandered through the Royal Mile during countless December evenings, watching the ancient stones glow golden in the lamplight while the scent of mulled wine and roasting chestnuts fills the crisp winter air, I can tell you that Edinburgh's approach to Christmas dining is pure magic. Here, every meal carries the weight of history – from medieval pubs that have welcomed Christmas celebrants for centuries to contemporary restaurants that honor Scottish ingredients with modern techniques. The city's restaurants don't just serve food during Christmas; they create experiences that connect you to the soul of Scotland while celebrating the universal joy of the holiday season.",

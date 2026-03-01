@@ -1,7 +1,7 @@
 export const tokyoBestRamen2025Data = {
   title: "Best Ramen in Tokyo 2025: The Ultimate Guide to Japan's Greatest Bowl",
   city: "Tokyo",
-  publishDate: "February 3, 2025",
+  publishDate: "February 3, 2026",
   readTime: "14 min read",
   description: "From the world's first Michelin-starred ramen at Tsuta to legendary tonkotsu bowls and 24-hour shops, this is the definitive guide to Tokyo's greatest ramen in 2025.",
   introduction: "Tokyo is the ramen capital of the world. Not because the noodle dish originated here — it didn't; it came from China — but because Tokyo has applied the Japanese genius for obsessive refinement to a bowl of noodles and produced something categorically different from anything else. A Tokyo ramen is not merely dinner; it is the product of years of recipe development, supplier relationships, and culinary philosophy. The city has approximately 10,000 ramen restaurants. These are the ones you need to know.",

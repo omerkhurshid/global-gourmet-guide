@@ -1,7 +1,7 @@
 export const christmasDiningLosAngeles2025Data = {
   title: "Christmas in Los Angeles: Where Hollywood Magic Meets Holiday Dining Dreams 2025",
   city: "Los Angeles, United States",
-  publishDate: "December 14, 2025",
+  publishDate: "December 14, 2026",
   readTime: "15 min read",
   description: "Discover Los Angeles's most glamorous Christmas dining experiences! From rooftop restaurants with city views to celebrity chef holiday feasts, explore where Tinseltown creates unforgettable Christmas magic with California flair.",
   introduction: "There's something absolutely enchanting about Christmas in Los Angeles that can only happen in the City of Angels. As someone who's spent countless December evenings watching the sunset paint the Hollywood Hills gold while palm trees sway against twinkling Christmas lights, I can tell you that LA's approach to the holiday season is pure magic. Here, Christmas dining isn't bound by traditional rules – it's reimagined with California creativity, celebrity chef innovation, and that unmistakable LA glamour that makes everything feel like a movie scene. From rooftop restaurants where you can dine under the stars to beachside celebrations that redefine winter dining, Los Angeles creates Christmas experiences that are as warm and welcoming as the California sunshine.",

@@ -1,7 +1,7 @@
 export const newYearsEveDiningLosAngeles2025Data = {
   title: "New Year's Eve in Los Angeles: Where Hollywood Dreams Meet Midnight Magic 2025",
   city: "Los Angeles, United States",
-  publishDate: "December 21, 2025",
+  publishDate: "December 21, 2026",
   readTime: "16 min read",
   description: "Experience Los Angeles's most glamorous New Year's Eve dining! From rooftop celebrations with city views to celebrity chef midnight feasts, discover how the City of Angels welcomes 2026 with style, innovation, and pure Hollywood magic.",
   introduction: "There's something absolutely electric about New Year's Eve in Los Angeles that captures the dreams and ambitions of everyone who's ever looked at the Hollywood sign and believed in possibility. As someone who's celebrated countless midnight moments watching fireworks burst over the LA skyline while palm trees sway in the warm December breeze, I can tell you that LA's approach to welcoming the new year is pure magic. Here, New Year's Eve dining isn't just about marking time – it's about celebrating the year ahead with the same creativity and optimism that built the entertainment capital of the world. From rooftop restaurants where you can toast under the stars to beachside celebrations that redefine winter celebration, Los Angeles creates New Year's experiences that are as bright and promising as the dreams that draw millions to this remarkable city.",

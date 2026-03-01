@@ -1,7 +1,7 @@
 export const bangkokStreetFoodGuide2025Data = {
   title: "Bangkok Street Food Guide 2025: The 10 Best Street Food Spots Locals Love",
   city: "Bangkok",
-  publishDate: "February 5, 2025",
+  publishDate: "February 5, 2026",
   readTime: "11 min read",
   description: "The definitive guide to Bangkok's best street food in 2025 — from Jay Fai's Michelin-starred crab omelette to Thip Samai's legendary pad thai. Where locals actually eat.",
   introduction: "Bangkok has been called the world's greatest street food city so many times that the phrase risks losing its meaning. But spend a morning at Or Tor Kor market, an afternoon in the lanes near Mahachai Road, and an evening standing outside Thip Samai waiting for a table, and you will understand why the superlative survives. This city has an almost inexhaustible repertoire of street food, executed at a consistently high level that no city in the world matches. These ten spots represent the best of it in 2025.",

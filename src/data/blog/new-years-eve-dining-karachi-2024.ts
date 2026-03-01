@@ -1,7 +1,7 @@
 export const newYearsEveDiningKarachi2025Data = {
   title: "New Year's Eve in Karachi: Where Arabian Sea Breezes Meet Midnight Celebrations",
   city: "Karachi, Pakistan",
-  publishDate: "December 22, 2025",
+  publishDate: "December 22, 2026",
   readTime: "14 min read",
   description: "Experience Karachi's vibrant New Year's Eve dining scene! From seafront restaurants with fireworks views to rooftop celebrations overlooking the city of lights, discover how Pakistan's largest city welcomes 2025 with coastal charm and cosmopolitan flair.",
   introduction: "There's something absolutely electrifying about New Year's Eve in Karachi that captures the energy of Pakistan's most dynamic city. As someone who's celebrated countless midnight moments along this sprawling coastline, I can tell you that Karachi approaches the new year with the same enthusiasm and warmth that defines everything about this remarkable metropolis. The city's restaurants don't just serve dinner on December 31st – they create celebrations that reflect Karachi's unique character as a coastal city where traditional Pakistani hospitality meets cosmopolitan sophistication. From elegant hotel dining with Arabian Sea views to vibrant rooftop parties that overlook the twinkling cityscape, Karachi's New Year's Eve dining scene offers experiences as diverse and exciting as the city itself.",
