@@ -27,6 +27,14 @@ export default function Home() {
     "France": cities.filter(city => city.country === "France"),
     "Pakistan": cities.filter(city => city.country === "Pakistan"),
     "India": cities.filter(city => city.country === "India"),
+    "Japan": cities.filter(city => city.country === "Japan"),
+    "Thailand": cities.filter(city => city.country === "Thailand"),
+    "Singapore": cities.filter(city => city.country === "Singapore"),
+    "South Korea": cities.filter(city => city.country === "South Korea"),
+    "China": cities.filter(city => city.country === "China"),
+    "Malaysia": cities.filter(city => city.country === "Malaysia"),
+    "Indonesia": cities.filter(city => city.country === "Indonesia"),
+    "Taiwan": cities.filter(city => city.country === "Taiwan"),
   }
 
   return (
@@ -50,7 +58,7 @@ export default function Home() {
               NEAR YOU
             </h2>
             <p className={`text-sm sm:text-base text-black max-w-2xl mx-auto mb-16 leading-relaxed tracking-wide px-4 ${styles.heroDescription}`}>
-              Find the best restaurants near you with expert reviews and recommendations from 160+ top dining spots across 18 cities worldwide. Discover amazing local restaurants, from fine dining to hidden gems.
+              Find the best restaurants near you with expert reviews and recommendations from 290+ top dining spots across 31 cities worldwide. Discover amazing local restaurants, from fine dining to hidden gems.
             </p>
           </div>
           
@@ -65,15 +73,15 @@ export default function Home() {
           {/* Enhanced Stats with Location Context */}
           <div className="grid grid-cols-3 gap-8 max-w-2xl mx-auto text-center mb-16">
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">193</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">293</div>
               <div className={`text-xs text-black uppercase ${styles.statsNumber}`}>RESTAURANTS</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">21</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">31</div>
               <div className={`text-xs text-black uppercase ${styles.statsNumber}`}>CITIES</div>
             </div>
             <div>
-              <div className="text-4xl md:text-5xl font-black text-black mb-2">5</div>
+              <div className="text-4xl md:text-5xl font-black text-black mb-2">13</div>
               <div className={`text-xs text-black uppercase ${styles.statsNumber}`}>COUNTRIES</div>
             </div>
           </div>
